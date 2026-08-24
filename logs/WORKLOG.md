@@ -28,11 +28,18 @@
 - 前端：纯静态（无外部依赖），fetch 同源 JSON，收藏存 localStorage（个人状态不上传）
 - 隐私：仓库公开（Pages 免费版要求），不含任何个人简历/联系方式；SMTP 凭据只存 GitHub Secrets
 
+### 实现过程中的关键决策与坑（当晚实战记录）
+1. **应届生网**：日期页/行业页无登录时"共0条"（数据需登录渲染），首页岗位板块也是登录后 XHR。最终只收录入口页"近期截止网申"表格（GBK、纯HTTP、无需Playwright），定位为**截止倒计时提醒源**，条目含 deadline 字段，前端绿色显示"截止 MM-DD"。
+2. **字节跳动**：XHR 拦截不稳定（风控时前端不发起请求），最终方案=**DOM 兜底**：页面总是渲染岗位卡片（`a[data-id]` + `[class*="positionItem-..."]` 前缀选择器），XHR 成功时用 JSON（含 publish_time），否则 DOM（无发布时间）。系统 Edge（msedge channel）+ stealth init script（webdriver 伪装）是成功关键；GitHub Actions 上退化 chromium，若被风控则该源自动跳过。
+3. **PE/PIE 关键词误伤**：`re.search("pe")` 误命中 "S**pe**cialist"（小米海外岗大量误标 PIE），修复为英文缩写关键词加 `\b` 词边界（`_kw_pattern`）。新增 `scripts/reclassify.py` 全库重分类工具，改关键词后必跑。
+4. 牛客 SSR `__INITIAL_STATE__` 正则要停在 `};(function` 边界；模块号是数字 key，遍历 `state.app` 找 `jobListData` 而非硬编码。
+5. 小米 publishTime 是纯日期（无时分），统一补 "12:00"。
+
 ### 进度
-- [x] 项目骨架、config.json、分类引擎（classify.py）、存储（store.py）
-- [x] 小米适配器、牛客适配器
-- [x] 网页生成器 + 前端（表格/筛选/搜索/收藏/主题）
-- [x] GitHub Actions workflow + 邮件脚本
-- [ ] 应届生网适配器（Playwright）
-- [ ] 字节适配器（Playwright）
-- [ ] 仓库创建、Pages 启用、全链路验证
+- [x] 项目骨架、config.json、分类引擎、存储、reclassify 工具
+- [x] 四个数据源适配器（牛客/应届生网/字节/小米）
+- [x] 网页生成器 + 前端（表格/筛选/搜索/收藏/深浅色主题/截止展示）
+- [x] GitHub Actions workflow + QQ邮件脚本
+- [x] 本地全链路验证：1234 条入库（小米1009+字节200+牛客19+应届生网6），主投40/副投18，DOM 级交互测试全过
+- [x] git 首次提交 925161e
+- [ ] 等待用户创建 GitHub 空仓库 → 推送 + 启用 Pages + 配 Secrets + 线上验证
