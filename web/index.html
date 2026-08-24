@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>秋招岗位追踪 · 2027届</title>
+<meta name="description" content="每日自动抓取秋招新更新岗位：硬件设计、器件设计、PIE、PE。">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="header-inner">
+    <div class="header-left">
+      <h1>秋招岗位追踪</h1>
+      <p class="subtitle">2027届 · 硬件设计主投 · 器件/PIE/PE副投 · 每日 8:00 自动更新</p>
+    </div>
+    <div class="header-right">
+      <span id="updated-at" class="updated-at"></span>
+      <button id="theme-toggle" class="icon-btn" title="切换深浅色" aria-label="切换深浅色">🌓</button>
+    </div>
+  </div>
+</header>
+
+<main>
+  <section class="kpi-row" id="kpi-row">
+    <div class="kpi">
+      <span class="kpi-value" id="kpi-total">–</span>
+      <span class="kpi-label">收录岗位</span>
+    </div>
+    <div class="kpi kpi-accent">
+      <span class="kpi-value" id="kpi-today">–</span>
+      <span class="kpi-label">今日新增</span>
+    </div>
+    <div class="kpi">
+      <span class="kpi-value" id="kpi-primary">–</span>
+      <span class="kpi-label">主投 · 硬件</span>
+    </div>
+    <div class="kpi">
+      <span class="kpi-value" id="kpi-secondary">–</span>
+      <span class="kpi-label">副投 · 器件/PIE/PE</span>
+    </div>
+    <div class="kpi">
+      <span class="kpi-value" id="kpi-beijing">–</span>
+      <span class="kpi-label">北京</span>
+    </div>
+    <div class="kpi">
+      <span class="kpi-value" id="kpi-shanghai">–</span>
+      <span class="kpi-label">上海</span>
+    </div>
+  </section>
+
+  <section class="toolbar">
+    <input type="search" id="search-input" placeholder="搜索岗位 / 公司，如：硬件 华为" aria-label="搜索">
+    <select id="filter-direction" aria-label="按投递方向筛选"></select>
+    <select id="filter-region" aria-label="按地区筛选"></select>
+    <select id="filter-tag" aria-label="按公司类型筛选"></select>
+    <select id="filter-source" aria-label="按来源筛选"></select>
+    <label class="toggle"><input type="checkbox" id="filter-new"> 只看今日新收录</label>
+    <label class="toggle"><input type="checkbox" id="filter-star"> 只看收藏</label>
+    <button id="clear-filters" class="ghost-btn">清除</button>
+  </section>
+
+  <div id="result-info" class="result-info"></div>
+
+  <section class="table-wrap">
+    <table id="jobs-table">
+      <thead>
+        <tr>
+          <th class="col-time">发布时间</th>
+          <th class="col-title">岗位</th>
+          <th class="col-company">公司</th>
+          <th class="col-city">地点</th>
+          <th class="col-dir">方向</th>
+          <th class="col-tag">公司类型</th>
+          <th class="col-src">来源</th>
+          <th class="col-star">收藏</th>
+        </tr>
+      </thead>
+      <tbody id="jobs-tbody"></tbody>
+    </table>
+    <div id="empty-state" class="empty-state" hidden>没有符合条件的岗位</div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <p id="footer-meta"></p>
+  <p>数据来源：牛客网 · 应届生网 · 各公司招聘官网公开页面。本页仅供个人求职参考，投递前请以官方信息为准。</p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

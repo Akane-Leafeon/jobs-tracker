@@ -1,0 +1,129 @@
+{
+ "updated_at": "2026-08-24 20:55",
+ "updated_date": "2026-08-24",
+ "totals": {
+  "total": 1234,
+  "added_today": 1234,
+  "primary": 40,
+  "secondary": 18,
+  "beijing": 604,
+  "shanghai": 183
+ },
+ "directions": [
+  {
+   "key": "hardware",
+   "label": "硬件设计",
+   "priority": "主投",
+   "keywords": [
+    "硬件设计",
+    "硬件开发",
+    "单板",
+    "板级",
+    "电路设计",
+    "硬件工程师",
+    "电子工程师",
+    "电源",
+    "PCB",
+    "嵌入式硬件",
+    "基带",
+    "射频",
+    "电子设计",
+    "电子研发",
+    "硬件测试"
+   ],
+   "exclude_keywords": [
+    "器件",
+    "工艺整合",
+    "PIE",
+    "PE",
+    "版图",
+    "封测",
+    "半导体工艺",
+    "失效分析",
+    "可靠性"
+   ]
+  },
+  {
+   "key": "robot_hardware",
+   "label": "机器人/具身硬件",
+   "priority": "主投",
+   "keywords": [
+    "机器人硬件",
+    "具身智能",
+    "人形机器人",
+    "机械臂",
+    "无人车",
+    "机器人控制",
+    "机器人电子"
+   ],
+   "exclude_keywords": []
+  },
+  {
+   "key": "device",
+   "label": "器件设计",
+   "priority": "副投",
+   "keywords": [
+    "器件设计",
+    "器件工程师",
+    "器件研发",
+    "Device",
+    "半导体器件",
+    "TCAD",
+    "器件建模"
+   ],
+   "exclude_keywords": []
+  },
+  {
+   "key": "pie",
+   "label": "PIE工艺整合",
+   "priority": "副投",
+   "keywords": [
+    "工艺整合",
+    "PIE",
+    "整合工程师",
+    "工艺工程师",
+    "制程整合"
+   ],
+   "exclude_keywords": []
+  },
+  {
+   "key": "pe",
+   "label": "PE产品/工艺",
+   "priority": "副投",
+   "keywords": [
+    "PE",
+    "产品工程师",
+    "工艺工程师",
+    "良率",
+    "NPI",
+    "新产品导入",
+    "制程工程师"
+   ],
+   "exclude_keywords": []
+  },
+  {
+   "key": "test_verify",
+   "label": "硬件测试/验证",
+   "priority": "副投",
+   "keywords": [
+    "硬件测试",
+    "测试验证",
+    "板级测试",
+    "可靠性测试",
+    "信号完整性",
+    "SI",
+    "PI",
+    "EMC"
+   ],
+   "exclude_keywords": []
+  }
+ ],
+ "company_tags": [
+  "硬件大厂",
+  "互联网大厂",
+  "具身智能头部",
+  "芯片半导体大厂",
+  "仪器仪表"
+ ],
+ "site_url": "https://koorye.github.io/jobs-tracker/"
+}
