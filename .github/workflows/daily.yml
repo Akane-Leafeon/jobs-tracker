@@ -2,8 +2,10 @@ name: daily-crawl
 
 on:
   schedule:
-    # 北京时间每天 08:00（UTC 00:00）
-    - cron: "0 0 * * *"
+    # 北京时间每天 08:00 与 20:00（UTC 00:00 / 12:00）
+    - cron: "0 0,12 * * *"
+  push:
+    branches: [main]
   workflow_dispatch: {}
 
 permissions:
@@ -16,7 +18,7 @@ concurrency:
 jobs:
   crawl:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 45
     steps:
       - uses: actions/checkout@v4
 

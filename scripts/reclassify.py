@@ -21,6 +21,10 @@ def main():
         j["locations"] = locs
         j["region_level"] = classify.classify_region(locs)
         j["company_tag"] = classify.tag_company(j.get("company", ""))
+        hq, size, industry = classify.company_info(j.get("company", ""))
+        j["hq_city"] = hq
+        j["size_bucket"] = size
+        j["industry"] = industry
     store.save_jobs(jobs)
     print(f"reclassified {len(jobs)} jobs")
 

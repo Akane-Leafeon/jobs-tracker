@@ -22,12 +22,25 @@ log = get_logger("run")
 
 # 注册的数据源适配器：模块名 -> 是否默认启用
 SOURCES = {
+    # 聚合源
     "yingjiesheng": True,
     "nowcoder": True,
-    "bytedance": True,
+    # 自建官网源（纯HTTP）
     "xiaomi": True,
-    "jd": False,       # 京东校园招聘（若官网可抓）
-    "huawei": False,   # 华为校招（若官网可抓）
+    "tencent": True,
+    "alibaba": True,
+    "netease": True,
+    "vivo": True,
+    "pdd": True,
+    "inovance": True,
+    # 自建官网源（Playwright/混合）
+    "bytedance": True,
+    "bilibili": True,
+    # 待实现/被墙：jd(京东)、huawei(华为新版SPA岗位接口未公开)、zte(中兴挂MOKA且响应加密)、
+    # dji(大疆投递挂MOKA)、honor(荣耀TLS异常)、hikvision(海康岗位接口需登录)、
+    # byd(比亚迪需登录token)、catl(宁德域名未开放)、mihoyo(米哈游ATS需渠道参数)、unitree(宇树)
+    "jd": False,
+    "huawei": False,
 }
 
 
@@ -84,6 +97,10 @@ def main():
         item["locations"] = locs
         item["region_level"] = classify.classify_region(locs)
         item["company_tag"] = classify.tag_company(item.get("company", ""))
+        hq, size, industry = classify.company_info(item.get("company", ""))
+        item["hq_city"] = hq
+        item["size_bucket"] = size
+        item["industry"] = industry
         item["url"] = item.get("url") or ""
         item["id"] = store.job_id(item.get("title", ""), item.get("company", ""), item.get("url"))
         classified.append(item)

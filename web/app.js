@@ -10,6 +10,8 @@
       direction: "all", // all | primary | secondary | <direction key>
       region: "all",    // all | primary | secondary | other | unknown
       tag: "all",       // all | <tag> | untagged
+      hq: "all",        // all | beijing | other | unknown（公司总部）
+      size: "all",      // all | 10000+ | 1000+ | 100+ | unknown（公司规模）
       source: "all",
       newOnly: false,
       starredOnly: false
@@ -91,6 +93,19 @@
     m.company_tags.forEach(function (t) { tagSel.appendChild(opt(t, t)); });
     tagSel.appendChild(opt("untagged", "未分类"));
 
+    var hqSel = $("filter-hq");
+    hqSel.innerHTML = "";
+    [["all", "全部总部"], ["beijing", "总部·北京"], ["other", "总部·京外"],
+     ["unknown", "总部未知"]].forEach(function (p) {
+      hqSel.appendChild(opt(p[0], p[1]));
+    });
+
+    var sizeSel = $("filter-size");
+    sizeSel.innerHTML = "";
+    sizeSel.appendChild(opt("all", "全部规模"));
+    ["10000+", "1000+", "100+"].forEach(function (s) { sizeSel.appendChild(opt(s, s + "人")); });
+    sizeSel.appendChild(opt("unknown", "规模未知"));
+
     var srcSel = $("filter-source");
     srcSel.innerHTML = "";
     srcSel.appendChild(opt("all", "全部来源"));
@@ -120,6 +135,16 @@
     if (f.region !== "all" && j.region_level !== f.region) return false;
     if (f.tag === "untagged" && j.company_tag) return false;
     if (f.tag !== "all" && f.tag !== "untagged" && j.company_tag !== f.tag) return false;
+    var hq = j.hq_city ? (j.hq_city === "北京" ? "beijing" : "other") : "unknown";
+    if (f.hq !== "all" && hq !== f.hq) return false;
+    var size = j.size_bucket || "unknown";
+    if (f.size === "unknown") {
+      if (size !== "unknown") return false;
+    } else if (f.size !== "all") {
+      // 规模筛选按档位包含：选 1000+ 时 10000+ 公司也算
+      var order = { "10000+": 3, "1000+": 2, "100+": 1 };
+      if (!(order[size] >= order[f.size])) return false;
+    }
     if (f.source !== "all" && (j.source || "unknown") !== f.source) return false;
     if (f.q) {
       var hay = ((j.title || "") + " " + (j.company || "") + " " +
@@ -184,6 +209,16 @@
       var tdCompany = document.createElement("td");
       tdCompany.className = "company-cell";
       tdCompany.textContent = j.company || "—";
+      if (j.hq_city) {
+        var chip = document.createElement("span");
+        chip.className = "hq-note";
+        chip.textContent = "总部" + j.hq_city;
+        tdCompany.appendChild(document.createTextNode(" "));
+        tdCompany.appendChild(chip);
+        tdCompany.title = "总部：" + j.hq_city +
+          (j.size_bucket ? " · 规模：" + j.size_bucket + "人" : "") +
+          (j.industry ? " · 行业：" + j.industry : "");
+      }
       tr.appendChild(tdCompany);
 
       var tdCity = document.createElement("td");
@@ -263,7 +298,19 @@
     $("kpi-shanghai").textContent = t.shanghai;
     $("updated-at").textContent = "数据更新于 " + state.meta.updated_at;
     $("footer-meta").textContent = "数据更新于 " + state.meta.updated_at +
-      " · 累计收录 " + t.total + " 条岗位 · 每日北京时间 8:00 自动抓取";
+      " · 累计收录 " + t.total + " 条岗位 · 每日北京时间 8:00 / 20:00 自动抓取";
+    renderFreshness();
+  }
+
+  function renderFreshness() {
+    var el = $("source-freshness");
+    var fresh = state.meta.source_freshness;
+    if (!fresh) { el.textContent = ""; return; }
+    var parts = Object.keys(fresh).map(function (s) {
+      var latest = fresh[s].latest || "";
+      return s + " " + (latest ? latest.slice(5, 10) : "无时间");
+    });
+    el.textContent = "各来源最新岗位： " + parts.join(" · ");
   }
 
   /* ---------- 事件绑定 ---------- */
@@ -284,6 +331,14 @@
       state.filters.tag = e.target.value;
       render();
     });
+    $("filter-hq").addEventListener("change", function (e) {
+      state.filters.hq = e.target.value;
+      render();
+    });
+    $("filter-size").addEventListener("change", function (e) {
+      state.filters.size = e.target.value;
+      render();
+    });
     $("filter-source").addEventListener("change", function (e) {
       state.filters.source = e.target.value;
       render();
@@ -298,11 +353,13 @@
     });
     $("clear-filters").addEventListener("click", function () {
       state.filters = { q: "", direction: "all", region: "all", tag: "all",
-        source: "all", newOnly: false, starredOnly: false };
+        hq: "all", size: "all", source: "all", newOnly: false, starredOnly: false };
       $("search-input").value = "";
       $("filter-direction").value = "all";
       $("filter-region").value = "all";
       $("filter-tag").value = "all";
+      $("filter-hq").value = "all";
+      $("filter-size").value = "all";
       $("filter-source").value = "all";
       $("filter-new").checked = false;
       $("filter-star").checked = false;

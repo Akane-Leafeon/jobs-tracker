@@ -43,6 +43,16 @@ def main():
     beijing = sum(1 for j in jobs if j.get("region_level") == "primary")
     shanghai = sum(1 for j in jobs if j.get("region_level") == "secondary")
 
+    # 各来源最新岗位时间（页面头部展示，直观看哪个源停更）
+    fresh = {}
+    for j in jobs:
+        src = j.get("source") or "unknown"
+        t = j.get("publish_time") or ""
+        cur = fresh.setdefault(src, {"count": 0, "latest": ""})
+        cur["count"] += 1
+        if t > cur["latest"]:
+            cur["latest"] = t
+
     meta = {
         "updated_at": now.strftime("%Y-%m-%d %H:%M"),
         "updated_date": today,
@@ -54,6 +64,7 @@ def main():
             "beijing": beijing,
             "shanghai": shanghai,
         },
+        "source_freshness": fresh,
         "directions": cfg["job_directions"],
         "company_tags": list(cfg["company_tags"].keys()),
         "site_url": cfg["deploy"]["site_url"],

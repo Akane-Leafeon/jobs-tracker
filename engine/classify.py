@@ -104,6 +104,21 @@ def tag_company(company: str):
     return ""
 
 
+# ---------- 公司信息（总部/规模/行业） ----------
+
+def company_info(company: str):
+    """返回 (hq_city, size_bucket, industry)；未收录公司返回 ("", "", "")。
+    名单在 config.json 的 company_info，人数为公开资料近似档位，仅供筛选参考。"""
+    cfg = _config()
+    if not company:
+        return "", "", ""
+    for c in cfg.get("company_info", []):
+        for alias in c.get("match", []):
+            if alias and alias in company:
+                return c.get("hq", ""), c.get("size", ""), c.get("industry", "")
+    return "", "", ""
+
+
 # ---------- 时间归一化 ----------
 
 def normalize_time(raw, now: datetime):

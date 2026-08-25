@@ -47,4 +47,55 @@
 
 - 确认 GitHub 用户名：**Akane-Leafeon**（原占位 koorye 全部改正：config.json / README / send_email.py / docs/meta.json）
 - 空仓库已创建，代码推送完成（main 已跟踪 origin/main）；首次推送因 GCM 登录弹窗卡住超时，改由用户 `! git push` 交互授权后成功，凭据已缓存
-- 剩余（用户侧）：启用 Pages（main + /docs）→ 配置 SMTP Secrets → 手动触发 daily-crawl 验证
+- Pages 已生效（pages-build-deployment 运行过）；SMTP Secrets 待用户配置
+
+## 2026-08-25/26 · 大规模扩展：4源→11源 + 公司信息库 + 每日两更
+
+### 背景诊断（用户反馈"主投只有3家公司/更新不及时"）
+- 数据分析确认：1234条中82%是小米全量目录；唯一多公司源牛客每日仅20条SSR；run.py 里 huawei/jd 一直是占位符。"主投只有华为/小米/字节"是**源覆盖问题**而非分类问题。
+- "更新不及时"两层：①**daily-crawl 定时任务从未运行过**（Actions 里只有 Pages 构建），新仓库首次 cron 被 GitHub 跳过；②小米主投岗确实停在8.12（8.11集中重发792条后硬件线没发新岗），是官网真实状态。
+- 对策：工作流加 `push` 触发（推送即跑全链路，不依赖cron）+ cron 加密到 08:00/20:00 两次 + timeout 45min。
+
+### 新增数据源（每个都先探测API契约→写适配器→实测验证）
+| 源 | 接口 | 关键坑 |
+|---|---|---|
+| 腾讯 | POST join.qq.com/api/v1/position/searchPosition | 请求体直接复刻浏览器抓包，400条全量 |
+| 阿里 | POST talent-holding.alibaba.com/position/search | 必须先GET页面拿 XSRF-TOKEN cookie 作 `_csrf` 参数；batchId 从 listBatch 动态取 |
+| 网易 | POST hr.163.com/api/hr163/position/queryPage | 池子是社招+实习混排，按"校招/应届/届"关键词过滤，且排除标题含"实习" |
+| vivo | POST hr-campus.vivo.com/api/JobAd/GetJobAdPageList | PortalId 固定GUID；LocNames 服务端恒为空（无城市）；Category 过滤实习 |
+| 拼多多 | POST careers.pddglobalhr.com/api/careers/api/recruit/position/list | 官网域名 careers.pinduoduo.com 直连403，API 在 pddglobalhr 子域；按岗位大类发布仅13条 |
+| 汇川 | POST recruit.inovance.com/prod-portal-api/position/ad/search | 必须带 `X-Portal-Id` + `X-Brizoo-Token: bearer` 两个头（Playwright 抓包获得）；310条全量 |
+| B站 | jobs.bilibili.com/api/campus/position/positionList | ajSessionId 风控（不在cookie、由页面JS生成）→ Playwright 加载后拦截XHR；翻页点击不稳定，先收第1页 |
+| 应届生(增强) | /beijing/ 北京频道表 | 岗位级条目（标题/类型/城市/公司/发布日期五列）；标题前缀是半角`[]`非全角`【】`，日期正则要防 `2026-08-28` 里的 `26-08` 误匹配 |
+| 牛客 | 维持20条/天 | pageNo/recruitType/jobType 等 SSR 参数全部实测无效，翻页走被WAF的API，放弃 |
+
+### 探测过但放弃直连的源（聚合源牛客/应届生可覆盖其岗位）
+- **华为**：新版 career.huawei.com/cn/campus-recruitment 是纯SPA，"查看职位"点击后只发 license 类接口，岗位列表接口未公开暴露；旧 reccampportal services 已404
+- **OPPO**：openapi/position/project/list 可用（拿到 2027届应届生招聘 idRecruitProject=30），但职位列表接口藏在项目交互后未捕获
+- **海康威视**：campushr.hikvision.com 首页接口全开放（含2027校招batchId），但 crsJobInfo/* 岗位接口 401 需登录
+- **比亚迪**：portal-api 部分接口开放（material），岗位接口要登录 token
+- **中兴/大疆**：投递挂 MOKA 平台，MOKA 的 group-by-job 响应是加密串
+- **荣耀**：career.hihonor.com TLS 握手直接失败（requests 和 Chromium 都是）
+- **宁德时代**：career.catl.com / catl.zhiye.com / catl.jobs.feishu.cn 均不可达
+- **米哈游**：ats.openout.mihoyo.com/ats-portal/v1/job/list 存在但要求"职位渠道"参数（值未知）
+- **宇树**：unitree.com/cn/job 404
+
+### 公司信息库（解决"北京硬件厂100+人/京外大厂"筛选）
+- 招聘API都不返回公司人数 → config.json 新增 `company_info`（约120家：别名/总部/规模档位100+~10000+/行业），人工整理公开资料
+- 洞察：开官网校招的公司基本都>100人，白名单按"有校招"即收录
+- classify.company_info() 回填 hq_city/size_bucket/industry；reclassify.py 全库重刷
+- 前端新增两个筛选：**公司总部（北京/京外/未知）** + **公司规模（含档位包含逻辑：选1000+含10000+）**；公司格显示"总部XX"小标签，tooltip 带完整信息
+- 头部新增"各来源最新岗位时间"行（一眼看出哪个源停更），meta.json 增加 source_freshness
+
+### 全量运行结果（2026-08-26 00:41 本地）
+- 11源全部成功零报错：新增981条，总库 2215 条
+- **主投 40→81条，公司 3→6家**（小米35/汇川26/vivo9/腾讯6/字节4/华为1）
+- 副投 18→34；北京841/上海262
+- 场景验证：总部京外+主投=42条；总部北京+硬件行业=1011条
+- 本地浏览器 DOM 级验证：新筛选器/总部标签/各源时间行/今日新增全部正常
+
+### 遗留
+- 网易 2027 秋招尚未开池（当前0条，开招后适配器自动收录）；阿里 2027 批次未开（当前10条为2026届）
+- B站翻页点击不稳定（只收第1页10条）；bytedance DOM 通道无发布时间
+- 华为/OPPO/海康等受限源待官方接口变化后再攻
+
