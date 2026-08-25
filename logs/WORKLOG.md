@@ -42,4 +42,9 @@
 - [x] GitHub Actions workflow + QQ邮件脚本
 - [x] 本地全链路验证：1234 条入库（小米1009+字节200+牛客19+应届生网6），主投40/副投18，DOM 级交互测试全过
 - [x] git 首次提交 925161e
-- [ ] 等待用户创建 GitHub 空仓库 → 推送 + 启用 Pages + 配 Secrets + 线上验证
+
+## 2026-08-25 · 部署
+
+- 确认 GitHub 用户名：**Akane-Leafeon**（原占位 koorye 全部改正：config.json / README / send_email.py / docs/meta.json）
+- 空仓库已创建，代码推送完成（main 已跟踪 origin/main）；首次推送因 GCM 登录弹窗卡住超时，改由用户 `! git push` 交互授权后成功，凭据已缓存
+- 剩余（用户侧）：启用 Pages（main + /docs）→ 配置 SMTP Secrets → 手动触发 daily-crawl 验证
