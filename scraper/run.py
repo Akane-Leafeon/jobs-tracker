@@ -25,6 +25,9 @@ SOURCES = {
     # 聚合源
     "yingjiesheng": True,
     "nowcoder": True,
+    "nowcoder_schedule": True,
+    # 本地源（需本机 boss login 扫码；CI 上自动跳过）
+    "boss": True,
     # 自建官网源（纯HTTP）
     "xiaomi": True,
     "tencent": True,

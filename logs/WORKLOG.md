@@ -99,3 +99,32 @@
 - B站翻页点击不稳定（只收第1页10条）；bytedance DOM 通道无发布时间
 - 华为/OPPO/海康等受限源待官方接口变化后再攻
 
+## 2026-08-26 · 聚合平台扩展：boss-agent-cli + 牛客校招日程
+
+### 背景需求
+用户指出"一家一家公司扒效率太低且不全面"，要求接入聚合平台。提供了 github.com/can4hou6joeng4/boss-agent-cli。
+
+### boss-agent-cli 接入（BOSS直聘，本地源）
+- pip 安装即用；**需要用户本机 `boss login` 扫码**（登录态 wt2/__zp_stoken__ 加密存 ~/.boss-agent/），因此定位为"本地数据源"：`scraper/boss.py` subprocess 调 `boss --json search`，AUTH_REQUIRED/未安装时自动跳过（CI 不受影响）
+- 适配器按主投关键词×2页搜索，**仅收录标题/标签含 校招/应届/202X届 的岗位**（BOSS 以社招为主，宁缺毋滥）；JobItem 自带 salary/scale(公司规模)/industry/skills 等富字段
+- 顺带发现该包内置智联/前程无忧平台适配器，但同样走登录链路（智联 searchJobs 需 AuthManager），无匿名可用能力
+- 该包的 boss.yaml/zhilian.yaml 端点常量可作后续参考（fe-api.zhaopin.com/api/c/salesman-search/v2 实测已 404）
+
+### 聚合平台公开接口探测结论（全部实测）
+| 平台 | 结论 |
+|---|---|
+| 牛客校招日程 | ✅ **SSR 全开放**：/school/schedule 内嵌 scheduleData，22000+公司库（网申起止时间戳/城市/官网直链/简介），SSR 翻页无效（pageNo 等参数实测仅扰动缓存），每日增量收最新更新的20家 → 已做成 `nowcoder_schedule` 适配器 |
+| 猎聘 | ❌ api-c.liepin.com pc-search-job 存在但返回 code -1400（参数签名校验），换 payload 形态无效 |
+| 智联 | ❌ fe-api 路径 404；boss-agent-cli 内的智联实现也需登录态 |
+| 实习僧 | ❌ /interns 是 Nuxt SSR 但 __NUXT__ 为混淆函数（需执行 JS 还原），岗位链接由 JS 渲染 |
+| 前程无忧 | ❌ we.51job.com/api/job/search-pc 被阿里云 WAF 拦截 |
+| 国聘 | ❌ JS 挖出 api4/appv5-api/gp-api 三套 API：api4 参数全不对(data=null)、appv5 响应 AES 加密、gp-api POST 需登录(403) |
+
+### nowcoder_schedule 适配器要点
+- 公司级条目：title="{公司} 校招网申（批次）"、deadline=网申截止、publish_time=网申开启日、url=官网投递直链（如 OPPO→careers.oppo.com、德州仪器→MOKA直链，间接补上了部分"直连受限"公司的入口）
+- 意义：每天 20 家"刚更新网申状态"的公司 = 全公司面的增量监控信号，与岗位级源互补
+
+### 全量运行
+- 14 源（含 boss 跳过）零报错；总库 2237 条
+- 剩余用户侧步骤：本机 `boss login` 扫码后，BOSS 源自动开始产出（本地跑 `python scraper/run.py --source boss` 或全量跑均可）
+

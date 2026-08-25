@@ -19,6 +19,8 @@ DATA_FILE = os.path.join(ROOT, "data", "jobs.json")
 SOURCE_NAMES = {
     "yingjiesheng": "应届生网",
     "nowcoder": "牛客网",
+    "nowcoder_schedule": "牛客校招日程",
+    "boss": "BOSS直聘",
     "xiaomi": "小米官网",
     "bytedance": "字节官网",
     "tencent": "腾讯官网",

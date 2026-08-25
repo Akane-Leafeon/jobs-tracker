@@ -1,0 +1,1 @@
+{"ok": false, "schema_version": "1.0", "command": "schema", "data": null, "pagination": null, "error": {"code": "INVALID_PARAM", "message": "No such option: --json", "recoverable": false, "recovery_action": "修正参数"}, "hints": null}
