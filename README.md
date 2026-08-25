@@ -2,7 +2,7 @@
 
 > 2027届秋招 · 每天北京时间 08:00 自动抓取新更新岗位 → 生成网页 → GitHub Pages 部署 → QQ邮箱推送新增摘要。
 
-**线上页面：<https://koorye.github.io/jobs-tracker/>**
+**线上页面：<https://akane-leafeon.github.io/jobs-tracker/>**
 
 ## 功能
 

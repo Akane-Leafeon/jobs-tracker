@@ -79,11 +79,11 @@ def build_content(jobs, today):
         f"<div style='font-family:sans-serif;font-size:14px;color:#111;max-width:640px'>"
         f"<h2 style='margin:0 0 4px'>秋招岗位追踪 · {today}</h2>"
         f"<p style='color:#555;margin:0 0 12px'>今日新增 {total} 个岗位，"
-        f"<a href='https://koorye.github.io/jobs-tracker/'>点击查看完整列表</a></p>"
+        f"<a href='https://akane-leafeon.github.io/jobs-tracker/'>点击查看完整列表</a></p>"
         + "".join(lines_html) +
         "<p style='color:#999;font-size:12px;margin-top:18px'>本邮件由自动化脚本发送，"
         "投递前请以官方信息为准。</p></div>")
-    body_text = f"秋招岗位追踪 {today}\n今日新增 {total} 个岗位，完整列表：https://koorye.github.io/jobs-tracker/\n" \
+    body_text = f"秋招岗位追踪 {today}\n今日新增 {total} 个岗位，完整列表：https://akane-leafeon.github.io/jobs-tracker/\n" \
         + "\n".join(lines_text)
 
     return subject, body_html, body_text
@@ -101,7 +101,7 @@ def main():
     if not jobs:
         subject = f"【秋招追踪】{today} 今日无新增岗位"
         body_html = f"<p>今日（{today}）没有抓取到新岗位，可能是来源站点暂无更新或抓取异常，"
-                    f"请到 <a href='https://koorye.github.io/jobs-tracker/'>网页</a> 查看最新数据。</p>"
+                    f"请到 <a href='https://akane-leafeon.github.io/jobs-tracker/'>网页</a> 查看最新数据。</p>"
         body_text = f"今日（{today}）无新增岗位。"
     else:
         subject, body_html, body_text = build_content(jobs, today)
