@@ -39,6 +39,7 @@ jobs:
         run: python scripts/gen_page.py
 
       - name: Send email notification
+        continue-on-error: true  # SMTP Secrets 未配置或邮件失败不应阻塞数据推送
         env:
           SMTP_HOST: smtp.qq.com
           SMTP_PORT: "465"

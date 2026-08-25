@@ -110,8 +110,8 @@ def main():
 
     if not jobs:
         subject = f"【秋招追踪】{today} 今日无新增岗位"
-        body_html = f"<p>今日（{today}）没有抓取到新岗位，可能是来源站点暂无更新或抓取异常，"
-                    f"请到 <a href='https://akane-leafeon.github.io/jobs-tracker/'>网页</a> 查看最新数据。</p>"
+        body_html = (f"<p>今日（{today}）没有抓取到新岗位，可能是来源站点暂无更新或抓取异常，"
+                     f"请到 <a href='https://akane-leafeon.github.io/jobs-tracker/'>网页</a> 查看最新数据。</p>")
         body_text = f"今日（{today}）无新增岗位。"
     else:
         subject, body_html, body_text = build_content(jobs, today)
