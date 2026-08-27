@@ -31,6 +31,1646 @@
   "last_seen": "2026-08-26"
  },
  {
+  "title": "【27校招 - 通用研发】用户研究工程师",
+  "company": "汇川技术",
+  "locations": [
+   "苏州"
+  ],
+  "location_raw": "苏州",
+  "publish_time_raw": "2026-08-06T14:47:20.057239",
+  "publish_time": "2026-08-27 19:35",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca30-71d7-87bf-87a2b42ea2e6",
+  "extra": {
+   "segment": "集团业务-通用研发"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "693df8444704128e",
+  "first_seen": "2026-08-26",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "【27校招 - 通用研发】机械设计工程师（日本）",
+  "company": "汇川技术",
+  "locations": [
+   "日本",
+   "苏州"
+  ],
+  "location_raw": "日本 苏州",
+  "publish_time_raw": "2026-08-06T16:23:18.797233",
+  "publish_time": "2026-08-27 19:29",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca31-76ec-9d49-8906f2121e77",
+  "extra": {
+   "segment": "集团业务-通用研发"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "db079e132bb30927",
+  "first_seen": "2026-08-26",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "【27校招 - 通用研发】运动控制算法工程师（人形机器人）",
+  "company": "汇川技术",
+  "locations": [
+   "苏州"
+  ],
+  "location_raw": "苏州",
+  "publish_time_raw": "2026-08-11T15:46:16.956251",
+  "publish_time": "2026-08-27 19:27",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/019fefc9-48c2-7530-86d1-ab53c8ea5a02",
+  "extra": {
+   "segment": ""
+  },
+  "direction": "robot_hardware",
+  "direction_label": "机器人/具身硬件",
+  "priority": "主投",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "fe719a9aeabe675e",
+  "first_seen": "2026-08-26",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "【27校招 - 通用研发】可靠性工程师",
+  "company": "汇川技术",
+  "locations": [
+   "苏州"
+  ],
+  "location_raw": "苏州",
+  "publish_time_raw": "2026-08-06T14:40:31.37231",
+  "publish_time": "2026-08-27 19:25",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca2e-74c9-aaa4-1c2243633226",
+  "extra": {
+   "segment": "集团业务-通用研发"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "48618d8170d64f80",
+  "first_seen": "2026-08-26",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "【27校招 - 通用研发】具身智能算法工程师（VLA/WAM方向）",
+  "company": "汇川技术",
+  "locations": [
+   "上海"
+  ],
+  "location_raw": "上海",
+  "publish_time_raw": "2026-08-12T14:26:11.434976",
+  "publish_time": "2026-08-27 19:24",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/019ff4a6-4e72-7719-9b4a-28d385381f35",
+  "extra": {
+   "segment": ""
+  },
+  "direction": "robot_hardware",
+  "direction_label": "机器人/具身硬件",
+  "priority": "主投",
+  "region_level": "secondary",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "ece6b8a5afb302c3",
+  "first_seen": "2026-08-26",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "【27校招 - 通用研发】机械设计工程师（减速机）",
+  "company": "汇川技术",
+  "locations": [
+   "南京"
+  ],
+  "location_raw": "南京",
+  "publish_time_raw": "2026-08-17T10:04:03.751506",
+  "publish_time": "2026-08-27 19:22",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/01a00d76-2334-709c-a166-6c30222083aa",
+  "extra": {
+   "segment": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "c4c894c95255a543",
+  "first_seen": "2026-08-26",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "【27校招 - 通用研发】固本运维工程师（智能机器人）",
+  "company": "汇川技术",
+  "locations": [
+   "南京"
+  ],
+  "location_raw": "南京",
+  "publish_time_raw": "2026-08-17T10:00:53.967612",
+  "publish_time": "2026-08-27 19:21",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/01a00d73-41eb-7934-8d3f-41b4b29b441e",
+  "extra": {
+   "segment": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "6f721b970edfad5b",
+  "first_seen": "2026-08-26",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "【27校招 - 通用研发】工艺开发软件工程师",
+  "company": "汇川技术",
+  "locations": [
+   "苏州"
+  ],
+  "location_raw": "苏州",
+  "publish_time_raw": "2026-08-17T09:43:11.480436",
+  "publish_time": "2026-08-27 19:21",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/01a00d63-0b1f-7599-8f8e-79ead0c9db53",
+  "extra": {
+   "segment": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "1d8a868ac8cb1674",
+  "first_seen": "2026-08-26",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "【27校招 - 通用研发】功能安全工程师",
+  "company": "汇川技术",
+  "locations": [
+   "西安",
+   "苏州",
+   "深圳"
+  ],
+  "location_raw": "西安 苏州 深圳",
+  "publish_time_raw": "2026-08-17T09:53:50.329284",
+  "publish_time": "2026-08-27 19:19",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/01a00d6c-ccc3-760c-8d97-f73c09abce60",
+  "extra": {
+   "segment": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "28abd0fcca2bbc91",
+  "first_seen": "2026-08-26",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "【27校招 - 通用研发】电磁兼容开发工程师",
+  "company": "汇川技术",
+  "locations": [
+   "苏州",
+   "深圳",
+   "西安"
+  ],
+  "location_raw": "苏州 深圳 西安",
+  "publish_time_raw": "2026-08-06T13:46:54.409207",
+  "publish_time": "2026-08-27 19:19",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca28-711a-b352-5786caa8c207",
+  "extra": {
+   "segment": "集团业务-通用研发"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "7867e6d52d8f796a",
+  "first_seen": "2026-08-26",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "【27校招 - 通用研发】传感器算法工程师（博士-激光方向）",
+  "company": "汇川技术",
+  "locations": [
+   "苏州"
+  ],
+  "location_raw": "苏州",
+  "publish_time_raw": "2026-08-17T09:51:04.327905",
+  "publish_time": "2026-08-27 19:17",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/01a00d6a-43a4-7056-9c1b-8b882f7ff18f",
+  "extra": {
+   "segment": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "2d55c06e40583149",
+  "first_seen": "2026-08-26",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "【27校招 - 通用研发】产品数据工程师",
+  "company": "汇川技术",
+  "locations": [
+   "苏州"
+  ],
+  "location_raw": "苏州",
+  "publish_time_raw": "2026-08-06T14:48:00.446912",
+  "publish_time": "2026-08-27 19:17",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca30-7e94-87c0-0011cfcaaa6b",
+  "extra": {
+   "segment": "集团业务-通用研发"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "11124c392359259d",
+  "first_seen": "2026-08-26",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "【27校招 - 通用研发】CAD/CAM软件工程师(博士)",
+  "company": "汇川技术",
+  "locations": [
+   "苏州"
+  ],
+  "location_raw": "苏州",
+  "publish_time_raw": "2026-08-20T14:26:34.776827",
+  "publish_time": "2026-08-27 19:15",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/01a01dd9-9360-7ad5-bd92-8a9329dfb44a",
+  "extra": {
+   "segment": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "321fa54f7c9b37ef",
+  "first_seen": "2026-08-26",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "【27校招 - 通用研发】PCB设计工程师",
+  "company": "汇川技术",
+  "locations": [
+   "苏州",
+   "深圳",
+   "西安"
+  ],
+  "location_raw": "苏州 深圳 西安",
+  "publish_time_raw": "2026-08-06T14:39:43.348862",
+  "publish_time": "2026-08-27 19:13",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca2e-738f-aaa3-1a7364764860",
+  "extra": {
+   "segment": "集团业务-通用研发"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "2586446cb6222730",
+  "first_seen": "2026-08-26",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "【27校招 - 通用研发】CAD/CAM软件工程师",
+  "company": "汇川技术",
+  "locations": [
+   "苏州",
+   "西安"
+  ],
+  "location_raw": "苏州 西安",
+  "publish_time_raw": "2026-08-17T09:34:27.269444",
+  "publish_time": "2026-08-27 19:12",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/01a00d5b-09bc-7941-9529-7e78d3ef740b",
+  "extra": {
+   "segment": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "19b4ac4ebc17f475",
+  "first_seen": "2026-08-26",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "【27校招 - 通用研发】应用软件工程师（博士）",
+  "company": "汇川技术",
+  "locations": [
+   "南京",
+   "苏州"
+  ],
+  "location_raw": "南京 苏州",
+  "publish_time_raw": "2026-08-07T10:50:54.349506",
+  "publish_time": "2026-08-27 19:08",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/019fd5da-8f44-7f51-9456-86a0535b5929",
+  "extra": {
+   "segment": "集团业务-通用研发"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "ca796efd33146900",
+  "first_seen": "2026-08-26",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "【27校招 - 通用研发】机械设计工程师（博士）",
+  "company": "汇川技术",
+  "locations": [
+   "苏州"
+  ],
+  "location_raw": "苏州",
+  "publish_time_raw": "2026-08-14T09:48:00.050605",
+  "publish_time": "2026-08-27 19:06",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca33-70d8-b0ef-a598e0ba70e7",
+  "extra": {
+   "segment": "集团业务-通用研发"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "0d6408edcf165e3e",
+  "first_seen": "2026-08-26",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "【27校招 - 通用研发】FPGA开发工程师",
+  "company": "汇川技术",
+  "locations": [
+   "苏州",
+   "西安",
+   "南京"
+  ],
+  "location_raw": "苏州 西安 南京",
+  "publish_time_raw": "2026-08-06T13:54:46.53097",
+  "publish_time": "2026-08-27 19:00",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca28-7311-b355-d88e2bacc1eb",
+  "extra": {
+   "segment": "集团业务-通用研发"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "5627635d418b7217",
+  "first_seen": "2026-08-26",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "【27校招 - 通用研发】可靠性测试工程师",
+  "company": "汇川技术",
+  "locations": [
+   "苏州",
+   "深圳"
+  ],
+  "location_raw": "苏州 深圳",
+  "publish_time_raw": "2026-08-17T10:01:18.188885",
+  "publish_time": "2026-08-27 18:58",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/01a00d73-9f20-79d9-b1f1-61387688fc6f",
+  "extra": {
+   "segment": ""
+  },
+  "direction": "test_verify",
+  "direction_label": "硬件测试/验证",
+  "priority": "副投",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "5f81bc5307f836c3",
+  "first_seen": "2026-08-26",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "【27校招-通用研发】机械设计工程师（气动）",
+  "company": "汇川技术",
+  "locations": [
+   "苏州"
+  ],
+  "location_raw": "苏州",
+  "publish_time_raw": "2026-07-09T19:15:15.35718",
+  "publish_time": "2026-08-27 18:58",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca2a-7c44-83fb-ced3dc911e45",
+  "extra": {
+   "segment": "集团业务-通用研发"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "8a0a9ff2e71fd3a3",
+  "first_seen": "2026-08-26",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "【27校招 - 通用研发】机械设计工程师",
+  "company": "汇川技术",
+  "locations": [
+   "苏州",
+   "嘉兴"
+  ],
+  "location_raw": "苏州 嘉兴",
+  "publish_time_raw": "2026-08-06T14:24:08.433902",
+  "publish_time": "2026-08-27 18:57",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca2a-763a-83f8-b6e4629a7bf8",
+  "extra": {
+   "segment": "集团业务-通用研发"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "75f60bb46b7f652b",
+  "first_seen": "2026-08-26",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "【27校招 - 通用研发】传感器结构设计工程师",
+  "company": "汇川技术",
+  "locations": [
+   "苏州"
+  ],
+  "location_raw": "苏州",
+  "publish_time_raw": "2026-08-17T09:42:28.218236",
+  "publish_time": "2026-08-27 18:54",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/01a00d62-6395-798b-8248-736f8f39597d",
+  "extra": {
+   "segment": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "27b76e68a53c2a93",
+  "first_seen": "2026-08-26",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "【27校招 - 通用研发】视觉AI算法工程师（博士）",
+  "company": "汇川技术",
+  "locations": [
+   "南京"
+  ],
+  "location_raw": "南京",
+  "publish_time_raw": "2026-07-16T14:53:39.88544",
+  "publish_time": "2026-08-27 18:53",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca34-7511-82f6-4918e2fe28ca",
+  "extra": {
+   "segment": "集团业务-通用研发"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "9eec2094c810ac99",
+  "first_seen": "2026-08-26",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "【27校招 - 通用研发】HRBP专员",
+  "company": "汇川技术",
+  "locations": [
+   "苏州",
+   "南京"
+  ],
+  "location_raw": "苏州 南京",
+  "publish_time_raw": "2026-08-27T18:52:39.404481",
+  "publish_time": "2026-08-27 18:52",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/01a0427f-cc23-7b7a-ba38-66efb22718d2",
+  "extra": {
+   "segment": "集团业务-通用研发"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "45a9e10923ee180d",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "【27校招 - 通用研发】仿真工程师",
+  "company": "汇川技术",
+  "locations": [
+   "苏州",
+   "南京"
+  ],
+  "location_raw": "苏州 南京",
+  "publish_time_raw": "2026-08-06T14:19:00.906531",
+  "publish_time": "2026-08-27 18:51",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca29-7ce2-9ed3-d20338295eb7",
+  "extra": {
+   "segment": "集团业务-通用研发"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "c7bf66f5465643eb",
+  "first_seen": "2026-08-26",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "【27校招 - 通用研发】项目运营工程师",
+  "company": "汇川技术",
+  "locations": [
+   "苏州",
+   "西安"
+  ],
+  "location_raw": "苏州 西安",
+  "publish_time_raw": "2026-08-17T09:55:17.465112",
+  "publish_time": "2026-08-27 18:48",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/01a00d6e-20bb-7008-ae21-0d5281ca4326",
+  "extra": {
+   "segment": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "ae593ae1d47b905c",
+  "first_seen": "2026-08-26",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "【27校招 - 通用研发】研发效能工程师",
+  "company": "汇川技术",
+  "locations": [
+   "南京",
+   "深圳",
+   "西安"
+  ],
+  "location_raw": "南京 深圳 西安",
+  "publish_time_raw": "2026-08-17T09:49:25.382382",
+  "publish_time": "2026-08-27 18:45",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/01a00d68-bfeb-7a6d-b14f-573584c33191",
+  "extra": {
+   "segment": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "37e717bccf3a4dfb",
+  "first_seen": "2026-08-26",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "【27校招 - 通用研发】传感器算法工程师（（博士-光学类）",
+  "company": "汇川技术",
+  "locations": [
+   "苏州"
+  ],
+  "location_raw": "苏州",
+  "publish_time_raw": "2026-08-17T09:48:03.323813",
+  "publish_time": "2026-08-27 18:44",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/01a00d67-7a78-7c2f-b009-3ff38291a0a4",
+  "extra": {
+   "segment": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "81b0f42009a57227",
+  "first_seen": "2026-08-26",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "【27校招 - 通用研发】编码器算法工程师（博士）",
+  "company": "汇川技术",
+  "locations": [
+   "苏州"
+  ],
+  "location_raw": "苏州",
+  "publish_time_raw": "2026-08-21T18:16:07.334966",
+  "publish_time": "2026-08-27 18:42",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/019fd5ae-5e93-75cf-84b0-fe6460724536",
+  "extra": {
+   "segment": "集团业务-通用研发"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "037f2957c7a8c79f",
+  "first_seen": "2026-08-26",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "【27校招 - 机器人】方案开发工程师（智能机器人方向）",
+  "company": "汇川技术",
+  "locations": [
+   "全国"
+  ],
+  "location_raw": "全国",
+  "publish_time_raw": "2026-08-20T17:21:14.572595",
+  "publish_time": "2026-08-27 18:42",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/019ff950-3c1b-76ba-809f-764b8aaf68c0",
+  "extra": {
+   "segment": "集团业务-智能机器人"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "0f178f6aedd25130",
+  "first_seen": "2026-08-26",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "【27校招-通用研发】流体工程师（博士）",
+  "company": "汇川技术",
+  "locations": [
+   "苏州",
+   "南京"
+  ],
+  "location_raw": "苏州 南京",
+  "publish_time_raw": "2026-07-09T19:15:15.155788",
+  "publish_time": "2026-08-27 18:41",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca31-7e9f-9d4b-349cc981227a",
+  "extra": {
+   "segment": "集团业务-通用研发"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "68267c33b4a9949d",
+  "first_seen": "2026-08-26",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "【27校招 - 通用研发】封装工程师",
+  "company": "汇川技术",
+  "locations": [
+   "苏州"
+  ],
+  "location_raw": "苏州",
+  "publish_time_raw": "2026-08-14T15:28:49.832827",
+  "publish_time": "2026-08-27 18:40",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/019ffee9-5d88-7916-a33c-64abe579c9b9",
+  "extra": {
+   "segment": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "a9d4aac854560f7b",
+  "first_seen": "2026-08-26",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "【27校招 - 通用研发】产品信息安全工程师",
+  "company": "汇川技术",
+  "locations": [
+   "苏州",
+   "西安",
+   "深圳"
+  ],
+  "location_raw": "苏州 西安 深圳",
+  "publish_time_raw": "2026-08-11T16:46:19.129397",
+  "publish_time": "2026-08-27 18:38",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/019ff000-41b8-707a-925e-c228f7ce37cf",
+  "extra": {
+   "segment": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "5c6f732c49fce838",
+  "first_seen": "2026-08-26",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "【27校招 - 通用研发】仿真工程师（博士）",
+  "company": "汇川技术",
+  "locations": [
+   "苏州"
+  ],
+  "location_raw": "苏州",
+  "publish_time_raw": "2026-08-07T10:55:24.93335",
+  "publish_time": "2026-08-27 18:34",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/019fd5c3-d001-7bba-bcd0-3a2e5d261a56",
+  "extra": {
+   "segment": "集团业务-通用研发"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "08f5e31cd261f179",
+  "first_seen": "2026-08-26",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "【27校招 - 通用研发】光学工程师",
+  "company": "汇川技术",
+  "locations": [
+   "南京"
+  ],
+  "location_raw": "南京",
+  "publish_time_raw": "2026-08-06T14:21:07.105501",
+  "publish_time": "2026-08-27 18:33",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca29-7ed7-9ed4-6f3b73cc3815",
+  "extra": {
+   "segment": "集团业务-通用研发"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "ca8404647ae8ab88",
+  "first_seen": "2026-08-26",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "【27校招 - 通用研发】定制设计工程师",
+  "company": "汇川技术",
+  "locations": [
+   "上海",
+   "浙江省"
+  ],
+  "location_raw": "上海 浙江省",
+  "publish_time_raw": "2026-08-24T10:03:29.835137",
+  "publish_time": "2026-08-27 18:31",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/019fd5bb-4148-7888-84f6-a4a8ff8853d3",
+  "extra": {
+   "segment": "集团业务-通用研发"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "8e986ff7dc7b9f84",
+  "first_seen": "2026-08-26",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "【27校招 - 通用研发】电机工艺工程师",
+  "company": "汇川技术",
+  "locations": [
+   "岳阳"
+  ],
+  "location_raw": "岳阳",
+  "publish_time_raw": "2026-08-06T14:29:54.1397",
+  "publish_time": "2026-08-27 18:29",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca2c-7328-9f1f-95916a9e7a35",
+  "extra": {
+   "segment": "集团业务-通用研发"
+  },
+  "direction": "pie",
+  "direction_label": "PIE工艺整合",
+  "priority": "副投",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "abf6fcae9ced002b",
+  "first_seen": "2026-08-26",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "【27校招 - 通用研发】电机电磁工程师",
+  "company": "汇川技术",
+  "locations": [
+   "苏州",
+   "南京"
+  ],
+  "location_raw": "苏州 南京",
+  "publish_time_raw": "2026-08-06T14:31:38.675819",
+  "publish_time": "2026-08-27 18:27",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca2d-747b-aad5-1f82cfbc9568",
+  "extra": {
+   "segment": "集团业务-通用研发"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "3e493dee6aeb015d",
+  "first_seen": "2026-08-26",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "【27校招 - 通用研发】通用AI算法工程师（博士）",
+  "company": "汇川技术",
+  "locations": [
+   "南京"
+  ],
+  "location_raw": "南京",
+  "publish_time_raw": "2026-08-06T14:49:27.806803",
+  "publish_time": "2026-08-27 18:26",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca33-700c-b0ee-bc9623d8a1aa",
+  "extra": {
+   "segment": "集团业务-通用研发"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "c57a932547a7b499",
+  "first_seen": "2026-08-26",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "【27校招 - 通用研发】电机结构工程师",
+  "company": "汇川技术",
+  "locations": [
+   "苏州"
+  ],
+  "location_raw": "苏州",
+  "publish_time_raw": "2026-08-06T14:27:53.051334",
+  "publish_time": "2026-08-27 18:26",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca2b-7573-96e7-bfac9e437fa2",
+  "extra": {
+   "segment": "集团业务-通用研发"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "35e49c07262ef817",
+  "first_seen": "2026-08-26",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "【27校招 - 通用研发】控制硬件工程师",
+  "company": "汇川技术",
+  "locations": [
+   "苏州",
+   "深圳",
+   "西安",
+   "南京",
+   "长春"
+  ],
+  "location_raw": "苏州 深圳 西安 南京 长春",
+  "publish_time_raw": "2026-08-06T13:44:17.55107",
+  "publish_time": "2026-08-27 18:25",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca27-7fad-84d2-8a7cd4b57394",
+  "extra": {
+   "segment": "集团业务-通用研发"
+  },
+  "direction": "hardware",
+  "direction_label": "硬件设计",
+  "priority": "主投",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "a3f5938cfb3f6acf",
+  "first_seen": "2026-08-26",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "【27校招 - 通用研发】数控算法工程师（博士）",
+  "company": "汇川技术",
+  "locations": [
+   "苏州"
+  ],
+  "location_raw": "苏州",
+  "publish_time_raw": "2026-08-06T16:15:42.361038",
+  "publish_time": "2026-08-27 18:23",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca31-78bc-9d4a-44738ade5c13",
+  "extra": {
+   "segment": "集团业务-通用研发"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "3ccc243c19051930",
+  "first_seen": "2026-08-26",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "【27校招 - 通用研发】交互设计师",
+  "company": "汇川技术",
+  "locations": [
+   "苏州",
+   "西安"
+  ],
+  "location_raw": "苏州 西安",
+  "publish_time_raw": "2026-08-06T14:45:30.663223",
+  "publish_time": "2026-08-27 18:20",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca2f-7e1b-be9f-a0af7e699e53",
+  "extra": {
+   "segment": "集团业务-通用研发"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "e37dbe1121f1eebe",
+  "first_seen": "2026-08-26",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "【27校招 - 通用研发】工业设计师",
+  "company": "汇川技术",
+  "locations": [
+   "苏州",
+   "南京"
+  ],
+  "location_raw": "苏州 南京",
+  "publish_time_raw": "2026-08-06T14:46:40.913318",
+  "publish_time": "2026-08-27 18:18",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca2f-7f55-bea0-8c05273537fb",
+  "extra": {
+   "segment": "集团业务-通用研发"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "6616bb9afe9430ec",
+  "first_seen": "2026-08-26",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "【27校招 - 通用研发】信息设计师",
+  "company": "汇川技术",
+  "locations": [
+   "苏州"
+  ],
+  "location_raw": "苏州",
+  "publish_time_raw": "2026-08-06T14:46:10.885681",
+  "publish_time": "2026-08-27 18:15",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca2f-75c3-be9e-be9b7857fc93",
+  "extra": {
+   "segment": "集团业务-通用研发"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "4274713c52964ece",
+  "first_seen": "2026-08-26",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "【27校招 - 通用研发】功率硬件工程师",
+  "company": "汇川技术",
+  "locations": [
+   "苏州",
+   "深圳",
+   "南京"
+  ],
+  "location_raw": "苏州 深圳 南京",
+  "publish_time_raw": "2026-08-06T13:53:15.185606",
+  "publish_time": "2026-08-27 18:14",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca27-7e50-84d1-3c9e342a6a30",
+  "extra": {
+   "segment": "集团业务-通用研发"
+  },
+  "direction": "hardware",
+  "direction_label": "硬件设计",
+  "priority": "主投",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "48733a3880e0dd04",
+  "first_seen": "2026-08-26",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "【27校招 - 通用研发】电气工程师",
+  "company": "汇川技术",
+  "locations": [
+   "苏州",
+   "西安"
+  ],
+  "location_raw": "苏州 西安",
+  "publish_time_raw": "2026-08-06T14:17:09.060783",
+  "publish_time": "2026-08-27 18:12",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca29-7b56-9ed2-7ae73272cffc",
+  "extra": {
+   "segment": "集团业务-通用研发"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "57819664528b8257",
+  "first_seen": "2026-08-26",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "【27校招 - 通用研发】功率硬件工程师（博士）",
+  "company": "汇川技术",
+  "locations": [
+   "苏州"
+  ],
+  "location_raw": "苏州",
+  "publish_time_raw": "2026-08-06T15:57:43.582104",
+  "publish_time": "2026-08-27 18:10",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca32-7507-b52f-9589136941dd",
+  "extra": {
+   "segment": "集团业务-通用研发"
+  },
+  "direction": "hardware",
+  "direction_label": "硬件设计",
+  "priority": "主投",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "8c51f64039380a96",
+  "first_seen": "2026-08-26",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "【27校招 - 通用研发】视觉AI算法工程师（智能机器人）",
+  "company": "汇川技术",
+  "locations": [
+   "南京"
+  ],
+  "location_raw": "南京",
+  "publish_time_raw": "2026-08-24T10:05:47.96464",
+  "publish_time": "2026-08-27 18:02",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/019fd5a4-2610-7fb4-9ed2-77da94d15d67",
+  "extra": {
+   "segment": "集团业务-通用研发"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "2dc902a7196f8c49",
+  "first_seen": "2026-08-26",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "【27校招 - 通用研发】OS及驱动开发工程师",
+  "company": "汇川技术",
+  "locations": [
+   "南京",
+   "深圳"
+  ],
+  "location_raw": "南京 深圳",
+  "publish_time_raw": "2026-08-21T11:17:25.416088",
+  "publish_time": "2026-08-27 18:00",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/019fd5a9-6484-773f-89f7-1aee059cbeec",
+  "extra": {
+   "segment": "集团业务-通用研发"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "27bc19e24a302b8f",
+  "first_seen": "2026-08-26",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "【27校招-通用研发】机器人算法工程师（博士-工业机器人）",
+  "company": "汇川技术",
+  "locations": [
+   "南京"
+  ],
+  "location_raw": "南京",
+  "publish_time_raw": "2026-07-09T19:15:15.78676",
+  "publish_time": "2026-08-27 17:59",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca32-7d1e-b531-9988c003aa8c",
+  "extra": {
+   "segment": "集团业务-通用研发"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "0bef33b904d57c36",
+  "first_seen": "2026-08-26",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "【27校招-通用研发】机器人系统软件工程师",
+  "company": "汇川技术",
+  "locations": [
+   "苏州",
+   "南京"
+  ],
+  "location_raw": "苏州 南京",
+  "publish_time_raw": "2026-08-26T19:31:12.751056",
+  "publish_time": "2026-08-27 17:58",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca29-7376-9ecf-7fd30ee398ac",
+  "extra": {
+   "segment": "集团业务-通用研发"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "ae47a4a17d6e3314",
+  "first_seen": "2026-08-26",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "【27校招-通用研发】机械设计工程师（机器人）",
+  "company": "汇川技术",
+  "locations": [
+   "苏州",
+   "南京"
+  ],
+  "location_raw": "苏州 南京",
+  "publish_time_raw": "2026-07-09T19:15:15.374196",
+  "publish_time": "2026-08-27 17:52",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca2a-781f-83f9-6a4a7ca0fe20",
+  "extra": {
+   "segment": "集团业务-通用研发"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "e9d5dbcb90cf5be9",
+  "first_seen": "2026-08-26",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "【27校招 - 通用研发】嵌入式软件工程师",
+  "company": "汇川技术",
+  "locations": [
+   "苏州",
+   "深圳",
+   "西安"
+  ],
+  "location_raw": "苏州 深圳 西安",
+  "publish_time_raw": "2026-08-06T14:09:53.538305",
+  "publish_time": "2026-08-27 17:51",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca28-7e91-b35d-7506cbd7eb67",
+  "extra": {
+   "segment": "集团业务-通用研发"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "afdf705a5d8341f4",
+  "first_seen": "2026-08-26",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "【27校招-通用研发】机器人算法工程师",
+  "company": "汇川技术",
+  "locations": [
+   "苏州",
+   "南京"
+  ],
+  "location_raw": "苏州 南京",
+  "publish_time_raw": "2026-07-09T19:15:15.152392",
+  "publish_time": "2026-08-27 17:40",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca28-7432-b356-0f355e91be61",
+  "extra": {
+   "segment": "集团业务-通用研发"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "0e10b9705f8ff9a0",
+  "first_seen": "2026-08-26",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "【27校招 - 通用研发】硬件测试工程师",
+  "company": "汇川技术",
+  "locations": [
+   "苏州",
+   "深圳",
+   "西安",
+   "南京"
+  ],
+  "location_raw": "苏州 深圳 西安 南京",
+  "publish_time_raw": "2026-08-06T14:43:12.006219",
+  "publish_time": "2026-08-27 17:29",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca2e-7f50-aaa7-2317786c4048",
+  "extra": {
+   "segment": "集团业务-通用研发"
+  },
+  "direction": "hardware",
+  "direction_label": "硬件设计",
+  "priority": "主投",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "575208946f7a86f6",
+  "first_seen": "2026-08-26",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "【27校招 - 通用研发】软件测试工程师",
+  "company": "汇川技术",
+  "locations": [
+   "苏州",
+   "深圳",
+   "西安",
+   "南京"
+  ],
+  "location_raw": "苏州 深圳 西安 南京",
+  "publish_time_raw": "2026-08-06T14:41:54.726157",
+  "publish_time": "2026-08-27 17:25",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca2e-79e3-aaa5-dc9d4b7c03ca",
+  "extra": {
+   "segment": "集团业务-通用研发"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "147713e0fce5db12",
+  "first_seen": "2026-08-26",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "【27校招 - 通用研发】机械测试工程师",
+  "company": "汇川技术",
+  "locations": [
+   "苏州",
+   "南京"
+  ],
+  "location_raw": "苏州 南京",
+  "publish_time_raw": "2026-08-06T14:44:37.574157",
+  "publish_time": "2026-08-27 17:22",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca2e-7e73-aaa6-2e1e5ef3bda2",
+  "extra": {
+   "segment": "集团业务-通用研发"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "95b2d620a4459975",
+  "first_seen": "2026-08-26",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "机器人导航算法实习生",
+  "company": "广东毕方智控科技有限公司",
+  "locations": [
+   "佛山"
+  ],
+  "location_raw": "佛山",
+  "publish_time_raw": "2026-08-27 13:50",
+  "publish_time": "2026-08-27 13:50",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-08-27 21:13",
+   "salary": "3-7K·12薪",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "fb4713230d1c38b8",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "机器人视觉算法实习生",
+  "company": "广东毕方智控科技有限公司",
+  "locations": [
+   "佛山"
+  ],
+  "location_raw": "佛山",
+  "publish_time_raw": "2026-08-27 13:46",
+  "publish_time": "2026-08-27 13:46",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-08-27 21:13",
+   "salary": "3-5K·12薪",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "32221c19c478816e",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "技术支持工程师（27届校招）",
+  "company": "海能达通信",
+  "locations": [
+   "东莞,哈尔滨,深圳"
+  ],
+  "location_raw": "东莞,哈尔滨,深圳",
+  "publish_time_raw": "2026-08-27 12:48",
+  "publish_time": "2026-08-27 12:48",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-08-27 21:41",
+   "salary": "11-20K·14薪",
+   "education": "",
+   "channel": "moka"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "bbcd072ce7341ea1",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
   "title": "璐濆３鎵炬埧",
   "company": "姝︽眽鐞嗗伐澶у��",
   "locations": [
@@ -490,30 +2130,684 @@
   "last_seen": "2026-08-27"
  },
  {
-  "title": "【27校招 - 通用研发】OS及驱动开发工程师",
-  "company": "汇川技术",
+  "title": "顶尖应届-具身大模型训练推理工程师-机器人事业部",
+  "company": "小米",
   "locations": [
-   "南京",
-   "深圳"
+   "北京"
   ],
-  "location_raw": "南京 深圳",
-  "publish_time_raw": "2026-08-21T11:17:25.416088",
-  "publish_time": "2026-08-27 09:26",
-  "source": "inovance",
-  "url": "https://recruit.inovance.com/#/campus/jobs/019fd5a9-6484-773f-89f7-1aee059cbeec",
+  "location_raw": "北京",
+  "publish_time_raw": "2026-06-04",
+  "publish_time": "2026-08-27 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7646711135333566739/detail",
   "extra": {
-   "segment": "集团业务-通用研发"
+   "department": "汽车部",
+   "lark_job_code": "A191039"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "硬件大厂",
+  "id": "adf88b4a81b3ab0b",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-08-27",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "顶尖应届-具身大模型数据工程师-机器人事业部",
+  "company": "小米",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "2026-06-04",
+  "publish_time": "2026-08-27 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7646711041901480228/detail",
+  "extra": {
+   "department": "汽车部",
+   "lark_job_code": "A35837"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "硬件大厂",
+  "id": "1da0736eb5a28397",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-08-27",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "中国区－汽车服务顾问（全国轮岗）",
+  "company": "小米",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "2026-08-20",
+  "publish_time": "2026-08-27 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7675291324488599814/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A137299"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "硬件大厂",
+  "id": "ca8d326de211fbd1",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-08-27",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "中国区-汽车培训校招生",
+  "company": "小米",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "2026-08-18",
+  "publish_time": "2026-08-27 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7675292531886983475/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A221877"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "硬件大厂",
+  "id": "1290e6389e1a307e",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-08-27",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "中国区-整车物流运输",
+  "company": "小米",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "2026-08-24",
+  "publish_time": "2026-08-27 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7675291819555490075/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A217647"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "硬件大厂",
+  "id": "ba6c00764b6d22dd",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-08-27",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "中国区-汽车一线服务专员",
+  "company": "小米",
+  "locations": [
+   "南京"
+  ],
+  "location_raw": "南京",
+  "publish_time_raw": "2026-08-18",
+  "publish_time": "2026-08-27 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671522987782719750/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A29729"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "a6385b1d470b6468",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-08-27",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "中国区-汽车一线服务专员",
+  "company": "小米",
+  "locations": [
+   "武汉"
+  ],
+  "location_raw": "武汉",
+  "publish_time_raw": "2026-08-18",
+  "publish_time": "2026-08-27 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671522167922673966/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A11365A"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "8bf4a9cf05ab5784",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-08-27",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "产品质量工程师-生态链",
+  "company": "小米",
+  "locations": [
+   "武汉"
+  ],
+  "location_raw": "武汉",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-08-27 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671292513986988298/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A06800"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "51344e2356e17e3b",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-08-27",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "整车音响系统工程师-汽车",
+  "company": "小米",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-08-27 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7670919111279708425/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A120007"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "硬件大厂",
+  "id": "5c2351c05349f7c2",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-08-27",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "VCU扭矩链算法开发工程师-汽车",
+  "company": "小米",
+  "locations": [
+   "南京"
+  ],
+  "location_raw": "南京",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-08-27 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7670918838867347721/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A234792"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "b05efea2631ef3bb",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-08-27",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "鍖椾含澶у�︿复搴婂尰瀛﹂珮绛夌爺绌堕櫌姝﹂槼涓拌�鹃�樼粍",
+  "company": "楂樻牎浜烘墠缃�",
+  "locations": [
+   "鍖椾含"
+  ],
+  "location_raw": "鍖椾含",
+  "publish_time_raw": "2026-08-27",
+  "publish_time": "2026-08-27 12:00",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-040-978.html",
+  "extra": {
+   "section": "beijing",
+   "kind": "鍗氬＋鍚�"
   },
   "direction": null,
   "direction_label": "",
   "priority": "",
   "region_level": "other",
   "company_tag": "",
-  "hq_city": "苏州",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "7d813cabd647a897",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "娓呭崕澶у�︿綋鑲查儴",
+  "company": "娓呭崕澶у�︽嫑鑱樼綉",
+  "locations": [
+   "鍖椾含"
+  ],
+  "location_raw": "鍖椾含",
+  "publish_time_raw": "2026-08-27",
+  "publish_time": "2026-08-27 12:00",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-040-962.html",
+  "extra": {
+   "section": "beijing",
+   "kind": "浣撹兘璁�缁冧笌搴峰�嶄腑蹇冨悍澶嶆暀缁�"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "5917dc19b5fe0dc1",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "娓呭崕澶у�︾簿瀵嗕华鍣ㄧ郴",
+  "company": "娓呭崕澶у�︽嫑鑱樼綉",
+  "locations": [
+   "鍖椾含"
+  ],
+  "location_raw": "鍖椾含",
+  "publish_time_raw": "2026-08-27",
+  "publish_time": "2026-08-27 12:00",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-040-963.html",
+  "extra": {
+   "section": "beijing",
+   "kind": "瓒呯簿瀵嗗厜鐢垫祴璇曟妧鏈�鍥㈤槦杞�浠跺墠绔�宸ョ▼甯�"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "7e1b464535b2936f",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "娓呭崕澶у�︽満姊板伐绋嬬郴",
+  "company": "娓呭崕澶у�︽嫑鑱樼綉",
+  "locations": [
+   "鍖椾含"
+  ],
+  "location_raw": "鍖椾含",
+  "publish_time_raw": "2026-08-27",
+  "publish_time": "2026-08-27 12:00",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-040-960.html",
+  "extra": {
+   "section": "beijing",
+   "kind": "鏅鸿兘鍒堕�犵郴缁熷缓璁惧強浼樺寲椤圭洰绉戠爺鍔╃悊"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "8f8de3c487359562",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "娓呭崕澶у�︿竾绉戝叕鍏卞崼鐢熶笌鍋ュ悍瀛﹂櫌",
+  "company": "娓呭崕澶у�︽嫑鑱樼綉",
+  "locations": [
+   "鍖椾含"
+  ],
+  "location_raw": "鍖椾含",
+  "publish_time_raw": "2026-08-27",
+  "publish_time": "2026-08-27 12:00",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-040-961.html",
+  "extra": {
+   "section": "beijing",
+   "kind": "鍏ㄧ悆鍗�鐢熶笌娌荤悊绉戠爺鍔╃悊TK-2"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "afa001ef8bdfbffb",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "鍖椾含灏忛┈鏄撹�岀�戞妧鏈夐檺鍏�鍙�",
+  "company": "鍖椾含鐞嗗伐澶у��",
+  "locations": [
+   "鍖椾含涓婃捣骞垮窞"
+  ],
+  "location_raw": "鍖椾含涓婃捣骞垮窞",
+  "publish_time_raw": "2026-08-27",
+  "publish_time": "2026-08-27 12:00",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-040-942.html",
+  "extra": {
+   "section": "beijing",
+   "kind": "宸ョ▼|绠楁硶|妯″瀷鐮斿彂宸ョ▼甯�"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "b16411ec31618a9e",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "鍥犺�猴紙涓婃捣锛夎祫浜х�＄悊鏈夐檺鍏�鍙�",
+  "company": "鍖椾含鐞嗗伐澶у��",
+  "locations": [
+   "鍖椾含涓婃捣"
+  ],
+  "location_raw": "鍖椾含涓婃捣",
+  "publish_time_raw": "2026-08-27",
+  "publish_time": "2026-08-27 12:00",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-040-941.html",
+  "extra": {
+   "section": "beijing",
+   "kind": "2027鏍″洯鎷涜仒"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "e3db06cae6c5e8a8",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "鎴垮北鍖烘暀鑲插�斿憳浼氭墍灞炰簨涓氬崟浣�",
+  "company": "鍖椾含甯備汉鍔涜祫婧愬拰绀句細淇濋殰灞�",
+  "locations": [
+   "鍖椾含"
+  ],
+  "location_raw": "鍖椾含",
+  "publish_time_raw": "2026-08-27",
+  "publish_time": "2026-08-27 12:00",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-040-862.html",
+  "extra": {
+   "section": "beijing",
+   "kind": "2026鎷涜仒"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "d4e37ecfa30dd8b8",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "娴锋穩鍖哄崼鐢熷仴搴峰�旀墍灞炰簨涓氬崟浣�",
+  "company": "鍖椾含甯備汉鍔涜祫婧愬拰绀句細淇濋殰灞�",
+  "locations": [
+   "鍖椾含"
+  ],
+  "location_raw": "鍖椾含",
+  "publish_time_raw": "2026-08-27",
+  "publish_time": "2026-08-27 12:00",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-040-863.html",
+  "extra": {
+   "section": "beijing",
+   "kind": "2026鎷涜仒"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "76dd8992e781163e",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "绂忓缓鍗氭�濊蒋浠惰偂浠芥湁闄愬叕鍙�",
+  "company": "瑗垮畨宸ョ▼澶у��",
+  "locations": [
+   "鍖椾含"
+  ],
+  "location_raw": "鍖椾含",
+  "publish_time_raw": "2026-08-27",
+  "publish_time": "2026-08-27 12:00",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-040-832.html",
+  "extra": {
+   "section": "beijing",
+   "kind": "agent绠楁硶宸ョ▼甯�"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "a8a2f15a52de71ee",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "骞冲畨閾惰��",
+  "company": "骞胯タ姘戞棌澶у��",
+  "locations": [
+   "鍖椾含涓婃捣骞夸笢澶╂触鍏跺畠"
+  ],
+  "location_raw": "鍖椾含涓婃捣骞夸笢澶╂触鍏跺畠",
+  "publish_time_raw": "2026-08-27",
+  "publish_time": "2026-08-27 12:00",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-040-780.html",
+  "extra": {
+   "section": "beijing",
+   "kind": "2027鏍″洯鎷涜仒"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "a2bdaef4f79b4222",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "鍖椾含鍥涗腑鎴垮北鍒嗘牎",
+  "company": "涓滃寳楂樺笀灏变笟鑱旂洘缃�",
+  "locations": [
+   "鍖椾含"
+  ],
+  "location_raw": "鍖椾含",
+  "publish_time_raw": "2026-08-27",
+  "publish_time": "2026-08-27 12:00",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-040-779.html",
+  "extra": {
+   "section": "beijing",
+   "kind": "2026鏍″洯鎷涜仒"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "783f86cfa5e26e40",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "集成电路IC设计",
+  "company": "深圳市楠菲微电子股份有限公司",
+  "locations": [
+   "成都"
+  ],
+  "location_raw": "成都",
+  "publish_time_raw": "2026-08-27 10:53",
+  "publish_time": "2026-08-27 10:53",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-08-27 21:13",
+   "salary": "15-25K·12薪",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "芯片半导体大厂",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "38a820aea3334f47",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "业务管培生（运力调度）",
+  "company": "满帮集团",
+  "locations": [
+   "南京"
+  ],
+  "location_raw": "南京",
+  "publish_time_raw": "2026-08-27 10:10",
+  "publish_time": "2026-08-27 10:10",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-08-27 21:13",
+   "salary": "薪资面议",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "9260b74f5dc63215",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "AI 应用研发工程师",
+  "company": "天猫技术",
+  "locations": [
+   "杭州"
+  ],
+  "location_raw": "杭州",
+  "publish_time_raw": "2026-08-27 10:02",
+  "publish_time": "2026-08-27 10:02",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-08-27 21:13",
+   "salary": "18-28K·16薪",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "杭州",
   "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "27bc19e24a302b8f",
-  "first_seen": "2026-08-26",
+  "industry": "互联网",
+  "id": "cd8b73834b793c21",
+  "first_seen": "2026-08-27",
   "last_seen": "2026-08-27"
  },
  {
@@ -539,59 +2833,6 @@
   "size_bucket": "10000+",
   "industry": "硬件",
   "id": "0d1278d323242256",
-  "first_seen": "2026-08-26",
-  "last_seen": "2026-08-27"
- },
- {
-  "title": "【27校招-通用研发】机器人系统软件工程师",
-  "company": "汇川技术",
-  "locations": [
-   "苏州",
-   "南京"
-  ],
-  "location_raw": "苏州 南京",
-  "publish_time_raw": "2026-08-26T19:31:12.751056",
-  "publish_time": "2026-08-26 19:31",
-  "source": "inovance",
-  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca29-7376-9ecf-7fd30ee398ac",
-  "extra": {
-   "segment": "集团业务-通用研发"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "",
-  "hq_city": "苏州",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "ae47a4a17d6e3314",
-  "first_seen": "2026-08-26",
-  "last_seen": "2026-08-27"
- },
- {
-  "title": "【27校招 - 通用研发】运动控制算法工程师（人形机器人）",
-  "company": "汇川技术",
-  "locations": [
-   "苏州"
-  ],
-  "location_raw": "苏州",
-  "publish_time_raw": "2026-08-11T15:46:16.956251",
-  "publish_time": "2026-08-26 19:10",
-  "source": "inovance",
-  "url": "https://recruit.inovance.com/#/campus/jobs/019fefc9-48c2-7530-86d1-ab53c8ea5a02",
-  "extra": {
-   "segment": ""
-  },
-  "direction": "robot_hardware",
-  "direction_label": "机器人/具身硬件",
-  "priority": "主投",
-  "region_level": "other",
-  "company_tag": "",
-  "hq_city": "苏州",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "fe719a9aeabe675e",
   "first_seen": "2026-08-26",
   "last_seen": "2026-08-27"
  },
@@ -3335,60 +5576,6 @@
   "industry": "硬件"
  },
  {
-  "title": "顶尖应届-具身大模型训练推理工程师-机器人事业部",
-  "company": "小米",
-  "locations": [
-   "北京"
-  ],
-  "location_raw": "北京",
-  "publish_time_raw": "2026-06-04",
-  "publish_time": "2026-08-26 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7646711135333566739/detail",
-  "extra": {
-   "department": "汽车部",
-   "lark_job_code": "A191039"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "primary",
-  "company_tag": "硬件大厂",
-  "id": "adf88b4a81b3ab0b",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-08-27",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "顶尖应届-具身大模型数据工程师-机器人事业部",
-  "company": "小米",
-  "locations": [
-   "北京"
-  ],
-  "location_raw": "北京",
-  "publish_time_raw": "2026-06-04",
-  "publish_time": "2026-08-26 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7646711041901480228/detail",
-  "extra": {
-   "department": "汽车部",
-   "lark_job_code": "A35837"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "primary",
-  "company_tag": "硬件大厂",
-  "id": "1da0736eb5a28397",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-08-27",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
   "title": "顶尖应届-具身大模型算法研究员-机器人事业部",
   "company": "小米",
   "locations": [
@@ -3618,59 +5805,6 @@
   "last_seen": "2026-08-27"
  },
  {
-  "title": "【27校招 - 通用研发】机械设计工程师（日本）",
-  "company": "汇川技术",
-  "locations": [
-   "日本",
-   "苏州"
-  ],
-  "location_raw": "日本 苏州",
-  "publish_time_raw": "2026-08-06T16:23:18.797233",
-  "publish_time": "2026-08-26 11:51",
-  "source": "inovance",
-  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca31-76ec-9d49-8906f2121e77",
-  "extra": {
-   "segment": "集团业务-通用研发"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "",
-  "hq_city": "苏州",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "db079e132bb30927",
-  "first_seen": "2026-08-26",
-  "last_seen": "2026-08-27"
- },
- {
-  "title": "【27校招 - 通用研发】机械设计工程师（博士）",
-  "company": "汇川技术",
-  "locations": [
-   "苏州"
-  ],
-  "location_raw": "苏州",
-  "publish_time_raw": "2026-08-14T09:48:00.050605",
-  "publish_time": "2026-08-26 11:46",
-  "source": "inovance",
-  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca33-70d8-b0ef-a598e0ba70e7",
-  "extra": {
-   "segment": "集团业务-通用研发"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "",
-  "hq_city": "苏州",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "0d6408edcf165e3e",
-  "first_seen": "2026-08-26",
-  "last_seen": "2026-08-27"
- },
- {
   "title": "AI产品经理",
   "company": "百度",
   "locations": [
@@ -3698,33 +5832,6 @@
   "id": "244f66d92f38d5a6",
   "first_seen": "2026-08-26",
   "last_seen": "2026-08-26"
- },
- {
-  "title": "【27校招-通用研发】流体工程师（博士）",
-  "company": "汇川技术",
-  "locations": [
-   "苏州",
-   "南京"
-  ],
-  "location_raw": "苏州 南京",
-  "publish_time_raw": "2026-07-09T19:15:15.155788",
-  "publish_time": "2026-08-26 11:41",
-  "source": "inovance",
-  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca31-7e9f-9d4b-349cc981227a",
-  "extra": {
-   "segment": "集团业务-通用研发"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "",
-  "hq_city": "苏州",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "68267c33b4a9949d",
-  "first_seen": "2026-08-26",
-  "last_seen": "2026-08-27"
  },
  {
   "title": "算法工程师",
@@ -5041,33 +7148,6 @@
   "industry": "硬件"
  },
  {
-  "title": "中国区－汽车服务顾问（全国轮岗）",
-  "company": "小米",
-  "locations": [
-   "北京"
-  ],
-  "location_raw": "北京",
-  "publish_time_raw": "2026-08-20",
-  "publish_time": "2026-08-25 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7675291324488599814/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A137299"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "primary",
-  "company_tag": "硬件大厂",
-  "id": "ca8d326de211fbd1",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-08-27",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
   "title": "中国区-服务客服专员",
   "company": "小米",
   "locations": [
@@ -5331,33 +7411,6 @@
   "region_level": "primary",
   "company_tag": "硬件大厂",
   "id": "8a8731c390d5c8f4",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-08-27",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "中国区-汽车培训校招生",
-  "company": "小米",
-  "locations": [
-   "北京"
-  ],
-  "location_raw": "北京",
-  "publish_time_raw": "2026-08-18",
-  "publish_time": "2026-08-25 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7675292531886983475/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A221877"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "primary",
-  "company_tag": "硬件大厂",
-  "id": "1290e6389e1a307e",
   "first_seen": "2026-08-24",
   "last_seen": "2026-08-27",
   "hq_city": "北京",
@@ -6000,33 +8053,6 @@
   "industry": "硬件"
  },
  {
-  "title": "中国区-整车物流运输",
-  "company": "小米",
-  "locations": [
-   "北京"
-  ],
-  "location_raw": "北京",
-  "publish_time_raw": "2026-08-24",
-  "publish_time": "2026-08-24 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7675291819555490075/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A217647"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "primary",
-  "company_tag": "硬件大厂",
-  "id": "ba6c00764b6d22dd",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-08-27",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
   "title": "操作系统工程师",
   "company": "小米",
   "locations": [
@@ -6241,32 +8267,6 @@
   "last_seen": "2026-08-27"
  },
  {
-  "title": "【27校招 - 通用研发】视觉AI算法工程师（智能机器人）",
-  "company": "汇川技术",
-  "locations": [
-   "南京"
-  ],
-  "location_raw": "南京",
-  "publish_time_raw": "2026-08-24T10:05:47.96464",
-  "publish_time": "2026-08-24 10:05",
-  "source": "inovance",
-  "url": "https://recruit.inovance.com/#/campus/jobs/019fd5a4-2610-7fb4-9ed2-77da94d15d67",
-  "extra": {
-   "segment": "集团业务-通用研发"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "",
-  "hq_city": "苏州",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "2dc902a7196f8c49",
-  "first_seen": "2026-08-26",
-  "last_seen": "2026-08-27"
- },
- {
   "title": "人工智能",
   "company": "成都华为技术有限公司",
   "locations": [
@@ -6294,33 +8294,6 @@
   "id": "5dd5241e46f6fec0",
   "first_seen": "2026-08-26",
   "last_seen": "2026-08-26"
- },
- {
-  "title": "【27校招 - 通用研发】定制设计工程师",
-  "company": "汇川技术",
-  "locations": [
-   "上海",
-   "浙江省"
-  ],
-  "location_raw": "上海 浙江省",
-  "publish_time_raw": "2026-08-24T10:03:29.835137",
-  "publish_time": "2026-08-24 10:03",
-  "source": "inovance",
-  "url": "https://recruit.inovance.com/#/campus/jobs/019fd5bb-4148-7888-84f6-a4a8ff8853d3",
-  "extra": {
-   "segment": "集团业务-通用研发"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "secondary",
-  "company_tag": "",
-  "hq_city": "苏州",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "8e986ff7dc7b9f84",
-  "first_seen": "2026-08-26",
-  "last_seen": "2026-08-27"
  },
  {
   "title": "算法工程师",
@@ -6385,6 +8358,115 @@
   "last_seen": "2026-08-26"
  },
  {
+  "title": "半亩花田 校招网申（27届秋招）",
+  "company": "半亩花田",
+  "locations": [
+   "厦门",
+   "济南",
+   "广州",
+   "上海"
+  ],
+  "location_raw": "厦门 济南 广州 上海",
+  "publish_time_raw": "2026-08-23",
+  "publish_time": "2026-08-23 12:00",
+  "deadline": "2026-10-23",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "电商",
+   "careers": "后端开发 测试 数据 运维 研发工程师 通信",
+   "note": "国内身体护理核心品牌，全渠道布局，产品研发与品牌运营能力突出。"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "51dcf3416c02f0cd",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "亚马逊 校招网申（27届秋招）",
+  "company": "亚马逊",
+  "locations": [
+   "深圳",
+   "北京",
+   "上海",
+   "香港"
+  ],
+  "location_raw": "深圳 北京 上海 香港",
+  "publish_time_raw": "2026-08-23",
+  "publish_time": "2026-08-23 12:00",
+  "deadline": "2026-10-23",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "",
+   "careers": "后端开发 前端开发 客户端开发 测试 数据 运维",
+   "note": "全球电商与云计算龙头，全生态布局，技术研发与全球化运营能力全球领先。"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "4e4e4f7bd0dbc624",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "江苏新东方 校招网申（27届秋招）",
+  "company": "江苏新东方",
+  "locations": [
+   "南京",
+   "徐州",
+   "常州",
+   "南通",
+   "连云港",
+   "淮安",
+   "盐城",
+   "扬州",
+   "镇江",
+   "泰州",
+   "宿迁"
+  ],
+  "location_raw": "南京 徐州 常州 南通 连云港 淮安 盐城 扬州 镇江 泰州 宿迁",
+  "publish_time_raw": "2026-08-23",
+  "publish_time": "2026-08-23 12:00",
+  "deadline": "2026-10-23",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "",
+   "careers": "运营 市场/营销 采编/写作/出版 影视媒体 管理 人事",
+   "note": "区域头部教育培训机构，教研体系完善，全品类教育服务能力突出。"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "c3b2d4adee6c35b6",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
   "title": "【27校招 - 通用研发】通信软件工程师（工业总线方向）",
   "company": "汇川技术",
   "locations": [
@@ -6436,32 +8518,6 @@
   "size_bucket": "10000+",
   "industry": "硬件",
   "id": "1fe8f1a3cbe6132c",
-  "first_seen": "2026-08-26",
-  "last_seen": "2026-08-27"
- },
- {
-  "title": "【27校招 - 通用研发】编码器算法工程师（博士）",
-  "company": "汇川技术",
-  "locations": [
-   "苏州"
-  ],
-  "location_raw": "苏州",
-  "publish_time_raw": "2026-08-21T18:16:07.334966",
-  "publish_time": "2026-08-21 18:16",
-  "source": "inovance",
-  "url": "https://recruit.inovance.com/#/campus/jobs/019fd5ae-5e93-75cf-84b0-fe6460724536",
-  "extra": {
-   "segment": "集团业务-通用研发"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "",
-  "hq_city": "苏州",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "037f2957c7a8c79f",
   "first_seen": "2026-08-26",
   "last_seen": "2026-08-27"
  },
@@ -6973,6 +9029,64 @@
   "last_seen": "2026-08-27"
  },
  {
+  "title": "Java研发工程师-西安",
+  "company": "电科金仓",
+  "locations": [
+   "西安"
+  ],
+  "location_raw": "西安",
+  "publish_time_raw": "2026-08-21 09:41",
+  "publish_time": "2026-08-21 09:41",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-08-27 21:22",
+   "salary": "14000-17000K·12薪",
+   "education": "",
+   "channel": "moka"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "c12f352e6eb67063",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "Java研发工程师-成都",
+  "company": "电科金仓",
+  "locations": [
+   "成都"
+  ],
+  "location_raw": "成都",
+  "publish_time_raw": "2026-08-21 09:40",
+  "publish_time": "2026-08-21 09:40",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-08-27 21:22",
+   "salary": "14000-17000K·12薪",
+   "education": "",
+   "channel": "moka"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "10d2b2a30ffa4709",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
   "title": "硬件开发开发(深圳、上海、杭州）",
   "company": "华为HUAWEI",
   "locations": [
@@ -7103,32 +9217,6 @@
   "size_bucket": "10000+",
   "industry": "硬件",
   "id": "34a132d0a195e932",
-  "first_seen": "2026-08-26",
-  "last_seen": "2026-08-27"
- },
- {
-  "title": "【27校招 - 机器人】方案开发工程师（智能机器人方向）",
-  "company": "汇川技术",
-  "locations": [
-   "全国"
-  ],
-  "location_raw": "全国",
-  "publish_time_raw": "2026-08-20T17:21:14.572595",
-  "publish_time": "2026-08-20 17:21",
-  "source": "inovance",
-  "url": "https://recruit.inovance.com/#/campus/jobs/019ff950-3c1b-76ba-809f-764b8aaf68c0",
-  "extra": {
-   "segment": "集团业务-智能机器人"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "",
-  "hq_city": "苏州",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "0f178f6aedd25130",
   "first_seen": "2026-08-26",
   "last_seen": "2026-08-27"
  },
@@ -7299,32 +9387,6 @@
   "last_seen": "2026-08-27"
  },
  {
-  "title": "【27校招 - 通用研发】CAD/CAM软件工程师(博士)",
-  "company": "汇川技术",
-  "locations": [
-   "苏州"
-  ],
-  "location_raw": "苏州",
-  "publish_time_raw": "2026-08-20T14:26:34.776827",
-  "publish_time": "2026-08-20 14:26",
-  "source": "inovance",
-  "url": "https://recruit.inovance.com/#/campus/jobs/01a01dd9-9360-7ad5-bd92-8a9329dfb44a",
-  "extra": {
-   "segment": ""
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "",
-  "hq_city": "苏州",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "321fa54f7c9b37ef",
-  "first_seen": "2026-08-26",
-  "last_seen": "2026-08-27"
- },
- {
   "title": "【27校招 - 机器人】技术服务工程师（智能机器人方向）",
   "company": "汇川技术",
   "locations": [
@@ -7428,6 +9490,42 @@
   "industry": "硬件",
   "id": "c9aab488ff66c7a6",
   "first_seen": "2026-08-26",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "震坤行 校招网申（27届秋招）",
+  "company": "震坤行",
+  "locations": [
+   "苏州",
+   "深圳",
+   "西安",
+   "乌鲁木齐",
+   "北京",
+   "上海"
+  ],
+  "location_raw": "苏州 深圳 西安 乌鲁木齐 北京 上海",
+  "publish_time_raw": "2026-08-20",
+  "publish_time": "2026-08-20 12:00",
+  "deadline": "2026-10-20",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "信息安全 互联网",
+   "careers": "人工智能/算法 机械 化工 电气/自动化 技术支持 产品",
+   "note": "国内工业用品电商龙头，全品类布局，数字化供应链服务能力突出。"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "03e30ae8a6fd45ab",
+  "first_seen": "2026-08-27",
   "last_seen": "2026-08-27"
  },
  {
@@ -7874,6 +9972,35 @@
   "last_seen": "2026-08-27"
  },
  {
+  "title": "测试工程师-成都",
+  "company": "电科金仓",
+  "locations": [
+   "成都"
+  ],
+  "location_raw": "成都",
+  "publish_time_raw": "2026-08-20 09:44",
+  "publish_time": "2026-08-20 09:44",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-08-27 21:22",
+   "salary": "12000-14000K·12薪",
+   "education": "",
+   "channel": "moka"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "7ece965bdb374687",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
   "title": "【27校招 - 经纬轨道】结构工程师",
   "company": "汇川技术",
   "locations": [
@@ -8289,6 +10416,35 @@
   "last_seen": "2026-08-27"
  },
  {
+  "title": "测试工程师-西安",
+  "company": "电科金仓",
+  "locations": [
+   "西安"
+  ],
+  "location_raw": "西安",
+  "publish_time_raw": "2026-08-19 09:29",
+  "publish_time": "2026-08-19 09:29",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-08-27 21:22",
+   "salary": "12000-14000K·12薪",
+   "education": "",
+   "channel": "moka"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "8fc283efbcdc1f01",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
   "title": "阿里巴巴Agent应用研发工程师",
   "company": "淘天集团",
   "locations": [
@@ -8555,60 +10711,6 @@
   "id": "74959a581ace35c1",
   "first_seen": "2026-08-26",
   "last_seen": "2026-08-27"
- },
- {
-  "title": "中国区-汽车一线服务专员",
-  "company": "小米",
-  "locations": [
-   "南京"
-  ],
-  "location_raw": "南京",
-  "publish_time_raw": "2026-08-18",
-  "publish_time": "2026-08-18 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671522987782719750/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A29729"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "a6385b1d470b6468",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-08-27",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "中国区-汽车一线服务专员",
-  "company": "小米",
-  "locations": [
-   "武汉"
-  ],
-  "location_raw": "武汉",
-  "publish_time_raw": "2026-08-18",
-  "publish_time": "2026-08-18 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671522167922673966/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A11365A"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "8bf4a9cf05ab5784",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-08-27",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
  },
  {
   "title": "中国区-汽车线上技术专员",
@@ -10636,6 +12738,64 @@
   "last_seen": "2026-08-27"
  },
  {
+  "title": "【27届秋招】项目管理（海外发行）",
+  "company": "完美世界",
+  "locations": [
+   "上海"
+  ],
+  "location_raw": "上海",
+  "publish_time_raw": "2026-08-18 04:18",
+  "publish_time": "2026-08-18 04:18",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-08-27 21:13",
+   "salary": "13-30K·14薪",
+   "education": "",
+   "channel": "moka"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "18ab5147490c3127",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "【27届秋招】海外支付运营",
+  "company": "完美世界",
+  "locations": [
+   "上海"
+  ],
+  "location_raw": "上海",
+  "publish_time_raw": "2026-08-18 03:28",
+  "publish_time": "2026-08-18 03:28",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-08-27 21:13",
+   "salary": "13-30K·14薪",
+   "education": "",
+   "channel": "moka"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "771bfe03203f6243",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
   "title": "【27校招-市场】运营管理工程师（流程）",
   "company": "汇川技术",
   "locations": [
@@ -10964,82 +13124,37 @@
   "last_seen": "2026-08-27"
  },
  {
-  "title": "【27校招 - 通用研发】机械设计工程师（减速机）",
-  "company": "汇川技术",
+  "title": "赛轮集团 校招网申（27届秋招）",
+  "company": "赛轮集团",
   "locations": [
-   "南京"
+   "沈阳",
+   "青岛",
+   "东营",
+   "潍坊"
   ],
-  "location_raw": "南京",
-  "publish_time_raw": "2026-08-17T10:04:03.751506",
-  "publish_time": "2026-08-17 10:04",
-  "source": "inovance",
-  "url": "https://recruit.inovance.com/#/campus/jobs/01a00d76-2334-709c-a166-6c30222083aa",
+  "location_raw": "沈阳 青岛 东营 潍坊",
+  "publish_time_raw": "2026-08-17",
+  "publish_time": "2026-08-17 12:00",
+  "deadline": "2026-10-17",
+  "source": "nowcoder_schedule",
+  "url": "",
   "extra": {
-   "segment": ""
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "",
+   "careers": "测试 人工智能/算法 机械 化工 电气/自动化 能源",
+   "note": "国内轮胎行业龙头企业，全产业链布局，技术研发与全球化能力领先。"
   },
   "direction": null,
   "direction_label": "",
   "priority": "",
   "region_level": "other",
   "company_tag": "",
-  "hq_city": "苏州",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "c4c894c95255a543",
-  "first_seen": "2026-08-26",
-  "last_seen": "2026-08-27"
- },
- {
-  "title": "【27校招 - 通用研发】可靠性测试工程师",
-  "company": "汇川技术",
-  "locations": [
-   "苏州",
-   "深圳"
-  ],
-  "location_raw": "苏州 深圳",
-  "publish_time_raw": "2026-08-17T10:01:18.188885",
-  "publish_time": "2026-08-17 10:01",
-  "source": "inovance",
-  "url": "https://recruit.inovance.com/#/campus/jobs/01a00d73-9f20-79d9-b1f1-61387688fc6f",
-  "extra": {
-   "segment": ""
-  },
-  "direction": "test_verify",
-  "direction_label": "硬件测试/验证",
-  "priority": "副投",
-  "region_level": "other",
-  "company_tag": "",
-  "hq_city": "苏州",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "5f81bc5307f836c3",
-  "first_seen": "2026-08-26",
-  "last_seen": "2026-08-27"
- },
- {
-  "title": "【27校招 - 通用研发】固本运维工程师（智能机器人）",
-  "company": "汇川技术",
-  "locations": [
-   "南京"
-  ],
-  "location_raw": "南京",
-  "publish_time_raw": "2026-08-17T10:00:53.967612",
-  "publish_time": "2026-08-17 10:00",
-  "source": "inovance",
-  "url": "https://recruit.inovance.com/#/campus/jobs/01a00d73-41eb-7934-8d3f-41b4b29b441e",
-  "extra": {
-   "segment": ""
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "",
-  "hq_city": "苏州",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "6f721b970edfad5b",
-  "first_seen": "2026-08-26",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "1b12364be910fedc",
+  "first_seen": "2026-08-27",
   "last_seen": "2026-08-27"
  },
  {
@@ -11091,220 +13206,6 @@
   "size_bucket": "10000+",
   "industry": "硬件",
   "id": "f6f1a7b0dab77f07",
-  "first_seen": "2026-08-26",
-  "last_seen": "2026-08-27"
- },
- {
-  "title": "【27校招 - 通用研发】项目运营工程师",
-  "company": "汇川技术",
-  "locations": [
-   "苏州",
-   "西安"
-  ],
-  "location_raw": "苏州 西安",
-  "publish_time_raw": "2026-08-17T09:55:17.465112",
-  "publish_time": "2026-08-17 09:55",
-  "source": "inovance",
-  "url": "https://recruit.inovance.com/#/campus/jobs/01a00d6e-20bb-7008-ae21-0d5281ca4326",
-  "extra": {
-   "segment": ""
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "",
-  "hq_city": "苏州",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "ae593ae1d47b905c",
-  "first_seen": "2026-08-26",
-  "last_seen": "2026-08-27"
- },
- {
-  "title": "【27校招 - 通用研发】功能安全工程师",
-  "company": "汇川技术",
-  "locations": [
-   "西安",
-   "苏州",
-   "深圳"
-  ],
-  "location_raw": "西安 苏州 深圳",
-  "publish_time_raw": "2026-08-17T09:53:50.329284",
-  "publish_time": "2026-08-17 09:53",
-  "source": "inovance",
-  "url": "https://recruit.inovance.com/#/campus/jobs/01a00d6c-ccc3-760c-8d97-f73c09abce60",
-  "extra": {
-   "segment": ""
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "",
-  "hq_city": "苏州",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "28abd0fcca2bbc91",
-  "first_seen": "2026-08-26",
-  "last_seen": "2026-08-27"
- },
- {
-  "title": "【27校招 - 通用研发】传感器算法工程师（博士-激光方向）",
-  "company": "汇川技术",
-  "locations": [
-   "苏州"
-  ],
-  "location_raw": "苏州",
-  "publish_time_raw": "2026-08-17T09:51:04.327905",
-  "publish_time": "2026-08-17 09:51",
-  "source": "inovance",
-  "url": "https://recruit.inovance.com/#/campus/jobs/01a00d6a-43a4-7056-9c1b-8b882f7ff18f",
-  "extra": {
-   "segment": ""
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "",
-  "hq_city": "苏州",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "2d55c06e40583149",
-  "first_seen": "2026-08-26",
-  "last_seen": "2026-08-27"
- },
- {
-  "title": "【27校招 - 通用研发】研发效能工程师",
-  "company": "汇川技术",
-  "locations": [
-   "南京",
-   "深圳",
-   "西安"
-  ],
-  "location_raw": "南京 深圳 西安",
-  "publish_time_raw": "2026-08-17T09:49:25.382382",
-  "publish_time": "2026-08-17 09:49",
-  "source": "inovance",
-  "url": "https://recruit.inovance.com/#/campus/jobs/01a00d68-bfeb-7a6d-b14f-573584c33191",
-  "extra": {
-   "segment": ""
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "",
-  "hq_city": "苏州",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "37e717bccf3a4dfb",
-  "first_seen": "2026-08-26",
-  "last_seen": "2026-08-27"
- },
- {
-  "title": "【27校招 - 通用研发】传感器算法工程师（（博士-光学类）",
-  "company": "汇川技术",
-  "locations": [
-   "苏州"
-  ],
-  "location_raw": "苏州",
-  "publish_time_raw": "2026-08-17T09:48:03.323813",
-  "publish_time": "2026-08-17 09:48",
-  "source": "inovance",
-  "url": "https://recruit.inovance.com/#/campus/jobs/01a00d67-7a78-7c2f-b009-3ff38291a0a4",
-  "extra": {
-   "segment": ""
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "",
-  "hq_city": "苏州",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "81b0f42009a57227",
-  "first_seen": "2026-08-26",
-  "last_seen": "2026-08-27"
- },
- {
-  "title": "【27校招 - 通用研发】工艺开发软件工程师",
-  "company": "汇川技术",
-  "locations": [
-   "苏州"
-  ],
-  "location_raw": "苏州",
-  "publish_time_raw": "2026-08-17T09:43:11.480436",
-  "publish_time": "2026-08-17 09:43",
-  "source": "inovance",
-  "url": "https://recruit.inovance.com/#/campus/jobs/01a00d63-0b1f-7599-8f8e-79ead0c9db53",
-  "extra": {
-   "segment": ""
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "",
-  "hq_city": "苏州",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "1d8a868ac8cb1674",
-  "first_seen": "2026-08-26",
-  "last_seen": "2026-08-27"
- },
- {
-  "title": "【27校招 - 通用研发】传感器结构设计工程师",
-  "company": "汇川技术",
-  "locations": [
-   "苏州"
-  ],
-  "location_raw": "苏州",
-  "publish_time_raw": "2026-08-17T09:42:28.218236",
-  "publish_time": "2026-08-17 09:42",
-  "source": "inovance",
-  "url": "https://recruit.inovance.com/#/campus/jobs/01a00d62-6395-798b-8248-736f8f39597d",
-  "extra": {
-   "segment": ""
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "",
-  "hq_city": "苏州",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "27b76e68a53c2a93",
-  "first_seen": "2026-08-26",
-  "last_seen": "2026-08-27"
- },
- {
-  "title": "【27校招 - 通用研发】CAD/CAM软件工程师",
-  "company": "汇川技术",
-  "locations": [
-   "苏州",
-   "西安"
-  ],
-  "location_raw": "苏州 西安",
-  "publish_time_raw": "2026-08-17T09:34:27.269444",
-  "publish_time": "2026-08-17 09:34",
-  "source": "inovance",
-  "url": "https://recruit.inovance.com/#/campus/jobs/01a00d5b-09bc-7941-9529-7e78d3ef740b",
-  "extra": {
-   "segment": ""
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "",
-  "hq_city": "苏州",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "19b4ac4ebc17f475",
   "first_seen": "2026-08-26",
   "last_seen": "2026-08-27"
  },
@@ -11386,6 +13287,37 @@
   "last_seen": "2026-08-27"
  },
  {
+  "title": "柏诚系统科技股份有限公司 校招网申（27届秋招）",
+  "company": "柏诚系统科技股份有限公司",
+  "locations": [
+   "无锡"
+  ],
+  "location_raw": "无锡",
+  "publish_time_raw": "2026-08-16",
+  "publish_time": "2026-08-16 12:00",
+  "deadline": "2026-10-16",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "",
+   "careers": "运维 研发工程师 化工 电气/自动化 技术支持 运营",
+   "note": "国内洁净室工程核心企业，技术积淀深厚，半导体洁净工程能力领先。"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "38ebdfbce5ee3b2b",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
   "title": "Agent 算法工程师- 27届蓝极星",
   "company": "vivo",
   "locations": [],
@@ -11408,32 +13340,6 @@
   "size_bucket": "10000+",
   "industry": "硬件",
   "id": "4032dbefa203fcf8",
-  "first_seen": "2026-08-26",
-  "last_seen": "2026-08-27"
- },
- {
-  "title": "【27校招 - 通用研发】封装工程师",
-  "company": "汇川技术",
-  "locations": [
-   "苏州"
-  ],
-  "location_raw": "苏州",
-  "publish_time_raw": "2026-08-14T15:28:49.832827",
-  "publish_time": "2026-08-14 15:28",
-  "source": "inovance",
-  "url": "https://recruit.inovance.com/#/campus/jobs/019ffee9-5d88-7916-a33c-64abe579c9b9",
-  "extra": {
-   "segment": ""
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "",
-  "hq_city": "苏州",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "a9d4aac854560f7b",
   "first_seen": "2026-08-26",
   "last_seen": "2026-08-27"
  },
@@ -11890,6 +13796,35 @@
   "last_seen": "2026-08-27"
  },
  {
+  "title": "27届(秋)校招-阿里巴巴-百炼-AI infra-Post Training-算法/研发工程师",
+  "company": "阿里巴巴控股集团",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "2026-08-13 03:42",
+  "publish_time": "2026-08-13 03:42",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-08-27 21:13",
+   "salary": "30-45K·17薪",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "互联网大厂",
+  "hq_city": "杭州",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "b1a2cd0e298e74c0",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
   "title": "图像算法工程师（智能稳像方向）--27届蓝极星",
   "company": "vivo",
   "locations": [],
@@ -12123,32 +14058,6 @@
   "size_bucket": "10000+",
   "industry": "硬件",
   "id": "5adfa223216e22e6",
-  "first_seen": "2026-08-26",
-  "last_seen": "2026-08-27"
- },
- {
-  "title": "【27校招 - 通用研发】具身智能算法工程师（VLA/WAM方向）",
-  "company": "汇川技术",
-  "locations": [
-   "上海"
-  ],
-  "location_raw": "上海",
-  "publish_time_raw": "2026-08-12T14:26:11.434976",
-  "publish_time": "2026-08-12 14:26",
-  "source": "inovance",
-  "url": "https://recruit.inovance.com/#/campus/jobs/019ff4a6-4e72-7719-9b4a-28d385381f35",
-  "extra": {
-   "segment": ""
-  },
-  "direction": "robot_hardware",
-  "direction_label": "机器人/具身硬件",
-  "priority": "主投",
-  "region_level": "secondary",
-  "company_tag": "",
-  "hq_city": "苏州",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "ece6b8a5afb302c3",
   "first_seen": "2026-08-26",
   "last_seen": "2026-08-27"
  },
@@ -12607,34 +14516,6 @@
   "size_bucket": "10000+",
   "industry": "硬件",
   "id": "219c92a2c4eecbbc",
-  "first_seen": "2026-08-26",
-  "last_seen": "2026-08-27"
- },
- {
-  "title": "【27校招 - 通用研发】产品信息安全工程师",
-  "company": "汇川技术",
-  "locations": [
-   "苏州",
-   "西安",
-   "深圳"
-  ],
-  "location_raw": "苏州 西安 深圳",
-  "publish_time_raw": "2026-08-11T16:46:19.129397",
-  "publish_time": "2026-08-11 16:46",
-  "source": "inovance",
-  "url": "https://recruit.inovance.com/#/campus/jobs/019ff000-41b8-707a-925e-c228f7ce37cf",
-  "extra": {
-   "segment": ""
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "",
-  "hq_city": "苏州",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "5c6f732c49fce838",
   "first_seen": "2026-08-26",
   "last_seen": "2026-08-27"
  },
@@ -21048,33 +22929,6 @@
   "industry": "硬件"
  },
  {
-  "title": "产品质量工程师-生态链",
-  "company": "小米",
-  "locations": [
-   "武汉"
-  ],
-  "location_raw": "武汉",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671292513986988298/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A06800"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "51344e2356e17e3b",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-08-27",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
   "title": "人力资源专员-招聘",
   "company": "小米",
   "locations": [
@@ -25469,33 +27323,6 @@
   "industry": "硬件"
  },
  {
-  "title": "整车音响系统工程师-汽车",
-  "company": "小米",
-  "locations": [
-   "北京"
-  ],
-  "location_raw": "北京",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7670919111279708425/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A120007"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "primary",
-  "company_tag": "硬件大厂",
-  "id": "5c2351c05349f7c2",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-08-27",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
   "title": "小米汽车-技术采购工程师",
   "company": "小米",
   "locations": [
@@ -25869,33 +27696,6 @@
   "region_level": "primary",
   "company_tag": "硬件大厂",
   "id": "1904cfa2779f0419",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-08-27",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "VCU扭矩链算法开发工程师-汽车",
-  "company": "小米",
-  "locations": [
-   "南京"
-  ],
-  "location_raw": "南京",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7670918838867347721/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A234792"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "b05efea2631ef3bb",
   "first_seen": "2026-08-24",
   "last_seen": "2026-08-27",
   "hq_city": "北京",
@@ -33111,56 +34911,32 @@
   "industry": "硬件"
  },
  {
-  "title": "【27校招 - 通用研发】仿真工程师（博士）",
-  "company": "汇川技术",
+  "title": "华为计算秋招岗",
+  "company": "华为HUAWEI",
   "locations": [
-   "苏州"
+   "杭州"
   ],
-  "location_raw": "苏州",
-  "publish_time_raw": "2026-08-07T10:55:24.93335",
-  "publish_time": "2026-08-07 10:55",
-  "source": "inovance",
-  "url": "https://recruit.inovance.com/#/campus/jobs/019fd5c3-d001-7bba-bcd0-3a2e5d261a56",
+  "location_raw": "杭州",
+  "publish_time_raw": "2026-08-07 03:03",
+  "publish_time": "2026-08-07 03:03",
+  "source": "nowcoder",
+  "url": "",
   "extra": {
-   "segment": "集团业务-通用研发"
+   "update_time": "2026-08-27 21:12",
+   "salary": "20-30K·12薪",
+   "education": "",
+   "channel": "牛聘"
   },
   "direction": null,
   "direction_label": "",
   "priority": "",
   "region_level": "other",
-  "company_tag": "",
-  "hq_city": "苏州",
+  "company_tag": "硬件大厂",
+  "hq_city": "深圳",
   "size_bucket": "10000+",
   "industry": "硬件",
-  "id": "08f5e31cd261f179",
-  "first_seen": "2026-08-26",
-  "last_seen": "2026-08-27"
- },
- {
-  "title": "【27校招 - 通用研发】应用软件工程师（博士）",
-  "company": "汇川技术",
-  "locations": [
-   "南京",
-   "苏州"
-  ],
-  "location_raw": "南京 苏州",
-  "publish_time_raw": "2026-08-07T10:50:54.349506",
-  "publish_time": "2026-08-07 10:50",
-  "source": "inovance",
-  "url": "https://recruit.inovance.com/#/campus/jobs/019fd5da-8f44-7f51-9456-86a0535b5929",
-  "extra": {
-   "segment": "集团业务-通用研发"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "",
-  "hq_city": "苏州",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "ca796efd33146900",
-  "first_seen": "2026-08-26",
+  "id": "5e55bde6d270ae4d",
+  "first_seen": "2026-08-27",
   "last_seen": "2026-08-27"
  },
  {
@@ -35533,32 +37309,6 @@
   "last_seen": "2026-08-27"
  },
  {
-  "title": "【27校招 - 通用研发】数控算法工程师（博士）",
-  "company": "汇川技术",
-  "locations": [
-   "苏州"
-  ],
-  "location_raw": "苏州",
-  "publish_time_raw": "2026-08-06T16:15:42.361038",
-  "publish_time": "2026-08-06 16:15",
-  "source": "inovance",
-  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca31-78bc-9d4a-44738ade5c13",
-  "extra": {
-   "segment": "集团业务-通用研发"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "",
-  "hq_city": "苏州",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "3ccc243c19051930",
-  "first_seen": "2026-08-26",
-  "last_seen": "2026-08-27"
- },
- {
   "title": "CMF设计师（IOT方向）-27届秋招",
   "company": "vivo",
   "locations": [],
@@ -35815,32 +37565,6 @@
   "size_bucket": "10000+",
   "industry": "硬件",
   "id": "531219f682755b63",
-  "first_seen": "2026-08-26",
-  "last_seen": "2026-08-27"
- },
- {
-  "title": "【27校招 - 通用研发】功率硬件工程师（博士）",
-  "company": "汇川技术",
-  "locations": [
-   "苏州"
-  ],
-  "location_raw": "苏州",
-  "publish_time_raw": "2026-08-06T15:57:43.582104",
-  "publish_time": "2026-08-06 15:57",
-  "source": "inovance",
-  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca32-7507-b52f-9589136941dd",
-  "extra": {
-   "segment": "集团业务-通用研发"
-  },
-  "direction": "hardware",
-  "direction_label": "硬件设计",
-  "priority": "主投",
-  "region_level": "other",
-  "company_tag": "",
-  "hq_city": "苏州",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "8c51f64039380a96",
   "first_seen": "2026-08-26",
   "last_seen": "2026-08-27"
  },
@@ -36834,84 +38558,6 @@
   "last_seen": "2026-08-27"
  },
  {
-  "title": "【27校招 - 通用研发】通用AI算法工程师（博士）",
-  "company": "汇川技术",
-  "locations": [
-   "南京"
-  ],
-  "location_raw": "南京",
-  "publish_time_raw": "2026-08-06T14:49:27.806803",
-  "publish_time": "2026-08-06 14:49",
-  "source": "inovance",
-  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca33-700c-b0ee-bc9623d8a1aa",
-  "extra": {
-   "segment": "集团业务-通用研发"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "",
-  "hq_city": "苏州",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "c57a932547a7b499",
-  "first_seen": "2026-08-26",
-  "last_seen": "2026-08-27"
- },
- {
-  "title": "【27校招 - 通用研发】产品数据工程师",
-  "company": "汇川技术",
-  "locations": [
-   "苏州"
-  ],
-  "location_raw": "苏州",
-  "publish_time_raw": "2026-08-06T14:48:00.446912",
-  "publish_time": "2026-08-06 14:48",
-  "source": "inovance",
-  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca30-7e94-87c0-0011cfcaaa6b",
-  "extra": {
-   "segment": "集团业务-通用研发"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "",
-  "hq_city": "苏州",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "11124c392359259d",
-  "first_seen": "2026-08-26",
-  "last_seen": "2026-08-27"
- },
- {
-  "title": "【27校招 - 通用研发】用户研究工程师",
-  "company": "汇川技术",
-  "locations": [
-   "苏州"
-  ],
-  "location_raw": "苏州",
-  "publish_time_raw": "2026-08-06T14:47:20.057239",
-  "publish_time": "2026-08-06 14:47",
-  "source": "inovance",
-  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca30-71d7-87bf-87a2b42ea2e6",
-  "extra": {
-   "segment": "集团业务-通用研发"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "",
-  "hq_city": "苏州",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "693df8444704128e",
-  "first_seen": "2026-08-26",
-  "last_seen": "2026-08-27"
- },
- {
   "title": "Agent技术工程师-27届秋招",
   "company": "vivo",
   "locations": [],
@@ -36934,225 +38580,6 @@
   "size_bucket": "10000+",
   "industry": "硬件",
   "id": "f0ed0c9d489809da",
-  "first_seen": "2026-08-26",
-  "last_seen": "2026-08-27"
- },
- {
-  "title": "【27校招 - 通用研发】工业设计师",
-  "company": "汇川技术",
-  "locations": [
-   "苏州",
-   "南京"
-  ],
-  "location_raw": "苏州 南京",
-  "publish_time_raw": "2026-08-06T14:46:40.913318",
-  "publish_time": "2026-08-06 14:46",
-  "source": "inovance",
-  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca2f-7f55-bea0-8c05273537fb",
-  "extra": {
-   "segment": "集团业务-通用研发"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "",
-  "hq_city": "苏州",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "6616bb9afe9430ec",
-  "first_seen": "2026-08-26",
-  "last_seen": "2026-08-27"
- },
- {
-  "title": "【27校招 - 通用研发】信息设计师",
-  "company": "汇川技术",
-  "locations": [
-   "苏州"
-  ],
-  "location_raw": "苏州",
-  "publish_time_raw": "2026-08-06T14:46:10.885681",
-  "publish_time": "2026-08-06 14:46",
-  "source": "inovance",
-  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca2f-75c3-be9e-be9b7857fc93",
-  "extra": {
-   "segment": "集团业务-通用研发"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "",
-  "hq_city": "苏州",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "4274713c52964ece",
-  "first_seen": "2026-08-26",
-  "last_seen": "2026-08-27"
- },
- {
-  "title": "【27校招 - 通用研发】交互设计师",
-  "company": "汇川技术",
-  "locations": [
-   "苏州",
-   "西安"
-  ],
-  "location_raw": "苏州 西安",
-  "publish_time_raw": "2026-08-06T14:45:30.663223",
-  "publish_time": "2026-08-06 14:45",
-  "source": "inovance",
-  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca2f-7e1b-be9f-a0af7e699e53",
-  "extra": {
-   "segment": "集团业务-通用研发"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "",
-  "hq_city": "苏州",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "e37dbe1121f1eebe",
-  "first_seen": "2026-08-26",
-  "last_seen": "2026-08-27"
- },
- {
-  "title": "【27校招 - 通用研发】机械测试工程师",
-  "company": "汇川技术",
-  "locations": [
-   "苏州",
-   "南京"
-  ],
-  "location_raw": "苏州 南京",
-  "publish_time_raw": "2026-08-06T14:44:37.574157",
-  "publish_time": "2026-08-06 14:44",
-  "source": "inovance",
-  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca2e-7e73-aaa6-2e1e5ef3bda2",
-  "extra": {
-   "segment": "集团业务-通用研发"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "",
-  "hq_city": "苏州",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "95b2d620a4459975",
-  "first_seen": "2026-08-26",
-  "last_seen": "2026-08-27"
- },
- {
-  "title": "【27校招 - 通用研发】硬件测试工程师",
-  "company": "汇川技术",
-  "locations": [
-   "苏州",
-   "深圳",
-   "西安",
-   "南京"
-  ],
-  "location_raw": "苏州 深圳 西安 南京",
-  "publish_time_raw": "2026-08-06T14:43:12.006219",
-  "publish_time": "2026-08-06 14:43",
-  "source": "inovance",
-  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca2e-7f50-aaa7-2317786c4048",
-  "extra": {
-   "segment": "集团业务-通用研发"
-  },
-  "direction": "hardware",
-  "direction_label": "硬件设计",
-  "priority": "主投",
-  "region_level": "other",
-  "company_tag": "",
-  "hq_city": "苏州",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "575208946f7a86f6",
-  "first_seen": "2026-08-26",
-  "last_seen": "2026-08-27"
- },
- {
-  "title": "【27校招 - 通用研发】软件测试工程师",
-  "company": "汇川技术",
-  "locations": [
-   "苏州",
-   "深圳",
-   "西安",
-   "南京"
-  ],
-  "location_raw": "苏州 深圳 西安 南京",
-  "publish_time_raw": "2026-08-06T14:41:54.726157",
-  "publish_time": "2026-08-06 14:41",
-  "source": "inovance",
-  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca2e-79e3-aaa5-dc9d4b7c03ca",
-  "extra": {
-   "segment": "集团业务-通用研发"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "",
-  "hq_city": "苏州",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "147713e0fce5db12",
-  "first_seen": "2026-08-26",
-  "last_seen": "2026-08-27"
- },
- {
-  "title": "【27校招 - 通用研发】可靠性工程师",
-  "company": "汇川技术",
-  "locations": [
-   "苏州"
-  ],
-  "location_raw": "苏州",
-  "publish_time_raw": "2026-08-06T14:40:31.37231",
-  "publish_time": "2026-08-06 14:40",
-  "source": "inovance",
-  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca2e-74c9-aaa4-1c2243633226",
-  "extra": {
-   "segment": "集团业务-通用研发"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "",
-  "hq_city": "苏州",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "48618d8170d64f80",
-  "first_seen": "2026-08-26",
-  "last_seen": "2026-08-27"
- },
- {
-  "title": "【27校招 - 通用研发】PCB设计工程师",
-  "company": "汇川技术",
-  "locations": [
-   "苏州",
-   "深圳",
-   "西安"
-  ],
-  "location_raw": "苏州 深圳 西安",
-  "publish_time_raw": "2026-08-06T14:39:43.348862",
-  "publish_time": "2026-08-06 14:39",
-  "source": "inovance",
-  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca2e-738f-aaa3-1a7364764860",
-  "extra": {
-   "segment": "集团业务-通用研发"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "",
-  "hq_city": "苏州",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "2586446cb6222730",
   "first_seen": "2026-08-26",
   "last_seen": "2026-08-27"
  },
@@ -37211,59 +38638,6 @@
   "last_seen": "2026-08-27"
  },
  {
-  "title": "【27校招 - 通用研发】电机电磁工程师",
-  "company": "汇川技术",
-  "locations": [
-   "苏州",
-   "南京"
-  ],
-  "location_raw": "苏州 南京",
-  "publish_time_raw": "2026-08-06T14:31:38.675819",
-  "publish_time": "2026-08-06 14:31",
-  "source": "inovance",
-  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca2d-747b-aad5-1f82cfbc9568",
-  "extra": {
-   "segment": "集团业务-通用研发"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "",
-  "hq_city": "苏州",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "3e493dee6aeb015d",
-  "first_seen": "2026-08-26",
-  "last_seen": "2026-08-27"
- },
- {
-  "title": "【27校招 - 通用研发】电机工艺工程师",
-  "company": "汇川技术",
-  "locations": [
-   "岳阳"
-  ],
-  "location_raw": "岳阳",
-  "publish_time_raw": "2026-08-06T14:29:54.1397",
-  "publish_time": "2026-08-06 14:29",
-  "source": "inovance",
-  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca2c-7328-9f1f-95916a9e7a35",
-  "extra": {
-   "segment": "集团业务-通用研发"
-  },
-  "direction": "pie",
-  "direction_label": "PIE工艺整合",
-  "priority": "副投",
-  "region_level": "other",
-  "company_tag": "",
-  "hq_city": "苏州",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "abf6fcae9ced002b",
-  "first_seen": "2026-08-26",
-  "last_seen": "2026-08-27"
- },
- {
   "title": "【27校招 - 通用研发】器件工艺工程师",
   "company": "汇川技术",
   "locations": [
@@ -37286,139 +38660,6 @@
   "size_bucket": "10000+",
   "industry": "硬件",
   "id": "061cae469a73b0ce",
-  "first_seen": "2026-08-26",
-  "last_seen": "2026-08-27"
- },
- {
-  "title": "【27校招 - 通用研发】电机结构工程师",
-  "company": "汇川技术",
-  "locations": [
-   "苏州"
-  ],
-  "location_raw": "苏州",
-  "publish_time_raw": "2026-08-06T14:27:53.051334",
-  "publish_time": "2026-08-06 14:27",
-  "source": "inovance",
-  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca2b-7573-96e7-bfac9e437fa2",
-  "extra": {
-   "segment": "集团业务-通用研发"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "",
-  "hq_city": "苏州",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "35e49c07262ef817",
-  "first_seen": "2026-08-26",
-  "last_seen": "2026-08-27"
- },
- {
-  "title": "【27校招 - 通用研发】机械设计工程师",
-  "company": "汇川技术",
-  "locations": [
-   "苏州",
-   "嘉兴"
-  ],
-  "location_raw": "苏州 嘉兴",
-  "publish_time_raw": "2026-08-06T14:24:08.433902",
-  "publish_time": "2026-08-06 14:24",
-  "source": "inovance",
-  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca2a-763a-83f8-b6e4629a7bf8",
-  "extra": {
-   "segment": "集团业务-通用研发"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "",
-  "hq_city": "苏州",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "75f60bb46b7f652b",
-  "first_seen": "2026-08-26",
-  "last_seen": "2026-08-27"
- },
- {
-  "title": "【27校招 - 通用研发】光学工程师",
-  "company": "汇川技术",
-  "locations": [
-   "南京"
-  ],
-  "location_raw": "南京",
-  "publish_time_raw": "2026-08-06T14:21:07.105501",
-  "publish_time": "2026-08-06 14:21",
-  "source": "inovance",
-  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca29-7ed7-9ed4-6f3b73cc3815",
-  "extra": {
-   "segment": "集团业务-通用研发"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "",
-  "hq_city": "苏州",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "ca8404647ae8ab88",
-  "first_seen": "2026-08-26",
-  "last_seen": "2026-08-27"
- },
- {
-  "title": "【27校招 - 通用研发】仿真工程师",
-  "company": "汇川技术",
-  "locations": [
-   "苏州",
-   "南京"
-  ],
-  "location_raw": "苏州 南京",
-  "publish_time_raw": "2026-08-06T14:19:00.906531",
-  "publish_time": "2026-08-06 14:19",
-  "source": "inovance",
-  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca29-7ce2-9ed3-d20338295eb7",
-  "extra": {
-   "segment": "集团业务-通用研发"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "",
-  "hq_city": "苏州",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "c7bf66f5465643eb",
-  "first_seen": "2026-08-26",
-  "last_seen": "2026-08-27"
- },
- {
-  "title": "【27校招 - 通用研发】电气工程师",
-  "company": "汇川技术",
-  "locations": [
-   "苏州",
-   "西安"
-  ],
-  "location_raw": "苏州 西安",
-  "publish_time_raw": "2026-08-06T14:17:09.060783",
-  "publish_time": "2026-08-06 14:17",
-  "source": "inovance",
-  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca29-7b56-9ed2-7ae73272cffc",
-  "extra": {
-   "segment": "集团业务-通用研发"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "",
-  "hq_city": "苏州",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "57819664528b8257",
   "first_seen": "2026-08-26",
   "last_seen": "2026-08-27"
  },
@@ -37446,34 +38687,6 @@
   "size_bucket": "10000+",
   "industry": "硬件",
   "id": "181511d6b1897798",
-  "first_seen": "2026-08-26",
-  "last_seen": "2026-08-27"
- },
- {
-  "title": "【27校招 - 通用研发】嵌入式软件工程师",
-  "company": "汇川技术",
-  "locations": [
-   "苏州",
-   "深圳",
-   "西安"
-  ],
-  "location_raw": "苏州 深圳 西安",
-  "publish_time_raw": "2026-08-06T14:09:53.538305",
-  "publish_time": "2026-08-06 14:09",
-  "source": "inovance",
-  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca28-7e91-b35d-7506cbd7eb67",
-  "extra": {
-   "segment": "集团业务-通用研发"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "",
-  "hq_city": "苏州",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "afdf705a5d8341f4",
   "first_seen": "2026-08-26",
   "last_seen": "2026-08-27"
  },
@@ -37642,62 +38855,6 @@
   "industry": "互联网"
  },
  {
-  "title": "【27校招 - 通用研发】FPGA开发工程师",
-  "company": "汇川技术",
-  "locations": [
-   "苏州",
-   "西安",
-   "南京"
-  ],
-  "location_raw": "苏州 西安 南京",
-  "publish_time_raw": "2026-08-06T13:54:46.53097",
-  "publish_time": "2026-08-06 13:54",
-  "source": "inovance",
-  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca28-7311-b355-d88e2bacc1eb",
-  "extra": {
-   "segment": "集团业务-通用研发"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "",
-  "hq_city": "苏州",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "5627635d418b7217",
-  "first_seen": "2026-08-26",
-  "last_seen": "2026-08-27"
- },
- {
-  "title": "【27校招 - 通用研发】功率硬件工程师",
-  "company": "汇川技术",
-  "locations": [
-   "苏州",
-   "深圳",
-   "南京"
-  ],
-  "location_raw": "苏州 深圳 南京",
-  "publish_time_raw": "2026-08-06T13:53:15.185606",
-  "publish_time": "2026-08-06 13:53",
-  "source": "inovance",
-  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca27-7e50-84d1-3c9e342a6a30",
-  "extra": {
-   "segment": "集团业务-通用研发"
-  },
-  "direction": "hardware",
-  "direction_label": "硬件设计",
-  "priority": "主投",
-  "region_level": "other",
-  "company_tag": "",
-  "hq_city": "苏州",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "48733a3880e0dd04",
-  "first_seen": "2026-08-26",
-  "last_seen": "2026-08-27"
- },
- {
   "title": "【27校招 - 通用研发】电源硬件工程师",
   "company": "汇川技术",
   "locations": [
@@ -37753,64 +38910,6 @@
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "互联网"
- },
- {
-  "title": "【27校招 - 通用研发】电磁兼容开发工程师",
-  "company": "汇川技术",
-  "locations": [
-   "苏州",
-   "深圳",
-   "西安"
-  ],
-  "location_raw": "苏州 深圳 西安",
-  "publish_time_raw": "2026-08-06T13:46:54.409207",
-  "publish_time": "2026-08-06 13:46",
-  "source": "inovance",
-  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca28-711a-b352-5786caa8c207",
-  "extra": {
-   "segment": "集团业务-通用研发"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "",
-  "hq_city": "苏州",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "7867e6d52d8f796a",
-  "first_seen": "2026-08-26",
-  "last_seen": "2026-08-27"
- },
- {
-  "title": "【27校招 - 通用研发】控制硬件工程师",
-  "company": "汇川技术",
-  "locations": [
-   "苏州",
-   "深圳",
-   "西安",
-   "南京",
-   "长春"
-  ],
-  "location_raw": "苏州 深圳 西安 南京 长春",
-  "publish_time_raw": "2026-08-06T13:44:17.55107",
-  "publish_time": "2026-08-06 13:44",
-  "source": "inovance",
-  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca27-7fad-84d2-8a7cd4b57394",
-  "extra": {
-   "segment": "集团业务-通用研发"
-  },
-  "direction": "hardware",
-  "direction_label": "硬件设计",
-  "priority": "主投",
-  "region_level": "other",
-  "company_tag": "",
-  "hq_city": "苏州",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "a3f5938cfb3f6acf",
-  "first_seen": "2026-08-26",
-  "last_seen": "2026-08-27"
  },
  {
   "title": "顶尖应届-灵巧手高级控制算法工程师-机器人事业部",
@@ -38053,7 +39152,7 @@
   "industry": "硬件",
   "id": "55dad0c50008ba8d",
   "first_seen": "2026-08-26",
-  "last_seen": "2026-08-26"
+  "last_seen": "2026-08-27"
  },
  {
   "title": "建筑技术实习生 - AI算力基础设施",
@@ -38112,7 +39211,7 @@
   "company_tag": "硬件大厂",
   "id": "3d74ae2ba2ad1835",
   "first_seen": "2026-08-24",
-  "last_seen": "2026-08-26",
+  "last_seen": "2026-08-27",
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
@@ -38147,7 +39246,7 @@
   "industry": "硬件",
   "id": "7d31c491b56b7fdd",
   "first_seen": "2026-08-25",
-  "last_seen": "2026-08-25"
+  "last_seen": "2026-08-27"
  },
  {
   "title": "AI Infra工程师",
@@ -39728,6 +40827,39 @@
   "last_seen": "2026-08-27"
  },
  {
+  "title": "招商银行·招银网络科技 校招网申（27届秋招）",
+  "company": "招商银行·招银网络科技",
+  "locations": [
+   "杭州",
+   "深圳",
+   "成都"
+  ],
+  "location_raw": "杭州 深圳 成都",
+  "publish_time_raw": "2026-07-29",
+  "publish_time": "2026-07-29 12:00",
+  "deadline": "2026-09-19",
+  "source": "nowcoder_schedule",
+  "url": "https://cmbnt.cmbchina.com/pages/schoolRecruit/index.html",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "银行 金融",
+   "careers": "后端开发 前端开发 测试 运维 人工智能/算法",
+   "note": "公司成立于2002年，是招商银行全资子公司、总行软件中心。"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "eb67af1ca3fca9be",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
   "title": "【27校招 - 联合动力】系统工程师（电源）",
   "company": "汇川技术",
   "locations": [
@@ -40831,32 +41963,6 @@
   "last_seen": "2026-08-27"
  },
  {
-  "title": "【27校招 - 通用研发】视觉AI算法工程师（博士）",
-  "company": "汇川技术",
-  "locations": [
-   "南京"
-  ],
-  "location_raw": "南京",
-  "publish_time_raw": "2026-07-16T14:53:39.88544",
-  "publish_time": "2026-07-16 14:53",
-  "source": "inovance",
-  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca34-7511-82f6-4918e2fe28ca",
-  "extra": {
-   "segment": "集团业务-通用研发"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "",
-  "hq_city": "苏州",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "9eec2094c810ac99",
-  "first_seen": "2026-08-26",
-  "last_seen": "2026-08-27"
- },
- {
   "title": "嵌入式软件开发",
   "company": "华为HUAWEI",
   "locations": [
@@ -41259,6 +42365,35 @@
   "industry": "硬件"
  },
  {
+  "title": "AI 模型、agent开发工程师",
+  "company": "华为HUAWEI",
+  "locations": [
+   "杭州"
+  ],
+  "location_raw": "杭州",
+  "publish_time_raw": "2026-07-13 02:46",
+  "publish_time": "2026-07-13 02:46",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-08-27 21:13",
+   "salary": "20-40K·15薪",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "hq_city": "深圳",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "21182ec4447a680c",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
   "title": "AI Agent研发工程师",
   "company": "拼多多集团-PDD",
   "locations": [
@@ -41343,32 +42478,6 @@
   "last_seen": "2026-08-27"
  },
  {
-  "title": "【27校招-通用研发】机器人算法工程师（博士-工业机器人）",
-  "company": "汇川技术",
-  "locations": [
-   "南京"
-  ],
-  "location_raw": "南京",
-  "publish_time_raw": "2026-07-09T19:15:15.78676",
-  "publish_time": "2026-07-09 19:15",
-  "source": "inovance",
-  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca32-7d1e-b531-9988c003aa8c",
-  "extra": {
-   "segment": "集团业务-通用研发"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "",
-  "hq_city": "苏州",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "0bef33b904d57c36",
-  "first_seen": "2026-08-26",
-  "last_seen": "2026-08-27"
- },
- {
   "title": "【27校招-通用研发】结构工程师（博士-噪声控制方向）",
   "company": "汇川技术",
   "locations": [
@@ -41391,86 +42500,6 @@
   "size_bucket": "10000+",
   "industry": "硬件",
   "id": "1836280ea44dd73e",
-  "first_seen": "2026-08-26",
-  "last_seen": "2026-08-27"
- },
- {
-  "title": "【27校招-通用研发】机械设计工程师（机器人）",
-  "company": "汇川技术",
-  "locations": [
-   "苏州",
-   "南京"
-  ],
-  "location_raw": "苏州 南京",
-  "publish_time_raw": "2026-07-09T19:15:15.374196",
-  "publish_time": "2026-07-09 19:15",
-  "source": "inovance",
-  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca2a-781f-83f9-6a4a7ca0fe20",
-  "extra": {
-   "segment": "集团业务-通用研发"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "",
-  "hq_city": "苏州",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "e9d5dbcb90cf5be9",
-  "first_seen": "2026-08-26",
-  "last_seen": "2026-08-27"
- },
- {
-  "title": "【27校招-通用研发】机械设计工程师（气动）",
-  "company": "汇川技术",
-  "locations": [
-   "苏州"
-  ],
-  "location_raw": "苏州",
-  "publish_time_raw": "2026-07-09T19:15:15.35718",
-  "publish_time": "2026-07-09 19:15",
-  "source": "inovance",
-  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca2a-7c44-83fb-ced3dc911e45",
-  "extra": {
-   "segment": "集团业务-通用研发"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "",
-  "hq_city": "苏州",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "8a0a9ff2e71fd3a3",
-  "first_seen": "2026-08-26",
-  "last_seen": "2026-08-27"
- },
- {
-  "title": "【27校招-通用研发】机器人算法工程师",
-  "company": "汇川技术",
-  "locations": [
-   "苏州",
-   "南京"
-  ],
-  "location_raw": "苏州 南京",
-  "publish_time_raw": "2026-07-09T19:15:15.152392",
-  "publish_time": "2026-07-09 19:15",
-  "source": "inovance",
-  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca28-7432-b356-0f355e91be61",
-  "extra": {
-   "segment": "集团业务-通用研发"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "",
-  "hq_city": "苏州",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "0e10b9705f8ff9a0",
   "first_seen": "2026-08-26",
   "last_seen": "2026-08-27"
  },
@@ -48843,7 +49872,7 @@
   "company_tag": "芯片半导体大厂",
   "id": "f887254e910c5d62",
   "first_seen": "2026-08-24",
-  "last_seen": "2026-08-26",
+  "last_seen": "2026-08-27",
   "hq_city": "合肥",
   "size_bucket": "1000+",
   "industry": "芯片半导体"
@@ -66794,6 +67823,1149 @@
   "size_bucket": "1000+",
   "industry": "互联网",
   "id": "30a8a0390033d626",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "模拟IC设计工程师（高速）",
+  "company": "帝奥微",
+  "locations": [
+   ""
+  ],
+  "location_raw": "",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "nowcoder",
+  "url": "https://www.nowcoder.com/jobs/detail/4a7e62c3-50bc-4c5b-bb47-296ac1746e94",
+  "extra": {
+   "update_time": "2026-08-27 11:37",
+   "salary": "面议",
+   "education": "",
+   "channel": "官网闪投"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "unknown",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "543cfeefb16ef749",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "CAD工程师(2027届校园招聘)",
+  "company": "合肥晶合集成电路",
+  "locations": [
+   ""
+  ],
+  "location_raw": "",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "nowcoder",
+  "url": "https://www.nowcoder.com/jobs/detail/a8d393a5-3058-4879-bc24-3ada0cc8d5db",
+  "extra": {
+   "update_time": "2026-08-21 08:43",
+   "salary": "面议",
+   "education": "",
+   "channel": "官网闪投"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "unknown",
+  "company_tag": "芯片半导体大厂",
+  "hq_city": "合肥",
+  "size_bucket": "1000+",
+  "industry": "芯片半导体",
+  "id": "19a302d8d9111602",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "行业运营（户外类目）实习生 - 抖音电商运营",
+  "company": "字节跳动",
+  "locations": [
+   "上海"
+  ],
+  "location_raw": "上海",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "bytedance",
+  "url": "https://jobs.bytedance.com/campus/position/7678582526983194885/detail",
+  "extra": {
+   "category": "运营",
+   "recruit_type": "日常实习",
+   "subject": "",
+   "code": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "b4cb16d816c4d4b1",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "营销运营实习生 - 抖音电商运营",
+  "company": "字节跳动",
+  "locations": [
+   "上海"
+  ],
+  "location_raw": "上海",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "bytedance",
+  "url": "https://jobs.bytedance.com/campus/position/7678534277144725765/detail",
+  "extra": {
+   "category": "运营",
+   "recruit_type": "日常实习",
+   "subject": "",
+   "code": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "04e0e00cf0f98478",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "经营策略实习生 - 抖音电商运营",
+  "company": "字节跳动",
+  "locations": [
+   "上海"
+  ],
+  "location_raw": "上海",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "bytedance",
+  "url": "https://jobs.bytedance.com/campus/position/7678271760915482933/detail",
+  "extra": {
+   "category": "运营",
+   "recruit_type": "日常实习",
+   "subject": "",
+   "code": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "ffd1b5c4c6dd57c0",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "平台活动场域实习生 - 抖音电商",
+  "company": "字节跳动",
+  "locations": [
+   "上海"
+  ],
+  "location_raw": "上海",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "bytedance",
+  "url": "https://jobs.bytedance.com/campus/position/7678258762948675845/detail",
+  "extra": {
+   "category": "运营",
+   "recruit_type": "日常实习",
+   "subject": "",
+   "code": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "4600a3ff1d8ec979",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "内容治理策略运营（Push方向）实习生 - 抖音增长",
+  "company": "字节跳动",
+  "locations": [
+   "上海",
+   "北京"
+  ],
+  "location_raw": "上海、北京",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "bytedance",
+  "url": "https://jobs.bytedance.com/campus/position/7676418552257268021/detail",
+  "extra": {
+   "category": "运营",
+   "recruit_type": "日常实习",
+   "subject": "",
+   "code": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "147587fede63c0df",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "豆包大模型算法工程师（AIGC Agent方向） - 火山方舟",
+  "company": "字节跳动",
+  "locations": [
+   "杭州",
+   "北京",
+   "上海"
+  ],
+  "location_raw": "杭州、北京、上海等 4 个城市",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "bytedance",
+  "url": "https://jobs.bytedance.com/campus/position/7672293900385257733/detail",
+  "extra": {
+   "category": "研发 - 算法",
+   "recruit_type": "正式",
+   "subject": "2027届校园招聘",
+   "code": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "da4a9c4a02f830ca",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "算法工程师（激励Agent方向） - Ads Core",
+  "company": "字节跳动",
+  "locations": [
+   "北京",
+   "上海"
+  ],
+  "location_raw": "北京、上海",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "bytedance",
+  "url": "https://jobs.bytedance.com/campus/position/7669711303696877829/detail",
+  "extra": {
+   "category": "研发 - 算法",
+   "recruit_type": "正式",
+   "subject": "2027届校园招聘",
+   "code": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "c125096e7ad8e1bb",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "后端开发工程师 - 飞书商业运营与策略",
+  "company": "字节跳动",
+  "locations": [
+   "北京",
+   "上海",
+   "杭州"
+  ],
+  "location_raw": "北京、上海、杭州",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "bytedance",
+  "url": "https://jobs.bytedance.com/campus/position/7668309416727480629/detail",
+  "extra": {
+   "category": "研发 - 后端",
+   "recruit_type": "正式",
+   "subject": "2027届校园招聘",
+   "code": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "62d64675cc029a3d",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "跨端/客户端开发实习生-红果短剧",
+  "company": "字节跳动",
+  "locations": [
+   "上海"
+  ],
+  "location_raw": "上海",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "bytedance",
+  "url": "https://jobs.bytedance.com/campus/position/7615215714170194229/detail",
+  "extra": {
+   "category": "研发 - 客户端",
+   "recruit_type": "实习",
+   "subject": "",
+   "code": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "222d91eeb5f0beed",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "商业化治理宣发实习生 - 广告业务",
+  "company": "字节跳动",
+  "locations": [
+   "北京",
+   "上海"
+  ],
+  "location_raw": "北京、上海",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "bytedance",
+  "url": "https://jobs.bytedance.com/campus/position/7675746086036506933/detail",
+  "extra": {
+   "category": "运营",
+   "recruit_type": "日常实习",
+   "subject": "",
+   "code": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "0d9c5e90018424ee",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "AI训练/推理框架研发工程师 - 火山方舟",
+  "company": "字节跳动",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "bytedance",
+  "url": "https://jobs.bytedance.com/campus/position/7670544380457584949/detail",
+  "extra": {
+   "category": "研发 - 机器学习",
+   "recruit_type": "正式",
+   "subject": "2027届校园招聘",
+   "code": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "fdd2a9e327481522",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "奢品招商运营实习生 - 抖音电商运营",
+  "company": "字节跳动",
+  "locations": [
+   "上海"
+  ],
+  "location_raw": "上海",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "bytedance",
+  "url": "https://jobs.bytedance.com/campus/position/7678618318864910645/detail",
+  "extra": {
+   "category": "运营",
+   "recruit_type": "日常实习",
+   "subject": "",
+   "code": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "44717b42fd0ed252",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "财务实习生",
+  "company": "字节跳动",
+  "locations": [
+   "上海"
+  ],
+  "location_raw": "上海",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "bytedance",
+  "url": "https://jobs.bytedance.com/campus/position/7678279044723689733/detail",
+  "extra": {
+   "category": "职能 / 支持 - 财务",
+   "recruit_type": "日常实习",
+   "subject": "",
+   "code": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "8c9b702f34013925",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "国际电商采购实习生 - TikTok Shop",
+  "company": "字节跳动",
+  "locations": [
+   "上海"
+  ],
+  "location_raw": "上海",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "bytedance",
+  "url": "https://jobs.bytedance.com/campus/position/7677433299497830709/detail",
+  "extra": {
+   "category": "运营",
+   "recruit_type": "日常实习",
+   "subject": "",
+   "code": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "969b465a4657e62f",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "美区POP商家运营实习生（汽摩工具组） - TikTok Shop",
+  "company": "字节跳动",
+  "locations": [
+   "上海"
+  ],
+  "location_raw": "上海",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "bytedance",
+  "url": "https://jobs.bytedance.com/campus/position/7676406754099398965/detail",
+  "extra": {
+   "category": "运营",
+   "recruit_type": "日常实习",
+   "subject": "",
+   "code": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "3d2c7ce5a93466d6",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "产品交付运维工程师（AI Agent和办公安全） - 火山引擎",
+  "company": "字节跳动",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "bytedance",
+  "url": "https://jobs.bytedance.com/campus/position/7676049219773810997/detail",
+  "extra": {
+   "category": "研发 - 运维",
+   "recruit_type": "正式",
+   "subject": "2027届校园招聘",
+   "code": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "74fc23360eb75438",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "消费券策略运营实习生 - 抖音电商",
+  "company": "字节跳动",
+  "locations": [
+   "上海"
+  ],
+  "location_raw": "上海",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "bytedance",
+  "url": "https://jobs.bytedance.com/campus/position/7674817708902926597/detail",
+  "extra": {
+   "category": "运营",
+   "recruit_type": "日常实习",
+   "subject": "",
+   "code": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "7fd8f7147c23bd7f",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "用户体验分析 - 抖音生活服务",
+  "company": "字节跳动",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "bytedance",
+  "url": "https://jobs.bytedance.com/campus/position/7668208458525264181/detail",
+  "extra": {
+   "category": "运营",
+   "recruit_type": "正式",
+   "subject": "2027届校园招聘",
+   "code": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "c3b0c84a897214c9",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "多模态大模型算法工程师 - 国际化商业安全",
+  "company": "字节跳动",
+  "locations": [
+   "北京",
+   "上海"
+  ],
+  "location_raw": "北京、上海",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "bytedance",
+  "url": "https://jobs.bytedance.com/campus/position/7667871323348273461/detail",
+  "extra": {
+   "category": "研发 - 算法",
+   "recruit_type": "正式",
+   "subject": "2027届校园招聘",
+   "code": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "9f8106df877cfbae",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "精选内容AI策略产品经理（抖音AI产品人才校招） - 抖音生态",
+  "company": "字节跳动",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "bytedance",
+  "url": "https://jobs.bytedance.com/campus/position/7667802679746742533/detail",
+  "extra": {
+   "category": "产品",
+   "recruit_type": "正式",
+   "subject": "2027届校园招聘",
+   "code": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "b9f7f085ef7278b6",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "大模型赋能交易与商业场景的技术创新及落地实践研究-端变现（北京/上海）",
+  "company": "字节跳动",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "bytedance",
+  "url": "https://jobs.bytedance.com/campus/position/7628563853727041797/detail",
+  "extra": {
+   "category": "研发 - 算法",
+   "recruit_type": "正式",
+   "subject": "",
+   "code": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "ea8305a824fc4372",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "豆包音乐设计实习生 - Data语音",
+  "company": "字节跳动",
+  "locations": [
+   "上海"
+  ],
+  "location_raw": "上海",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "bytedance",
+  "url": "https://jobs.bytedance.com/campus/position/7677831251039275269/detail",
+  "extra": {
+   "category": "设计",
+   "recruit_type": "日常实习",
+   "subject": "",
+   "code": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "4720b71db84b9307",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "AI Agent开发工程师 - Data-抖音/直播/电商/剪映",
+  "company": "字节跳动",
+  "locations": [
+   "北京",
+   "杭州"
+  ],
+  "location_raw": "北京、杭州",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "bytedance",
+  "url": "https://jobs.bytedance.com/campus/position/7677585479047563573/detail",
+  "extra": {
+   "category": "研发 - 后端",
+   "recruit_type": "正式",
+   "subject": "2027届校园招聘",
+   "code": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "47361d17f0026155",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "网文内容安全策略实习生 - 内容质量与数据服务平台",
+  "company": "字节跳动",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "bytedance",
+  "url": "https://jobs.bytedance.com/campus/position/7677486762807052549/detail",
+  "extra": {
+   "category": "运营",
+   "recruit_type": "实习",
+   "subject": "",
+   "code": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "33232e3377e869d4",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "标准与质量运营实习生 - 内容质量与数据服务平台",
+  "company": "字节跳动",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "bytedance",
+  "url": "https://jobs.bytedance.com/campus/position/7677483899098220853/detail",
+  "extra": {
+   "category": "运营",
+   "recruit_type": "实习",
+   "subject": "",
+   "code": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "fec7a3dcd011f7b5",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "供给运营 - 抖音生活服务",
+  "company": "字节跳动",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "bytedance",
+  "url": "https://jobs.bytedance.com/campus/position/7676397758312499509/detail",
+  "extra": {
+   "category": "运营 - 用户运营",
+   "recruit_type": "正式",
+   "subject": "2027届校园招聘",
+   "code": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "341912a358ccc0fe",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "女装行业商家运营实习生 - TikTok Shop",
+  "company": "字节跳动",
+  "locations": [
+   "广州"
+  ],
+  "location_raw": "广州",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "bytedance",
+  "url": "https://jobs.bytedance.com/campus/position/7675637104203057413/detail",
+  "extra": {
+   "category": "运营",
+   "recruit_type": "日常实习",
+   "subject": "",
+   "code": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "090141dc16258e58",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "品牌活动运营实习生 - TikTok Shop",
+  "company": "字节跳动",
+  "locations": [
+   "上海"
+  ],
+  "location_raw": "上海",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "bytedance",
+  "url": "https://jobs.bytedance.com/campus/position/7675625697136593157/detail",
+  "extra": {
+   "category": "运营",
+   "recruit_type": "日常实习",
+   "subject": "",
+   "code": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "0c1785d3cf89680e",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "市场传播实习生 - TikTok Shop",
+  "company": "字节跳动",
+  "locations": [
+   "上海"
+  ],
+  "location_raw": "上海",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "bytedance",
+  "url": "https://jobs.bytedance.com/campus/position/7675343405732333877/detail",
+  "extra": {
+   "category": "运营",
+   "recruit_type": "日常实习",
+   "subject": "",
+   "code": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "9e11db351ccee2b7",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "AI搜索后端开发工程师 - Data AML",
+  "company": "字节跳动",
+  "locations": [
+   "北京",
+   "杭州"
+  ],
+  "location_raw": "北京、杭州",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "bytedance",
+  "url": "https://jobs.bytedance.com/campus/position/7669701285117167877/detail",
+  "extra": {
+   "category": "研发 - 后端",
+   "recruit_type": "正式",
+   "subject": "2027届校园招聘",
+   "code": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "cef3fea4ae2b1f33",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "后端开发工程师（AI效能工具） - 质量团队",
+  "company": "字节跳动",
+  "locations": [
+   "北京",
+   "上海"
+  ],
+  "location_raw": "北京、上海",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "bytedance",
+  "url": "https://jobs.bytedance.com/campus/position/7667865137391503621/detail",
+  "extra": {
+   "category": "研发 - 后端",
+   "recruit_type": "正式",
+   "subject": "2027届校园招聘",
+   "code": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "19910501331e6c53",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "AI产品经理（广告策略方向） - 抖音生活服务",
+  "company": "字节跳动",
+  "locations": [
+   "上海",
+   "北京"
+  ],
+  "location_raw": "上海、北京",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "bytedance",
+  "url": "https://jobs.bytedance.com/campus/position/7667181554880760117/detail",
+  "extra": {
+   "category": "产品",
+   "recruit_type": "正式",
+   "subject": "2027届校园招聘",
+   "code": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "9cd6e12257b70967",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "系统运营实习生 - 抖音生活服务",
+  "company": "字节跳动",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "bytedance",
+  "url": "https://jobs.bytedance.com/campus/position/7662635364040870149/detail",
+  "extra": {
+   "category": "运营",
+   "recruit_type": "日常实习",
+   "subject": "",
+   "code": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "4c427055ad31f1d2",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "产品运营（基建与AI提效方向）实习生-TikTok",
+  "company": "字节跳动",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "bytedance",
+  "url": "https://jobs.bytedance.com/campus/position/7662590225676093701/detail",
+  "extra": {
+   "category": "运营",
+   "recruit_type": "日常实习",
+   "subject": "",
+   "code": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "8a02ba7c5a6c3cc9",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "Agentic AI算法实习生-风控",
+  "company": "字节跳动",
+  "locations": [
+   "杭州"
+  ],
+  "location_raw": "杭州",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "bytedance",
+  "url": "https://jobs.bytedance.com/campus/position/7628643614005184821/detail",
+  "extra": {
+   "category": "研发 - 算法",
+   "recruit_type": "实习",
+   "subject": "",
+   "code": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "3e61bd78633d08fc",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "【实习】大模型赋能交易与商业场景的技术创新及落地实践研究（Agent）-Commercial AI",
+  "company": "字节跳动",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "bytedance",
+  "url": "https://jobs.bytedance.com/campus/position/7628582583933274373/detail",
+  "extra": {
+   "category": "研发 - 算法",
+   "recruit_type": "实习",
+   "subject": "",
+   "code": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "baa9a9d25f9ae43a",
+  "first_seen": "2026-08-27",
+  "last_seen": "2026-08-27"
+ },
+ {
+  "title": "应用安全工程师 - 安全与风控",
+  "company": "字节跳动",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "bytedance",
+  "url": "https://jobs.bytedance.com/campus/position/7674883475540183349/detail",
+  "extra": {
+   "category": "研发 - 安全",
+   "recruit_type": "正式",
+   "subject": "2027届校园招聘",
+   "code": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "9ec0425fc411bd92",
   "first_seen": "2026-08-27",
   "last_seen": "2026-08-27"
  }
