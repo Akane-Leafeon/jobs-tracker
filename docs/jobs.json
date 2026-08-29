@@ -31,6 +31,35 @@
   "last_seen": "2026-08-26"
  },
  {
+  "title": "多源数据融合算法工程师（27届校招）",
+  "company": "海能达通信",
+  "locations": [
+   "东莞"
+  ],
+  "location_raw": "东莞",
+  "publish_time_raw": "2026-08-29 11:35",
+  "publish_time": "2026-08-29 11:35",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-08-29 15:44",
+   "salary": "20-40K·14薪",
+   "education": "",
+   "channel": "moka"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "f0097b5d1cc1b673",
+  "first_seen": "2026-08-29",
+  "last_seen": "2026-08-29"
+ },
+ {
   "title": "AI应用开发工程师【agent应用与平台方向】(J14851)",
   "company": "万兴科技",
   "locations": [
@@ -4342,6 +4371,35 @@
   "last_seen": "2026-08-29"
  },
  {
+  "title": "AI 应用工程师",
+  "company": "华为HUAWEI",
+  "locations": [
+   "上海"
+  ],
+  "location_raw": "上海",
+  "publish_time_raw": "2026-08-27 08:10",
+  "publish_time": "2026-08-27 08:10",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-08-29 15:46",
+   "salary": "15-30K·12薪",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "硬件大厂",
+  "hq_city": "深圳",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "2c32a656e219aad9",
+  "first_seen": "2026-08-29",
+  "last_seen": "2026-08-29"
+ },
+ {
   "title": "【27校招 - 通用研发】机械设计工程师（博士-智能机器人）",
   "company": "汇川技术",
   "locations": [
@@ -7367,6 +7425,68 @@
   "last_seen": "2026-08-28"
  },
  {
+  "title": "北京云迹科技 校招网申（27届秋招）",
+  "company": "北京云迹科技",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "2026-08-26",
+  "publish_time": "2026-08-26 12:00",
+  "deadline": "2026-10-26",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "人工智能",
+   "careers": "后端开发 测试 数据 人工智能/算法 研发工程师 硬件工程师",
+   "note": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "1e916cdcebdd24ea",
+  "first_seen": "2026-08-29",
+  "last_seen": "2026-08-29"
+ },
+ {
+  "title": "平安理财 校招网申（27届秋招）",
+  "company": "平安理财",
+  "locations": [
+   "深圳"
+  ],
+  "location_raw": "深圳",
+  "publish_time_raw": "2026-08-26",
+  "publish_time": "2026-08-26 12:00",
+  "deadline": "2026-11-05",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "",
+   "careers": "后端开发 前端开发 客户端开发 测试 数据 运维",
+   "note": "平安银行全资理财子公司，管理规模超万亿，投研体系成熟，金融平台顶尖"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "73f70e56b3c72c8f",
+  "first_seen": "2026-08-29",
+  "last_seen": "2026-08-29"
+ },
+ {
   "title": "AI产品经理",
   "company": "百度",
   "locations": [
@@ -9219,6 +9339,100 @@
   "last_seen": "2026-08-29"
  },
  {
+  "title": "上海睿兴投资 校招网申（27届实习）",
+  "company": "上海睿兴投资",
+  "locations": [
+   "上海"
+  ],
+  "location_raw": "上海",
+  "publish_time_raw": "2026-08-25",
+  "publish_time": "2026-08-25 12:00",
+  "deadline": "2026-09-25",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届实习",
+   "job_count": 0,
+   "industry": "",
+   "careers": "投融资 市场/营销 管理 法务 运营 咨询/调研",
+   "note": "私募证券投资管理经验丰富，投研体系成熟，风控机制完善，资产规模稳健增长"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "9a465025268aa9f0",
+  "first_seen": "2026-08-29",
+  "last_seen": "2026-08-29"
+ },
+ {
+  "title": "欧摩威汽车系统（上海）有限公司 校招网申（日常实习）",
+  "company": "欧摩威汽车系统（上海）有限公司",
+  "locations": [
+   "上海",
+   "重庆"
+  ],
+  "location_raw": "上海 重庆",
+  "publish_time_raw": "2026-08-25",
+  "publish_time": "2026-08-25 12:00",
+  "deadline": "2026-12-03",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "日常实习",
+   "job_count": 0,
+   "industry": "",
+   "careers": "后端开发 前端开发 客户端开发 测试 数据 运维",
+   "note": "聚焦特定制造领域，有完善的新人岗位培训"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "13173f1b51e15fa7",
+  "first_seen": "2026-08-29",
+  "last_seen": "2026-08-29"
+ },
+ {
+  "title": "平安人寿云南分公司 校招网申（27届秋招）",
+  "company": "平安人寿云南分公司",
+  "locations": [
+   "昆明"
+  ],
+  "location_raw": "昆明",
+  "publish_time_raw": "2026-08-25",
+  "publish_time": "2026-08-25 12:00",
+  "deadline": "2026-10-25",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "",
+   "careers": "运营 风控 保险 市场/营销 销售类 商务",
+   "note": "始终坚持“金融为民”理念，以客户需求为导向，聚焦客户健康、养老、等核心需求"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "ae2c45bf5f284cda",
+  "first_seen": "2026-08-29",
+  "last_seen": "2026-08-29"
+ },
+ {
   "title": "【27校招 - 通用研发】结构设计工程师",
   "company": "汇川技术",
   "locations": [
@@ -9297,6 +9511,64 @@
   "industry": "硬件",
   "id": "b706b6416a94df6d",
   "first_seen": "2026-08-26",
+  "last_seen": "2026-08-29"
+ },
+ {
+  "title": "华为27届应届生Ai工程师/软开",
+  "company": "华为云计算技术有限公司",
+  "locations": [
+   "杭州"
+  ],
+  "location_raw": "杭州",
+  "publish_time_raw": "2026-08-25 09:42",
+  "publish_time": "2026-08-25 09:42",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-08-29 15:46",
+   "salary": "薪资面议",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "hq_city": "深圳",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "a75d764b28322dc7",
+  "first_seen": "2026-08-29",
+  "last_seen": "2026-08-29"
+ },
+ {
+  "title": "【2027 校招】通用软件开发大数据开发工程师",
+  "company": "华为HUAWEI",
+  "locations": [
+   "南京"
+  ],
+  "location_raw": "南京",
+  "publish_time_raw": "2026-08-25 06:53",
+  "publish_time": "2026-08-25 06:53",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-08-29 15:46",
+   "salary": "薪资面议",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "hq_city": "深圳",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "b5547b22a9d33fe1",
+  "first_seen": "2026-08-29",
   "last_seen": "2026-08-29"
  },
  {
@@ -9972,6 +10244,35 @@
   "industry": "硬件",
   "id": "fbc0238597302902",
   "first_seen": "2026-08-26",
+  "last_seen": "2026-08-29"
+ },
+ {
+  "title": "LLM训推加速&高性能计算工程师",
+  "company": "杭州华为企业通信技术有限公司",
+  "locations": [
+   "上海"
+  ],
+  "location_raw": "上海",
+  "publish_time_raw": "2026-08-24 10:19",
+  "publish_time": "2026-08-24 10:19",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-08-29 15:46",
+   "salary": "25-50K·16薪",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "硬件大厂",
+  "hq_city": "深圳",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "645e576acf86edc1",
+  "first_seen": "2026-08-29",
   "last_seen": "2026-08-29"
  },
  {
@@ -15732,7 +16033,7 @@
   "industry": "",
   "id": "8fb17a80ad8384e2",
   "first_seen": "2026-08-26",
-  "last_seen": "2026-08-28"
+  "last_seen": "2026-08-29"
  },
  {
   "title": "柏诚系统科技股份有限公司 校招网申（27届秋招）",
@@ -15846,6 +16147,35 @@
   "industry": "硬件",
   "id": "075d996e49a0b2d6",
   "first_seen": "2026-08-26",
+  "last_seen": "2026-08-29"
+ },
+ {
+  "title": "智能驾驶AI模型工程师",
+  "company": "上海华为技术有限公司",
+  "locations": [
+   "上海"
+  ],
+  "location_raw": "上海",
+  "publish_time_raw": "2026-08-14 10:32",
+  "publish_time": "2026-08-14 10:32",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-08-29 15:46",
+   "salary": "薪资面议",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "硬件大厂",
+  "hq_city": "深圳",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "045afddb3246d28d",
+  "first_seen": "2026-08-29",
   "last_seen": "2026-08-29"
  },
  {
@@ -37543,7 +37873,7 @@
   "industry": "硬件",
   "id": "5861b639cb6ab137",
   "first_seen": "2026-08-28",
-  "last_seen": "2026-08-28"
+  "last_seen": "2026-08-29"
  },
  {
   "title": "华为计算秋招岗",
@@ -41606,6 +41936,35 @@
   "last_seen": "2026-08-26"
  },
  {
+  "title": "嵌入式软件工程师",
+  "company": "华为HUAWEI",
+  "locations": [
+   "东莞"
+  ],
+  "location_raw": "东莞",
+  "publish_time_raw": "2026-08-06 11:45",
+  "publish_time": "2026-08-06 11:45",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-08-29 15:46",
+   "salary": "18-26K·12薪",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "hq_city": "深圳",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "6126185ad44e1ca8",
+  "first_seen": "2026-08-29",
+  "last_seen": "2026-08-29"
+ },
+ {
   "title": "【快Star】AIOps自主进化研究员",
   "company": "快手",
   "locations": [
@@ -43819,7 +44178,7 @@
   "industry": "",
   "id": "4af2ee8156989d6f",
   "first_seen": "2026-08-26",
-  "last_seen": "2026-08-28"
+  "last_seen": "2026-08-29"
  },
  {
   "title": "招商银行·招银网络科技 校招网申（27届秋招）",
@@ -45958,6 +46317,35 @@
   "id": "64eab62d6e8b0ec8",
   "first_seen": "2026-08-28",
   "last_seen": "2026-08-28"
+ },
+ {
+  "title": "【27秋招】智驾软件工程师/系统评测工程师",
+  "company": "元戎启行",
+  "locations": [
+   "上海"
+  ],
+  "location_raw": "上海",
+  "publish_time_raw": "2026-07-06 12:29",
+  "publish_time": "2026-07-06 12:29",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-08-29 16:03",
+   "salary": "20-40K·14薪",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "bd027919a90dd296",
+  "first_seen": "2026-08-29",
+  "last_seen": "2026-08-29"
  },
  {
   "title": "顶尖应届-AI材料算法研究员-AI实验室",
@@ -52989,6 +53377,35 @@
   "industry": "互联网"
  },
  {
+  "title": "管理培训生",
+  "company": "深圳市乐有家控股集团有限公司",
+  "locations": [
+   "深圳"
+  ],
+  "location_raw": "深圳",
+  "publish_time_raw": "2025-06-26 12:54",
+  "publish_time": "2025-06-26 12:54",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-08-29 15:43",
+   "salary": "6-10K·12薪",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "f61e638f559fc55c",
+  "first_seen": "2026-08-29",
+  "last_seen": "2026-08-29"
+ },
+ {
   "title": "AI芯片BSP软件实习生-芯片研发",
   "company": "字节跳动",
   "locations": [
@@ -53478,6 +53895,35 @@
   "size_bucket": "",
   "industry": "",
   "id": "0a79d949d65b95aa",
+  "first_seen": "2026-08-29",
+  "last_seen": "2026-08-29"
+ },
+ {
+  "title": "可兼职-西方课程在线辅导Tutor",
+  "company": "藤莺",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "2023-10-31 07:51",
+  "publish_time": "2023-10-31 07:51",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-08-29 16:02",
+   "salary": "薪资面议",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "d61537b70eb23e87",
   "first_seen": "2026-08-29",
   "last_seen": "2026-08-29"
  },
