@@ -7803,7 +7803,36 @@
   "industry": "",
   "id": "45d1fdc223a8308e",
   "first_seen": "2026-08-26",
-  "last_seen": "2026-08-26"
+  "last_seen": "2026-08-30"
+ },
+ {
+  "title": "A应用开发",
+  "company": "中创宇峰(成都)信息技术咨询有限责任公司",
+  "locations": [
+   "上海"
+  ],
+  "location_raw": "上海",
+  "publish_time_raw": "2026-08-26 08:25",
+  "publish_time": "2026-08-26 08:25",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-08-30 15:45",
+   "salary": "15-20K·14薪",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "475fa6c63ba66c6f",
+  "first_seen": "2026-08-30",
+  "last_seen": "2026-08-30"
  },
  {
   "title": "【27秋招】AI安全与隐私工程师",
@@ -13283,6 +13312,35 @@
   "last_seen": "2026-08-27"
  },
  {
+  "title": "AI综合研发工程师（金融产品方向） - 国际支付",
+  "company": "字节跳动",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "2026-08-19 09:28",
+  "publish_time": "2026-08-19 09:28",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-08-30 15:46",
+   "salary": "20-40K·12薪",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "0085584b43e90a7c",
+  "first_seen": "2026-08-30",
+  "last_seen": "2026-08-30"
+ },
+ {
   "title": "女装行业商家运营实习生 - TikTok Shop",
   "company": "字节跳动",
   "locations": [
@@ -16296,7 +16354,7 @@
   "industry": "",
   "id": "8fb17a80ad8384e2",
   "first_seen": "2026-08-26",
-  "last_seen": "2026-08-29"
+  "last_seen": "2026-08-30"
  },
  {
   "title": "柏诚系统科技股份有限公司 校招网申（27届秋招）",
@@ -16353,6 +16411,37 @@
   "industry": "硬件",
   "id": "4032dbefa203fcf8",
   "first_seen": "2026-08-26",
+  "last_seen": "2026-08-30"
+ },
+ {
+  "title": "贵州水投贵阳市水务环境集团有限公司 校招网申（26春招）",
+  "company": "贵州水投贵阳市水务环境集团有限公司",
+  "locations": [
+   "贵阳"
+  ],
+  "location_raw": "贵阳",
+  "publish_time_raw": "2026-08-15",
+  "publish_time": "2026-08-15 12:00",
+  "deadline": "2026-08-20",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "26春招",
+   "job_count": 0,
+   "industry": "",
+   "careers": "后端开发 前端开发 客户端开发 测试 数据 运维",
+   "note": "贵阳市市属水务国企，城市供水排水主体，水环境治理项目运营经验丰富。"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "15f6a9c09989bb7a",
+  "first_seen": "2026-08-30",
   "last_seen": "2026-08-30"
  },
  {
@@ -16965,6 +17054,37 @@
   "last_seen": "2026-08-30"
  },
  {
+  "title": "三峡人寿保险股份有限公司 校招网申（26春招）",
+  "company": "三峡人寿保险股份有限公司",
+  "locations": [
+   "重庆"
+  ],
+  "location_raw": "重庆",
+  "publish_time_raw": "2026-08-13",
+  "publish_time": "2026-08-13 12:00",
+  "deadline": "2026-10-08",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "26春招",
+   "job_count": 0,
+   "industry": "",
+   "careers": "运营 风控 保险 市场/营销 销售类 商务",
+   "note": "全国性寿险企业，央企背景资源雄厚，人身保障产品体系完善稳健合规。"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "c17e9ea671ad32be",
+  "first_seen": "2026-08-30",
+  "last_seen": "2026-08-30"
+ },
+ {
   "title": "【27校招 - 联合动力】AI算法工程师",
   "company": "汇川技术",
   "locations": [
@@ -17099,7 +17219,7 @@
   "industry": "互联网",
   "id": "ecfa1fd92d647092",
   "first_seen": "2026-08-29",
-  "last_seen": "2026-08-29"
+  "last_seen": "2026-08-30"
  },
  {
   "title": "27届(秋)校招-阿里巴巴-百炼-AI infra-Post Training-算法/研发工程师",
@@ -37508,6 +37628,69 @@
   "last_seen": "2026-08-28"
  },
  {
+  "title": "CARIAD中国 校招网申（27届实习）",
+  "company": "CARIAD中国",
+  "locations": [
+   "合肥",
+   "上海"
+  ],
+  "location_raw": "合肥 上海",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-08-11 12:00",
+  "deadline": "2026-09-11",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届实习",
+   "job_count": 0,
+   "industry": "",
+   "careers": "后端开发 测试 人工智能/算法 硬件工程师 电子/半导体 通信",
+   "note": "全球车企软件核心平台，技术积淀深厚，汽车软件研发能力领先。"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "52c960aecca9d764",
+  "first_seen": "2026-08-30",
+  "last_seen": "2026-08-30"
+ },
+ {
+  "title": "深圳欢乐谷 校招网申（日常实习）",
+  "company": "深圳欢乐谷",
+  "locations": [
+   "深圳"
+  ],
+  "location_raw": "深圳",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-08-11 12:00",
+  "deadline": "2026-10-11",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "日常实习",
+   "job_count": 0,
+   "industry": "",
+   "careers": "运营 管理 教育",
+   "note": "国内头部主题公园，全业态布局，游乐运营与品牌影响力突出。"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "75ed6e0e0d9bf9f7",
+  "first_seen": "2026-08-30",
+  "last_seen": "2026-08-30"
+ },
+ {
   "title": "软件工程师（后端方向）-27届秋招",
   "company": "vivo",
   "locations": [],
@@ -42794,6 +42977,70 @@
   "last_seen": "2026-08-30"
  },
  {
+  "title": "AI测试工程师-内推码DNK2026",
+  "company": "联想",
+  "locations": [
+   "北京",
+   "上海",
+   "深圳",
+   "天津"
+  ],
+  "location_raw": "北京/上海/深圳/天津",
+  "publish_time_raw": "2026-08-05 02:39",
+  "publish_time": "2026-08-05 02:39",
+  "source": "nowcoder",
+  "url": "https://www.nowcoder.com/jobs/detail/2345",
+  "extra": {
+   "update_time": "2026-08-30 09:00",
+   "salary": "薪资面议",
+   "education": "本科",
+   "channel": "官网闪投"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "硬件大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "55cacb9ed0193a69",
+  "first_seen": "2026-08-30",
+  "last_seen": "2026-08-30"
+ },
+ {
+  "title": "AI安全工程师-内推码DNK2026",
+  "company": "联想",
+  "locations": [
+   "北京",
+   "上海",
+   "成都",
+   "武汉"
+  ],
+  "location_raw": "北京/上海/成都/武汉",
+  "publish_time_raw": "2026-08-05 02:39",
+  "publish_time": "2026-08-05 02:39",
+  "source": "nowcoder",
+  "url": "https://www.nowcoder.com/jobs/detail/2350",
+  "extra": {
+   "update_time": "2026-08-30 09:00",
+   "salary": "薪资面议",
+   "education": "本科",
+   "channel": "官网闪投"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "硬件大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "700dbd0457b90ab3",
+  "first_seen": "2026-08-30",
+  "last_seen": "2026-08-30"
+ },
+ {
   "title": "【27校招 - 联合动力】生产质量工程师",
   "company": "汇川技术",
   "locations": [
@@ -46807,6 +47054,35 @@
   "industry": "硬件"
  },
  {
+  "title": "账户管理员",
+  "company": "齐博法律",
+  "locations": [
+   "成都"
+  ],
+  "location_raw": "成都",
+  "publish_time_raw": "2026-07-06 02:19",
+  "publish_time": "2026-07-06 02:19",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-08-30 15:29",
+   "salary": "3-13K·12薪",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "2395d28a2bd8f873",
+  "first_seen": "2026-08-30",
+  "last_seen": "2026-08-30"
+ },
+ {
   "title": "产品管培生（上海）",
   "company": "拼多多",
   "locations": [
@@ -47227,7 +47503,7 @@
   "industry": "",
   "id": "244c7850ea455973",
   "first_seen": "2026-08-26",
-  "last_seen": "2026-08-27"
+  "last_seen": "2026-08-30"
  },
  {
   "title": "AI芯片OS软件实习生-芯片研发",
@@ -54244,6 +54520,35 @@
   "last_seen": "2026-08-26"
  },
  {
+  "title": "审计师-监察方向(诸多热门岗位见岗位详情)",
+  "company": "科大讯飞",
+  "locations": [
+   "合肥"
+  ],
+  "location_raw": "合肥",
+  "publish_time_raw": "2024-08-01 08:53",
+  "publish_time": "2024-08-01 08:53",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-08-30 15:40",
+   "salary": "薪资面议",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "52ca7e4aeb0a53ed",
+  "first_seen": "2026-08-30",
+  "last_seen": "2026-08-30"
+ },
+ {
   "title": "硬件加速器工具链软件实习生-芯片研发",
   "company": "字节跳动",
   "locations": [
@@ -54328,7 +54633,36 @@
   "industry": "",
   "id": "4311b4569fd4516c",
   "first_seen": "2026-08-28",
-  "last_seen": "2026-08-29"
+  "last_seen": "2026-08-30"
+ },
+ {
+  "title": "星探经纪人",
+  "company": "莱州星创文化传媒有限公司",
+  "locations": [
+   "西安"
+  ],
+  "location_raw": "西安",
+  "publish_time_raw": "2024-04-09 07:18",
+  "publish_time": "2024-04-09 07:18",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-08-30 15:37",
+   "salary": "薪资面议",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "f2103f4d42cfe903",
+  "first_seen": "2026-08-30",
+  "last_seen": "2026-08-30"
  },
  {
   "title": "软件开发工程师（校招 深圳 杭州 成都）",
@@ -54649,7 +54983,7 @@
   "company_tag": "芯片半导体大厂",
   "id": "f887254e910c5d62",
   "first_seen": "2026-08-24",
-  "last_seen": "2026-08-29",
+  "last_seen": "2026-08-30",
   "hq_city": "合肥",
   "size_bucket": "1000+",
   "industry": "芯片半导体"
@@ -69686,7 +70020,7 @@
   "industry": "互联网",
   "id": "1b48746666a35182",
   "first_seen": "2026-08-26",
-  "last_seen": "2026-08-29"
+  "last_seen": "2026-08-30"
  },
  {
   "title": "市场专员【2027届】",
@@ -69711,7 +70045,7 @@
   "industry": "互联网",
   "id": "bce525389e8d0927",
   "first_seen": "2026-08-26",
-  "last_seen": "2026-08-29"
+  "last_seen": "2026-08-30"
  },
  {
   "title": "游戏市场营销（卡牌对战方向）【2027届】",
@@ -69736,7 +70070,7 @@
   "industry": "互联网",
   "id": "5902a44e69795463",
   "first_seen": "2026-08-26",
-  "last_seen": "2026-08-29"
+  "last_seen": "2026-08-30"
  },
  {
   "title": "助理动画导演【2027届】",
@@ -69761,7 +70095,7 @@
   "industry": "互联网",
   "id": "1672949694cc2e9e",
   "first_seen": "2026-08-26",
-  "last_seen": "2026-08-29"
+  "last_seen": "2026-08-30"
  },
  {
   "title": "电商大数据开发工程师（交易）【2027届】",
@@ -69786,7 +70120,7 @@
   "industry": "互联网",
   "id": "eee057ef4518be37",
   "first_seen": "2026-08-26",
-  "last_seen": "2026-08-29"
+  "last_seen": "2026-08-30"
  },
  {
   "title": "游戏内容生态运营（创作运营方向）【2027届】",
@@ -69811,7 +70145,7 @@
   "industry": "互联网",
   "id": "9dfdc4bc0e6d0a67",
   "first_seen": "2026-08-26",
-  "last_seen": "2026-08-29"
+  "last_seen": "2026-08-30"
  },
  {
   "title": "游戏AI风控算法工程师【2027届】",
@@ -70954,7 +71288,7 @@
   "industry": "互联网",
   "id": "99a49438c98bfb25",
   "first_seen": "2026-08-26",
-  "last_seen": "2026-08-29"
+  "last_seen": "2026-08-30"
  },
  {
   "title": "豆包大模型Agent Harness算法实习生 - Data AML",
@@ -71716,7 +72050,7 @@
   "industry": "互联网",
   "id": "30a8a0390033d626",
   "first_seen": "2026-08-27",
-  "last_seen": "2026-08-29"
+  "last_seen": "2026-08-30"
  },
  {
   "title": "模拟IC设计工程师（高速）",
@@ -72942,7 +73276,7 @@
   "industry": "互联网",
   "id": "cc71bf03a4a82a8a",
   "first_seen": "2026-08-28",
-  "last_seen": "2026-08-29"
+  "last_seen": "2026-08-30"
  },
  {
   "title": "Overseas Marketing Traine",
@@ -72967,7 +73301,7 @@
   "industry": "互联网",
   "id": "ea825777dd160596",
   "first_seen": "2026-08-28",
-  "last_seen": "2026-08-29"
+  "last_seen": "2026-08-30"
  },
  {
   "title": "模型运营（IP与版权方向） - 内容质量与数据服务平台",

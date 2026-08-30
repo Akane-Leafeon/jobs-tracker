@@ -1,21 +1,21 @@
 {
- "updated_at": "2026-08-30 03:28",
+ "updated_at": "2026-08-30 16:01",
  "updated_date": "2026-08-30",
  "totals": {
-  "total": 2634,
-  "added_today": 34,
+  "total": 2645,
+  "added_today": 45,
   "primary": 83,
   "secondary": 34,
-  "beijing": 992,
-  "shanghai": 328
+  "beijing": 995,
+  "shanghai": 330
  },
  "source_freshness": {
   "nowcoder_schedule": {
-   "count": 60,
+   "count": 64,
    "latest": "2026-08-31 12:00"
   },
   "nowcoder": {
-   "count": 131,
+   "count": 138,
    "latest": "2026-08-29 11:35"
   },
   "inovance": {
