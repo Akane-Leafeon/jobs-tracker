@@ -290,6 +290,64 @@
   "last_seen": "2026-09-05"
  },
  {
+  "title": "机械机构工程师",
+  "company": "深圳市弦动科技有限公司",
+  "locations": [
+   "珠海"
+  ],
+  "location_raw": "珠海",
+  "publish_time_raw": "2026-09-05 03:14",
+  "publish_time": "2026-09-05 03:14",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-09-05 14:18",
+   "salary": "10-20K·14薪",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "9d3714af64a6738f",
+  "first_seen": "2026-09-05",
+  "last_seen": "2026-09-05"
+ },
+ {
+  "title": "2027校招-无线网络工程师-广州",
+  "company": "爱立信（中国）通信有限公司",
+  "locations": [
+   "广州"
+  ],
+  "location_raw": "广州",
+  "publish_time_raw": "2026-09-05 01:35",
+  "publish_time": "2026-09-05 01:35",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-09-05 14:31",
+   "salary": "11-14K·12薪",
+   "education": "",
+   "channel": "仟寻"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "596499ca29037f6d",
+  "first_seen": "2026-09-05",
+  "last_seen": "2026-09-05"
+ },
+ {
   "title": "2027校招-软件开发工程师-大连",
   "company": "爱立信（中国）通信有限公司",
   "locations": [
@@ -8957,6 +9015,37 @@
   "industry": "",
   "id": "3c2a502694b59d70",
   "first_seen": "2026-09-04",
+  "last_seen": "2026-09-05"
+ },
+ {
+  "title": "58同城 校招网申（27届秋招）",
+  "company": "58同城",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "2026-08-31",
+  "publish_time": "2026-08-31 12:00",
+  "deadline": "2026-10-31",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "",
+   "careers": "后端开发 数据 人工智能/算法 交互/设计",
+   "note": "国内头部综合本地生活服务平台，业务覆盖招聘房产家政，服务全国数百座城市。"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "fe1ef1c9acf42b3b",
+  "first_seen": "2026-09-05",
   "last_seen": "2026-09-05"
  },
  {
@@ -53054,6 +53143,37 @@
   "last_seen": "2026-08-31"
  },
  {
+  "title": "网易游戏雷火 校招网申（27届秋招）",
+  "company": "网易游戏雷火",
+  "locations": [
+   "杭州"
+  ],
+  "location_raw": "杭州",
+  "publish_time_raw": "2026-07-19",
+  "publish_time": "2026-08-01 12:00",
+  "deadline": "2026-10-15",
+  "source": "nowcoder_schedule",
+  "url": "https://leihuo.163.com/campus/#?channel=FZCwgnz",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "游戏 文娱内容",
+   "careers": "后端开发 前端开发 客户端开发 测试 数据 人工智能/算法",
+   "note": "网易核心游戏工作室，自研实力强，项目精品化，成长与福利保障优质"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "互联网大厂",
+  "hq_city": "杭州",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "365e593e65107fa0",
+  "first_seen": "2026-08-26",
+  "last_seen": "2026-09-05"
+ },
+ {
   "title": "MiMo-大模型爬虫工程师",
   "company": "小米",
   "locations": [
@@ -55477,37 +55597,6 @@
   "last_seen": "2026-09-05"
  },
  {
-  "title": "网易游戏雷火 校招网申（27届秋招）",
-  "company": "网易游戏雷火",
-  "locations": [
-   "杭州"
-  ],
-  "location_raw": "杭州",
-  "publish_time_raw": "2026-07-19",
-  "publish_time": "2026-07-19 12:00",
-  "deadline": "2026-10-15",
-  "source": "nowcoder_schedule",
-  "url": "https://leihuo.163.com/campus/#?channel=FZCwgnz",
-  "extra": {
-   "batch": "27届秋招",
-   "job_count": 0,
-   "industry": "游戏 文娱内容",
-   "careers": "后端开发 前端开发 客户端开发 测试 数据 人工智能/算法",
-   "note": "网易核心游戏工作室，自研实力强，项目精品化，成长与福利保障优质"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "互联网大厂",
-  "hq_city": "杭州",
-  "size_bucket": "10000+",
-  "industry": "互联网",
-  "id": "365e593e65107fa0",
-  "first_seen": "2026-08-26",
-  "last_seen": "2026-09-05"
- },
- {
   "title": "德州仪器 校招网申（27届校招）",
   "company": "德州仪器",
   "locations": [
@@ -55626,6 +55715,35 @@
   "id": "f705c800e0d9677d",
   "first_seen": "2026-08-31",
   "last_seen": "2026-08-31"
+ },
+ {
+  "title": "华为——软件开发嵌入式软件工程师",
+  "company": "华为HUAWEI",
+  "locations": [
+   "深圳"
+  ],
+  "location_raw": "深圳",
+  "publish_time_raw": "2026-07-17 01:20",
+  "publish_time": "2026-07-17 01:20",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-09-05 14:17",
+   "salary": "20-40K·14薪",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "hq_city": "深圳",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "a43b05b47474a136",
+  "first_seen": "2026-09-05",
+  "last_seen": "2026-09-05"
  },
  {
   "title": "嵌入式软件开发",
@@ -55832,7 +55950,7 @@
   "industry": "硬件",
   "id": "996473214a4604d0",
   "first_seen": "2026-08-26",
-  "last_seen": "2026-09-04"
+  "last_seen": "2026-09-05"
  },
  {
   "title": "系统运营实习生 - 抖音生活服务",
@@ -62142,6 +62260,64 @@
   "industry": "互联网"
  },
  {
+  "title": "前台",
+  "company": "材运多多（北京）科技有限公司",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "2026-02-06 04:46",
+  "publish_time": "2026-02-06 04:46",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-09-05 14:16",
+   "salary": "6-8K·12薪",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "e6867e857dc89e00",
+  "first_seen": "2026-09-05",
+  "last_seen": "2026-09-05"
+ },
+ {
+  "title": "行政专员/助理",
+  "company": "材运多多（北京）科技有限公司",
+  "locations": [
+   "天津"
+  ],
+  "location_raw": "天津",
+  "publish_time_raw": "2026-02-06 04:33",
+  "publish_time": "2026-02-06 04:33",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-09-05 14:30",
+   "salary": "7-10K·12薪",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "3c4ed98a4b7dfd13",
+  "first_seen": "2026-09-05",
+  "last_seen": "2026-09-05"
+ },
+ {
   "title": "算法开发实习生-剪映CapCut",
   "company": "字节跳动",
   "locations": [
@@ -63584,6 +63760,35 @@
   "last_seen": "2026-08-29"
  },
  {
+  "title": "AI软件工程师",
+  "company": "华为软件技术有限公司",
+  "locations": [
+   "西安,上海,成都"
+  ],
+  "location_raw": "西安,上海,成都",
+  "publish_time_raw": "2025-08-24 01:23",
+  "publish_time": "2025-08-24 01:23",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-09-05 14:15",
+   "salary": "薪资面议",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "硬件大厂",
+  "hq_city": "深圳",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "76329b1049fc7f57",
+  "first_seen": "2026-09-05",
+  "last_seen": "2026-09-05"
+ },
+ {
   "title": "算法工程师-机器学习",
   "company": "阿里巴巴",
   "locations": [
@@ -64272,7 +64477,36 @@
   "industry": "硬件",
   "id": "17f51b16f0a82ac0",
   "first_seen": "2026-08-26",
-  "last_seen": "2026-09-02"
+  "last_seen": "2026-09-05"
+ },
+ {
+  "title": "【秋招正式批】Web前端研发工程师",
+  "company": "拼多多集团-PDD",
+  "locations": [
+   "上海"
+  ],
+  "location_raw": "上海",
+  "publish_time_raw": "2024-08-03 00:22",
+  "publish_time": "2024-08-03 00:22",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-09-05 14:07",
+   "salary": "30-80K·18薪",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "互联网大厂",
+  "hq_city": "上海",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "80f5cc5619bfeabb",
+  "first_seen": "2026-09-05",
+  "last_seen": "2026-09-05"
  },
  {
   "title": "审计师-监察方向(诸多热门岗位见岗位详情)",
