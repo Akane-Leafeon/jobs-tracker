@@ -1,21 +1,21 @@
 {
- "updated_at": "2026-09-06 02:48",
+ "updated_at": "2026-09-06 14:55",
  "updated_date": "2026-09-06",
  "totals": {
-  "total": 3212,
-  "added_today": 20,
+  "total": 3219,
+  "added_today": 27,
   "primary": 92,
   "secondary": 35,
-  "beijing": 1148,
-  "shanghai": 427
+  "beijing": 1151,
+  "shanghai": 429
  },
  "source_freshness": {
   "nowcoder_schedule": {
-   "count": 94,
+   "count": 96,
    "latest": "2026-09-07 12:00"
   },
   "nowcoder": {
-   "count": 258,
+   "count": 263,
    "latest": "2026-09-06 02:24"
   },
   "xiaomi": {

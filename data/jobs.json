@@ -28,7 +28,7 @@
   "industry": "",
   "id": "720d2fd140d6cb7f",
   "first_seen": "2026-09-04",
-  "last_seen": "2026-09-05"
+  "last_seen": "2026-09-06"
  },
  {
   "title": "乐信圣文 校招网申（27届秋招）",
@@ -91,6 +91,35 @@
   "last_seen": "2026-09-06"
  },
  {
+  "title": "Java",
+  "company": "上海华为技术有限公司",
+  "locations": [
+   "上海"
+  ],
+  "location_raw": "上海",
+  "publish_time_raw": "2026-09-06 02:09",
+  "publish_time": "2026-09-06 02:09",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-09-06 14:51",
+   "salary": "26-40K·16薪",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "硬件大厂",
+  "hq_city": "深圳",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "d0225730f0808ff2",
+  "first_seen": "2026-09-06",
+  "last_seen": "2026-09-06"
+ },
+ {
   "title": "【2027秋】空调-制冷系统仿真工程师(J16399)",
   "company": "奥克斯",
   "locations": [
@@ -116,6 +145,35 @@
   "size_bucket": "",
   "industry": "",
   "id": "159828ddb44e8931",
+  "first_seen": "2026-09-06",
+  "last_seen": "2026-09-06"
+ },
+ {
+  "title": "AI全栈开发(A125219)",
+  "company": "九方云",
+  "locations": [
+   "上海"
+  ],
+  "location_raw": "上海",
+  "publish_time_raw": "2026-09-05 15:07",
+  "publish_time": "2026-09-05 15:07",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-09-06 14:51",
+   "salary": "20-30K·12薪",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "9d53f03d0c782a71",
   "first_seen": "2026-09-06",
   "last_seen": "2026-09-06"
  },
@@ -3939,6 +3997,35 @@
   "last_seen": "2026-09-03"
  },
  {
+  "title": "主播/主持（无责保底/免费培训）",
+  "company": "宿州珈辰文化传媒有限公司",
+  "locations": [
+   "宿州"
+  ],
+  "location_raw": "宿州",
+  "publish_time_raw": "2026-09-03 02:49",
+  "publish_time": "2026-09-03 02:49",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-09-06 14:51",
+   "salary": "5-15K·12薪",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "82ad95410fa828e9",
+  "first_seen": "2026-09-06",
+  "last_seen": "2026-09-06"
+ },
+ {
   "title": "急招视频审核员",
   "company": "宿州珈辰文化传媒有限公司",
   "locations": [
@@ -3965,7 +4052,7 @@
   "industry": "",
   "id": "78f8cbf5ece08003",
   "first_seen": "2026-09-03",
-  "last_seen": "2026-09-03"
+  "last_seen": "2026-09-06"
  },
  {
   "title": "软件技术支持工程师",
@@ -9084,7 +9171,7 @@
   "industry": "",
   "id": "f428c9ec197d33b0",
   "first_seen": "2026-09-04",
-  "last_seen": "2026-09-05"
+  "last_seen": "2026-09-06"
  },
  {
   "title": "ABB中国 校招网申（27届秋招）",
@@ -9123,7 +9210,7 @@
   "industry": "",
   "id": "14e81d7a2ae26506",
   "first_seen": "2026-09-04",
-  "last_seen": "2026-09-05"
+  "last_seen": "2026-09-06"
  },
  {
   "title": "中国一汽 校招网申（27届秋招）",
@@ -9160,7 +9247,7 @@
   "industry": "",
   "id": "3c2a502694b59d70",
   "first_seen": "2026-09-04",
-  "last_seen": "2026-09-05"
+  "last_seen": "2026-09-06"
  },
  {
   "title": "58同城 校招网申（27届秋招）",
@@ -9191,7 +9278,7 @@
   "industry": "",
   "id": "fe1ef1c9acf42b3b",
   "first_seen": "2026-09-05",
-  "last_seen": "2026-09-05"
+  "last_seen": "2026-09-06"
  },
  {
   "title": "研发工程师",
@@ -14150,7 +14237,7 @@
   "industry": "",
   "id": "be254f19b23fa6d4",
   "first_seen": "2026-08-26",
-  "last_seen": "2026-09-05"
+  "last_seen": "2026-09-06"
  },
  {
   "title": "鍖椾含鑴戠�戝�︿笌绫昏剳鐮旂┒鎵�Koziol瀹為獙瀹�",
@@ -17391,7 +17478,7 @@
   "industry": "",
   "id": "0fc47541d36ba8af",
   "first_seen": "2026-09-03",
-  "last_seen": "2026-09-03"
+  "last_seen": "2026-09-06"
  },
  {
   "title": "【27秋招】AI安全与隐私工程师",
@@ -18479,7 +18566,7 @@
   "industry": "",
   "id": "b61c48c22c7b442b",
   "first_seen": "2026-08-26",
-  "last_seen": "2026-09-05"
+  "last_seen": "2026-09-06"
  },
  {
   "title": "性能研发工程师（制冷/材料/用户研究）-家电",
@@ -19230,7 +19317,7 @@
   "industry": "",
   "id": "959ec7ab92f9d83d",
   "first_seen": "2026-08-31",
-  "last_seen": "2026-09-05"
+  "last_seen": "2026-09-06"
  },
  {
   "title": "携程 校招网申（27届秋招）",
@@ -20269,7 +20356,7 @@
   "industry": "",
   "id": "f732651454de736b",
   "first_seen": "2026-09-03",
-  "last_seen": "2026-09-04"
+  "last_seen": "2026-09-06"
  },
  {
   "title": "思朗科技 校招网申（27届秋招）",
@@ -20305,7 +20392,7 @@
   "industry": "",
   "id": "a15c9f3ddae62f33",
   "first_seen": "2026-09-04",
-  "last_seen": "2026-09-05"
+  "last_seen": "2026-09-06"
  },
  {
   "title": "LLM训推加速&高性能计算工程师",
@@ -20572,7 +20659,7 @@
   "industry": "",
   "id": "749165bf9d1ad324",
   "first_seen": "2026-08-25",
-  "last_seen": "2026-09-04"
+  "last_seen": "2026-09-06"
  },
  {
   "title": "半亩花田 校招网申（27届秋招）",
@@ -21759,7 +21846,7 @@
   "industry": "硬件",
   "id": "ee03449d0817bb6e",
   "first_seen": "2026-08-29",
-  "last_seen": "2026-08-31"
+  "last_seen": "2026-09-06"
  },
  {
   "title": "产品助理/产品专员",
@@ -25556,7 +25643,7 @@
   "industry": "",
   "id": "31da8e276e98cee3",
   "first_seen": "2026-09-03",
-  "last_seen": "2026-09-05"
+  "last_seen": "2026-09-06"
  },
  {
   "title": "贸易跟单",
@@ -25793,7 +25880,7 @@
   "industry": "新能源",
   "id": "5049d2cef91a706d",
   "first_seen": "2026-08-26",
-  "last_seen": "2026-09-05"
+  "last_seen": "2026-09-06"
  },
  {
   "title": "厦门银行 校招网申（27届秋招）",
@@ -25833,7 +25920,7 @@
   "industry": "",
   "id": "8fb17a80ad8384e2",
   "first_seen": "2026-08-26",
-  "last_seen": "2026-09-05"
+  "last_seen": "2026-09-06"
  },
  {
   "title": "柏诚系统科技股份有限公司 校招网申（27届秋招）",
@@ -26625,7 +26712,7 @@
   "industry": "互联网",
   "id": "a8edecbdf61fad4f",
   "first_seen": "2026-08-26",
-  "last_seen": "2026-09-05"
+  "last_seen": "2026-09-06"
  },
  {
   "title": "三峡人寿保险股份有限公司 校招网申（26春招）",
@@ -27203,7 +27290,7 @@
   "industry": "互联网",
   "id": "50ff04694105647c",
   "first_seen": "2026-08-26",
-  "last_seen": "2026-09-05"
+  "last_seen": "2026-09-06"
  },
  {
   "title": "【27校招 - 职能】IT开发工程师",
@@ -52485,6 +52572,37 @@
   "last_seen": "2026-09-03"
  },
  {
+  "title": "数据开发工程师-内推码DNK2026",
+  "company": "联想",
+  "locations": [
+   "天津",
+   "北京",
+   "深圳"
+  ],
+  "location_raw": "天津/北京/深圳",
+  "publish_time_raw": "2026-08-05 02:39",
+  "publish_time": "2026-08-05 02:39",
+  "source": "nowcoder",
+  "url": "https://www.nowcoder.com/jobs/detail/2339",
+  "extra": {
+   "update_time": "2026-09-06 09:00",
+   "salary": "薪资面议",
+   "education": "本科",
+   "channel": "官网闪投"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "硬件大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "82d24fb7244dc8f2",
+  "first_seen": "2026-09-06",
+  "last_seen": "2026-09-06"
+ },
+ {
   "title": "【27校招 - 联合动力】生产质量工程师",
   "company": "汇川技术",
   "locations": [
@@ -53227,7 +53345,7 @@
   "industry": "",
   "id": "efbcf361f1b51d9b",
   "first_seen": "2026-08-26",
-  "last_seen": "2026-09-05"
+  "last_seen": "2026-09-06"
  },
  {
   "title": "AI产品经理",
@@ -53317,6 +53435,38 @@
   "id": "365e593e65107fa0",
   "first_seen": "2026-08-26",
   "last_seen": "2026-09-05"
+ },
+ {
+  "title": "网易 校招网申（27届秋招）",
+  "company": "网易",
+  "locations": [
+   "杭州",
+   "北京"
+  ],
+  "location_raw": "杭州 北京",
+  "publish_time_raw": "2026-08-01",
+  "publish_time": "2026-08-01 12:00",
+  "deadline": "2026-10-14",
+  "source": "nowcoder_schedule",
+  "url": "https://campus.163.com/app/niuke",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "游戏 文娱内容 电商",
+   "careers": "后端开发 测试 数据 运维 人工智能/算法 研发工程师",
+   "note": "团队氛围好；福利待遇好；免费三餐；培训资源充足；关注员工成长\n"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "互联网大厂",
+  "hq_city": "杭州",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "87f5791b8602bb8e",
+  "first_seen": "2026-09-06",
+  "last_seen": "2026-09-06"
  },
  {
   "title": "MiMo-大模型爬虫工程师",
@@ -55739,7 +55889,7 @@
   "industry": "硬件",
   "id": "7fdcf58066019644",
   "first_seen": "2026-08-31",
-  "last_seen": "2026-09-05"
+  "last_seen": "2026-09-06"
  },
  {
   "title": "德州仪器 校招网申（27届校招）",
@@ -55859,7 +56009,7 @@
   "industry": "",
   "id": "f705c800e0d9677d",
   "first_seen": "2026-08-31",
-  "last_seen": "2026-08-31"
+  "last_seen": "2026-09-06"
  },
  {
   "title": "华为——软件开发嵌入式软件工程师",
@@ -57206,6 +57356,59 @@
   "id": "26cb80e78979b5c3",
   "first_seen": "2026-08-31",
   "last_seen": "2026-08-31"
+ },
+ {
+  "title": "基恩士 校招网申（27秋招）",
+  "company": "基恩士",
+  "locations": [
+   "大连",
+   "南京",
+   "无锡",
+   "苏州",
+   "昆山",
+   "杭州",
+   "宁波",
+   "合肥",
+   "厦门",
+   "济南",
+   "青岛",
+   "武汉",
+   "长沙",
+   "广州",
+   "深圳",
+   "东莞",
+   "中山",
+   "成都",
+   "西安",
+   "北京",
+   "上海",
+   "重庆",
+   "天津"
+  ],
+  "location_raw": "大连 南京 无锡 苏州 昆山 杭州 宁波 合肥 厦门 济南 青岛 武汉 长沙 广州 深圳 东莞 中山 成都 西安 北京 上海 重庆 天津",
+  "publish_time_raw": "2026-06-27",
+  "publish_time": "2026-06-27 12:00",
+  "deadline": "2026-09-29",
+  "source": "nowcoder_schedule",
+  "url": "https://www.keyence.com.cn/career085",
+  "extra": {
+   "batch": "27秋招",
+   "job_count": 0,
+   "industry": "机械制造 硬件 企业服务",
+   "careers": "运营 市场/营销 销售类 商务 咨询/调研",
+   "note": "全球工业自动化与传感器领域龙头，技术研发领先，全品类产品与服务体系完善"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "4315dce16ee435cc",
+  "first_seen": "2026-09-06",
+  "last_seen": "2026-09-06"
  },
  {
   "title": "顶尖应届-AI材料研发工程师（电解液）-材料core",
@@ -61504,7 +61707,7 @@
   "industry": "硬件",
   "id": "74c02cb7084b6c91",
   "first_seen": "2026-08-26",
-  "last_seen": "2026-09-05"
+  "last_seen": "2026-09-06"
  },
  {
   "title": "SoC设计实习生-芯片研发",
@@ -62316,6 +62519,35 @@
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "互联网"
+ },
+ {
+  "title": "普工/临时工/实习生/应届生",
+  "company": "富联锦鸿科技（深圳）有限公司",
+  "locations": [
+   "深圳"
+  ],
+  "location_raw": "深圳",
+  "publish_time_raw": "2026-03-14 15:18",
+  "publish_time": "2026-03-14 15:18",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-09-06 14:49",
+   "salary": "6-7K·12薪",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "c863e98b19bd535b",
+  "first_seen": "2026-09-06",
+  "last_seen": "2026-09-06"
  },
  {
   "title": "AI应用开发实习生-Cross Platform",
