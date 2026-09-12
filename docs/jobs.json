@@ -1,5 +1,34 @@
 [
  {
+  "title": "计划工程师",
+  "company": "锐捷网络股份有限公司",
+  "locations": [
+   "福州"
+  ],
+  "location_raw": "福州",
+  "publish_time_raw": "2026-09-12 13:08",
+  "publish_time": "2026-09-12 13:08",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-09-12 14:53",
+   "salary": "15-25K·12薪",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "710f7deea57895b3",
+  "first_seen": "2026-09-12",
+  "last_seen": "2026-09-12"
+ },
+ {
   "title": "法务专员",
   "company": "小米",
   "locations": [
@@ -25,6 +54,35 @@
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
+ },
+ {
+  "title": "27届校招—AI开发工程师",
+  "company": "巨一",
+  "locations": [
+   ""
+  ],
+  "location_raw": "",
+  "publish_time_raw": "2026-09-12 12:00",
+  "publish_time": "2026-09-12 12:00",
+  "source": "nowcoder",
+  "url": "https://www.nowcoder.com/jobs/detail/952e2309-d079-4f43-8afc-d8ff790c7175",
+  "extra": {
+   "update_time": "2026-09-12 12:00",
+   "salary": "薪资面议",
+   "education": "本科",
+   "channel": "官网闪投"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "unknown",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "23070405c6fef78c",
+  "first_seen": "2026-09-12",
+  "last_seen": "2026-09-12"
  },
  {
   "title": "【2027秋】电能-SST软件工程师(J16426)",
@@ -3419,6 +3477,38 @@
   "last_seen": "2026-09-10"
  },
  {
+  "title": "方太集团 校招网申（27秋招）",
+  "company": "方太集团",
+  "locations": [
+   "杭州",
+   "宁波"
+  ],
+  "location_raw": "杭州 宁波",
+  "publish_time_raw": "2026-09-09",
+  "publish_time": "2026-09-09 12:00",
+  "deadline": "2026-10-30",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27秋招",
+   "job_count": 0,
+   "industry": "",
+   "careers": "后端开发 人工智能/算法 研发工程师 硬件工程师 电子/半导体 通信",
+   "note": "团队氛围好不内卷，行业前沿，待遇优厚，身股分红，人文关怀好、工作生活平衡"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "09384ea56400ee8b",
+  "first_seen": "2026-09-12",
+  "last_seen": "2026-09-12"
+ },
+ {
   "title": "校招-美团2027届商户/客户服务管理培训生",
   "company": "美团",
   "locations": [
@@ -3529,6 +3619,35 @@
   "industry": "硬件",
   "id": "e787e4d91718b7a7",
   "first_seen": "2026-08-26",
+  "last_seen": "2026-09-12"
+ },
+ {
+  "title": "C++",
+  "company": "锐捷网络股份有限公司",
+  "locations": [
+   "福州"
+  ],
+  "location_raw": "福州",
+  "publish_time_raw": "2026-09-09 10:20",
+  "publish_time": "2026-09-09 10:20",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-09-12 14:53",
+   "salary": "16-26K·13薪",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "0ffc75169e8125cd",
+  "first_seen": "2026-09-12",
   "last_seen": "2026-09-12"
  },
  {
@@ -26732,7 +26851,7 @@
   "industry": "互联网",
   "id": "6cbdd541e9bb9f42",
   "first_seen": "2026-08-31",
-  "last_seen": "2026-09-09"
+  "last_seen": "2026-09-12"
  },
  {
   "title": "AI工程师",
@@ -59749,6 +59868,65 @@
   "last_seen": "2026-09-09"
  },
  {
+  "title": "声学工程师-内推码DNK2026",
+  "company": "联想",
+  "locations": [
+   "上海"
+  ],
+  "location_raw": "上海",
+  "publish_time_raw": "2026-08-05 02:39",
+  "publish_time": "2026-08-05 02:39",
+  "source": "nowcoder",
+  "url": "https://www.nowcoder.com/jobs/detail/2332",
+  "extra": {
+   "update_time": "2026-09-12 09:00",
+   "salary": "薪资面议",
+   "education": "本科",
+   "channel": "官网闪投"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "硬件大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "18c117e89304aa14",
+  "first_seen": "2026-09-12",
+  "last_seen": "2026-09-12"
+ },
+ {
+  "title": "产品经理-AI方向-内推码DNK2026",
+  "company": "联想",
+  "locations": [
+   "北京",
+   "天津"
+  ],
+  "location_raw": "北京/天津",
+  "publish_time_raw": "2026-08-05 02:39",
+  "publish_time": "2026-08-05 02:39",
+  "source": "nowcoder",
+  "url": "https://www.nowcoder.com/jobs/detail/2362",
+  "extra": {
+   "update_time": "2026-09-12 09:00",
+   "salary": "薪资面议",
+   "education": "本科",
+   "channel": "官网闪投"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "硬件大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "cae47a71305f1cbd",
+  "first_seen": "2026-09-12",
+  "last_seen": "2026-09-12"
+ },
+ {
   "title": "【27校招 - 联合动力】生产质量工程师",
   "company": "汇川技术",
   "locations": [
@@ -60193,7 +60371,7 @@
   "industry": "互联网",
   "id": "378565113fa71045",
   "first_seen": "2026-08-26",
-  "last_seen": "2026-09-11"
+  "last_seen": "2026-09-12"
  },
  {
   "title": "AI芯片系统软件工程师 - 芯片研发",
@@ -60580,7 +60758,7 @@
   "industry": "互联网",
   "id": "365e593e65107fa0",
   "first_seen": "2026-08-26",
-  "last_seen": "2026-09-10"
+  "last_seen": "2026-09-12"
  },
  {
   "title": "网易 校招网申（27届秋招）",
@@ -63180,7 +63358,7 @@
   "industry": "硬件",
   "id": "7fdcf58066019644",
   "first_seen": "2026-08-31",
-  "last_seen": "2026-09-06"
+  "last_seen": "2026-09-12"
  },
  {
   "title": "德州仪器 校招网申（27届校招）",
@@ -71775,7 +71953,7 @@
   "industry": "硬件",
   "id": "76329b1049fc7f57",
   "first_seen": "2026-09-05",
-  "last_seen": "2026-09-06"
+  "last_seen": "2026-09-12"
  },
  {
   "title": "算法工程师-机器学习",
@@ -72235,6 +72413,35 @@
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "互联网"
+ },
+ {
+  "title": "7号线地铁口周边就业+五险一金+高薪销售9k",
+  "company": "深圳市乐有家控股集团有限公司",
+  "locations": [
+   "深圳"
+  ],
+  "location_raw": "深圳",
+  "publish_time_raw": "2025-06-04 09:02",
+  "publish_time": "2025-06-04 09:02",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-09-12 14:42",
+   "salary": "5-9K·12薪",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "f4e175326ec2b650",
+  "first_seen": "2026-09-12",
+  "last_seen": "2026-09-12"
  },
  {
   "title": "CPU性能建模实习生-芯片研发",
@@ -88226,7 +88433,7 @@
   "industry": "互联网",
   "id": "bce525389e8d0927",
   "first_seen": "2026-08-26",
-  "last_seen": "2026-09-10"
+  "last_seen": "2026-09-12"
  },
  {
   "title": "游戏市场营销（卡牌对战方向）【2027届】",
@@ -88326,7 +88533,7 @@
   "industry": "互联网",
   "id": "9dfdc4bc0e6d0a67",
   "first_seen": "2026-08-26",
-  "last_seen": "2026-09-10"
+  "last_seen": "2026-09-12"
  },
  {
   "title": "游戏AI风控算法工程师【2027届】",
@@ -96623,7 +96830,7 @@
   "industry": "互联网",
   "id": "9e52a74f71a854f3",
   "first_seen": "2026-09-04",
-  "last_seen": "2026-09-10"
+  "last_seen": "2026-09-12"
  },
  {
   "title": "游戏品牌营销（休闲模拟）【2027届】",
@@ -96648,7 +96855,7 @@
   "industry": "互联网",
   "id": "c9bfad3b22bf30ef",
   "first_seen": "2026-09-04",
-  "last_seen": "2026-09-10"
+  "last_seen": "2026-09-12"
  },
  {
   "title": "游戏品牌营销（ARPG）【2027届】",
@@ -96673,7 +96880,7 @@
   "industry": "互联网",
   "id": "e21df996e78c48c7",
   "first_seen": "2026-09-04",
-  "last_seen": "2026-09-10"
+  "last_seen": "2026-09-12"
  },
  {
   "title": "研发工程师（主站）【2027届】",
@@ -96698,7 +96905,7 @@
   "industry": "互联网",
   "id": "4873dc7a48ca795e",
   "first_seen": "2026-09-04",
-  "last_seen": "2026-09-10"
+  "last_seen": "2026-09-12"
  },
  {
   "title": "AI 创作项目工程师（主站）【2027届】",
@@ -96723,7 +96930,7 @@
   "industry": "互联网",
   "id": "211428d18b1e3fcf",
   "first_seen": "2026-09-04",
-  "last_seen": "2026-09-10"
+  "last_seen": "2026-09-12"
  },
  {
   "title": "前端开发工程师（直播方向）【2027届】",
@@ -96748,7 +96955,7 @@
   "industry": "互联网",
   "id": "1ee3f5c40fc6649c",
   "first_seen": "2026-09-04",
-  "last_seen": "2026-09-10"
+  "last_seen": "2026-09-12"
  },
  {
   "title": "客户端开发工程师（直播方向）【2027届】",
@@ -96827,7 +97034,7 @@
   "industry": "互联网",
   "id": "34fcc3bca4fc80ce",
   "first_seen": "2026-09-04",
-  "last_seen": "2026-09-10"
+  "last_seen": "2026-09-12"
  },
  {
   "title": "多模态大模型算法工程师 - TikTok内容安全算法",
@@ -99404,7 +99611,7 @@
   "industry": "互联网",
   "id": "11d827df2de6d5ee",
   "first_seen": "2026-09-07",
-  "last_seen": "2026-09-10"
+  "last_seen": "2026-09-12"
  },
  {
   "title": "创意设计师【2027届】",
@@ -103912,7 +104119,7 @@
   "industry": "互联网",
   "id": "9191c46b08cc8f3a",
   "first_seen": "2026-09-11",
-  "last_seen": "2026-09-11"
+  "last_seen": "2026-09-12"
  },
  {
   "title": "大客户技术服务经理（云与AI） - 火山引擎",
