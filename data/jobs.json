@@ -29,6 +29,35 @@
   "last_seen": "2026-09-13"
  },
  {
+  "title": "财务专员",
+  "company": "锐捷网络股份有限公司",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "2026-09-12 13:17",
+  "publish_time": "2026-09-12 13:17",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-09-13 15:23",
+   "salary": "15-25K·13薪",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "ad9e219d991480cb",
+  "first_seen": "2026-09-13",
+  "last_seen": "2026-09-13"
+ },
+ {
   "title": "计划工程师",
   "company": "锐捷网络股份有限公司",
   "locations": [
@@ -3654,6 +3683,35 @@
   "last_seen": "2026-09-09"
  },
  {
+  "title": "FPGA逻辑工程师",
+  "company": "华为HUAWEI",
+  "locations": [
+   "深圳"
+  ],
+  "location_raw": "深圳",
+  "publish_time_raw": "2026-09-09 10:52",
+  "publish_time": "2026-09-09 10:52",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-09-13 15:31",
+   "salary": "20-30K·14薪",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "hq_city": "深圳",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "8eaa8da4e704ca5d",
+  "first_seen": "2026-09-13",
+  "last_seen": "2026-09-13"
+ },
+ {
   "title": "【27校招 - 供应链】机械设计工程师（数控机床）",
   "company": "汇川技术",
   "locations": [
@@ -5042,6 +5100,112 @@
   "last_seen": "2026-09-09"
  },
  {
+  "title": "中国石油天然气股份有限公司长庆油田分公司 校招网申（27届秋招）",
+  "company": "中国石油天然气股份有限公司长庆油田分公司",
+  "locations": [
+   "呼和浩特",
+   "西安",
+   "兰州",
+   "银川"
+  ],
+  "location_raw": "呼和浩特 西安 兰州 银川",
+  "publish_time_raw": "2026-09-08",
+  "publish_time": "2026-09-08 12:00",
+  "deadline": "2026-10-14",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "能源",
+   "careers": "后端开发 运维 人工智能/算法 研发工程师 通信 技术支持",
+   "note": "我国最大的天然气生产基地和陆上天然气管网枢纽中心，目前油气产量当量最大"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "c01e93f1ac616a26",
+  "first_seen": "2026-09-13",
+  "last_seen": "2026-09-13"
+ },
+ {
+  "title": "咪咕 校招网申（27届秋招）",
+  "company": "咪咕",
+  "locations": [
+   "南京",
+   "杭州",
+   "厦门",
+   "广州",
+   "深圳",
+   "成都",
+   "北京",
+   "上海"
+  ],
+  "location_raw": "南京 杭州 厦门 广州 深圳 成都 北京 上海",
+  "publish_time_raw": "2026-09-08",
+  "publish_time": "2026-09-08 12:00",
+  "deadline": "2026-10-19",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "文娱内容",
+   "careers": "后端开发 前端开发 客户端开发 测试 数据 运维",
+   "note": "国资央企最大的文化+科技公司、最大的互联网平台、最大的新媒体平台。"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "9a3c2e5adc4b2420",
+  "first_seen": "2026-09-13",
+  "last_seen": "2026-09-13"
+ },
+ {
+  "title": "信得科技 校招网申（27届秋招）",
+  "company": "信得科技",
+  "locations": [
+   "青岛",
+   "潍坊",
+   "绵阳",
+   "北京"
+  ],
+  "location_raw": "青岛 潍坊 绵阳 北京",
+  "publish_time_raw": "2026-09-08",
+  "publish_time": "2026-09-08 12:00",
+  "deadline": "2026-11-08",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "",
+   "careers": "研发工程师 机械 化工 电气/自动化 技术支持 运营",
+   "note": "中国领先的动物保健企业，主要从事全系列动物保健及配套产品的研发、生产及销售"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "1cc7fd15d686e4e5",
+  "first_seen": "2026-09-13",
+  "last_seen": "2026-09-13"
+ },
+ {
   "title": "售后技术工程师",
   "company": "北京发那科机电有限公司",
   "locations": [
@@ -5384,7 +5548,7 @@
   "industry": "互联网",
   "id": "6c311563aadb0199",
   "first_seen": "2026-09-10",
-  "last_seen": "2026-09-10"
+  "last_seen": "2026-09-13"
  },
  {
   "title": "Ai Agent开发",
@@ -6813,6 +6977,40 @@
   "last_seen": "2026-09-09"
  },
  {
+  "title": "海尔新能源科技股份有限公司 校招网申（27届秋招）",
+  "company": "海尔新能源科技股份有限公司",
+  "locations": [
+   "苏州",
+   "杭州",
+   "青岛",
+   "深圳"
+  ],
+  "location_raw": "苏州 杭州 青岛 深圳",
+  "publish_time_raw": "2026-09-07",
+  "publish_time": "2026-09-07 12:00",
+  "deadline": "2026-11-07",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "",
+   "careers": "后端开发 测试 人工智能/算法 研发工程师 硬件工程师 电子/半导体",
+   "note": "海尔集团旗下新能源板块，产业资源雄厚，技术体系完善，新能源领域成长空间大"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "483314e89dbc6c01",
+  "first_seen": "2026-09-13",
+  "last_seen": "2026-09-13"
+ },
+ {
   "title": "总行定向培训生岗-公司金融数智化方向",
   "company": "南京银行",
   "locations": [
@@ -7109,6 +7307,37 @@
   "id": "01e964be082688da",
   "first_seen": "2026-09-08",
   "last_seen": "2026-09-08"
+ },
+ {
+  "title": "得物设计部 校招网申（27届秋招）",
+  "company": "得物设计部",
+  "locations": [
+   "上海"
+  ],
+  "location_raw": "上海",
+  "publish_time_raw": "2026-09-06",
+  "publish_time": "2026-09-06 12:00",
+  "deadline": "2026-11-06",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "电商",
+   "careers": "交互/设计",
+   "note": "潮流电商设计标杆，品牌调性鲜明，创意氛围浓厚，审美与落地能力双提升"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "d2d7f9fe444014bc",
+  "first_seen": "2026-09-13",
+  "last_seen": "2026-09-13"
  },
  {
   "title": "27届校招-游戏数值策划",
@@ -25033,7 +25262,7 @@
   "industry": "",
   "id": "45d1fdc223a8308e",
   "first_seen": "2026-08-26",
-  "last_seen": "2026-09-10"
+  "last_seen": "2026-09-13"
  },
  {
   "title": "A应用开发",
@@ -25091,7 +25320,7 @@
   "industry": "",
   "id": "0fc47541d36ba8af",
   "first_seen": "2026-09-03",
-  "last_seen": "2026-09-10"
+  "last_seen": "2026-09-13"
  },
  {
   "title": "【27秋招】AI安全与隐私工程师",
@@ -26179,7 +26408,7 @@
   "industry": "",
   "id": "b61c48c22c7b442b",
   "first_seen": "2026-08-26",
-  "last_seen": "2026-09-12"
+  "last_seen": "2026-09-13"
  },
  {
   "title": "性能研发工程师（制冷/材料/用户研究）-家电",
@@ -26967,7 +27196,7 @@
   "industry": "互联网",
   "id": "6cbdd541e9bb9f42",
   "first_seen": "2026-08-31",
-  "last_seen": "2026-09-12"
+  "last_seen": "2026-09-13"
  },
  {
   "title": "携程 校招网申（27届秋招）",
@@ -60911,7 +61140,7 @@
   "industry": "互联网",
   "id": "365e593e65107fa0",
   "first_seen": "2026-08-26",
-  "last_seen": "2026-09-12"
+  "last_seen": "2026-09-13"
  },
  {
   "title": "网易 校招网申（27届秋招）",
@@ -64754,6 +64983,35 @@
   "id": "25e08640c47aec6f",
   "first_seen": "2026-09-11",
   "last_seen": "2026-09-11"
+ },
+ {
+  "title": "【2027届秋招】算法工程师",
+  "company": "拼多多集团-PDD",
+  "locations": [
+   "上海"
+  ],
+  "location_raw": "上海",
+  "publish_time_raw": "2026-07-06 02:28",
+  "publish_time": "2026-07-06 02:28",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-09-13 15:12",
+   "salary": "35-100K·16薪",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "互联网大厂",
+  "hq_city": "上海",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "c2f2a5289b71e46c",
+  "first_seen": "2026-09-13",
+  "last_seen": "2026-09-13"
  },
  {
   "title": "账户管理员",
@@ -70403,7 +70661,7 @@
   "industry": "",
   "id": "c863e98b19bd535b",
   "first_seen": "2026-09-06",
-  "last_seen": "2026-09-06"
+  "last_seen": "2026-09-13"
  },
  {
   "title": "AI应用开发实习生-Cross Platform",
