@@ -1,5 +1,31 @@
 [
  {
+  "title": "【27校招 - 供应链】过程测试开发工程师",
+  "company": "汇川技术",
+  "locations": [
+   "苏州"
+  ],
+  "location_raw": "苏州",
+  "publish_time_raw": "2026-08-18T10:18:26.645317",
+  "publish_time": "2026-09-16 16:58",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/019ff930-57bb-79d9-8421-d1e1770a1d18",
+  "extra": {
+   "segment": "集团业务-供应链"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "b10183f4dd3c472b",
+  "first_seen": "2026-08-26",
+  "last_seen": "2026-09-16"
+ },
+ {
   "title": "鎷涘晢閾惰�岃偂浠芥湁闄愬叕鍙稿寳浜�鍒嗚��",
   "company": "鍗椾含鍐滀笟澶у��",
   "locations": [
@@ -23,6 +49,823 @@
   "size_bucket": "",
   "industry": "",
   "id": "7e69e936b8774b7b",
+  "first_seen": "2026-09-16",
+  "last_seen": "2026-09-16"
+ },
+ {
+  "title": "鍖椾含甯傜��涓夊崄浜斾腑瀛�",
+  "company": "鍖椾含甯堣寖澶у��",
+  "locations": [
+   "鍖椾含"
+  ],
+  "location_raw": "鍖椾含",
+  "publish_time_raw": "2026-09-16",
+  "publish_time": "2026-09-16 12:00",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-081-621.html",
+  "extra": {
+   "section": "beijing",
+   "kind": "鏁板�︽暀甯�"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "2022ddc7fe69ed96",
+  "first_seen": "2026-09-16",
+  "last_seen": "2026-09-16"
+ },
+ {
+  "title": "鏈�鏉ョ�戣��淇℃伅鎶�鏈�锛堝寳浜�锛夋湁闄愬叕鍙�",
+  "company": "鍖椾含閭�鐢靛ぇ瀛︿笘绾�瀛﹂櫌",
+  "locations": [
+   "鍖椾含"
+  ],
+  "location_raw": "鍖椾含",
+  "publish_time_raw": "2026-09-16",
+  "publish_time": "2026-09-16 12:00",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-081-596.html",
+  "extra": {
+   "section": "beijing",
+   "kind": "钀ヤ笟鍛�"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "5634e524a3991427",
+  "first_seen": "2026-09-16",
+  "last_seen": "2026-09-16"
+ },
+ {
+  "title": "鍖楁柟宸ヤ笟澶у�︾數姘斾笌鎺у埗宸ョ▼瀛﹂櫌",
+  "company": "鍖楁柟宸ヤ笟澶у�︿汉浜嬪��",
+  "locations": [
+   "鍖椾含"
+  ],
+  "location_raw": "鍖椾含",
+  "publish_time_raw": "2026-09-16",
+  "publish_time": "2026-09-16 12:00",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-081-569.html",
+  "extra": {
+   "section": "beijing",
+   "kind": "涓�澶栧悎浣滃姙瀛︿笓椤瑰�栦簨绉樹功"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "611eb75360344f15",
+  "first_seen": "2026-09-16",
+  "last_seen": "2026-09-16"
+ },
+ {
+  "title": "娑﹀槈鐗╀笟绠＄悊锛堝寳浜�锛夋湁闄愬叕鍙稿崡浜�鍒嗗叕鍙�",
+  "company": "鑻忓窞绉戞妧澶у��",
+  "locations": [
+   "姹熻嫃"
+  ],
+  "location_raw": "姹熻嫃",
+  "publish_time_raw": "2026-09-16",
+  "publish_time": "2026-09-16 12:00",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-081-544.html",
+  "extra": {
+   "section": "beijing",
+   "kind": "瀹㈡埛鏈嶅姟宀�"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "79336ed281f7ab1a",
+  "first_seen": "2026-09-16",
+  "last_seen": "2026-09-16"
+ },
+ {
+  "title": "娣卞湷淇＄珛娉拌嵂涓氳偂浠芥湁闄愬叕鍙�",
+  "company": "鍥涘窛澶у��",
+  "locations": [
+   "鍖椾含"
+  ],
+  "location_raw": "鍖椾含",
+  "publish_time_raw": "2026-09-16",
+  "publish_time": "2026-09-16 12:00",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-081-482.html",
+  "extra": {
+   "section": "beijing",
+   "kind": "鐢靛晢杩愯惀涓撳憳"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "52eb6275caaa715d",
+  "first_seen": "2026-09-16",
+  "last_seen": "2026-09-16"
+ },
+ {
+  "title": "娣卞湷淇＄珛娉拌嵂涓氳偂浠芥湁闄愬叕鍙�",
+  "company": "鍥涘窛澶у��",
+  "locations": [
+   "鍖椾含娣卞湷"
+  ],
+  "location_raw": "鍖椾含娣卞湷",
+  "publish_time_raw": "2026-09-16",
+  "publish_time": "2026-09-16 12:00",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-081-483.html",
+  "extra": {
+   "section": "beijing",
+   "kind": "甯傚満涓撳憳"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "c8674512465a3af0",
+  "first_seen": "2026-09-16",
+  "last_seen": "2026-09-16"
+ },
+ {
+  "title": "涓�鍥介摱娌抽噾铻嶆帶鑲℃湁闄愯矗浠诲叕鍙�",
+  "company": "灞变笢澶у��",
+  "locations": [
+   "鍖椾含涓婃捣骞垮窞"
+  ],
+  "location_raw": "鍖椾含涓婃捣骞垮窞",
+  "publish_time_raw": "2026-09-16",
+  "publish_time": "2026-09-16 12:00",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-081-503.html",
+  "extra": {
+   "section": "beijing",
+   "kind": "2027鏍″洯鎷涜仒"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "40356f044fb587e0",
+  "first_seen": "2026-09-16",
+  "last_seen": "2026-09-16"
+ },
+ {
+  "title": "娣卞湷淇＄珛娉拌嵂涓氳偂浠芥湁闄愬叕鍙�",
+  "company": "鍥涘窛澶у��",
+  "locations": [
+   "鍖椾含"
+  ],
+  "location_raw": "鍖椾含",
+  "publish_time_raw": "2026-09-16",
+  "publish_time": "2026-09-16 12:00",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-081-427.html",
+  "extra": {
+   "section": "beijing",
+   "kind": "鍔╃悊鍖诲�︾粡鐞�"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "5acba37130392b24",
+  "first_seen": "2026-09-16",
+  "last_seen": "2026-09-16"
+ },
+ {
+  "title": "鍖椾含鏈�鍚嶅厛鏈虹�戞妧鏈夐檺鍏�鍙�",
+  "company": "娓呭崕澶у��",
+  "locations": [
+   "鍖椾含鍏跺畠"
+  ],
+  "location_raw": "鍖椾含鍏跺畠",
+  "publish_time_raw": "2026-09-16",
+  "publish_time": "2026-09-16 12:00",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-081-346.html",
+  "extra": {
+   "section": "beijing",
+   "kind": "鍏疯韩瑙嗛�戠悊瑙ｇ畻娉曞伐绋嬪笀|鍏疯韩妯″瀷绠楁硶宸ョ▼甯坾VLA 瀵艰埅鍏疯韩妯″瀷绠楁硶宸ョ▼甯�"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "89b862c3183be237",
+  "first_seen": "2026-09-16",
+  "last_seen": "2026-09-16"
+ },
+ {
+  "title": "鍖椾含涓栫邯濂芥湭鏉ユ暀鑲茬�戞妧鏈夐檺鍏�鍙�",
+  "company": "璐靛窞澶у��",
+  "locations": [
+   "鍖椾含"
+  ],
+  "location_raw": "鍖椾含",
+  "publish_time_raw": "2026-09-16",
+  "publish_time": "2026-09-16 12:00",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-081-284.html",
+  "extra": {
+   "section": "beijing",
+   "kind": "鑻辫��鏂瑰悜鍔辨�ュ浗闄呯礌鍏绘暀甯�"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "f34b2a61d23ee0ef",
+  "first_seen": "2026-09-16",
+  "last_seen": "2026-09-16"
+ },
+ {
+  "title": "鍖椾含涓栫邯濂芥湭鏉ユ暀鑲茬�戞妧鏈夐檺鍏�鍙�",
+  "company": "璐靛窞澶у��",
+  "locations": [
+   "鍖椾含涓婃捣骞夸笢鍗椾含"
+  ],
+  "location_raw": "鍖椾含涓婃捣骞夸笢鍗椾含",
+  "publish_time_raw": "2026-09-16",
+  "publish_time": "2026-09-16 12:00",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-081-285.html",
+  "extra": {
+   "section": "beijing",
+   "kind": "閿�鍞�鍩硅��鐢�"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "1f6e737aef7bfa5a",
+  "first_seen": "2026-09-16",
+  "last_seen": "2026-09-16"
+ },
+ {
+  "title": "涓�璁�閭�鐢靛挩璇㈣�捐�￠櫌鏈夐檺鍏�鍙�",
+  "company": "鍗椾含閭�鐢靛ぇ瀛�",
+  "locations": [
+   "鍖椾含"
+  ],
+  "location_raw": "鍖椾含",
+  "publish_time_raw": "2026-09-16",
+  "publish_time": "2026-09-16 12:00",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-081-205.html",
+  "extra": {
+   "section": "beijing",
+   "kind": "閫犱环宸ョ▼甯�"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "b10031915ac48a39",
+  "first_seen": "2026-09-16",
+  "last_seen": "2026-09-16"
+ },
+ {
+  "title": "涓�璁�閭�鐢靛挩璇㈣�捐�￠櫌鏈夐檺鍏�鍙�",
+  "company": "鍗椾含閭�鐢靛ぇ瀛�",
+  "locations": [
+   "鍖椾含"
+  ],
+  "location_raw": "鍖椾含",
+  "publish_time_raw": "2026-09-16",
+  "publish_time": "2026-09-16 12:00",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-081-206.html",
+  "extra": {
+   "section": "beijing",
+   "kind": "鏃犵嚎|浼犺緭|鏁版嵁閫氫俊缃戠粶宸ョ▼甯�"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "ebaee5dfd0478590",
+  "first_seen": "2026-09-16",
+  "last_seen": "2026-09-16"
+ },
+ {
+  "title": "涓�璁�閭�鐢靛挩璇㈣�捐�￠櫌鏈夐檺鍏�鍙�",
+  "company": "鍗椾含閭�鐢靛ぇ瀛�",
+  "locations": [
+   "鍖椾含"
+  ],
+  "location_raw": "鍖椾含",
+  "publish_time_raw": "2026-09-16",
+  "publish_time": "2026-09-16 12:00",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-081-207.html",
+  "extra": {
+   "section": "beijing",
+   "kind": "鏀夸紒鍜ㄨ�㈣�捐�″笀"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "27d081f57bb253c1",
+  "first_seen": "2026-09-16",
+  "last_seen": "2026-09-16"
+ },
+ {
+  "title": "鍖椾含搴锋瘮鐗逛綋鑲茬�戞妧鑲′唤鏈夐檺鍏�鍙�",
+  "company": "涓�鍥借嵂绉戝ぇ瀛�",
+  "locations": [
+   "鍖椾含"
+  ],
+  "location_raw": "鍖椾含",
+  "publish_time_raw": "2026-09-16",
+  "publish_time": "2026-09-16 12:00",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-081-210.html",
+  "extra": {
+   "section": "beijing",
+   "kind": "杞﹂棿|浜х嚎鏂瑰悜鐢熶骇绠＄悊绠″煿鐢�"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "60f2ad7745f62ec8",
+  "first_seen": "2026-09-16",
+  "last_seen": "2026-09-16"
+ },
+ {
+  "title": "涓�璁�閭�鐢靛挩璇㈣�捐�￠櫌鏈夐檺鍏�鍙�",
+  "company": "鍗椾含閭�鐢靛ぇ瀛�",
+  "locations": [
+   "鍖椾含"
+  ],
+  "location_raw": "鍖椾含",
+  "publish_time_raw": "2026-09-16",
+  "publish_time": "2026-09-16 12:00",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-081-209.html",
+  "extra": {
+   "section": "beijing",
+   "kind": "鐢垫皵|鐢垫簮璁捐�″笀"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "a4c59e47de6e57d2",
+  "first_seen": "2026-09-16",
+  "last_seen": "2026-09-16"
+ },
+ {
+  "title": "涓�璁�閭�鐢靛挩璇㈣�捐�￠櫌鏈夐檺鍏�鍙�",
+  "company": "鍗椾含閭�鐢靛ぇ瀛�",
+  "locations": [
+   "鍖椾含"
+  ],
+  "location_raw": "鍖椾含",
+  "publish_time_raw": "2026-09-16",
+  "publish_time": "2026-09-16 12:00",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-081-208.html",
+  "extra": {
+   "section": "beijing",
+   "kind": "鏅烘収鍩庡競瑙ｅ喅鏂规�堝伐绋嬪笀"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "52d390d56bb02a47",
+  "first_seen": "2026-09-16",
+  "last_seen": "2026-09-16"
+ },
+ {
+  "title": "鍖椾含鏄撳嚡鑱旇��绉戞妧鏈夐檺璐ｄ换鍏�鍙�",
+  "company": "鍏板窞鐞嗗伐澶у��",
+  "locations": [
+   "鍖椾含"
+  ],
+  "location_raw": "鍖椾含",
+  "publish_time_raw": "2026-09-16",
+  "publish_time": "2026-09-16 12:00",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-081-180.html",
+  "extra": {
+   "section": "beijing",
+   "kind": "搴旂敤宸ョ▼甯�"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "cc207e81a62e1498",
+  "first_seen": "2026-09-16",
+  "last_seen": "2026-09-16"
+ },
+ {
+  "title": "鍖楁．浜戣�＄畻鏈夐檺鍏�鍙稿寳浜�鍒嗗叕鍙�",
+  "company": "娌虫捣澶у��",
+  "locations": [
+   "鍖椾含"
+  ],
+  "location_raw": "鍖椾含",
+  "publish_time_raw": "2026-09-16",
+  "publish_time": "2026-09-16 12:00",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-081-141.html",
+  "extra": {
+   "section": "beijing",
+   "kind": "2027鎷涜仒鍚庣��宸ョ▼甯�"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "d49c30eb0790802d",
+  "first_seen": "2026-09-16",
+  "last_seen": "2026-09-16"
+ },
+ {
+  "title": "鍖楁．浜戣�＄畻鏈夐檺鍏�鍙稿寳浜�鍒嗗叕鍙�",
+  "company": "娌虫捣澶у��",
+  "locations": [
+   "鍖椾含"
+  ],
+  "location_raw": "鍖椾含",
+  "publish_time_raw": "2026-09-16",
+  "publish_time": "2026-09-16 12:00",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-081-140.html",
+  "extra": {
+   "section": "beijing",
+   "kind": "瀹夊叏宸ョ▼甯�"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "7e03962053fdd023",
+  "first_seen": "2026-09-16",
+  "last_seen": "2026-09-16"
+ },
+ {
+  "title": "鍖楁．浜戣�＄畻鏈夐檺鍏�鍙稿寳浜�鍒嗗叕鍙�",
+  "company": "娌虫捣澶у��",
+  "locations": [
+   "鍖椾含"
+  ],
+  "location_raw": "鍖椾含",
+  "publish_time_raw": "2026-09-16",
+  "publish_time": "2026-09-16 12:00",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-081-139.html",
+  "extra": {
+   "section": "beijing",
+   "kind": "绠楁硶宸ョ▼甯�"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "2ad9177158b52c3a",
+  "first_seen": "2026-09-16",
+  "last_seen": "2026-09-16"
+ },
+ {
+  "title": "鍖楁．浜戣�＄畻鏈夐檺鍏�鍙稿寳浜�鍒嗗叕鍙�",
+  "company": "娌虫捣澶у��",
+  "locations": [
+   "鍖椾含鎴愰兘"
+  ],
+  "location_raw": "鍖椾含鎴愰兘",
+  "publish_time_raw": "2026-09-16",
+  "publish_time": "2026-09-16 12:00",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-081-133.html",
+  "extra": {
+   "section": "beijing",
+   "kind": "2027鎷涜仒杞�浠朵骇鍝佺粡鐞�"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "ca9501bd6f772815",
+  "first_seen": "2026-09-16",
+  "last_seen": "2026-09-16"
+ },
+ {
+  "title": "鍖楁．浜戣�＄畻鏈夐檺鍏�鍙稿寳浜�鍒嗗叕鍙�",
+  "company": "娌虫捣澶у��",
+  "locations": [
+   "鍖椾含"
+  ],
+  "location_raw": "鍖椾含",
+  "publish_time_raw": "2026-09-16",
+  "publish_time": "2026-09-16 12:00",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-081-134.html",
+  "extra": {
+   "section": "beijing",
+   "kind": "UX璁捐�″笀"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "807d513fd4a25e48",
+  "first_seen": "2026-09-16",
+  "last_seen": "2026-09-16"
+ },
+ {
+  "title": "绔炴妧涓栫晫锛堝寳浜�锛夌綉缁滄妧鏈�鏈夐檺鍏�鍙�",
+  "company": "鍖椾含浜ら�氬ぇ瀛�",
+  "locations": [
+   "鍖椾含"
+  ],
+  "location_raw": "鍖椾含",
+  "publish_time_raw": "2026-09-16",
+  "publish_time": "2026-09-16 12:00",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-081-066.html",
+  "extra": {
+   "section": "beijing",
+   "kind": "鍟嗕笟鍖栬繍钀�"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "35e81a9a4fa3f968",
+  "first_seen": "2026-09-16",
+  "last_seen": "2026-09-16"
+ },
+ {
+  "title": "绔炴妧涓栫晫锛堝寳浜�锛夌綉缁滄妧鏈�鏈夐檺鍏�鍙�",
+  "company": "鍖椾含鑸�绌鸿埅澶╁ぇ瀛�",
+  "locations": [
+   "鍖椾含"
+  ],
+  "location_raw": "鍖椾含",
+  "publish_time_raw": "2026-09-16",
+  "publish_time": "2026-09-16 12:00",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-081-060.html",
+  "extra": {
+   "section": "beijing",
+   "kind": "2027鎷涜仒"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "2213a93193e9d3ba",
+  "first_seen": "2026-09-16",
+  "last_seen": "2026-09-16"
+ },
+ {
+  "title": "【27校招 - 供应链】测试设备开发工程师",
+  "company": "汇川技术",
+  "locations": [
+   "苏州"
+  ],
+  "location_raw": "苏州",
+  "publish_time_raw": "2026-08-18T10:16:32.562121",
+  "publish_time": "2026-09-16 11:38",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/019ff9c8-3d41-7cac-b24f-2583deccb254",
+  "extra": {
+   "segment": "集团业务-供应链"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "ec01ec868c26dd08",
+  "first_seen": "2026-08-26",
+  "last_seen": "2026-09-16"
+ },
+ {
+  "title": "人工智能",
+  "company": "腾讯",
+  "locations": [
+   "深圳"
+  ],
+  "location_raw": "深圳",
+  "publish_time_raw": "2026-09-16 09:53",
+  "publish_time": "2026-09-16 09:53",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-09-16 15:54",
+   "salary": "20-100K·16薪",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "互联网大厂",
+  "hq_city": "深圳",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "d101bb20109474c3",
+  "first_seen": "2026-09-16",
+  "last_seen": "2026-09-16"
+ },
+ {
+  "title": "游戏内容营销（北京）-2027校招",
+  "company": "途游游戏",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "2026-09-16 09:09",
+  "publish_time": "2026-09-16 09:09",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-09-16 15:46",
+   "salary": "12-17K·13薪",
+   "education": "",
+   "channel": "moka"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "ea7c5f4fd45e429b",
+  "first_seen": "2026-09-16",
+  "last_seen": "2026-09-16"
+ },
+ {
+  "title": "技术支持工程师",
+  "company": "深圳市深视智能科技股份有限公司",
+  "locations": [
+   "东莞"
+  ],
+  "location_raw": "东莞",
+  "publish_time_raw": "2026-09-16 08:31",
+  "publish_time": "2026-09-16 08:31",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-09-16 15:49",
+   "salary": "7-10K·13薪",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "f60b02c59be5cf63",
+  "first_seen": "2026-09-16",
+  "last_seen": "2026-09-16"
+ },
+ {
+  "title": "游戏策划培训生",
+  "company": "腾讯科技",
+  "locations": [
+   "深圳"
+  ],
+  "location_raw": "深圳",
+  "publish_time_raw": "2026-09-16 07:51",
+  "publish_time": "2026-09-16 07:51",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-09-16 15:48",
+   "salary": "6-13K·12薪",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "互联网大厂",
+  "hq_city": "深圳",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "0e56915be0d02e78",
   "first_seen": "2026-09-16",
   "last_seen": "2026-09-16"
  },
@@ -1230,6 +2073,66 @@
   "size_bucket": "10000+",
   "industry": "硬件",
   "id": "90726a2a282e5476",
+  "first_seen": "2026-09-16",
+  "last_seen": "2026-09-16"
+ },
+ {
+  "title": "乐享元游 校招网申（27届秋招）",
+  "company": "乐享元游",
+  "locations": [
+   "广州"
+  ],
+  "location_raw": "广州",
+  "publish_time_raw": "2026-09-15",
+  "publish_time": "2026-09-15 12:00",
+  "deadline": "2026-11-29",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "游戏",
+   "careers": "后端开发 客户端开发 测试 数据 产品 运营",
+   "note": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "f7dc6127f39dfc2e",
+  "first_seen": "2026-09-16",
+  "last_seen": "2026-09-16"
+ },
+ {
+  "title": "C++",
+  "company": "华为HUAWEI",
+  "locations": [
+   "上海"
+  ],
+  "location_raw": "上海",
+  "publish_time_raw": "2026-09-15 11:21",
+  "publish_time": "2026-09-15 11:21",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-09-16 15:49",
+   "salary": "25-50K·16薪",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "硬件大厂",
+  "hq_city": "深圳",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "28fe77cc6ee60e4e",
   "first_seen": "2026-09-16",
   "last_seen": "2026-09-16"
  },
@@ -2868,6 +3771,37 @@
   "last_seen": "2026-09-16"
  },
  {
+  "title": "信也科技 校招网申（27届秋招）",
+  "company": "信也科技",
+  "locations": [
+   "上海"
+  ],
+  "location_raw": "上海",
+  "publish_time_raw": "2026-09-13",
+  "publish_time": "2026-09-13 12:00",
+  "deadline": "2026-10-30",
+  "source": "nowcoder_schedule",
+  "url": "https://app.mokahr.com/su/yvpovf",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "金融",
+   "careers": "后端开发 前端开发 测试 数据 运维 硬件工程师",
+   "note": "上市公司大平台、开放多元团队、全球视野、全方位福利呵护、多维员工培养体系"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "9db1605b1c087d8c",
+  "first_seen": "2026-09-16",
+  "last_seen": "2026-09-16"
+ },
+ {
   "title": "行政专员(园区管理方向)",
   "company": "锐捷网络股份有限公司",
   "locations": [
@@ -3010,7 +3944,7 @@
   "industry": "",
   "id": "23070405c6fef78c",
   "first_seen": "2026-09-12",
-  "last_seen": "2026-09-15"
+  "last_seen": "2026-09-16"
  },
  {
   "title": "27届校招—AI应用工程师",
@@ -7080,6 +8014,35 @@
   "last_seen": "2026-09-14"
  },
  {
+  "title": "大数据开发工程师",
+  "company": "阿里巴巴集团",
+  "locations": [
+   "杭州"
+  ],
+  "location_raw": "杭州",
+  "publish_time_raw": "2026-09-09 06:21",
+  "publish_time": "2026-09-09 06:21",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-09-16 15:49",
+   "salary": "薪资面议",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "互联网大厂",
+  "hq_city": "杭州",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "d6ce295ac9c9838f",
+  "first_seen": "2026-09-16",
+  "last_seen": "2026-09-16"
+ },
+ {
   "title": "【27校招 - 供应链】过程测试开发工程师（西安））",
   "company": "汇川技术",
   "locations": [
@@ -7129,6 +8092,35 @@
   "industry": "硬件",
   "id": "7583ad9c9ee4b738",
   "first_seen": "2026-08-26",
+  "last_seen": "2026-09-16"
+ },
+ {
+  "title": "导播(A43717)",
+  "company": "九方云",
+  "locations": [
+   "上海"
+  ],
+  "location_raw": "上海",
+  "publish_time_raw": "2026-09-08 16:25",
+  "publish_time": "2026-09-08 16:25",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-09-16 15:49",
+   "salary": "10-15K·12薪",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "012b0e4fe38823e9",
+  "first_seen": "2026-09-16",
   "last_seen": "2026-09-16"
  },
  {
@@ -8468,6 +9460,35 @@
   "id": "7471602cbc3a565d",
   "first_seen": "2026-09-14",
   "last_seen": "2026-09-14"
+ },
+ {
+  "title": "Java",
+  "company": "广州妙客莱音科技有限公司",
+  "locations": [
+   "成都"
+  ],
+  "location_raw": "成都",
+  "publish_time_raw": "2026-09-08 11:37",
+  "publish_time": "2026-09-08 11:37",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-09-16 15:49",
+   "salary": "12-24K·12薪",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "1a3933de4eaf2cee",
+  "first_seen": "2026-09-16",
+  "last_seen": "2026-09-16"
  },
  {
   "title": "售后技术工程师",
@@ -10287,7 +11308,7 @@
   "industry": "互联网",
   "id": "3a533a44a5b55f8a",
   "first_seen": "2026-09-14",
-  "last_seen": "2026-09-15"
+  "last_seen": "2026-09-16"
  },
  {
   "title": "总行定向培训生岗-公司金融数智化方向",
@@ -10430,6 +11451,35 @@
   "id": "ff78e05448c8c30e",
   "first_seen": "2026-09-07",
   "last_seen": "2026-09-07"
+ },
+ {
+  "title": "终端小艺 AI Agent算法工程师（杭州/上海/北京/南京/东莞）",
+  "company": "华为HUAWEI",
+  "locations": [
+   "杭州"
+  ],
+  "location_raw": "杭州",
+  "publish_time_raw": "2026-09-07 07:42",
+  "publish_time": "2026-09-07 07:42",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-09-16 15:43",
+   "salary": "20-60K·16薪",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "hq_city": "深圳",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "3cdfe4525c06c481",
+  "first_seen": "2026-09-16",
+  "last_seen": "2026-09-16"
  },
  {
   "title": "2027应届生校招（华太）",
@@ -12456,32 +13506,6 @@
   "id": "424b513ed31e7d89",
   "first_seen": "2026-09-12",
   "last_seen": "2026-09-12"
- },
- {
-  "title": "【27校招 - 供应链】过程测试开发工程师",
-  "company": "汇川技术",
-  "locations": [
-   "苏州"
-  ],
-  "location_raw": "苏州",
-  "publish_time_raw": "2026-08-18T10:18:26.645317",
-  "publish_time": "2026-09-03 13:48",
-  "source": "inovance",
-  "url": "https://recruit.inovance.com/#/campus/jobs/019ff930-57bb-79d9-8421-d1e1770a1d18",
-  "extra": {
-   "segment": "集团业务-供应链"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "",
-  "hq_city": "苏州",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "b10183f4dd3c472b",
-  "first_seen": "2026-08-26",
-  "last_seen": "2026-09-16"
  },
  {
   "title": "数据开发工程师（2027届校招）-武汉",
@@ -14824,7 +15848,7 @@
   "industry": "",
   "id": "1b1d97a2868b97cf",
   "first_seen": "2026-09-15",
-  "last_seen": "2026-09-15"
+  "last_seen": "2026-09-16"
  },
  {
   "title": "易买工品 校招网申（27届秋招）",
@@ -14954,6 +15978,42 @@
   "id": "ce5691f6ea7d6391",
   "first_seen": "2026-09-15",
   "last_seen": "2026-09-15"
+ },
+ {
+  "title": "美钛中国 校招网申（27届秋招）",
+  "company": "美钛中国",
+  "locations": [
+   "苏州",
+   "广州",
+   "深圳",
+   "西安",
+   "北京",
+   "上海"
+  ],
+  "location_raw": "苏州 广州 深圳 西安 北京 上海",
+  "publish_time_raw": "2026-09-03",
+  "publish_time": "2026-09-03 12:00",
+  "deadline": "2026-11-03",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "",
+   "careers": "后端开发 前端开发 客户端开发 测试 数据 运维",
+   "note": "全球商业与技术服务领导者，通过多样化的技术与灵活服务解决方案，持续创造业务价值"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "897dad4ce30f9c88",
+  "first_seen": "2026-09-16",
+  "last_seen": "2026-09-16"
  },
  {
   "title": "【27校招 - 质量】产品质量工程师",
@@ -15515,7 +16575,7 @@
   "industry": "",
   "id": "82ad95410fa828e9",
   "first_seen": "2026-09-06",
-  "last_seen": "2026-09-06"
+  "last_seen": "2026-09-16"
  },
  {
   "title": "急招视频审核员",
@@ -17899,7 +18959,7 @@
   "industry": "",
   "id": "64ee10142b737d2d",
   "first_seen": "2026-09-01",
-  "last_seen": "2026-09-11"
+  "last_seen": "2026-09-16"
  },
  {
   "title": "品牌经理（海外业务）-27届秋招",
@@ -20727,7 +21787,7 @@
   "industry": "",
   "id": "98bae0c9e74426b0",
   "first_seen": "2026-09-07",
-  "last_seen": "2026-09-15"
+  "last_seen": "2026-09-16"
  },
  {
   "title": "保融科技 校招网申（27秋招）",
@@ -20790,7 +21850,7 @@
   "industry": "",
   "id": "6d15bdbc84d93f9b",
   "first_seen": "2026-09-15",
-  "last_seen": "2026-09-15"
+  "last_seen": "2026-09-16"
  },
  {
   "title": "研发工程师",
@@ -30928,7 +31988,7 @@
   "industry": "互联网",
   "id": "6cbdd541e9bb9f42",
   "first_seen": "2026-08-31",
-  "last_seen": "2026-09-15"
+  "last_seen": "2026-09-16"
  },
  {
   "title": "携程 校招网申（27届秋招）",
@@ -32305,7 +33365,7 @@
   "industry": "",
   "id": "749165bf9d1ad324",
   "first_seen": "2026-08-25",
-  "last_seen": "2026-09-15"
+  "last_seen": "2026-09-16"
  },
  {
   "title": "半亩花田 校招网申（27届秋招）",
@@ -36361,32 +37421,6 @@
   "last_seen": "2026-09-16"
  },
  {
-  "title": "【27校招 - 供应链】测试设备开发工程师",
-  "company": "汇川技术",
-  "locations": [
-   "苏州"
-  ],
-  "location_raw": "苏州",
-  "publish_time_raw": "2026-08-18T10:16:32.562121",
-  "publish_time": "2026-08-18 10:16",
-  "source": "inovance",
-  "url": "https://recruit.inovance.com/#/campus/jobs/019ff9c8-3d41-7cac-b24f-2583deccb254",
-  "extra": {
-   "segment": "集团业务-供应链"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "",
-  "hq_city": "苏州",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "ec01ec868c26dd08",
-  "first_seen": "2026-08-26",
-  "last_seen": "2026-09-16"
- },
- {
   "title": "【27校招 - 供应链】采购策略工程师",
   "company": "汇川技术",
   "locations": [
@@ -37230,7 +38264,7 @@
   "industry": "",
   "id": "8fb17a80ad8384e2",
   "first_seen": "2026-08-26",
-  "last_seen": "2026-09-15"
+  "last_seen": "2026-09-16"
  },
  {
   "title": "柏诚系统科技股份有限公司 校招网申（27届秋招）",
@@ -37819,6 +38853,35 @@
   "last_seen": "2026-09-12"
  },
  {
+  "title": "软件开发工程师",
+  "company": "上海华为技术有限公司",
+  "locations": [
+   "上海"
+  ],
+  "location_raw": "上海",
+  "publish_time_raw": "2026-08-13 12:21",
+  "publish_time": "2026-08-13 12:21",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-09-16 15:49",
+   "salary": "薪资面议",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "硬件大厂",
+  "hq_city": "深圳",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "58604184c43260cc",
+  "first_seen": "2026-09-16",
+  "last_seen": "2026-09-16"
+ },
+ {
   "title": "市场传播专员-汽车",
   "company": "小米",
   "locations": [
@@ -38024,7 +39087,7 @@
   "industry": "互联网",
   "id": "a8edecbdf61fad4f",
   "first_seen": "2026-08-26",
-  "last_seen": "2026-09-15"
+  "last_seen": "2026-09-16"
  },
  {
   "title": "三峡人寿保险股份有限公司 校招网申（26春招）",
@@ -38631,7 +39694,7 @@
   "industry": "互联网",
   "id": "50ff04694105647c",
   "first_seen": "2026-08-26",
-  "last_seen": "2026-09-15"
+  "last_seen": "2026-09-16"
  },
  {
   "title": "日语跟单",
@@ -58490,7 +59553,38 @@
   "industry": "",
   "id": "b7e3eb23164e7a7c",
   "first_seen": "2026-09-14",
-  "last_seen": "2026-09-15"
+  "last_seen": "2026-09-16"
+ },
+ {
+  "title": "莉莉丝游戏 校招网申（27届秋招）",
+  "company": "莉莉丝游戏",
+  "locations": [
+   "上海"
+  ],
+  "location_raw": "上海",
+  "publish_time_raw": "2026-08-09",
+  "publish_time": "2026-08-09 12:00",
+  "deadline": "2026-11-29",
+  "source": "nowcoder_schedule",
+  "url": "https://lilithcampus.go.link/hA5l1",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "互联网 游戏",
+   "careers": "后端开发 前端开发 客户端开发 测试 数据 运维",
+   "note": "国内知名自研出海游戏企业，原创内容打造能力突出，全球化发行体系成熟。"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "990a964697566a79",
+  "first_seen": "2026-09-16",
+  "last_seen": "2026-09-16"
  },
  {
   "title": "华为27届秋招--AI应用/软件开发/嵌入式/算法",
@@ -63750,7 +64844,7 @@
   "industry": "硬件",
   "id": "18c117e89304aa14",
   "first_seen": "2026-09-12",
-  "last_seen": "2026-09-15"
+  "last_seen": "2026-09-16"
  },
  {
   "title": "产品经理-AI方向-内推码DNK2026",
@@ -63780,7 +64874,7 @@
   "industry": "硬件",
   "id": "cae47a71305f1cbd",
   "first_seen": "2026-09-12",
-  "last_seen": "2026-09-15"
+  "last_seen": "2026-09-16"
  },
  {
   "title": "【27校招 - 联合动力】生产质量工程师",
@@ -64525,7 +65619,7 @@
   "industry": "",
   "id": "efbcf361f1b51d9b",
   "first_seen": "2026-08-26",
-  "last_seen": "2026-09-15"
+  "last_seen": "2026-09-16"
  },
  {
   "title": "AI产品经理",
@@ -64614,7 +65708,7 @@
   "industry": "互联网",
   "id": "365e593e65107fa0",
   "first_seen": "2026-08-26",
-  "last_seen": "2026-09-14"
+  "last_seen": "2026-09-16"
  },
  {
   "title": "网易 校招网申（27届秋招）",
@@ -65725,7 +66819,7 @@
   "industry": "",
   "id": "4af2ee8156989d6f",
   "first_seen": "2026-08-26",
-  "last_seen": "2026-09-15"
+  "last_seen": "2026-09-16"
  },
  {
   "title": "招商银行·招银网络科技 校招网申（27届秋招）",
@@ -67050,6 +68144,35 @@
   "last_seen": "2026-08-26"
  },
  {
+  "title": "数据分析师（XZ0000600）",
+  "company": "拼多多集团-PDD",
+  "locations": [
+   "上海"
+  ],
+  "location_raw": "上海",
+  "publish_time_raw": "2026-07-21 13:39",
+  "publish_time": "2026-07-21 13:39",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-09-16 15:44",
+   "salary": "20-40K·12薪",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "互联网大厂",
+  "hq_city": "上海",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "63070feaa5317f29",
+  "first_seen": "2026-09-16",
+  "last_seen": "2026-09-16"
+ },
+ {
   "title": "AI Infra工程师",
   "company": "华为南京研究所",
   "locations": [
@@ -67821,7 +68944,7 @@
   "industry": "",
   "id": "beacaa7ea9c1bb92",
   "first_seen": "2026-09-08",
-  "last_seen": "2026-09-13"
+  "last_seen": "2026-09-16"
  },
  {
   "title": "【27校招 - 联合动力】封装工程师",
@@ -68232,6 +69355,35 @@
   "id": "0d70c4a2b7319551",
   "first_seen": "2026-08-26",
   "last_seen": "2026-08-26"
+ },
+ {
+  "title": "大模型算法工程师",
+  "company": "拼多多集团-PDD",
+  "locations": [
+   "上海"
+  ],
+  "location_raw": "上海",
+  "publish_time_raw": "2026-07-09 06:44",
+  "publish_time": "2026-07-09 06:44",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-09-16 15:36",
+   "salary": "25-45K·16薪",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "互联网大厂",
+  "hq_city": "上海",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "a65701762af9aaa8",
+  "first_seen": "2026-09-16",
+  "last_seen": "2026-09-16"
  },
  {
   "title": "27届提前批-算法工程师",
@@ -68716,7 +69868,7 @@
   "industry": "互联网",
   "id": "96a55db905d96748",
   "first_seen": "2026-09-07",
-  "last_seen": "2026-09-15"
+  "last_seen": "2026-09-16"
  },
  {
   "title": "信用卡客户履约顾问",
@@ -69955,6 +71107,37 @@
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "互联网"
+ },
+ {
+  "title": "南银理财 校招网申（27秋招）",
+  "company": "南银理财",
+  "locations": [
+   "南京"
+  ],
+  "location_raw": "南京",
+  "publish_time_raw": "2026-06-07",
+  "publish_time": "2026-06-07 12:00",
+  "deadline": "2026-12-30",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27秋招",
+   "job_count": 0,
+   "industry": "金融",
+   "careers": "后端开发 前端开发 客户端开发 测试 数据 运维",
+   "note": "国内头部银行系理财子公司，投研体系成熟，财富管理能力行业领先。"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "25336a1bd200e044",
+  "first_seen": "2026-09-16",
+  "last_seen": "2026-09-16"
  },
  {
   "title": "顶尖应届-端侧大模型算法工程师-软件",
@@ -73240,7 +74423,7 @@
   "industry": "硬件",
   "id": "74c02cb7084b6c91",
   "first_seen": "2026-08-26",
-  "last_seen": "2026-09-15"
+  "last_seen": "2026-09-16"
  },
  {
   "title": "SoC设计实习生-芯片研发",
@@ -101596,7 +102779,7 @@
   "industry": "互联网",
   "id": "c4666e7fbbde0745",
   "first_seen": "2026-09-05",
-  "last_seen": "2026-09-15"
+  "last_seen": "2026-09-16"
  },
  {
   "title": "消费综合行业市场实习生 - 飞书商业化",
@@ -111741,7 +112924,7 @@
   "industry": "",
   "id": "43af41157cf4d4a4",
   "first_seen": "2026-09-15",
-  "last_seen": "2026-09-15"
+  "last_seen": "2026-09-16"
  },
  {
   "title": "AI英语学习产品实习生 - 语言中心",
@@ -112676,6 +113859,35 @@
   "size_bucket": "10000+",
   "industry": "互联网",
   "id": "1913ac88470a7f4f",
+  "first_seen": "2026-09-16",
+  "last_seen": "2026-09-16"
+ },
+ {
+  "title": "2027届-测试开发岗（成都）(J11554)",
+  "company": "上海江波龙存储技术有限公司",
+  "locations": [
+   ""
+  ],
+  "location_raw": "",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "nowcoder",
+  "url": "https://www.nowcoder.com/jobs/detail/3c9fbefd-293b-45df-ad78-80f5083680d7",
+  "extra": {
+   "update_time": "2026-09-16 14:15",
+   "salary": "15~25k",
+   "education": "",
+   "channel": "官网闪投"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "unknown",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "78f5ae8de5072c10",
   "first_seen": "2026-09-16",
   "last_seen": "2026-09-16"
  }
