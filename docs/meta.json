@@ -1,15 +1,19 @@
 {
- "updated_at": "2026-09-21 17:52",
- "updated_date": "2026-09-21",
+ "updated_at": "2026-09-22 03:12",
+ "updated_date": "2026-09-22",
  "totals": {
-  "total": 4436,
-  "added_today": 120,
+  "total": 4483,
+  "added_today": 47,
   "primary": 97,
   "secondary": 35,
-  "beijing": 1482,
-  "shanghai": 642
+  "beijing": 1500,
+  "shanghai": 650
  },
  "source_freshness": {
+  "yingjiesheng": {
+   "count": 751,
+   "latest": "2026-09-22 12:00"
+  },
   "inovance": {
    "count": 329,
    "latest": "2026-09-21 15:02"
@@ -20,10 +24,6 @@
   },
   "xiaomi": {
    "count": 1106,
-   "latest": "2026-09-21 12:00"
-  },
-  "yingjiesheng": {
-   "count": 735,
    "latest": "2026-09-21 12:00"
   },
   "pdd": {
@@ -43,7 +43,7 @@
    "latest": "2026-09-07 09:10"
   },
   "bytedance": {
-   "count": 979,
+   "count": 1010,
    "latest": "2026-08-25 14:22"
   },
   "alibaba": {
