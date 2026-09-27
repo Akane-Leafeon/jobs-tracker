@@ -1,12 +1,12 @@
 {
- "updated_at": "2026-09-27 03:32",
+ "updated_at": "2026-09-27 16:23",
  "updated_date": "2026-09-27",
  "totals": {
-  "total": 4797,
-  "added_today": 11,
+  "total": 4811,
+  "added_today": 25,
   "primary": 99,
   "secondary": 37,
-  "beijing": 1576,
+  "beijing": 1578,
   "shanghai": 700
  },
  "source_freshness": {
@@ -15,7 +15,7 @@
    "latest": "2026-09-26 12:00"
   },
   "yingjiesheng": {
-   "count": 879,
+   "count": 890,
    "latest": "2026-09-25 12:00"
   },
   "inovance": {
@@ -23,8 +23,8 @@
    "latest": "2026-09-24 14:46"
   },
   "nowcoder": {
-   "count": 480,
-   "latest": "2026-09-24 10:51"
+   "count": 483,
+   "latest": "2026-09-24 10:52"
   },
   "netease": {
    "count": 3,
