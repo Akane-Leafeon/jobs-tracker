@@ -1,13 +1,13 @@
 {
- "updated_at": "2026-09-26 15:44",
- "updated_date": "2026-09-26",
+ "updated_at": "2026-09-27 03:32",
+ "updated_date": "2026-09-27",
  "totals": {
-  "total": 4786,
-  "added_today": 17,
+  "total": 4797,
+  "added_today": 11,
   "primary": 99,
   "secondary": 37,
-  "beijing": 1569,
-  "shanghai": 697
+  "beijing": 1576,
+  "shanghai": 700
  },
  "source_freshness": {
   "xiaomi": {
@@ -31,7 +31,7 @@
    "latest": "2026-09-24 08:02"
   },
   "bytedance": {
-   "count": 1112,
+   "count": 1123,
    "latest": "2026-09-21 07:08"
   },
   "pdd": {
