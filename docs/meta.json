@@ -1,17 +1,17 @@
 {
- "updated_at": "2026-10-04 04:11",
+ "updated_at": "2026-10-04 16:26",
  "updated_date": "2026-10-04",
  "totals": {
-  "total": 5156,
-  "added_today": 5,
+  "total": 5160,
+  "added_today": 9,
   "primary": 102,
   "secondary": 37,
-  "beijing": 1684,
+  "beijing": 1686,
   "shanghai": 785
  },
  "source_freshness": {
   "yingjiesheng": {
-   "count": 1001,
+   "count": 1005,
    "latest": "2026-09-30 12:00"
   },
   "xiaomi": {

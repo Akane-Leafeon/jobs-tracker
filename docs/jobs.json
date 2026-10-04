@@ -84034,7 +84034,7 @@
   "industry": "硬件",
   "id": "cae47a71305f1cbd",
   "first_seen": "2026-09-12",
-  "last_seen": "2026-10-03"
+  "last_seen": "2026-10-04"
  },
  {
   "title": "AI云架构工程师-内推码DNK2026",
@@ -94784,7 +94784,7 @@
   "industry": "互联网",
   "id": "ebf2f652be5f15d7",
   "first_seen": "2026-09-01",
-  "last_seen": "2026-09-30"
+  "last_seen": "2026-10-04"
  },
  {
   "title": "Dola算法工程师-Seed大模型人才校招",
@@ -114007,7 +114007,7 @@
   "industry": "互联网",
   "id": "bce525389e8d0927",
   "first_seen": "2026-08-26",
-  "last_seen": "2026-10-03"
+  "last_seen": "2026-10-04"
  },
  {
   "title": "游戏市场营销（卡牌对战方向）【2027届】",
@@ -122085,7 +122085,7 @@
   "industry": "互联网",
   "id": "9e52a74f71a854f3",
   "first_seen": "2026-09-04",
-  "last_seen": "2026-10-03"
+  "last_seen": "2026-10-04"
  },
  {
   "title": "游戏品牌营销（休闲模拟）【2027届】",
@@ -122110,7 +122110,7 @@
   "industry": "互联网",
   "id": "c9bfad3b22bf30ef",
   "first_seen": "2026-09-04",
-  "last_seen": "2026-10-03"
+  "last_seen": "2026-10-04"
  },
  {
   "title": "游戏品牌营销（ARPG）【2027届】",
@@ -122135,7 +122135,7 @@
   "industry": "互联网",
   "id": "e21df996e78c48c7",
   "first_seen": "2026-09-04",
-  "last_seen": "2026-10-03"
+  "last_seen": "2026-10-04"
  },
  {
   "title": "研发工程师（主站）【2027届】",
@@ -122160,7 +122160,7 @@
   "industry": "互联网",
   "id": "4873dc7a48ca795e",
   "first_seen": "2026-09-04",
-  "last_seen": "2026-10-03"
+  "last_seen": "2026-10-04"
  },
  {
   "title": "AI 创作项目工程师（主站）【2027届】",
@@ -122185,7 +122185,7 @@
   "industry": "互联网",
   "id": "211428d18b1e3fcf",
   "first_seen": "2026-09-04",
-  "last_seen": "2026-10-03"
+  "last_seen": "2026-10-04"
  },
  {
   "title": "前端开发工程师（直播方向）【2027届】",
@@ -122289,7 +122289,7 @@
   "industry": "互联网",
   "id": "34fcc3bca4fc80ce",
   "first_seen": "2026-09-04",
-  "last_seen": "2026-10-03"
+  "last_seen": "2026-10-04"
  },
  {
   "title": "多模态大模型算法工程师 - TikTok内容安全算法",
@@ -124750,7 +124750,7 @@
   "industry": "互联网",
   "id": "11d827df2de6d5ee",
   "first_seen": "2026-09-07",
-  "last_seen": "2026-10-03"
+  "last_seen": "2026-10-04"
  },
  {
   "title": "创意设计师【2027届】",
@@ -131208,7 +131208,7 @@
   "industry": "互联网",
   "id": "93afecaefdca8850",
   "first_seen": "2026-09-14",
-  "last_seen": "2026-10-03"
+  "last_seen": "2026-10-04"
  },
  {
   "title": "达人运营实习生 - 抖音电商运营",
@@ -143608,7 +143608,7 @@
   "industry": "互联网",
   "id": "616c93329f26802d",
   "first_seen": "2026-09-30",
-  "last_seen": "2026-10-03"
+  "last_seen": "2026-10-04"
  },
  {
   "title": "数据（音乐方向）实习生 - AI数据与安全",
@@ -145442,6 +145442,114 @@
   "size_bucket": "10000+",
   "industry": "互联网",
   "id": "19d1083641f85845",
+  "first_seen": "2026-10-04",
+  "last_seen": "2026-10-04"
+ },
+ {
+  "title": "【河南】中国农业银行股份有限公司河南省分行2027校园招聘",
+  "company": "中国农业银行股份有限公司河南省分行2027校园招聘",
+  "locations": [
+   "河南"
+  ],
+  "location_raw": "河南",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "deadline": "2026-10-08",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-100-495.html",
+  "extra": {
+   "section": "deadline"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "8a605e5df592a364",
+  "first_seen": "2026-10-04",
+  "last_seen": "2026-10-04"
+ },
+ {
+  "title": "【西藏】中国建设银行股份有限公司西藏自治区分行2027校园招聘",
+  "company": "中国建设银行股份有限公司西藏自治区分行2027校园招聘",
+  "locations": [
+   "西藏"
+  ],
+  "location_raw": "西藏",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "deadline": "2026-10-08",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-098-917.html",
+  "extra": {
+   "section": "deadline"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "3df0c342f335a311",
+  "first_seen": "2026-10-04",
+  "last_seen": "2026-10-04"
+ },
+ {
+  "title": "【北京南京】工银金融资产投资有限公司2027校园招聘",
+  "company": "工银金融资产投资有限公司2027校园招聘",
+  "locations": [
+   "北京南京"
+  ],
+  "location_raw": "北京南京",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "deadline": "2026-10-08",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-098-304.html",
+  "extra": {
+   "section": "deadline"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "e3d376e8871ab19e",
+  "first_seen": "2026-10-04",
+  "last_seen": "2026-10-04"
+ },
+ {
+  "title": "【北京上海天津江苏其它】中邮人寿保险股份有限公司2027校园招聘",
+  "company": "中邮人寿保险股份有限公司2027校园招聘",
+  "locations": [
+   "北京上海天津江苏其它"
+  ],
+  "location_raw": "北京上海天津江苏其它",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "deadline": "2026-10-17",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-099-698.html",
+  "extra": {
+   "section": "deadline"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "9ebbdd64a2a2d97f",
   "first_seen": "2026-10-04",
   "last_seen": "2026-10-04"
  }
