@@ -1,41 +1,41 @@
 {
- "updated_at": "2026-10-08 04:23",
+ "updated_at": "2026-10-08 18:26",
  "updated_date": "2026-10-08",
  "totals": {
-  "total": 5235,
-  "added_today": 17,
-  "primary": 102,
+  "total": 5275,
+  "added_today": 57,
+  "primary": 103,
   "secondary": 37,
-  "beijing": 1700,
-  "shanghai": 796
+  "beijing": 1707,
+  "shanghai": 797
  },
  "source_freshness": {
+  "inovance": {
+   "count": 336,
+   "latest": "2026-10-08 14:17"
+  },
   "xiaomi": {
-   "count": 1113,
+   "count": 1114,
    "latest": "2026-10-08 12:00"
   },
   "yingjiesheng": {
-   "count": 1042,
+   "count": 1065,
    "latest": "2026-10-08 12:00"
   },
-  "inovance": {
-   "count": 336,
-   "latest": "2026-10-08 10:37"
-  },
   "nowcoder": {
-   "count": 528,
-   "latest": "2026-10-08 03:58"
+   "count": 534,
+   "latest": "2026-10-08 11:01"
   },
   "netease": {
    "count": 4,
    "latest": "2026-10-05 23:22"
   },
   "nowcoder_schedule": {
-   "count": 204,
+   "count": 212,
    "latest": "2026-09-29 12:00"
   },
   "bytedance": {
-   "count": 1315,
+   "count": 1316,
    "latest": "2026-09-26 05:50"
   },
   "pdd": {
@@ -55,7 +55,7 @@
    "latest": ""
   },
   "bilibili": {
-   "count": 30,
+   "count": 31,
    "latest": ""
   }
  },
