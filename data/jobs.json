@@ -2641,6 +2641,35 @@
   "last_seen": "2026-10-11"
  },
  {
+  "title": "海外IP授权商务",
+  "company": "阅文集团",
+  "locations": [
+   "上海"
+  ],
+  "location_raw": "上海",
+  "publish_time_raw": "2026-10-09 11:17",
+  "publish_time": "2026-10-09 11:17",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-10-11 17:08",
+   "salary": "薪资面议",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "79422b937d9b6d2e",
+  "first_seen": "2026-10-11",
+  "last_seen": "2026-10-11"
+ },
+ {
   "title": "【27校招 - 数字化】视觉AI算法工程师（博士）",
   "company": "汇川技术",
   "locations": [
@@ -2838,6 +2867,35 @@
   "industry": "",
   "id": "f22f3ec52e3d8b24",
   "first_seen": "2026-09-28",
+  "last_seen": "2026-10-11"
+ },
+ {
+  "title": "2027届校招-UX设计师（北京）(J14834)",
+  "company": "北森",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "2026-10-09 05:53",
+  "publish_time": "2026-10-09 05:53",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-10-11 16:49",
+   "salary": "14-17K·14薪",
+   "education": "",
+   "channel": "北森"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "aca283ec8be0954c",
+  "first_seen": "2026-10-11",
   "last_seen": "2026-10-11"
  },
  {
@@ -4466,7 +4524,7 @@
   "industry": "",
   "id": "7e7cb5a962b2cb20",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-08"
+  "last_seen": "2026-10-11"
  },
  {
   "title": "涓�澶�鍥藉�虹櫥璁扮粨绠楁湁闄愯矗浠诲叕鍙稿崥澹�鍚庣�戠爺宸ヤ綔绔�",
@@ -8483,7 +8541,7 @@
   "industry": "",
   "id": "c084fa588f7354b6",
   "first_seen": "2026-09-28",
-  "last_seen": "2026-09-28"
+  "last_seen": "2026-10-11"
  },
  {
   "title": "鍖椾含濞佸姫鐗规妧鏈�鏈夐檺鍏�鍙�",
@@ -9935,7 +9993,7 @@
   "industry": "",
   "id": "1d176a54a6e542b4",
   "first_seen": "2026-09-25",
-  "last_seen": "2026-09-28"
+  "last_seen": "2026-10-11"
  },
  {
   "title": "涓�鍥介噾鍩熼粍閲戠墿璧勬湁闄愬叕鍙�",
@@ -14304,7 +14362,7 @@
   "industry": "硬件",
   "id": "1889936d9035622a",
   "first_seen": "2026-10-03",
-  "last_seen": "2026-10-03"
+  "last_seen": "2026-10-11"
  },
  {
   "title": "售后技术支持工程师",
@@ -17660,7 +17718,7 @@
   "industry": "",
   "id": "1631ddb5b1d6d515",
   "first_seen": "2026-10-08",
-  "last_seen": "2026-10-10"
+  "last_seen": "2026-10-11"
  },
  {
   "title": "凯莱英制药 校招网申（27届秋招）",
@@ -27395,7 +27453,7 @@
   "industry": "",
   "id": "ad9e219d991480cb",
   "first_seen": "2026-09-13",
-  "last_seen": "2026-10-05"
+  "last_seen": "2026-10-11"
  },
  {
   "title": "计划工程师",
@@ -53012,7 +53070,7 @@
   "industry": "",
   "id": "be254f19b23fa6d4",
   "first_seen": "2026-08-26",
-  "last_seen": "2026-09-13"
+  "last_seen": "2026-10-11"
  },
  {
   "title": "鍖椾含鑴戠�戝�︿笌绫昏剳鐮旂┒鎵�Koziol瀹為獙瀹�",
@@ -57962,7 +58020,7 @@
   "industry": "互联网",
   "id": "917988bc198871e5",
   "first_seen": "2026-08-26",
-  "last_seen": "2026-10-10"
+  "last_seen": "2026-10-11"
  },
  {
   "title": "上海睿兴投资 校招网申（27届实习）",
@@ -85249,6 +85307,33 @@
   "last_seen": "2026-09-19"
  },
  {
+  "title": "零售顾问-安徽",
+  "company": "小米",
+  "locations": [
+   "芜湖"
+  ],
+  "location_raw": "芜湖",
+  "publish_time_raw": "2026-08-08",
+  "publish_time": "2026-08-08 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523317089978665/detail",
+  "extra": {
+   "department": "中国区",
+   "lark_job_code": "A170546"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "623c597934de8056",
+  "first_seen": "2026-10-11",
+  "last_seen": "2026-10-11"
+ },
+ {
   "title": "华为27届秋招--AI应用/软件开发/嵌入式/算法",
   "company": "华为软件技术有限公司",
   "locations": [
@@ -90568,7 +90653,7 @@
   "industry": "硬件",
   "id": "cae47a71305f1cbd",
   "first_seen": "2026-09-12",
-  "last_seen": "2026-10-09"
+  "last_seen": "2026-10-11"
  },
  {
   "title": "AI云架构工程师-内推码DNK2026",
@@ -100773,7 +100858,7 @@
   "industry": "硬件",
   "id": "74c02cb7084b6c91",
   "first_seen": "2026-08-26",
-  "last_seen": "2026-09-30"
+  "last_seen": "2026-10-11"
  },
  {
   "title": "SoC设计实习生-芯片研发",
@@ -104701,7 +104786,7 @@
   "industry": "",
   "id": "7a6e066e74d4d4d8",
   "first_seen": "2026-08-26",
-  "last_seen": "2026-09-15"
+  "last_seen": "2026-10-11"
  },
  {
   "title": "设备安装调试",
@@ -104731,6 +104816,35 @@
   "id": "5df497bf76ecf137",
   "first_seen": "2026-08-26",
   "last_seen": "2026-09-02"
+ },
+ {
+  "title": "软件开发工程师（2027届 上海/西安/武汉）",
+  "company": "上海华为技术有限公司",
+  "locations": [
+   "上海"
+  ],
+  "location_raw": "上海",
+  "publish_time_raw": "2025-07-21 03:41",
+  "publish_time": "2025-07-21 03:41",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-10-11 16:54",
+   "salary": "薪资面议",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "硬件大厂",
+  "hq_city": "深圳",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "2b061badb31eb56d",
+  "first_seen": "2026-10-11",
+  "last_seen": "2026-10-11"
  },
  {
   "title": "隐私技术BP实习生-隐私和数据保护办公室",
@@ -105106,6 +105220,35 @@
   "id": "f4e175326ec2b650",
   "first_seen": "2026-09-12",
   "last_seen": "2026-09-12"
+ },
+ {
+  "title": "电子工程师",
+  "company": "志源",
+  "locations": [
+   "中山"
+  ],
+  "location_raw": "中山",
+  "publish_time_raw": "2025-04-21 08:16",
+  "publish_time": "2025-04-21 08:16",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-10-11 17:12",
+   "salary": "7-10K·14薪",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": "hardware",
+  "direction_label": "硬件设计",
+  "priority": "主投",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "116da293f3e96e83",
+  "first_seen": "2026-10-11",
+  "last_seen": "2026-10-11"
  },
  {
   "title": "Java校招(全国可内推)",
@@ -105656,7 +105799,7 @@
   "industry": "",
   "id": "1fed004a11bf1d8a",
   "first_seen": "2026-10-08",
-  "last_seen": "2026-10-08"
+  "last_seen": "2026-10-11"
  },
  {
   "title": "Java开发工程师",
@@ -106528,7 +106671,7 @@
   "company_tag": "",
   "id": "3ea7ca2df5c9f3d2",
   "first_seen": "2026-08-24",
-  "last_seen": "2026-09-27",
+  "last_seen": "2026-10-11",
   "hq_city": "",
   "size_bucket": "",
   "industry": ""
@@ -125306,7 +125449,7 @@
   "industry": "",
   "id": "c55d0592ef069bde",
   "first_seen": "2026-08-31",
-  "last_seen": "2026-09-27"
+  "last_seen": "2026-10-11"
  },
  {
   "title": "广告推荐大模型训练基础技术研究",
@@ -138273,7 +138416,7 @@
   "industry": "",
   "id": "d4273b3b63aa8d53",
   "first_seen": "2026-09-14",
-  "last_seen": "2026-09-27"
+  "last_seen": "2026-10-11"
  },
  {
   "title": "招聘实习生-抖音",
@@ -143501,7 +143644,7 @@
   "industry": "",
   "id": "7dc00996e80dbbe2",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-04"
+  "last_seen": "2026-10-11"
  },
  {
   "title": "【江苏】江苏常熟农村商业银行股份有限公司2027校园招聘",
@@ -143528,7 +143671,7 @@
   "industry": "",
   "id": "a6e6b802272e29ec",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-04"
+  "last_seen": "2026-10-11"
  },
  {
   "title": "【安徽】中国邮政集团有限公司安徽省分公司2027校园招聘",
@@ -143555,7 +143698,7 @@
   "industry": "",
   "id": "0d8acbbe49e46345",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-27"
+  "last_seen": "2026-10-11"
  },
  {
   "title": "【四川】中国邮政集团有限公司四川省分公司2027校园招聘",
@@ -143582,7 +143725,7 @@
   "industry": "",
   "id": "9ef5893e4df42e50",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-27"
+  "last_seen": "2026-10-11"
  },
  {
   "title": "【江苏】广发银行股份有限公司南京分行2027校园招聘",
@@ -143609,7 +143752,7 @@
   "industry": "",
   "id": "d63bfc36ca96b20f",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-27"
+  "last_seen": "2026-10-11"
  },
  {
   "title": "【北京上海广东天津其它】广发银行股份有限公司2027校园招聘",
@@ -143636,7 +143779,7 @@
   "industry": "",
   "id": "21615cc494111f97",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-27"
+  "last_seen": "2026-10-11"
  },
  {
   "title": "宠物行业实习生 - 抖音电商运营",
@@ -148480,7 +148623,7 @@
   "industry": "",
   "id": "da9ac5d33eed4c75",
   "first_seen": "2026-09-27",
-  "last_seen": "2026-10-04"
+  "last_seen": "2026-10-11"
  },
  {
   "title": "【成都】成都兴城投资集团有限公司2027校园招聘",
@@ -148507,7 +148650,7 @@
   "industry": "",
   "id": "56b7cf79a9c76759",
   "first_seen": "2026-09-27",
-  "last_seen": "2026-10-04"
+  "last_seen": "2026-10-11"
  },
  {
   "title": "AI全栈开发工程师 - 豆包",
@@ -154894,6 +155037,330 @@
   "size_bucket": "10000+",
   "industry": "互联网",
   "id": "7583a4f6b19f5e41",
+  "first_seen": "2026-10-11",
+  "last_seen": "2026-10-11"
+ },
+ {
+  "title": "【甘肃】嘉峪关市教育系统2026校园招聘",
+  "company": "嘉峪关市教育系统2026校园招聘",
+  "locations": [
+   "甘肃"
+  ],
+  "location_raw": "甘肃",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "deadline": "2026-10-17",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-105-254.html",
+  "extra": {
+   "section": "deadline"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "c52cb7f7db1face5",
+  "first_seen": "2026-10-11",
+  "last_seen": "2026-10-11"
+ },
+ {
+  "title": "【江西其它】江西铜业集团有限公司2027校园招聘",
+  "company": "江西铜业集团有限公司2027校园招聘",
+  "locations": [
+   "江西其它"
+  ],
+  "location_raw": "江西其它",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "deadline": "2026-10-23",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-107-973.html",
+  "extra": {
+   "section": "deadline"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "e840e283a1e89e62",
+  "first_seen": "2026-10-11",
+  "last_seen": "2026-10-11"
+ },
+ {
+  "title": "【成都】成都设计咨询集团有限公司2027校园招聘",
+  "company": "成都设计咨询集团有限公司2027校园招聘",
+  "locations": [
+   "成都"
+  ],
+  "location_raw": "成都",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "deadline": "2026-10-25",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-089-232.html",
+  "extra": {
+   "section": "deadline"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "1f23f269673b54e9",
+  "first_seen": "2026-10-11",
+  "last_seen": "2026-10-11"
+ },
+ {
+  "title": "【北京天津成都浙江其它】中国昊华化工集团有限公司2027校园招聘",
+  "company": "中国昊华化工集团有限公司2027校园招聘",
+  "locations": [
+   "北京天津成都浙江其它"
+  ],
+  "location_raw": "北京天津成都浙江其它",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "deadline": "2026-10-28",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-097-287.html",
+  "extra": {
+   "section": "deadline"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "395793338912b174",
+  "first_seen": "2026-10-11",
+  "last_seen": "2026-10-11"
+ },
+ {
+  "title": "【北京上海成都辽宁重庆】大连银行2027校园招聘",
+  "company": "大连银行2027校园招聘",
+  "locations": [
+   "北京上海成都辽宁重庆"
+  ],
+  "location_raw": "北京上海成都辽宁重庆",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "deadline": "2026-10-30",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-097-891.html",
+  "extra": {
+   "section": "deadline"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "a6fb3d9a9b7ea219",
+  "first_seen": "2026-10-11",
+  "last_seen": "2026-10-11"
+ },
+ {
+  "title": "【江西】江西铜业集团有限公司加工事业部2027校园招聘",
+  "company": "江西铜业集团有限公司加工事业部2027校园招聘",
+  "locations": [
+   "江西"
+  ],
+  "location_raw": "江西",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "deadline": "2026-10-31",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-107-972.html",
+  "extra": {
+   "section": "deadline"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "5c23ea1acb04d674",
+  "first_seen": "2026-10-11",
+  "last_seen": "2026-10-11"
+ },
+ {
+  "title": "【江西山东其它】江西铜业技术研究院有限公司2027校园招聘",
+  "company": "江西铜业技术研究院有限公司2027校园招聘",
+  "locations": [
+   "江西山东其它"
+  ],
+  "location_raw": "江西山东其它",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "deadline": "2026-10-31",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-107-990.html",
+  "extra": {
+   "section": "deadline"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "e51803dd41509e01",
+  "first_seen": "2026-10-11",
+  "last_seen": "2026-10-11"
+ },
+ {
+  "title": "【浙江】中国邮政集团有限公司浙江省分公司2027校园招聘",
+  "company": "中国邮政集团有限公司浙江省分公司2027校园招聘",
+  "locations": [
+   "浙江"
+  ],
+  "location_raw": "浙江",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "deadline": "2026-10-31",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-095-649.html",
+  "extra": {
+   "section": "deadline"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "c031708400689ff6",
+  "first_seen": "2026-10-11",
+  "last_seen": "2026-10-11"
+ },
+ {
+  "title": "【重庆四川陕西贵州】重庆银行2027校园招聘",
+  "company": "重庆银行2027校园招聘",
+  "locations": [
+   "重庆四川陕西贵州"
+  ],
+  "location_raw": "重庆四川陕西贵州",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "deadline": "2026-11-01",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-097-355.html",
+  "extra": {
+   "section": "deadline"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "fad37836a6c789e0",
+  "first_seen": "2026-10-11",
+  "last_seen": "2026-10-11"
+ },
+ {
+  "title": "【甘肃】甘肃省委组织部2027校园招聘600名应届优秀大学毕业生",
+  "company": "甘肃省委组织部2027校园招聘600名应届优秀大学毕业生",
+  "locations": [
+   "甘肃"
+  ],
+  "location_raw": "甘肃",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "deadline": "2026-11-06",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-093-712.html",
+  "extra": {
+   "section": "deadline"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "76a8e94fc8fe1eb4",
+  "first_seen": "2026-10-11",
+  "last_seen": "2026-10-11"
+ },
+ {
+  "title": "【北京上海广东天津其它】中国光大银行股份有限公司2027校园招聘",
+  "company": "中国光大银行股份有限公司2027校园招聘",
+  "locations": [
+   "北京上海广东天津其它"
+  ],
+  "location_raw": "北京上海广东天津其它",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "deadline": "2026-11-08",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-105-434.html",
+  "extra": {
+   "section": "deadline"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "e7ea4f9092b1be0d",
+  "first_seen": "2026-10-11",
+  "last_seen": "2026-10-11"
+ },
+ {
+  "title": "【山东】潍坊银行2027校园招聘",
+  "company": "潍坊银行2027校园招聘",
+  "locations": [
+   "山东"
+  ],
+  "location_raw": "山东",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "deadline": "2026-11-10",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-095-795.html",
+  "extra": {
+   "section": "deadline"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "8a609f722bf2f97b",
   "first_seen": "2026-10-11",
   "last_seen": "2026-10-11"
  }
