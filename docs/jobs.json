@@ -1,5 +1,92 @@
 [
  {
+  "title": "商米 校招网申（27届秋招）",
+  "company": "商米",
+  "locations": [
+   "杭州",
+   "嘉兴",
+   "武汉",
+   "深圳",
+   "上海"
+  ],
+  "location_raw": "杭州 嘉兴 武汉 深圳 上海",
+  "publish_time_raw": "2026-10-18",
+  "publish_time": "2026-10-18 12:00",
+  "deadline": "2026-12-30",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "硬件 互联网",
+   "careers": "人工智能/算法 研发工程师 硬件工程师 产品 项目 供应链",
+   "note": "智能商用设备领军，场景覆盖广，技术创新强，生态布局完善"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "78ea71a9312e4595",
+  "first_seen": "2026-10-14",
+  "last_seen": "2026-10-14"
+ },
+ {
+  "title": "【27校招 - 供应链】过程工艺开发工程师（变频器，驱控，机械）",
+  "company": "汇川技术",
+  "locations": [
+   "苏州"
+  ],
+  "location_raw": "苏州",
+  "publish_time_raw": "2026-08-18T10:16:32.297457",
+  "publish_time": "2026-10-14 18:41",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/019ff9d8-5766-7e35-9e07-6b477439e6a1",
+  "extra": {
+   "segment": "集团业务-供应链"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "e34ce86431ac57d6",
+  "first_seen": "2026-08-26",
+  "last_seen": "2026-10-14"
+ },
+ {
+  "title": "【27校招 - 通用研发】器件工程师",
+  "company": "汇川技术",
+  "locations": [
+   "深圳"
+  ],
+  "location_raw": "深圳",
+  "publish_time_raw": "2026-09-02T20:49:44.662913",
+  "publish_time": "2026-10-14 15:18",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/01a0616a-81e9-76c7-965d-09037af7d914",
+  "extra": {
+   "segment": "集团业务-通用研发"
+  },
+  "direction": "device",
+  "direction_label": "器件设计",
+  "priority": "副投",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "f5fbaf2873eb6bdc",
+  "first_seen": "2026-09-02",
+  "last_seen": "2026-10-14"
+ },
+ {
   "title": "数据研发工程师",
   "company": "小米",
   "locations": [
@@ -108,6 +195,3880 @@
   "last_seen": "2026-10-14"
  },
  {
+  "title": "中国区-汽车一线服务专员",
+  "company": "小米",
+  "locations": [
+   "南京"
+  ],
+  "location_raw": "南京",
+  "publish_time_raw": "2026-08-18",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671522987782719750/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A29729"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "a6385b1d470b6468",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "中国区-汽车一线服务专员",
+  "company": "小米",
+  "locations": [
+   "武汉"
+  ],
+  "location_raw": "武汉",
+  "publish_time_raw": "2026-08-18",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671522167922673966/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A11365A"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "8bf4a9cf05ab5784",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "零售顾问-江西",
+  "company": "小米",
+  "locations": [
+   "南昌",
+   "赣州"
+  ],
+  "location_raw": "南昌 赣州",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671522365637085494/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A141187"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "8ddcf78ff34a7224",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "零售顾问-江苏",
+  "company": "小米",
+  "locations": [
+   "扬州",
+   "常州",
+   "泰州",
+   "南京",
+   "无锡"
+  ],
+  "location_raw": "扬州 常州 泰州 南京 无锡",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523553045465398/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A256893"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "c1583057d3ea2aed",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "交付顾问-京津",
+  "company": "小米",
+  "locations": [
+   "北京",
+   "天津"
+  ],
+  "location_raw": "北京 天津",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671522903808624915/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A105720"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "硬件大厂",
+  "id": "52b23c2d5ddf77a9",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "交付顾问-广东",
+  "company": "小米",
+  "locations": [
+   "佛山",
+   "广州",
+   "海口"
+  ],
+  "location_raw": "佛山 广州 海口",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523010658814249/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A218847"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "8a85ec7b80c1a31b",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "交付顾问-河南",
+  "company": "小米",
+  "locations": [
+   "郑州",
+   "洛阳"
+  ],
+  "location_raw": "郑州 洛阳",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671521833951480127/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A224174"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "b7d6e19c27325bc3",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "零售顾问-辽宁",
+  "company": "小米",
+  "locations": [
+   "沈阳",
+   "大连"
+  ],
+  "location_raw": "沈阳 大连",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523474694998281/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A84320"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "d918f4e844054bc8",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "零售顾问-京津",
+  "company": "小米",
+  "locations": [
+   "北京",
+   "天津"
+  ],
+  "location_raw": "北京 天津",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523344941287730/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A43914"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "硬件大厂",
+  "id": "4e6ea33373643994",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "交付顾问-四川",
+  "company": "小米",
+  "locations": [
+   "绵阳",
+   "成都"
+  ],
+  "location_raw": "绵阳 成都",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671522896103639323/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A62765"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "a4908f1da9601628",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "交付顾问-山东",
+  "company": "小米",
+  "locations": [
+   "日照",
+   "济南",
+   "济宁",
+   "临沂",
+   "青岛",
+   "潍坊",
+   "淄博",
+   "烟台"
+  ],
+  "location_raw": "日照 济南 济宁 临沂 青岛 潍坊 淄博 烟台",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523131954235657/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A48715"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "ce09de9b2f0e9472",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "交付顾问-湖北",
+  "company": "小米",
+  "locations": [
+   "襄阳",
+   "武汉",
+   "宜昌"
+  ],
+  "location_raw": "襄阳 武汉 宜昌",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671522159328201014/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A145680"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "d7ab4b6715ccec09",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "零售顾问-河南",
+  "company": "小米",
+  "locations": [
+   "郑州",
+   "洛阳",
+   "商丘"
+  ],
+  "location_raw": "郑州 洛阳 商丘",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523213013076250/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A60331"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "01a06592e361978f",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "零售顾问-山东",
+  "company": "小米",
+  "locations": [
+   "淄博",
+   "烟台",
+   "日照",
+   "济南",
+   "济宁",
+   "临沂",
+   "青岛",
+   "潍坊"
+  ],
+  "location_raw": "淄博 烟台 日照 济南 济宁 临沂 青岛 潍坊",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523944176552242/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A02948"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "b031c53f2b2c33fa",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "零售顾问-四川",
+  "company": "小米",
+  "locations": [
+   "凉山",
+   "成都",
+   "绵阳"
+  ],
+  "location_raw": "凉山 成都 绵阳",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523525471783218/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A184271"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "e31cedfc54f6b386",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "零售顾问-浙江",
+  "company": "小米",
+  "locations": [
+   "温州",
+   "宁波",
+   "杭州"
+  ],
+  "location_raw": "温州 宁波 杭州",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523641833851155/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A219511A"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "827449e565d9884d",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "交付顾问-深圳",
+  "company": "小米",
+  "locations": [
+   "东莞"
+  ],
+  "location_raw": "东莞",
+  "publish_time_raw": "2026-09-15",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671522252055857458/detail",
+  "extra": {
+   "department": "中国区",
+   "lark_job_code": "A201929"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "90726a2a282e5476",
+  "first_seen": "2026-09-16",
+  "last_seen": "2026-10-14"
+ },
+ {
+  "title": "零售顾问-广东",
+  "company": "小米",
+  "locations": [
+   "佛山",
+   "广州",
+   "珠海",
+   "海口"
+  ],
+  "location_raw": "佛山 广州 珠海 海口",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523477946943750/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A137938"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "d9fdba58dc430862",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "零售顾问-湖北",
+  "company": "小米",
+  "locations": [
+   "襄阳",
+   "武汉",
+   "宜昌"
+  ],
+  "location_raw": "襄阳 武汉 宜昌",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523500439701814/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A164553"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "174b1b2dbaee31d6",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "零售顾问-上海",
+  "company": "小米",
+  "locations": [
+   "上海"
+  ],
+  "location_raw": "上海",
+  "publish_time_raw": "2026-09-15",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7685683083929487667/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A136726A"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "硬件大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "25ad2e076dbb5f9e",
+  "first_seen": "2026-09-20",
+  "last_seen": "2026-10-14"
+ },
+ {
+  "title": "中国区-网格/区经方向-重庆",
+  "company": "小米",
+  "locations": [
+   "重庆"
+  ],
+  "location_raw": "重庆",
+  "publish_time_raw": "2026-09-15",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7685683062923970866/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A231736"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "bf40ca4d9c94b718",
+  "first_seen": "2026-09-20",
+  "last_seen": "2026-10-14"
+ },
+ {
+  "title": "中国区-网格/区经方向-上海",
+  "company": "小米",
+  "locations": [
+   "上海"
+  ],
+  "location_raw": "上海",
+  "publish_time_raw": "2026-09-15",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7685683070775560494/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A123855"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "硬件大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "cc46e82bc09c2025",
+  "first_seen": "2026-09-20",
+  "last_seen": "2026-10-14"
+ },
+ {
+  "title": "整机产品经理",
+  "company": "小米",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7670890904535009582/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A240075"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "硬件大厂",
+  "id": "fe1048cfe5533761",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "中国区-市场管培生",
+  "company": "小米",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "2026-08-18",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671129798714460470/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A04495"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "硬件大厂",
+  "id": "8a8731c390d5c8f4",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "中国区－汽车服务顾问（全国轮岗）",
+  "company": "小米",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "2026-08-20",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7675291324488599814/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A137299"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "硬件大厂",
+  "id": "ca8d326de211fbd1",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "中国区-汽车培训校招生",
+  "company": "小米",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "2026-08-18",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7675292531886983475/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A221877"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "硬件大厂",
+  "id": "1290e6389e1a307e",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "中国区-整车物流运输",
+  "company": "小米",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "2026-08-24",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7675291819555490075/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A217647"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "硬件大厂",
+  "id": "ba6c00764b6d22dd",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "中国区-汽车交付顾问（全国轮岗）",
+  "company": "小米",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "2026-08-20",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7675292155330169134/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A109806"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "硬件大厂",
+  "id": "07c00016f588b68f",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "中国区-服务客服专员",
+  "company": "小米",
+  "locations": [
+   "保定"
+  ],
+  "location_raw": "保定",
+  "publish_time_raw": "2026-08-20",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524266613164307/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A178032"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "c37c031ad386097e",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "中国区-销售管培生",
+  "company": "小米",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "2026-08-20",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671129801244231982/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A165317"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "硬件大厂",
+  "id": "8008837f9f6da339",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "中国区－汽车销售管培生（全国轮岗）",
+  "company": "小米",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "2026-08-18",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7675292173633341723/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A72776"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "硬件大厂",
+  "id": "08f30977eb10d9bc",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "中国区-汽车线上技术专员",
+  "company": "小米",
+  "locations": [
+   "武汉",
+   "南京"
+  ],
+  "location_raw": "武汉 南京",
+  "publish_time_raw": "2026-08-18",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7675291789649578266/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A06975B"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "680b221c40024ea3",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "中国区-汽车服务技术工程师",
+  "company": "小米",
+  "locations": [
+   "北京",
+   "上海"
+  ],
+  "location_raw": "北京 上海",
+  "publish_time_raw": "2026-08-18",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7675292531442010410/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A215580"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "硬件大厂",
+  "id": "1d53a81ecbaea002",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "中国区-网格/区经方向-贵州",
+  "company": "小米",
+  "locations": [
+   "贵阳"
+  ],
+  "location_raw": "贵阳",
+  "publish_time_raw": "2026-08-12",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524267577903423/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A186243"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "c5afc530fdd6ea01",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "中国区-网格/区经方向-安徽",
+  "company": "小米",
+  "locations": [
+   "合肥"
+  ],
+  "location_raw": "合肥",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524803548203314/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A100248A"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "1bc6606972121ce1",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "中国区-网格/区经方向-福建",
+  "company": "小米",
+  "locations": [
+   "福州"
+  ],
+  "location_raw": "福州",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524396763547910/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A252884"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "5520156a5bbfab74",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "中国区-网格/区经方向-河北",
+  "company": "小米",
+  "locations": [
+   "石家庄"
+  ],
+  "location_raw": "石家庄",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524533635696939/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A229684"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "62561904df8839db",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "中国区-网格/区经方向-湖北",
+  "company": "小米",
+  "locations": [
+   "武汉"
+  ],
+  "location_raw": "武汉",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524471564962091/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A233524A"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "55758e43255bb3e7",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "中国区-网格/区经方向-四川",
+  "company": "小米",
+  "locations": [
+   "成都"
+  ],
+  "location_raw": "成都",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524421270751526/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A73777"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "bad9859fd20170a1",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "中国区-网格/区经方向-山东",
+  "company": "小米",
+  "locations": [
+   "济南"
+  ],
+  "location_raw": "济南",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524700167031103/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A79504"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "013be0ab417bf024",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "中国区-网格/区经方向-浙江",
+  "company": "小米",
+  "locations": [
+   "杭州"
+  ],
+  "location_raw": "杭州",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524835931932991/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A172642"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "de2292e6dd150766",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "中国区-网格/区经方向-广东",
+  "company": "小米",
+  "locations": [
+   "广州"
+  ],
+  "location_raw": "广州",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671525064085752127/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A25039"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "5cd6dc89ae4d4f01",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "中国区-网格/区经方向-河南",
+  "company": "小米",
+  "locations": [
+   "郑州"
+  ],
+  "location_raw": "郑州",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524557262473508/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A150246"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "38420c39c4f922d2",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "中国区-网格/区经方向-江苏",
+  "company": "小米",
+  "locations": [
+   "南京"
+  ],
+  "location_raw": "南京",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671525032430422326/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A160001"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "d8bdcd780ae454f5",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "中国区-网格/区经方向-新疆",
+  "company": "小米",
+  "locations": [
+   "乌鲁木齐"
+  ],
+  "location_raw": "乌鲁木齐",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524134069160219/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A113194"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "139bf490df0918af",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "中国区-网格/区经方向-吉林",
+  "company": "小米",
+  "locations": [
+   "长春"
+  ],
+  "location_raw": "长春",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523841307593023/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A24539"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "d616657389269343",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "新零售校招生-贵州",
+  "company": "小米",
+  "locations": [
+   "贵阳"
+  ],
+  "location_raw": "贵阳",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523572909132038/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A179106"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "5542f55cdfd22535",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "中国区-网格/区经方向-黑龙江",
+  "company": "小米",
+  "locations": [
+   "哈尔滨"
+  ],
+  "location_raw": "哈尔滨",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524532843235593/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A250009A"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "0e27b05a1b554a97",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "新零售校招生-甘肃",
+  "company": "小米",
+  "locations": [
+   "西宁",
+   "兰州市",
+   "银川"
+  ],
+  "location_raw": "西宁 兰州市 银川",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523983392852233/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A104349"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "601856f97dbf3fc7",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "中国区-网格/区经方向-内蒙古",
+  "company": "小米",
+  "locations": [
+   "呼和浩特"
+  ],
+  "location_raw": "呼和浩特",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524238445349129/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A190522"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "d2b5a8ba995bf80c",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "新零售校招生-重庆",
+  "company": "小米",
+  "locations": [
+   "重庆"
+  ],
+  "location_raw": "重庆",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523957812119846/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A109213"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "6b24b864f8894f03",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "中国区-网格/区经方向-山西",
+  "company": "小米",
+  "locations": [
+   "太原"
+  ],
+  "location_raw": "太原",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524282178947369/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A07835"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "2261aeed4c86c6b7",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "新零售校招生-上海",
+  "company": "小米",
+  "locations": [
+   "上海"
+  ],
+  "location_raw": "上海",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523799539501331/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A61566"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "硬件大厂",
+  "id": "1cc727dd923f8bef",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "中国区-网格/区经方向-甘肃",
+  "company": "小米",
+  "locations": [
+   "兰州市"
+  ],
+  "location_raw": "兰州市",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524094131456265/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A183620A"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "db90b963f5b6759b",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "中国区-网格/区经方向-江西",
+  "company": "小米",
+  "locations": [
+   "南昌"
+  ],
+  "location_raw": "南昌",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524370372790566/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A141094"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "2cefd07b69dc4336",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "中国区-网格/区经方向-广西",
+  "company": "小米",
+  "locations": [
+   "南宁"
+  ],
+  "location_raw": "南宁",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524297740093750/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A214184"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "a284d327007ffe8a",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "零售顾问-广西",
+  "company": "小米",
+  "locations": [
+   "南宁"
+  ],
+  "location_raw": "南宁",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523129962039562/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A236316A"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "9ccc4a6ac2505b4a",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "中国区-网格/区经方向-辽宁",
+  "company": "小米",
+  "locations": [
+   "沈阳"
+  ],
+  "location_raw": "沈阳",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524406943172918/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A47435"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "488a2aa1764fbb69",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "零售顾问-湖南",
+  "company": "小米",
+  "locations": [
+   "长沙"
+  ],
+  "location_raw": "长沙",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523238548506926/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A252060A"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "aea7302d1ce7271a",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "中国区-网格/区经方向-云南",
+  "company": "小米",
+  "locations": [
+   "昆明"
+  ],
+  "location_raw": "昆明",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524556225661226/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A154598"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "e8b532e85a74081a",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "中国区-网格/区经方向-湖南",
+  "company": "小米",
+  "locations": [
+   "长沙"
+  ],
+  "location_raw": "长沙",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524400051177778/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A19497"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "b92c8a29ce845ae6",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "中国区-网格/区经方向-陕西",
+  "company": "小米",
+  "locations": [
+   "西安"
+  ],
+  "location_raw": "西安",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524830973774131/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A154670"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "9929ff2471f4f9c4",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "零售顾问-重庆",
+  "company": "小米",
+  "locations": [
+   "重庆"
+  ],
+  "location_raw": "重庆",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671522989066520883/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A111544"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "3391111597244bb3",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "零售顾问-陕西",
+  "company": "小米",
+  "locations": [
+   "西安"
+  ],
+  "location_raw": "西安",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523447864559910/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A177880"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "174267425bf177cb",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "中国区-网格/区经方向-深圳",
+  "company": "小米",
+  "locations": [
+   "深圳"
+  ],
+  "location_raw": "深圳",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524396763302150/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A133553"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "52bd2405887ff8a7",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "新零售校招生-云南",
+  "company": "小米",
+  "locations": [
+   "昆明"
+  ],
+  "location_raw": "昆明",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524011592436006/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A114519A"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "dad7f52e10a2eedc",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "新零售校招生-安徽",
+  "company": "小米",
+  "locations": [
+   "合肥"
+  ],
+  "location_raw": "合肥",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523862932916534/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A85448"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "098564b4cc527e0d",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "新零售校招生-四川",
+  "company": "小米",
+  "locations": [
+   "成都"
+  ],
+  "location_raw": "成都",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524168894023972/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A243068"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "095ea6d282dfa02d",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "新零售校招生-新疆",
+  "company": "小米",
+  "locations": [
+   "乌鲁木齐"
+  ],
+  "location_raw": "乌鲁木齐",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523431172016435/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A258961"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "4b0ad7414c61e285",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "交付顾问-安徽",
+  "company": "小米",
+  "locations": [
+   "合肥"
+  ],
+  "location_raw": "合肥",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671521039268907300/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A229428"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "8eef03da85b7caa5",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "交付顾问-湖南",
+  "company": "小米",
+  "locations": [
+   "长沙"
+  ],
+  "location_raw": "长沙",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671522138280511763/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A70946A"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "825e83b6bbae9614",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "交付顾问-福建",
+  "company": "小米",
+  "locations": [
+   "福州"
+  ],
+  "location_raw": "福州",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671521538591869225/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A197113"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "b74a21ba82fe2a9c",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "交付顾问-重庆",
+  "company": "小米",
+  "locations": [
+   "重庆"
+  ],
+  "location_raw": "重庆",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671521700588587305/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A175149"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "e01b73534029e182",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "零售顾问-山西",
+  "company": "小米",
+  "locations": [
+   "太原",
+   "大同"
+  ],
+  "location_raw": "太原 大同",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523138580433206/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A115261"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "66cda37c957adc5f",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "中国区-网格/区经方向-京津",
+  "company": "小米",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524858161383707/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A155378A"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "硬件大厂",
+  "id": "7194e1bcf1be36f9",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "交付顾问-深圳",
+  "company": "小米",
+  "locations": [
+   "东莞",
+   "深圳"
+  ],
+  "location_raw": "东莞 深圳",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671522922376694026/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A155897"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "3975278dd2b3efc7",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "新零售校招生-京津",
+  "company": "小米",
+  "locations": [
+   "北京",
+   "天津"
+  ],
+  "location_raw": "北京 天津",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523923024562486/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A216991"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "硬件大厂",
+  "id": "ef93a6a89ea8e78c",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "零售顾问-深圳",
+  "company": "小米",
+  "locations": [
+   "东莞",
+   "深圳"
+  ],
+  "location_raw": "东莞 深圳",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523465477146926/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A66714"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "b8e0c5f563437785",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "新零售校招生-辽宁",
+  "company": "小米",
+  "locations": [
+   "大连",
+   "沈阳"
+  ],
+  "location_raw": "大连 沈阳",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523658067036458/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A193717"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "57410f5fd3770b1d",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "新零售校招生-深圳",
+  "company": "小米",
+  "locations": [
+   "东莞",
+   "深圳"
+  ],
+  "location_raw": "东莞 深圳",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524016510945572/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A95772"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "1cb6780650206ae5",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "新零售校招生-吉林",
+  "company": "小米",
+  "locations": [
+   "吉林",
+   "长春"
+  ],
+  "location_raw": "吉林 长春",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523346139957555/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A186791"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "24b567de2cc708b0",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "新零售校招生-江西",
+  "company": "小米",
+  "locations": [
+   "上饶",
+   "南昌",
+   "赣州"
+  ],
+  "location_raw": "上饶 南昌 赣州",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523789843384595/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A45868"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "3428ef3f23d088bb",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "新零售校招生-浙江",
+  "company": "小米",
+  "locations": [
+   "宁波",
+   "杭州",
+   "温州"
+  ],
+  "location_raw": "宁波 杭州 温州",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524282178554153/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A110557"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "a603ab8bcc2b32c8",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "零售顾问-安徽",
+  "company": "小米",
+  "locations": [
+   "芜湖",
+   "合肥"
+  ],
+  "location_raw": "芜湖 合肥",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671522989829835071/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A118193"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "e128b1eddf71be90",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "零售顾问-福建",
+  "company": "小米",
+  "locations": [
+   "厦门",
+   "泉州",
+   "福州"
+  ],
+  "location_raw": "厦门 泉州 福州",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523411650185515/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A25745"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "facc33af349a427c",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "零售顾问-河北",
+  "company": "小米",
+  "locations": [
+   "唐山",
+   "石家庄",
+   "邯郸",
+   "保定"
+  ],
+  "location_raw": "唐山 石家庄 邯郸 保定",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523392814844186/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A227339"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "590380a78b5faa75",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "新零售校招生-河南",
+  "company": "小米",
+  "locations": [
+   "南阳",
+   "郑州",
+   "洛阳",
+   "商丘",
+   "新乡",
+   "信阳",
+   "许昌"
+  ],
+  "location_raw": "南阳 郑州 洛阳 商丘 新乡 信阳 许昌",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524450361690406/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A16818"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "c56100c27b5c5805",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "新零售校招生-江苏",
+  "company": "小米",
+  "locations": [
+   "镇江",
+   "盐城",
+   "常州",
+   "泰州",
+   "淮安",
+   "南京",
+   "无锡",
+   "苏州",
+   "南通",
+   "徐州",
+   "扬州"
+  ],
+  "location_raw": "镇江 盐城 常州 泰州 淮安 南京 无锡 苏州 南通 徐州 扬州",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524440870111497/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A110186"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "c5b5aef95c0fec0c",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "新零售校招生-山东",
+  "company": "小米",
+  "locations": [
+   "济宁",
+   "青岛",
+   "泰安",
+   "枣庄",
+   "威海",
+   "德州",
+   "济南",
+   "烟台",
+   "聊城",
+   "滨州",
+   "淄博",
+   "东营",
+   "菏泽",
+   "日照",
+   "临沂",
+   "潍坊"
+  ],
+  "location_raw": "济宁 青岛 泰安 枣庄 威海 德州 济南 烟台 聊城 滨州 淄博 东营 菏泽 日照 临沂 潍坊",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524628566034697/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A104950"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "5815a0212213f5d4",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "新零售校招生-广东",
+  "company": "小米",
+  "locations": [
+   "惠州",
+   "佛山",
+   "广州",
+   "珠海",
+   "海口",
+   "中山"
+  ],
+  "location_raw": "惠州 佛山 广州 珠海 海口 中山",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524605723412746/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A41898"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "deaee5c9db241ab1",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "新零售校招生-内蒙古",
+  "company": "小米",
+  "locations": [
+   "赤峰",
+   "鄂尔多斯",
+   "包头",
+   "呼和浩特"
+  ],
+  "location_raw": "赤峰 鄂尔多斯 包头 呼和浩特",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523773422962982/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A97016"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "992eeb9911efe0df",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "新零售校招生-黑龙江",
+  "company": "小米",
+  "locations": [
+   "哈尔滨",
+   "大庆"
+  ],
+  "location_raw": "哈尔滨 大庆",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523872088361243/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A252066"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "1fd8463cc497de7b",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "新零售校招生-山西",
+  "company": "小米",
+  "locations": [
+   "忻州",
+   "吕梁",
+   "朔州",
+   "阳泉",
+   "太原",
+   "临汾",
+   "运城",
+   "大同"
+  ],
+  "location_raw": "忻州 吕梁 朔州 阳泉 太原 临汾 运城 大同",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524050896095530/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A38269"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "6e14d7dbd5a2f4d7",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "新零售校招生-广西",
+  "company": "小米",
+  "locations": [
+   "柳州",
+   "玉林",
+   "桂林",
+   "贵港",
+   "北海",
+   "南宁",
+   "百色"
+  ],
+  "location_raw": "柳州 玉林 桂林 贵港 北海 南宁 百色",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524035738732863/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A148003"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "b20d7c2238f7e42d",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "新零售校招生-陕西",
+  "company": "小米",
+  "locations": [
+   "榆林",
+   "咸阳",
+   "汉中",
+   "渭南",
+   "西安",
+   "宝鸡",
+   "延安",
+   "安康"
+  ],
+  "location_raw": "榆林 咸阳 汉中 渭南 西安 宝鸡 延安 安康",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524011591960870/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A118196"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "bf7b176bbfd811ff",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "新零售校招生-福建",
+  "company": "小米",
+  "locations": [
+   "福州",
+   "漳州",
+   "厦门",
+   "莆田",
+   "泉州"
+  ],
+  "location_raw": "福州 漳州 厦门 莆田 泉州",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524122409109810/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A171469"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "1cf31e707926e2fb",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "新零售校招生-湖北",
+  "company": "小米",
+  "locations": [
+   "宜昌",
+   "襄阳",
+   "武汉"
+  ],
+  "location_raw": "宜昌 襄阳 武汉",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523659689822506/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A164587"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "ac0d51d9eb9a1f0b",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "新零售校招生-湖南",
+  "company": "小米",
+  "locations": [
+   "怀化",
+   "岳阳",
+   "长沙",
+   "衡阳",
+   "株洲"
+  ],
+  "location_raw": "怀化 岳阳 长沙 衡阳 株洲",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523975952976137/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A73225"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "401ae0e57ca87c34",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "新零售校招生-河北",
+  "company": "小米",
+  "locations": [
+   "唐山",
+   "廊坊",
+   "石家庄",
+   "邯郸",
+   "保定"
+  ],
+  "location_raw": "唐山 廊坊 石家庄 邯郸 保定",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524214055160091/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A242672"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "6f8fc07abff7d763",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-14",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "中国区-网格/区经方向-安徽",
+  "company": "小米",
+  "locations": [
+   "合肥"
+  ],
+  "location_raw": "合肥",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524803547416882/detail",
+  "extra": {
+   "department": "中国区",
+   "lark_job_code": "A38610"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "fec0271afdf5b998",
+  "first_seen": "2026-09-20",
+  "last_seen": "2026-10-14"
+ },
+ {
+  "title": "零售顾问-安徽",
+  "company": "小米",
+  "locations": [
+   "合肥"
+  ],
+  "location_raw": "合肥",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523131105888553/detail",
+  "extra": {
+   "department": "中国区",
+   "lark_job_code": "A201526"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "7f2c2ce061779412",
+  "first_seen": "2026-09-20",
+  "last_seen": "2026-10-14"
+ },
+ {
+  "title": "新零售校招生-安徽",
+  "company": "小米",
+  "locations": [
+   "合肥"
+  ],
+  "location_raw": "合肥",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524184715217193/detail",
+  "extra": {
+   "department": "中国区",
+   "lark_job_code": "A120235"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "87d00aa91870284e",
+  "first_seen": "2026-09-20",
+  "last_seen": "2026-10-14"
+ },
+ {
+  "title": "交付顾问-安徽",
+  "company": "小米",
+  "locations": [
+   "合肥"
+  ],
+  "location_raw": "合肥",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671515635709233471/detail",
+  "extra": {
+   "department": "中国区",
+   "lark_job_code": "A174509"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "7ffe35b734a65826",
+  "first_seen": "2026-10-08",
+  "last_seen": "2026-10-14"
+ },
+ {
+  "title": "零售顾问-安徽",
+  "company": "小米",
+  "locations": [
+   "芜湖"
+  ],
+  "location_raw": "芜湖",
+  "publish_time_raw": "2026-08-08",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523317089978665/detail",
+  "extra": {
+   "department": "中国区",
+   "lark_job_code": "A170546"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "623c597934de8056",
+  "first_seen": "2026-10-11",
+  "last_seen": "2026-10-14"
+ },
+ {
+  "title": "鏉句笅鐢靛櫒锛堜腑鍥斤級鏈夐檺鍏�鍙�",
+  "company": "骞垮窞鍩庡競鐞嗗伐瀛﹂櫌鏈烘�板伐绋嬪�﹂櫌",
+  "locations": [
+   "鍖椾含涓婃捣骞夸笢杈藉畞姹熻嫃"
+  ],
+  "location_raw": "鍖椾含涓婃捣骞夸笢杈藉畞姹熻嫃",
+  "publish_time_raw": "2026-10-14",
+  "publish_time": "2026-10-14 12:00",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-118-477.html",
+  "extra": {
+   "section": "beijing",
+   "kind": "2027鏍″洯鎷涜仒"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "854a276fb42180d1",
+  "first_seen": "2026-10-14",
+  "last_seen": "2026-10-14"
+ },
+ {
+  "title": "涓滄柟闆ㄨ櫣姘戠敤寤烘潗鏈夐檺璐ｄ换鍏�鍙�",
+  "company": "涓�鍥界�戝�︽妧鏈�澶у��",
+  "locations": [
+   "鍖椾含涓婃捣骞垮窞鍗椾含鍏跺畠"
+  ],
+  "location_raw": "鍖椾含涓婃捣骞垮窞鍗椾含鍏跺畠",
+  "publish_time_raw": "2026-10-14",
+  "publish_time": "2026-10-14 12:00",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-118-481.html",
+  "extra": {
+   "section": "beijing",
+   "kind": "2027鎷涜仒鍖哄煙缁忕悊绠″煿鐢�"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "f965b8635dc9c5fd",
+  "first_seen": "2026-10-14",
+  "last_seen": "2026-10-14"
+ },
+ {
+  "title": "鍗庨懌鍥介檯淇℃墭鏈夐檺鍏�鍙�",
+  "company": "棣栭兘缁忔祹璐告槗澶у��",
+  "locations": [
+   "鍖椾含"
+  ],
+  "location_raw": "鍖椾含",
+  "publish_time_raw": "2026-10-14",
+  "publish_time": "2026-10-14 12:00",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-118-442.html",
+  "extra": {
+   "section": "beijing",
+   "kind": "鎶曡祫鐮旂┒宀梶淇℃墭涓氬姟宀�"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "2eba15dcf9e70b04",
+  "first_seen": "2026-10-14",
+  "last_seen": "2026-10-14"
+ },
+ {
+  "title": "鍐呰挋鍙や紛鍒╁疄涓氶泦鍥㈣偂浠芥湁闄愬叕鍙�",
+  "company": "瑗垮畨宸ョ▼澶у��",
+  "locations": [
+   "鍖椾含"
+  ],
+  "location_raw": "鍖椾含",
+  "publish_time_raw": "2026-10-14",
+  "publish_time": "2026-10-14 12:00",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-118-388.html",
+  "extra": {
+   "section": "beijing",
+   "kind": "鐢靛晢鍩硅��鐢�"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "1aac14dbdd72d02a",
+  "first_seen": "2026-10-14",
+  "last_seen": "2026-10-14"
+ },
+ {
+  "title": "鐣呰耽锛堝寳浜�锛夌綉缁滄妧鏈�鏈夐檺鍏�鍙稿ぉ娲ュ垎鍏�鍙�",
+  "company": "澶╂触杞诲伐鑱屼笟鎶�鏈�瀛﹂櫌",
+  "locations": [
+   "澶╂触鍏跺畠"
+  ],
+  "location_raw": "澶╂触鍏跺畠",
+  "publish_time_raw": "2026-10-14",
+  "publish_time": "2026-10-14 12:00",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-118-306.html",
+  "extra": {
+   "section": "beijing",
+   "kind": "寮辩數宸ョ▼甯�"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "f0cbec75f5fed2fc",
+  "first_seen": "2026-10-14",
+  "last_seen": "2026-10-14"
+ },
+ {
+  "title": "鍖椾含娓呮渤鍖婚櫌",
+  "company": "澶ц繛鍖荤�戝ぇ瀛�",
+  "locations": [
+   "鍖椾含"
+  ],
+  "location_raw": "鍖椾含",
+  "publish_time_raw": "2026-10-14",
+  "publish_time": "2026-10-14 12:00",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-118-245.html",
+  "extra": {
+   "section": "beijing",
+   "kind": "琛�娑插唴绉戜綇闄㈠尰"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "23f2617ada6b8255",
+  "first_seen": "2026-10-14",
+  "last_seen": "2026-10-14"
+ },
+ {
+  "title": "鍖椾含浼楁櫤杩炴í浼佷笟绠＄悊鍜ㄨ�㈡湁闄愬叕鍙�",
+  "company": "姹熻タ绉戞妧甯堣寖澶у��",
+  "locations": [
+   "鍖椾含"
+  ],
+  "location_raw": "鍖椾含",
+  "publish_time_raw": "2026-10-14",
+  "publish_time": "2026-10-14 12:00",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-118-230.html",
+  "extra": {
+   "section": "beijing",
+   "kind": "鍟嗗姟鍔╃悊"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "b2a4d4178b75c00f",
+  "first_seen": "2026-10-14",
+  "last_seen": "2026-10-14"
+ },
+ {
+  "title": "涓�鍥芥皯鐢熼摱琛屽寳浜�鍒嗚��",
+  "company": "棣栭兘缁忔祹璐告槗澶у��",
+  "locations": [
+   "鍖椾含"
+  ],
+  "location_raw": "鍖椾含",
+  "publish_time_raw": "2026-10-14",
+  "publish_time": "2026-10-14 12:00",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-118-110.html",
+  "extra": {
+   "section": "beijing",
+   "kind": "2027鏍″洯鎷涜仒鎵�甯嗚�″垝|鍚�鑸�璁″垝|瀹炰範鐢�"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "440bbc28c496db2a",
+  "first_seen": "2026-10-14",
+  "last_seen": "2026-10-14"
+ },
+ {
+  "title": "鍖椾含澶у�﹀厜鍗庣�＄悊瀛﹂櫌瀛︾�戝缓璁句笌瀛︿綅鍔炲叕瀹�",
+  "company": "鍖椾含澶у�﹀厜鍗庣�＄悊瀛﹂櫌",
+  "locations": [
+   "鍖椾含"
+  ],
+  "location_raw": "鍖椾含",
+  "publish_time_raw": "2026-10-14",
+  "publish_time": "2026-10-14 12:00",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-118-040.html",
+  "extra": {
+   "section": "beijing",
+   "kind": "绉戠爺绠＄悊鍔╃悊"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "5dfaa190fc49ac3d",
+  "first_seen": "2026-10-14",
+  "last_seen": "2026-10-14"
+ },
+ {
+  "title": "娓呭崕澶у�︾幆澧冨�﹂櫌鐜嬩功鑲東鍚存竻鑼硅�鹃�樼粍",
+  "company": "娓呭崕澶у�︾幆澧冨�﹂櫌",
+  "locations": [
+   "鍖椾含"
+  ],
+  "location_raw": "鍖椾含",
+  "publish_time_raw": "2026-10-14",
+  "publish_time": "2026-10-14 12:00",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-118-041.html",
+  "extra": {
+   "section": "beijing",
+   "kind": "鍗氬＋鍚�"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "551dc0075426735c",
+  "first_seen": "2026-10-14",
+  "last_seen": "2026-10-14"
+ },
+ {
+  "title": "鍖椾含涓�鍏虫潙绉戞妧鍙戝睍(鎺ц偂)鑲′唤鏈夐檺鍏�鍙�",
+  "company": "涓�鍥借嵂绉戝ぇ瀛�",
+  "locations": [
+   "鍖椾含"
+  ],
+  "location_raw": "鍖椾含",
+  "publish_time_raw": "2026-10-14",
+  "publish_time": "2026-10-14 12:00",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-117-995.html",
+  "extra": {
+   "section": "beijing",
+   "kind": "鐢熶骇涓�蹇冭溅闂存妧鏈�鍛�"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "79d9103b0b14cf77",
+  "first_seen": "2026-10-14",
+  "last_seen": "2026-10-14"
+ },
+ {
+  "title": "鍖椾含涓�鍏虫潙绉戞妧鍙戝睍(鎺ц偂)鑲′唤鏈夐檺鍏�鍙�",
+  "company": "涓�鍥借嵂绉戝ぇ瀛�",
+  "locations": [
+   "鍖椾含"
+  ],
+  "location_raw": "鍖椾含",
+  "publish_time_raw": "2026-10-14",
+  "publish_time": "2026-10-14 12:00",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-117-988.html",
+  "extra": {
+   "section": "beijing",
+   "kind": "璐ㄩ噺閮≦A"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "e8e3499604eec09c",
+  "first_seen": "2026-10-14",
+  "last_seen": "2026-10-14"
+ },
+ {
+  "title": "鍖椾含涓�鍏虫潙绉戞妧鍙戝睍(鎺ц偂)鑲′唤鏈夐檺鍏�鍙�",
+  "company": "涓�鍥借嵂绉戝ぇ瀛�",
+  "locations": [
+   "鍖椾含"
+  ],
+  "location_raw": "鍖椾含",
+  "publish_time_raw": "2026-10-14",
+  "publish_time": "2026-10-14 12:00",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-117-987.html",
+  "extra": {
+   "section": "beijing",
+   "kind": "璐ㄩ噺閮≦C"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "dff364c095f2e158",
+  "first_seen": "2026-10-14",
+  "last_seen": "2026-10-14"
+ },
+ {
+  "title": "鍖椾含涓�鍏虫潙绉戞妧鍙戝睍(鎺ц偂)鑲′唤鏈夐檺鍏�鍙�",
+  "company": "涓�鍥借嵂绉戝ぇ瀛�",
+  "locations": [
+   "鍖椾含"
+  ],
+  "location_raw": "鍖椾含",
+  "publish_time_raw": "2026-10-14",
+  "publish_time": "2026-10-14 12:00",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-117-986.html",
+  "extra": {
+   "section": "beijing",
+   "kind": "鐮斿彂涓�蹇冨垎鏋愬疄楠屽憳"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "1441fa4275a7a1dc",
+  "first_seen": "2026-10-14",
+  "last_seen": "2026-10-14"
+ },
+ {
+  "title": "鍖椾含閲戝崥楂樺痉鏁欒偛绉戞妧鏈夐檺鍏�鍙�",
+  "company": "灞变笢鍗忓拰瀛﹂櫌",
+  "locations": [
+   "鍖椾含"
+  ],
+  "location_raw": "鍖椾含",
+  "publish_time_raw": "2026-10-14",
+  "publish_time": "2026-10-14 12:00",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-117-644.html",
+  "extra": {
+   "section": "beijing",
+   "kind": "2027鎷涜仒瀛︾�″笀|浜哄姏绠″煿鐢�"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "fa3e5d3d543700e4",
+  "first_seen": "2026-10-14",
+  "last_seen": "2026-10-14"
+ },
+ {
+  "title": "涓�鍥戒汉瀵夸繚闄╄偂浠芥湁闄愬叕鍙稿寳浜�甯傚垎鍏�鍙�",
+  "company": "澶╂触鍟嗕笟澶у��",
+  "locations": [
+   "鍖椾含"
+  ],
+  "location_raw": "鍖椾含",
+  "publish_time_raw": "2026-10-14",
+  "publish_time": "2026-10-14 12:00",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-117-634.html",
+  "extra": {
+   "section": "beijing",
+   "kind": "鏍镐繚鏍歌禂宀�"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "5d8d59fbd982bfa7",
+  "first_seen": "2026-10-14",
+  "last_seen": "2026-10-14"
+ },
+ {
+  "title": "涓�鍥戒汉瀵夸繚闄╄偂浠芥湁闄愬叕鍙稿寳浜�甯傚垎鍏�鍙�",
+  "company": "澶╂触鍟嗕笟澶у��",
+  "locations": [
+   "鍖椾含"
+  ],
+  "location_raw": "鍖椾含",
+  "publish_time_raw": "2026-10-14",
+  "publish_time": "2026-10-14 12:00",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-117-635.html",
+  "extra": {
+   "section": "beijing",
+   "kind": "閿�鍞�绠＄悊宀�"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "b6d09c05ce1d5bf2",
+  "first_seen": "2026-10-14",
+  "last_seen": "2026-10-14"
+ },
+ {
+  "title": "涓�鍥戒汉瀵夸繚闄╄偂浠芥湁闄愬叕鍙稿寳浜�甯傚垎鍏�鍙�",
+  "company": "澶╂触鍟嗕笟澶у��",
+  "locations": [
+   "鍖椾含"
+  ],
+  "location_raw": "鍖椾含",
+  "publish_time_raw": "2026-10-14",
+  "publish_time": "2026-10-14 12:00",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-117-636.html",
+  "extra": {
+   "section": "beijing",
+   "kind": "璐㈠姟绠＄悊宀�"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "59801707de3c905f",
+  "first_seen": "2026-10-14",
+  "last_seen": "2026-10-14"
+ },
+ {
+  "title": "涓�鍥戒汉瀵夸繚闄╄偂浠芥湁闄愬叕鍙稿寳浜�甯傚垎鍏�鍙�",
+  "company": "澶╂触鍟嗕笟澶у��",
+  "locations": [
+   "鍖椾含"
+  ],
+  "location_raw": "鍖椾含",
+  "publish_time_raw": "2026-10-14",
+  "publish_time": "2026-10-14 12:00",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-117-637.html",
+  "extra": {
+   "section": "beijing",
+   "kind": "缁煎悎鏌滃憳宀�"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "47a33490780cb286",
+  "first_seen": "2026-10-14",
+  "last_seen": "2026-10-14"
+ },
+ {
+  "title": "涓夊拰浜ф暀铻嶅悎锛堝寳浜�锛夌�戞妧鍙戝睍鏈夐檺鍏�鍙�",
+  "company": "澶�鍘熺�戞妧澶у��",
+  "locations": [
+   "鍖椾含"
+  ],
+  "location_raw": "鍖椾含",
+  "publish_time_raw": "2026-10-14",
+  "publish_time": "2026-10-14 12:00",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-117-393.html",
+  "extra": {
+   "section": "beijing",
+   "kind": "鐢靛姏浜ゆ槗鍛樺姪鏁�"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "24cbe596c06c8121",
+  "first_seen": "2026-10-14",
+  "last_seen": "2026-10-14"
+ },
+ {
+  "title": "鍖椾含杩滃ぇ鏄熺伀鍖昏嵂绉戞妧鏈夐檺鍏�鍙�",
+  "company": "杈藉畞涓�鍖昏嵂澶у��",
+  "locations": [
+   "鍖椾含"
+  ],
+  "location_raw": "鍖椾含",
+  "publish_time_raw": "2026-10-14",
+  "publish_time": "2026-10-14 12:00",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-117-389.html",
+  "extra": {
+   "section": "beijing",
+   "kind": "鍔ㄧ墿瀹為獙鍛�"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "ce1e67efc1a3be29",
+  "first_seen": "2026-10-14",
+  "last_seen": "2026-10-14"
+ },
+ {
+  "title": "涓夊拰浜ф暀铻嶅悎锛堝寳浜�锛夌�戞妧鍙戝睍鏈夐檺鍏�鍙�",
+  "company": "澶�鍘熺�戞妧澶у��",
+  "locations": [
+   "鍖椾含"
+  ],
+  "location_raw": "鍖椾含",
+  "publish_time_raw": "2026-10-14",
+  "publish_time": "2026-10-14 12:00",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-117-390.html",
+  "extra": {
+   "section": "beijing",
+   "kind": "鐢靛姏浜ゆ槗鍛樺姪鐞�"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "7b72a06ad2e7d78f",
+  "first_seen": "2026-10-14",
+  "last_seen": "2026-10-14"
+ },
+ {
+  "title": "涓�鍥戒繚闄╀繚闅滃熀閲戞湁闄愯矗浠诲叕鍙�",
+  "company": "鍖椾含甯堣寖澶у��",
+  "locations": [
+   "鍖椾含"
+  ],
+  "location_raw": "鍖椾含",
+  "publish_time_raw": "2026-10-14",
+  "publish_time": "2026-10-14 12:00",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-117-339.html",
+  "extra": {
+   "section": "beijing",
+   "kind": "2027鏍″洯鎷涜仒"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "a0ef42d5ecb1919a",
+  "first_seen": "2026-10-14",
+  "last_seen": "2026-10-14"
+ },
+ {
+  "title": "骞跨數璁￠噺妫�娴嬶紙婀栧崡锛夋湁闄愬叕鍙�",
+  "company": "璐靛窞澶у��",
+  "locations": [
+   "鍖椾含骞垮窞"
+  ],
+  "location_raw": "鍖椾含骞垮窞",
+  "publish_time_raw": "2026-10-14",
+  "publish_time": "2026-10-14 12:00",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-117-253.html",
+  "extra": {
+   "section": "beijing",
+   "kind": "浜哄伐鏅鸿兘绠楁硶鐮旂┒鍛�"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "3af1a55d15a0697a",
+  "first_seen": "2026-10-14",
+  "last_seen": "2026-10-14"
+ },
+ {
+  "title": "鍖椾含甯傝偛鑻卞�︽牎",
+  "company": "楂樻牎浜烘墠缃�",
+  "locations": [
+   "鍖椾含"
+  ],
+  "location_raw": "鍖椾含",
+  "publish_time_raw": "2026-10-14",
+  "publish_time": "2026-10-14 12:00",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-117-189.html",
+  "extra": {
+   "section": "beijing",
+   "kind": "2026鎷涜仒"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "5dc2495a07b28b62",
+  "first_seen": "2026-10-14",
+  "last_seen": "2026-10-14"
+ },
+ {
+  "title": "顶尖应届-通信算法工程师-手机",
+  "company": "小米",
+  "locations": [
+   "上海"
+  ],
+  "location_raw": "上海",
+  "publish_time_raw": "2026-10-14",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7696361077969930523/detail",
+  "extra": {
+   "department": "手机部",
+   "lark_job_code": "A250131"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "硬件大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "44a2261d0951d6e8",
+  "first_seen": "2026-10-14",
+  "last_seen": "2026-10-14"
+ },
+ {
+  "title": "顶尖应届-射频创新功放架构工程师-手机",
+  "company": "小米",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "2026-10-14",
+  "publish_time": "2026-10-14 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7696361177722784010/detail",
+  "extra": {
+   "department": "手机部",
+   "lark_job_code": "A208977"
+  },
+  "direction": "hardware",
+  "direction_label": "硬件设计",
+  "priority": "主投",
+  "region_level": "primary",
+  "company_tag": "硬件大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "a3e17345af6ded5f",
+  "first_seen": "2026-10-14",
+  "last_seen": "2026-10-14"
+ },
+ {
+  "title": "维修培训生",
+  "company": "优诺乳业有限公司",
+  "locations": [
+   "苏州"
+  ],
+  "location_raw": "苏州",
+  "publish_time_raw": "2026-10-14 11:34",
+  "publish_time": "2026-10-14 11:34",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-10-14 16:19",
+   "salary": "10-13K·12薪",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "ef98ebb6d49a3a31",
+  "first_seen": "2026-10-14",
+  "last_seen": "2026-10-14"
+ },
+ {
+  "title": "质量培训生",
+  "company": "优诺乳业有限公司",
+  "locations": [
+   "苏州"
+  ],
+  "location_raw": "苏州",
+  "publish_time_raw": "2026-10-14 11:33",
+  "publish_time": "2026-10-14 11:33",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-10-14 16:19",
+   "salary": "8-10K·12薪",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "de98936eb7ad3604",
+  "first_seen": "2026-10-14",
+  "last_seen": "2026-10-14"
+ },
+ {
+  "title": "厂房设施岗（泰国）",
+  "company": "安捷利美维电子（厦门）有限责任公司",
+  "locations": [
+   "广州"
+  ],
+  "location_raw": "广州",
+  "publish_time_raw": "2026-10-14 10:33",
+  "publish_time": "2026-10-14 10:33",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-10-14 16:19",
+   "salary": "10-13K·12薪",
+   "education": "",
+   "channel": "moka"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "681596a9ba1418e8",
+  "first_seen": "2026-10-14",
+  "last_seen": "2026-10-14"
+ },
+ {
+  "title": "机械设计/制造",
+  "company": "广州达意隆包装机械股份有限公司",
+  "locations": [
+   "广州"
+  ],
+  "location_raw": "广州",
+  "publish_time_raw": "2026-10-14 10:09",
+  "publish_time": "2026-10-14 10:09",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-10-14 16:19",
+   "salary": "6-10K·13薪",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "f3d90494f24e6379",
+  "first_seen": "2026-10-14",
+  "last_seen": "2026-10-14"
+ },
+ {
+  "title": "研发工程师",
+  "company": "西安华为云计算技术有限公司",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "2026-10-14 09:28",
+  "publish_time": "2026-10-14 09:28",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-10-14 16:19",
+   "salary": "2-12K·12薪",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "硬件大厂",
+  "hq_city": "深圳",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "10be91821190b1ab",
+  "first_seen": "2026-10-14",
+  "last_seen": "2026-10-14"
+ },
+ {
+  "title": "Golang开发工程师（2027届）",
+  "company": "广发证券",
+  "locations": [
+   "广州"
+  ],
+  "location_raw": "广州",
+  "publish_time_raw": "2026-10-14 07:45",
+  "publish_time": "2026-10-14 07:45",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-10-14 16:22",
+   "salary": "薪资面议",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "75ca1f014e553078",
+  "first_seen": "2026-10-14",
+  "last_seen": "2026-10-14"
+ },
+ {
+  "title": "营销特战队方向(J15601)",
+  "company": "方太集团",
+  "locations": [
+   "宁波"
+  ],
+  "location_raw": "宁波",
+  "publish_time_raw": "2026-10-14 06:36",
+  "publish_time": "2026-10-14 06:36",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-10-14 16:19",
+   "salary": "8-12K·14薪",
+   "education": "",
+   "channel": "北森"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "58790655c83c2f05",
+  "first_seen": "2026-10-14",
+  "last_seen": "2026-10-14"
+ },
+ {
   "title": "前端工程师开发工程师-苏州（27届）",
   "company": "同程旅行",
   "locations": [
@@ -161,60 +4122,6 @@
   "id": "b10183f4dd3c472b",
   "first_seen": "2026-08-26",
   "last_seen": "2026-10-14"
- },
- {
-  "title": "中国区-汽车一线服务专员",
-  "company": "小米",
-  "locations": [
-   "南京"
-  ],
-  "location_raw": "南京",
-  "publish_time_raw": "2026-08-18",
-  "publish_time": "2026-10-13 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671522987782719750/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A29729"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "a6385b1d470b6468",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "中国区-汽车一线服务专员",
-  "company": "小米",
-  "locations": [
-   "武汉"
-  ],
-  "location_raw": "武汉",
-  "publish_time_raw": "2026-08-18",
-  "publish_time": "2026-10-13 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671522167922673966/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A11365A"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "8bf4a9cf05ab5784",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
  },
  {
   "title": "传感器工程师-手机",
@@ -16874,7 +20781,7 @@
   "industry": "互联网",
   "id": "3de31fb46d106003",
   "first_seen": "2026-09-22",
-  "last_seen": "2026-10-13"
+  "last_seen": "2026-10-14"
  },
  {
   "title": "27届-PQE工程师（南京）",
@@ -25242,7 +29149,7 @@
   "industry": "硬件",
   "id": "4be88c1dc4b6bb30",
   "first_seen": "2026-10-13",
-  "last_seen": "2026-10-13"
+  "last_seen": "2026-10-14"
  },
  {
   "title": "行业运营（汽摩）实习生 - 抖音电商运营",
@@ -26638,418 +30545,6 @@
   "industry": "硬件"
  },
  {
-  "title": "零售顾问-江西",
-  "company": "小米",
-  "locations": [
-   "南昌",
-   "赣州"
-  ],
-  "location_raw": "南昌 赣州",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-09-16 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671522365637085494/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A141187"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "8ddcf78ff34a7224",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "零售顾问-江苏",
-  "company": "小米",
-  "locations": [
-   "扬州",
-   "常州",
-   "泰州",
-   "南京",
-   "无锡"
-  ],
-  "location_raw": "扬州 常州 泰州 南京 无锡",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-09-16 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523553045465398/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A256893"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "c1583057d3ea2aed",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "交付顾问-京津",
-  "company": "小米",
-  "locations": [
-   "北京",
-   "天津"
-  ],
-  "location_raw": "北京 天津",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-09-16 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671522903808624915/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A105720"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "primary",
-  "company_tag": "硬件大厂",
-  "id": "52b23c2d5ddf77a9",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "交付顾问-广东",
-  "company": "小米",
-  "locations": [
-   "佛山",
-   "广州",
-   "海口"
-  ],
-  "location_raw": "佛山 广州 海口",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-09-16 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523010658814249/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A218847"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "8a85ec7b80c1a31b",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "交付顾问-河南",
-  "company": "小米",
-  "locations": [
-   "郑州",
-   "洛阳"
-  ],
-  "location_raw": "郑州 洛阳",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-09-16 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671521833951480127/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A224174"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "b7d6e19c27325bc3",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "零售顾问-辽宁",
-  "company": "小米",
-  "locations": [
-   "沈阳",
-   "大连"
-  ],
-  "location_raw": "沈阳 大连",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-09-16 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523474694998281/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A84320"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "d918f4e844054bc8",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "零售顾问-京津",
-  "company": "小米",
-  "locations": [
-   "北京",
-   "天津"
-  ],
-  "location_raw": "北京 天津",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-09-16 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523344941287730/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A43914"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "primary",
-  "company_tag": "硬件大厂",
-  "id": "4e6ea33373643994",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "交付顾问-四川",
-  "company": "小米",
-  "locations": [
-   "绵阳",
-   "成都"
-  ],
-  "location_raw": "绵阳 成都",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-09-16 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671522896103639323/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A62765"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "a4908f1da9601628",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "交付顾问-山东",
-  "company": "小米",
-  "locations": [
-   "日照",
-   "济南",
-   "济宁",
-   "临沂",
-   "青岛",
-   "潍坊",
-   "淄博",
-   "烟台"
-  ],
-  "location_raw": "日照 济南 济宁 临沂 青岛 潍坊 淄博 烟台",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-09-16 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523131954235657/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A48715"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "ce09de9b2f0e9472",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "交付顾问-湖北",
-  "company": "小米",
-  "locations": [
-   "襄阳",
-   "武汉",
-   "宜昌"
-  ],
-  "location_raw": "襄阳 武汉 宜昌",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-09-16 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671522159328201014/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A145680"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "d7ab4b6715ccec09",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "零售顾问-河南",
-  "company": "小米",
-  "locations": [
-   "郑州",
-   "洛阳",
-   "商丘"
-  ],
-  "location_raw": "郑州 洛阳 商丘",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-09-16 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523213013076250/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A60331"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "01a06592e361978f",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "零售顾问-山东",
-  "company": "小米",
-  "locations": [
-   "淄博",
-   "烟台",
-   "日照",
-   "济南",
-   "济宁",
-   "临沂",
-   "青岛",
-   "潍坊"
-  ],
-  "location_raw": "淄博 烟台 日照 济南 济宁 临沂 青岛 潍坊",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-09-16 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523944176552242/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A02948"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "b031c53f2b2c33fa",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "零售顾问-四川",
-  "company": "小米",
-  "locations": [
-   "凉山",
-   "成都",
-   "绵阳"
-  ],
-  "location_raw": "凉山 成都 绵阳",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-09-16 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523525471783218/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A184271"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "e31cedfc54f6b386",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "零售顾问-浙江",
-  "company": "小米",
-  "locations": [
-   "温州",
-   "宁波",
-   "杭州"
-  ],
-  "location_raw": "温州 宁波 杭州",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-09-16 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523641833851155/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A219511A"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "827449e565d9884d",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
   "title": "成都市公共交通集团有限公司 校招网申（27届秋招）",
   "company": "成都市公共交通集团有限公司",
   "locations": [
@@ -27397,7 +30892,7 @@
   "industry": "",
   "id": "d429792decafaad6",
   "first_seen": "2026-09-24",
-  "last_seen": "2026-09-29"
+  "last_seen": "2026-10-14"
  },
  {
   "title": "用户产品运营实习生（游戏娱乐行业） - 抖音电商",
@@ -28735,33 +32230,6 @@
   "last_seen": "2026-09-16"
  },
  {
-  "title": "交付顾问-深圳",
-  "company": "小米",
-  "locations": [
-   "东莞"
-  ],
-  "location_raw": "东莞",
-  "publish_time_raw": "2026-09-15",
-  "publish_time": "2026-09-15 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671522252055857458/detail",
-  "extra": {
-   "department": "中国区",
-   "lark_job_code": "A201929"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "90726a2a282e5476",
-  "first_seen": "2026-09-16",
-  "last_seen": "2026-10-14"
- },
- {
   "title": "乐享元游 校招网申（27届秋招）",
   "company": "乐享元游",
   "locations": [
@@ -28791,65 +32259,6 @@
   "id": "f7dc6127f39dfc2e",
   "first_seen": "2026-09-16",
   "last_seen": "2026-09-19"
- },
- {
-  "title": "零售顾问-广东",
-  "company": "小米",
-  "locations": [
-   "佛山",
-   "广州",
-   "珠海",
-   "海口"
-  ],
-  "location_raw": "佛山 广州 珠海 海口",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-09-15 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523477946943750/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A137938"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "d9fdba58dc430862",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "零售顾问-湖北",
-  "company": "小米",
-  "locations": [
-   "襄阳",
-   "武汉",
-   "宜昌"
-  ],
-  "location_raw": "襄阳 武汉 宜昌",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-09-15 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523500439701814/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A164553"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "174b1b2dbaee31d6",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
  },
  {
   "title": "零售顾问-深圳",
@@ -28906,33 +32315,6 @@
   "last_seen": "2026-09-29"
  },
  {
-  "title": "零售顾问-上海",
-  "company": "小米",
-  "locations": [
-   "上海"
-  ],
-  "location_raw": "上海",
-  "publish_time_raw": "2026-09-15",
-  "publish_time": "2026-09-15 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7685683083929487667/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A136726A"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "secondary",
-  "company_tag": "硬件大厂",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "25ad2e076dbb5f9e",
-  "first_seen": "2026-09-20",
-  "last_seen": "2026-10-14"
- },
- {
   "title": "机电工程师-福建",
   "company": "小米",
   "locations": [
@@ -28958,60 +32340,6 @@
   "id": "38aa96a7dde9e523",
   "first_seen": "2026-09-20",
   "last_seen": "2026-10-08"
- },
- {
-  "title": "中国区-网格/区经方向-重庆",
-  "company": "小米",
-  "locations": [
-   "重庆"
-  ],
-  "location_raw": "重庆",
-  "publish_time_raw": "2026-09-15",
-  "publish_time": "2026-09-15 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7685683062923970866/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A231736"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "bf40ca4d9c94b718",
-  "first_seen": "2026-09-20",
-  "last_seen": "2026-10-14"
- },
- {
-  "title": "中国区-网格/区经方向-上海",
-  "company": "小米",
-  "locations": [
-   "上海"
-  ],
-  "location_raw": "上海",
-  "publish_time_raw": "2026-09-15",
-  "publish_time": "2026-09-15 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7685683070775560494/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A123855"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "secondary",
-  "company_tag": "硬件大厂",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "cc46e82bc09c2025",
-  "first_seen": "2026-09-20",
-  "last_seen": "2026-10-14"
  },
  {
   "title": "交付顾问-深圳",
@@ -32038,33 +35366,6 @@
   "region_level": "secondary",
   "company_tag": "硬件大厂",
   "id": "6357bd0a79a887e7",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "整机产品经理",
-  "company": "小米",
-  "locations": [
-   "北京"
-  ],
-  "location_raw": "北京",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-09-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7670890904535009582/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A240075"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "primary",
-  "company_tag": "硬件大厂",
-  "id": "fe1048cfe5533761",
   "first_seen": "2026-08-24",
   "last_seen": "2026-10-14",
   "hq_city": "北京",
@@ -42616,32 +45917,6 @@
   "last_seen": "2026-10-07"
  },
  {
-  "title": "【27校招 - 供应链】过程工艺开发工程师（变频器，驱控，机械）",
-  "company": "汇川技术",
-  "locations": [
-   "苏州"
-  ],
-  "location_raw": "苏州",
-  "publish_time_raw": "2026-08-18T10:16:32.297457",
-  "publish_time": "2026-09-03 13:23",
-  "source": "inovance",
-  "url": "https://recruit.inovance.com/#/campus/jobs/019ff9d8-5766-7e35-9e07-6b477439e6a1",
-  "extra": {
-   "segment": "集团业务-供应链"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "",
-  "hq_city": "苏州",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "e34ce86431ac57d6",
-  "first_seen": "2026-08-26",
-  "last_seen": "2026-10-14"
- },
- {
   "title": "机器人灵巧手实习生 - Seed",
   "company": "字节跳动",
   "locations": [
@@ -45938,32 +49213,6 @@
   "last_seen": "2026-09-03"
  },
  {
-  "title": "【27校招 - 通用研发】器件工程师",
-  "company": "汇川技术",
-  "locations": [
-   "深圳"
-  ],
-  "location_raw": "深圳",
-  "publish_time_raw": "2026-09-02T20:49:44.662913",
-  "publish_time": "2026-09-02 20:49",
-  "source": "inovance",
-  "url": "https://recruit.inovance.com/#/campus/jobs/01a0616a-81e9-76c7-965d-09037af7d914",
-  "extra": {
-   "segment": "集团业务-通用研发"
-  },
-  "direction": "device",
-  "direction_label": "器件设计",
-  "priority": "副投",
-  "region_level": "other",
-  "company_tag": "",
-  "hq_city": "苏州",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "f5fbaf2873eb6bdc",
-  "first_seen": "2026-09-02",
-  "last_seen": "2026-10-14"
- },
- {
   "title": "【27校招 - 通用研发】电子工艺工程师",
   "company": "汇川技术",
   "locations": [
@@ -49109,33 +52358,6 @@
   "industry": "硬件"
  },
  {
-  "title": "中国区-市场管培生",
-  "company": "小米",
-  "locations": [
-   "北京"
-  ],
-  "location_raw": "北京",
-  "publish_time_raw": "2026-08-18",
-  "publish_time": "2026-09-01 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671129798714460470/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A04495"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "primary",
-  "company_tag": "硬件大厂",
-  "id": "8a8731c390d5c8f4",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
   "title": "服务运营专员-汽车",
   "company": "小米",
   "locations": [
@@ -49539,6 +52761,41 @@
   "id": "7e41d7b716199917",
   "first_seen": "2026-09-23",
   "last_seen": "2026-09-23"
+ },
+ {
+  "title": "神州信息 校招网申（27届秋招）",
+  "company": "神州信息",
+  "locations": [
+   "广州",
+   "成都",
+   "西安",
+   "北京",
+   "上海"
+  ],
+  "location_raw": "广州 成都 西安 北京 上海",
+  "publish_time_raw": "2026-09-01",
+  "publish_time": "2026-09-01 12:00",
+  "deadline": "2026-12-30",
+  "source": "nowcoder_schedule",
+  "url": "https://dcits.zhiye.com/campus/jobs",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "企业服务",
+   "careers": "后端开发 前端开发 数据 人工智能/算法 研发工程师 产品",
+   "note": "国内金融科技领域龙头，全产业链服务，数字化解决方案能力行业领先。"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "6264992bf293bf9e",
+  "first_seen": "2026-10-14",
+  "last_seen": "2026-10-14"
  },
  {
   "title": "射频技术",
@@ -51519,7 +54776,7 @@
   "industry": "",
   "id": "0bd34f45ee2ce4e0",
   "first_seen": "2026-10-09",
-  "last_seen": "2026-10-13"
+  "last_seen": "2026-10-14"
  },
  {
   "title": "研发工程师",
@@ -55440,87 +58697,6 @@
   "id": "65613d8aab25fda6",
   "first_seen": "2026-08-27",
   "last_seen": "2026-08-27"
- },
- {
-  "title": "中国区－汽车服务顾问（全国轮岗）",
-  "company": "小米",
-  "locations": [
-   "北京"
-  ],
-  "location_raw": "北京",
-  "publish_time_raw": "2026-08-20",
-  "publish_time": "2026-08-27 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7675291324488599814/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A137299"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "primary",
-  "company_tag": "硬件大厂",
-  "id": "ca8d326de211fbd1",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "中国区-汽车培训校招生",
-  "company": "小米",
-  "locations": [
-   "北京"
-  ],
-  "location_raw": "北京",
-  "publish_time_raw": "2026-08-18",
-  "publish_time": "2026-08-27 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7675292531886983475/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A221877"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "primary",
-  "company_tag": "硬件大厂",
-  "id": "1290e6389e1a307e",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "中国区-整车物流运输",
-  "company": "小米",
-  "locations": [
-   "北京"
-  ],
-  "location_raw": "北京",
-  "publish_time_raw": "2026-08-24",
-  "publish_time": "2026-08-27 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7675291819555490075/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A217647"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "primary",
-  "company_tag": "硬件大厂",
-  "id": "ba6c00764b6d22dd",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
  },
  {
   "title": "产品质量工程师-生态链",
@@ -61122,87 +64298,6 @@
   "industry": "硬件"
  },
  {
-  "title": "中国区-汽车交付顾问（全国轮岗）",
-  "company": "小米",
-  "locations": [
-   "北京"
-  ],
-  "location_raw": "北京",
-  "publish_time_raw": "2026-08-20",
-  "publish_time": "2026-08-25 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7675292155330169134/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A109806"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "primary",
-  "company_tag": "硬件大厂",
-  "id": "07c00016f588b68f",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "中国区-服务客服专员",
-  "company": "小米",
-  "locations": [
-   "保定"
-  ],
-  "location_raw": "保定",
-  "publish_time_raw": "2026-08-20",
-  "publish_time": "2026-08-25 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524266613164307/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A178032"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "c37c031ad386097e",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "中国区-销售管培生",
-  "company": "小米",
-  "locations": [
-   "北京"
-  ],
-  "location_raw": "北京",
-  "publish_time_raw": "2026-08-20",
-  "publish_time": "2026-08-25 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671129801244231982/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A165317"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "primary",
-  "company_tag": "硬件大厂",
-  "id": "8008837f9f6da339",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
   "title": "中国区-技术管培生",
   "company": "小米",
   "locations": [
@@ -61365,33 +64460,6 @@
   "industry": "硬件"
  },
  {
-  "title": "中国区－汽车销售管培生（全国轮岗）",
-  "company": "小米",
-  "locations": [
-   "北京"
-  ],
-  "location_raw": "北京",
-  "publish_time_raw": "2026-08-18",
-  "publish_time": "2026-08-25 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7675292173633341723/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A72776"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "primary",
-  "company_tag": "硬件大厂",
-  "id": "08f30977eb10d9bc",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
   "title": "中国区-供应链管培生",
   "company": "小米",
   "locations": [
@@ -61513,7 +64581,7 @@
   "industry": "互联网",
   "id": "917988bc198871e5",
   "first_seen": "2026-08-26",
-  "last_seen": "2026-10-13"
+  "last_seen": "2026-10-14"
  },
  {
   "title": "上海睿兴投资 校招网申（27届实习）",
@@ -62927,7 +65995,7 @@
   "industry": "",
   "id": "f732651454de736b",
   "first_seen": "2026-09-03",
-  "last_seen": "2026-09-26"
+  "last_seen": "2026-10-14"
  },
  {
   "title": "思朗科技 校招网申（27届秋招）",
@@ -66804,62 +69872,6 @@
   "last_seen": "2026-08-28"
  },
  {
-  "title": "中国区-汽车线上技术专员",
-  "company": "小米",
-  "locations": [
-   "武汉",
-   "南京"
-  ],
-  "location_raw": "武汉 南京",
-  "publish_time_raw": "2026-08-18",
-  "publish_time": "2026-08-18 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7675291789649578266/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A06975B"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "680b221c40024ea3",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "中国区-汽车服务技术工程师",
-  "company": "小米",
-  "locations": [
-   "北京",
-   "上海"
-  ],
-  "location_raw": "北京 上海",
-  "publish_time_raw": "2026-08-18",
-  "publish_time": "2026-08-18 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7675292531442010410/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A215580"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "primary",
-  "company_tag": "硬件大厂",
-  "id": "1d53a81ecbaea002",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
   "title": "嵌入式操作系统软件开发工程师-汽车",
   "company": "小米",
   "locations": [
@@ -69521,7 +72533,7 @@
   "industry": "互联网",
   "id": "a8edecbdf61fad4f",
   "first_seen": "2026-08-26",
-  "last_seen": "2026-10-13"
+  "last_seen": "2026-10-14"
  },
  {
   "title": "三峡人寿保险股份有限公司 校招网申（26春招）",
@@ -69960,33 +72972,6 @@
   "id": "240625970312d823",
   "first_seen": "2026-09-05",
   "last_seen": "2026-09-07"
- },
- {
-  "title": "中国区-网格/区经方向-贵州",
-  "company": "小米",
-  "locations": [
-   "贵阳"
-  ],
-  "location_raw": "贵阳",
-  "publish_time_raw": "2026-08-12",
-  "publish_time": "2026-08-12 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524267577903423/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A186243"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "c5afc530fdd6ea01",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
  },
  {
   "title": "标准技术工程师（射频和物理层）-手机",
@@ -70543,926 +73528,6 @@
   "last_seen": "2026-09-05"
  },
  {
-  "title": "中国区-网格/区经方向-安徽",
-  "company": "小米",
-  "locations": [
-   "合肥"
-  ],
-  "location_raw": "合肥",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524803548203314/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A100248A"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "1bc6606972121ce1",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "中国区-网格/区经方向-福建",
-  "company": "小米",
-  "locations": [
-   "福州"
-  ],
-  "location_raw": "福州",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524396763547910/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A252884"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "5520156a5bbfab74",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "中国区-网格/区经方向-河北",
-  "company": "小米",
-  "locations": [
-   "石家庄"
-  ],
-  "location_raw": "石家庄",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524533635696939/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A229684"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "62561904df8839db",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "中国区-网格/区经方向-湖北",
-  "company": "小米",
-  "locations": [
-   "武汉"
-  ],
-  "location_raw": "武汉",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524471564962091/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A233524A"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "55758e43255bb3e7",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "中国区-网格/区经方向-四川",
-  "company": "小米",
-  "locations": [
-   "成都"
-  ],
-  "location_raw": "成都",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524421270751526/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A73777"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "bad9859fd20170a1",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "中国区-网格/区经方向-山东",
-  "company": "小米",
-  "locations": [
-   "济南"
-  ],
-  "location_raw": "济南",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524700167031103/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A79504"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "013be0ab417bf024",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "中国区-网格/区经方向-浙江",
-  "company": "小米",
-  "locations": [
-   "杭州"
-  ],
-  "location_raw": "杭州",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524835931932991/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A172642"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "de2292e6dd150766",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "中国区-网格/区经方向-广东",
-  "company": "小米",
-  "locations": [
-   "广州"
-  ],
-  "location_raw": "广州",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671525064085752127/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A25039"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "5cd6dc89ae4d4f01",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "中国区-网格/区经方向-河南",
-  "company": "小米",
-  "locations": [
-   "郑州"
-  ],
-  "location_raw": "郑州",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524557262473508/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A150246"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "38420c39c4f922d2",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "中国区-网格/区经方向-江苏",
-  "company": "小米",
-  "locations": [
-   "南京"
-  ],
-  "location_raw": "南京",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671525032430422326/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A160001"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "d8bdcd780ae454f5",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "中国区-网格/区经方向-新疆",
-  "company": "小米",
-  "locations": [
-   "乌鲁木齐"
-  ],
-  "location_raw": "乌鲁木齐",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524134069160219/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A113194"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "139bf490df0918af",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "中国区-网格/区经方向-吉林",
-  "company": "小米",
-  "locations": [
-   "长春"
-  ],
-  "location_raw": "长春",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523841307593023/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A24539"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "d616657389269343",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "新零售校招生-贵州",
-  "company": "小米",
-  "locations": [
-   "贵阳"
-  ],
-  "location_raw": "贵阳",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523572909132038/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A179106"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "5542f55cdfd22535",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "中国区-网格/区经方向-黑龙江",
-  "company": "小米",
-  "locations": [
-   "哈尔滨"
-  ],
-  "location_raw": "哈尔滨",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524532843235593/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A250009A"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "0e27b05a1b554a97",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "新零售校招生-甘肃",
-  "company": "小米",
-  "locations": [
-   "西宁",
-   "兰州市",
-   "银川"
-  ],
-  "location_raw": "西宁 兰州市 银川",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523983392852233/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A104349"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "601856f97dbf3fc7",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "中国区-网格/区经方向-内蒙古",
-  "company": "小米",
-  "locations": [
-   "呼和浩特"
-  ],
-  "location_raw": "呼和浩特",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524238445349129/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A190522"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "d2b5a8ba995bf80c",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "新零售校招生-重庆",
-  "company": "小米",
-  "locations": [
-   "重庆"
-  ],
-  "location_raw": "重庆",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523957812119846/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A109213"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "6b24b864f8894f03",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "中国区-网格/区经方向-山西",
-  "company": "小米",
-  "locations": [
-   "太原"
-  ],
-  "location_raw": "太原",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524282178947369/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A07835"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "2261aeed4c86c6b7",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "新零售校招生-上海",
-  "company": "小米",
-  "locations": [
-   "上海"
-  ],
-  "location_raw": "上海",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523799539501331/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A61566"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "secondary",
-  "company_tag": "硬件大厂",
-  "id": "1cc727dd923f8bef",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "中国区-网格/区经方向-甘肃",
-  "company": "小米",
-  "locations": [
-   "兰州市"
-  ],
-  "location_raw": "兰州市",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524094131456265/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A183620A"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "db90b963f5b6759b",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "中国区-网格/区经方向-江西",
-  "company": "小米",
-  "locations": [
-   "南昌"
-  ],
-  "location_raw": "南昌",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524370372790566/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A141094"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "2cefd07b69dc4336",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "中国区-网格/区经方向-广西",
-  "company": "小米",
-  "locations": [
-   "南宁"
-  ],
-  "location_raw": "南宁",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524297740093750/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A214184"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "a284d327007ffe8a",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "零售顾问-广西",
-  "company": "小米",
-  "locations": [
-   "南宁"
-  ],
-  "location_raw": "南宁",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523129962039562/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A236316A"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "9ccc4a6ac2505b4a",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "中国区-网格/区经方向-辽宁",
-  "company": "小米",
-  "locations": [
-   "沈阳"
-  ],
-  "location_raw": "沈阳",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524406943172918/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A47435"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "488a2aa1764fbb69",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "零售顾问-湖南",
-  "company": "小米",
-  "locations": [
-   "长沙"
-  ],
-  "location_raw": "长沙",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523238548506926/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A252060A"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "aea7302d1ce7271a",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "中国区-网格/区经方向-云南",
-  "company": "小米",
-  "locations": [
-   "昆明"
-  ],
-  "location_raw": "昆明",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524556225661226/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A154598"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "e8b532e85a74081a",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "中国区-网格/区经方向-湖南",
-  "company": "小米",
-  "locations": [
-   "长沙"
-  ],
-  "location_raw": "长沙",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524400051177778/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A19497"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "b92c8a29ce845ae6",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "中国区-网格/区经方向-陕西",
-  "company": "小米",
-  "locations": [
-   "西安"
-  ],
-  "location_raw": "西安",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524830973774131/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A154670"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "9929ff2471f4f9c4",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "零售顾问-重庆",
-  "company": "小米",
-  "locations": [
-   "重庆"
-  ],
-  "location_raw": "重庆",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671522989066520883/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A111544"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "3391111597244bb3",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "零售顾问-陕西",
-  "company": "小米",
-  "locations": [
-   "西安"
-  ],
-  "location_raw": "西安",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523447864559910/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A177880"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "174267425bf177cb",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "中国区-网格/区经方向-深圳",
-  "company": "小米",
-  "locations": [
-   "深圳"
-  ],
-  "location_raw": "深圳",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524396763302150/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A133553"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "52bd2405887ff8a7",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "新零售校招生-云南",
-  "company": "小米",
-  "locations": [
-   "昆明"
-  ],
-  "location_raw": "昆明",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524011592436006/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A114519A"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "dad7f52e10a2eedc",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "新零售校招生-安徽",
-  "company": "小米",
-  "locations": [
-   "合肥"
-  ],
-  "location_raw": "合肥",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523862932916534/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A85448"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "098564b4cc527e0d",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "新零售校招生-四川",
-  "company": "小米",
-  "locations": [
-   "成都"
-  ],
-  "location_raw": "成都",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524168894023972/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A243068"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "095ea6d282dfa02d",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
   "title": "机电顾问-甘肃",
   "company": "小米",
   "locations": [
@@ -71485,33 +73550,6 @@
   "id": "5988cebed65a9901",
   "first_seen": "2026-08-24",
   "last_seen": "2026-09-07",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "新零售校招生-新疆",
-  "company": "小米",
-  "locations": [
-   "乌鲁木齐"
-  ],
-  "location_raw": "乌鲁木齐",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523431172016435/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A258961"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "4b0ad7414c61e285",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
@@ -71787,33 +73825,6 @@
   "industry": "硬件"
  },
  {
-  "title": "交付顾问-安徽",
-  "company": "小米",
-  "locations": [
-   "合肥"
-  ],
-  "location_raw": "合肥",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671521039268907300/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A229428"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "8eef03da85b7caa5",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
   "title": "交付顾问-广西",
   "company": "小米",
   "locations": [
@@ -71863,33 +73874,6 @@
   "id": "d08df0551ddff13a",
   "first_seen": "2026-08-24",
   "last_seen": "2026-09-16",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "交付顾问-湖南",
-  "company": "小米",
-  "locations": [
-   "长沙"
-  ],
-  "location_raw": "长沙",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671522138280511763/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A70946A"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "825e83b6bbae9614",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
@@ -72031,33 +74015,6 @@
   "industry": "硬件"
  },
  {
-  "title": "交付顾问-福建",
-  "company": "小米",
-  "locations": [
-   "福州"
-  ],
-  "location_raw": "福州",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671521538591869225/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A197113"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "b74a21ba82fe2a9c",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
   "title": "零售顾问-甘肃",
   "company": "小米",
   "locations": [
@@ -72108,61 +74065,6 @@
   "id": "c3f67a10b22d81e2",
   "first_seen": "2026-08-24",
   "last_seen": "2026-09-16",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "交付顾问-重庆",
-  "company": "小米",
-  "locations": [
-   "重庆"
-  ],
-  "location_raw": "重庆",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671521700588587305/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A175149"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "e01b73534029e182",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "零售顾问-山西",
-  "company": "小米",
-  "locations": [
-   "太原",
-   "大同"
-  ],
-  "location_raw": "太原 大同",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523138580433206/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A115261"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "66cda37c957adc5f",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
@@ -72250,230 +74152,6 @@
   "industry": "硬件"
  },
  {
-  "title": "中国区-网格/区经方向-京津",
-  "company": "小米",
-  "locations": [
-   "北京"
-  ],
-  "location_raw": "北京",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524858161383707/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A155378A"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "primary",
-  "company_tag": "硬件大厂",
-  "id": "7194e1bcf1be36f9",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "交付顾问-深圳",
-  "company": "小米",
-  "locations": [
-   "东莞",
-   "深圳"
-  ],
-  "location_raw": "东莞 深圳",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671522922376694026/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A155897"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "3975278dd2b3efc7",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "新零售校招生-京津",
-  "company": "小米",
-  "locations": [
-   "北京",
-   "天津"
-  ],
-  "location_raw": "北京 天津",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523923024562486/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A216991"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "primary",
-  "company_tag": "硬件大厂",
-  "id": "ef93a6a89ea8e78c",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "零售顾问-深圳",
-  "company": "小米",
-  "locations": [
-   "东莞",
-   "深圳"
-  ],
-  "location_raw": "东莞 深圳",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523465477146926/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A66714"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "b8e0c5f563437785",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "新零售校招生-辽宁",
-  "company": "小米",
-  "locations": [
-   "大连",
-   "沈阳"
-  ],
-  "location_raw": "大连 沈阳",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523658067036458/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A193717"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "57410f5fd3770b1d",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "新零售校招生-深圳",
-  "company": "小米",
-  "locations": [
-   "东莞",
-   "深圳"
-  ],
-  "location_raw": "东莞 深圳",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524016510945572/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A95772"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "1cb6780650206ae5",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "新零售校招生-吉林",
-  "company": "小米",
-  "locations": [
-   "吉林",
-   "长春"
-  ],
-  "location_raw": "吉林 长春",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523346139957555/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A186791"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "24b567de2cc708b0",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "新零售校招生-江西",
-  "company": "小米",
-  "locations": [
-   "上饶",
-   "南昌",
-   "赣州"
-  ],
-  "location_raw": "上饶 南昌 赣州",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523789843384595/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A45868"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "3428ef3f23d088bb",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
   "title": "交付顾问-辽宁",
   "company": "小米",
   "locations": [
@@ -72497,547 +74175,6 @@
   "id": "ecb4dd4c9435289f",
   "first_seen": "2026-08-24",
   "last_seen": "2026-09-16",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "新零售校招生-浙江",
-  "company": "小米",
-  "locations": [
-   "宁波",
-   "杭州",
-   "温州"
-  ],
-  "location_raw": "宁波 杭州 温州",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524282178554153/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A110557"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "a603ab8bcc2b32c8",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "零售顾问-安徽",
-  "company": "小米",
-  "locations": [
-   "芜湖",
-   "合肥"
-  ],
-  "location_raw": "芜湖 合肥",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671522989829835071/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A118193"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "e128b1eddf71be90",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "零售顾问-福建",
-  "company": "小米",
-  "locations": [
-   "厦门",
-   "泉州",
-   "福州"
-  ],
-  "location_raw": "厦门 泉州 福州",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523411650185515/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A25745"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "facc33af349a427c",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "零售顾问-河北",
-  "company": "小米",
-  "locations": [
-   "唐山",
-   "石家庄",
-   "邯郸",
-   "保定"
-  ],
-  "location_raw": "唐山 石家庄 邯郸 保定",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523392814844186/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A227339"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "590380a78b5faa75",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "新零售校招生-河南",
-  "company": "小米",
-  "locations": [
-   "南阳",
-   "郑州",
-   "洛阳",
-   "商丘",
-   "新乡",
-   "信阳",
-   "许昌"
-  ],
-  "location_raw": "南阳 郑州 洛阳 商丘 新乡 信阳 许昌",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524450361690406/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A16818"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "c56100c27b5c5805",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "新零售校招生-江苏",
-  "company": "小米",
-  "locations": [
-   "镇江",
-   "盐城",
-   "常州",
-   "泰州",
-   "淮安",
-   "南京",
-   "无锡",
-   "苏州",
-   "南通",
-   "徐州",
-   "扬州"
-  ],
-  "location_raw": "镇江 盐城 常州 泰州 淮安 南京 无锡 苏州 南通 徐州 扬州",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524440870111497/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A110186"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "c5b5aef95c0fec0c",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "新零售校招生-山东",
-  "company": "小米",
-  "locations": [
-   "济宁",
-   "青岛",
-   "泰安",
-   "枣庄",
-   "威海",
-   "德州",
-   "济南",
-   "烟台",
-   "聊城",
-   "滨州",
-   "淄博",
-   "东营",
-   "菏泽",
-   "日照",
-   "临沂",
-   "潍坊"
-  ],
-  "location_raw": "济宁 青岛 泰安 枣庄 威海 德州 济南 烟台 聊城 滨州 淄博 东营 菏泽 日照 临沂 潍坊",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524628566034697/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A104950"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "5815a0212213f5d4",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "新零售校招生-广东",
-  "company": "小米",
-  "locations": [
-   "惠州",
-   "佛山",
-   "广州",
-   "珠海",
-   "海口",
-   "中山"
-  ],
-  "location_raw": "惠州 佛山 广州 珠海 海口 中山",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524605723412746/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A41898"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "deaee5c9db241ab1",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "新零售校招生-内蒙古",
-  "company": "小米",
-  "locations": [
-   "赤峰",
-   "鄂尔多斯",
-   "包头",
-   "呼和浩特"
-  ],
-  "location_raw": "赤峰 鄂尔多斯 包头 呼和浩特",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523773422962982/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A97016"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "992eeb9911efe0df",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "新零售校招生-黑龙江",
-  "company": "小米",
-  "locations": [
-   "哈尔滨",
-   "大庆"
-  ],
-  "location_raw": "哈尔滨 大庆",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523872088361243/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A252066"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "1fd8463cc497de7b",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "新零售校招生-山西",
-  "company": "小米",
-  "locations": [
-   "忻州",
-   "吕梁",
-   "朔州",
-   "阳泉",
-   "太原",
-   "临汾",
-   "运城",
-   "大同"
-  ],
-  "location_raw": "忻州 吕梁 朔州 阳泉 太原 临汾 运城 大同",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524050896095530/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A38269"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "6e14d7dbd5a2f4d7",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "新零售校招生-广西",
-  "company": "小米",
-  "locations": [
-   "柳州",
-   "玉林",
-   "桂林",
-   "贵港",
-   "北海",
-   "南宁",
-   "百色"
-  ],
-  "location_raw": "柳州 玉林 桂林 贵港 北海 南宁 百色",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524035738732863/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A148003"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "b20d7c2238f7e42d",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "新零售校招生-陕西",
-  "company": "小米",
-  "locations": [
-   "榆林",
-   "咸阳",
-   "汉中",
-   "渭南",
-   "西安",
-   "宝鸡",
-   "延安",
-   "安康"
-  ],
-  "location_raw": "榆林 咸阳 汉中 渭南 西安 宝鸡 延安 安康",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524011591960870/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A118196"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "bf7b176bbfd811ff",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "新零售校招生-福建",
-  "company": "小米",
-  "locations": [
-   "福州",
-   "漳州",
-   "厦门",
-   "莆田",
-   "泉州"
-  ],
-  "location_raw": "福州 漳州 厦门 莆田 泉州",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524122409109810/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A171469"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "1cf31e707926e2fb",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "新零售校招生-湖北",
-  "company": "小米",
-  "locations": [
-   "宜昌",
-   "襄阳",
-   "武汉"
-  ],
-  "location_raw": "宜昌 襄阳 武汉",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523659689822506/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A164587"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "ac0d51d9eb9a1f0b",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "新零售校招生-湖南",
-  "company": "小米",
-  "locations": [
-   "怀化",
-   "岳阳",
-   "长沙",
-   "衡阳",
-   "株洲"
-  ],
-  "location_raw": "怀化 岳阳 长沙 衡阳 株洲",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523975952976137/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A73225"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "401ae0e57ca87c34",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "新零售校招生-河北",
-  "company": "小米",
-  "locations": [
-   "唐山",
-   "廊坊",
-   "石家庄",
-   "邯郸",
-   "保定"
-  ],
-  "location_raw": "唐山 廊坊 石家庄 邯郸 保定",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524214055160091/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A242672"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "6f8fc07abff7d763",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-14",
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
@@ -87955,87 +89092,6 @@
   "last_seen": "2026-10-14"
  },
  {
-  "title": "中国区-网格/区经方向-安徽",
-  "company": "小米",
-  "locations": [
-   "合肥"
-  ],
-  "location_raw": "合肥",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524803547416882/detail",
-  "extra": {
-   "department": "中国区",
-   "lark_job_code": "A38610"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "fec0271afdf5b998",
-  "first_seen": "2026-09-20",
-  "last_seen": "2026-10-14"
- },
- {
-  "title": "零售顾问-安徽",
-  "company": "小米",
-  "locations": [
-   "合肥"
-  ],
-  "location_raw": "合肥",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523131105888553/detail",
-  "extra": {
-   "department": "中国区",
-   "lark_job_code": "A201526"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "7f2c2ce061779412",
-  "first_seen": "2026-09-20",
-  "last_seen": "2026-10-14"
- },
- {
-  "title": "新零售校招生-安徽",
-  "company": "小米",
-  "locations": [
-   "合肥"
-  ],
-  "location_raw": "合肥",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524184715217193/detail",
-  "extra": {
-   "department": "中国区",
-   "lark_job_code": "A120235"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "87d00aa91870284e",
-  "first_seen": "2026-09-20",
-  "last_seen": "2026-10-14"
- },
- {
   "title": "新零售校招生-湖南",
   "company": "小米",
   "locations": [
@@ -88115,33 +89171,6 @@
   "id": "6aed351311ba65e3",
   "first_seen": "2026-09-24",
   "last_seen": "2026-09-29"
- },
- {
-  "title": "交付顾问-安徽",
-  "company": "小米",
-  "locations": [
-   "合肥"
-  ],
-  "location_raw": "合肥",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671515635709233471/detail",
-  "extra": {
-   "department": "中国区",
-   "lark_job_code": "A174509"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "7ffe35b734a65826",
-  "first_seen": "2026-10-08",
-  "last_seen": "2026-10-14"
  },
  {
   "title": "AI算法工程师（Agent开发方向）（27届校招）",
@@ -88611,33 +89640,6 @@
   "last_seen": "2026-09-19"
  },
  {
-  "title": "零售顾问-安徽",
-  "company": "小米",
-  "locations": [
-   "芜湖"
-  ],
-  "location_raw": "芜湖",
-  "publish_time_raw": "2026-08-08",
-  "publish_time": "2026-08-08 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523317089978665/detail",
-  "extra": {
-   "department": "中国区",
-   "lark_job_code": "A170546"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "623c597934de8056",
-  "first_seen": "2026-10-11",
-  "last_seen": "2026-10-14"
- },
- {
   "title": "华为27届秋招--AI应用/软件开发/嵌入式/算法",
   "company": "华为软件技术有限公司",
   "locations": [
@@ -89025,6 +90027,60 @@
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
+ },
+ {
+  "title": "资源开发工程师",
+  "company": "小米",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "2026-08-07",
+  "publish_time": "2026-08-07 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7670927290021726505/detail",
+  "extra": {
+   "department": "集团采购委",
+   "lark_job_code": "A143867"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "硬件大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "ff949fcbd9bec5ed",
+  "first_seen": "2026-10-14",
+  "last_seen": "2026-10-14"
+ },
+ {
+  "title": "资源开发工程师",
+  "company": "小米",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "2026-08-07",
+  "publish_time": "2026-08-07 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7670927693970475306/detail",
+  "extra": {
+   "department": "集团采购委",
+   "lark_job_code": "A249332"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "硬件大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "ae9dd2f413092783",
+  "first_seen": "2026-10-14",
+  "last_seen": "2026-10-14"
  },
  {
   "title": "ai产品经理",
@@ -93901,7 +94957,7 @@
   "industry": "硬件",
   "id": "f45972cd7ccc6da9",
   "first_seen": "2026-09-09",
-  "last_seen": "2026-10-11"
+  "last_seen": "2026-10-14"
  },
  {
   "title": "声学工程师-内推码DNK2026",
@@ -99072,7 +100128,7 @@
   "industry": "硬件",
   "id": "33e927cb38cefbe9",
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-13"
+  "last_seen": "2026-10-14"
  },
  {
   "title": "【27校招-通用研发】结构工程师（博士-噪声控制方向）",
@@ -104158,7 +105214,7 @@
   "industry": "",
   "id": "f470d5c60bd34a90",
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-08"
+  "last_seen": "2026-10-14"
  },
  {
   "title": "小米集团 校招网申（27届秋招）",
@@ -108671,7 +109727,7 @@
   "industry": "互联网",
   "id": "55dd903c8ab40249",
   "first_seen": "2026-09-22",
-  "last_seen": "2026-10-13"
+  "last_seen": "2026-10-14"
  },
  {
   "title": "大模型数据工程研发实习生-TikTok AI创新中心",
@@ -108903,7 +109959,7 @@
   "industry": "互联网",
   "id": "3847e2ea1760c718",
   "first_seen": "2026-09-24",
-  "last_seen": "2026-10-10"
+  "last_seen": "2026-10-14"
  },
  {
   "title": "机器人电机驱动器算法实习生 - Seed",
@@ -109599,7 +110655,7 @@
   "industry": "互联网",
   "id": "21cf855640e919ab",
   "first_seen": "2026-09-24",
-  "last_seen": "2026-10-12"
+  "last_seen": "2026-10-14"
  },
  {
   "title": "可兼职-西方课程在线辅导Tutor",
@@ -143355,7 +144411,7 @@
   "industry": "",
   "id": "43af41157cf4d4a4",
   "first_seen": "2026-09-15",
-  "last_seen": "2026-10-13"
+  "last_seen": "2026-10-14"
  },
  {
   "title": "AI英语学习产品实习生 - 语言中心",
@@ -160428,6 +161484,146 @@
   "industry": "互联网",
   "id": "eb1c9d22fc64e63c",
   "first_seen": "2026-10-13",
+  "last_seen": "2026-10-14"
+ },
+ {
+  "title": "腾讯地图-多模态大模型融合建图研究",
+  "company": "腾讯",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京 ",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "tencent",
+  "url": "https://join.qq.com/post.html?postId=1280227308716025859",
+  "extra": {
+   "project": "青云计划-应届生",
+   "recruit_label": "应届毕业生 青云计划",
+   "bgs": "CSIG "
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "互联网大厂",
+  "hq_city": "深圳",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "8f89de9216f83b57",
+  "first_seen": "2026-10-14",
+  "last_seen": "2026-10-14"
+ },
+ {
+  "title": "优图实验室-原生多模态Infra技术研究",
+  "company": "腾讯",
+  "locations": [
+   "上海"
+  ],
+  "location_raw": "上海 ",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "tencent",
+  "url": "https://join.qq.com/post.html?postId=1280227308716025861",
+  "extra": {
+   "project": "青云计划-应届生",
+   "recruit_label": "应届毕业生 青云计划",
+   "bgs": "CSIG "
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "互联网大厂",
+  "hq_city": "深圳",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "aa4ec79ece17dc0d",
+  "first_seen": "2026-10-14",
+  "last_seen": "2026-10-14"
+ },
+ {
+  "title": "微信搜索-Agent研究",
+  "company": "腾讯",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京 ",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "tencent",
+  "url": "https://join.qq.com/post.html?postId=1280285761769695232",
+  "extra": {
+   "project": "青云计划-应届生",
+   "recruit_label": "应届毕业生 青云计划",
+   "bgs": "WXG "
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "互联网大厂",
+  "hq_city": "深圳",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "641ad9413ee1ff99",
+  "first_seen": "2026-10-14",
+  "last_seen": "2026-10-14"
+ },
+ {
+  "title": "金融智能体可验证环境构建与长程强化学习研究",
+  "company": "腾讯",
+  "locations": [
+   "深圳"
+  ],
+  "location_raw": "深圳总部 ",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "tencent",
+  "url": "https://join.qq.com/post.html?postId=1281715980657337344",
+  "extra": {
+   "project": "青云计划-应届生",
+   "recruit_label": "应届毕业生 青云计划",
+   "bgs": "CDG "
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "互联网大厂",
+  "hq_city": "深圳",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "398d5de86d799419",
+  "first_seen": "2026-10-14",
+  "last_seen": "2026-10-14"
+ },
+ {
+  "title": "微信搜索-多模态理解（数据/算法）研究",
+  "company": "腾讯",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京 ",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "tencent",
+  "url": "https://join.qq.com/post.html?postId=1281716042477184000",
+  "extra": {
+   "project": "青云计划-应届生",
+   "recruit_label": "应届毕业生 青云计划",
+   "bgs": "WXG "
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "互联网大厂",
+  "hq_city": "深圳",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "15bf3a36ae72d791",
+  "first_seen": "2026-10-14",
   "last_seen": "2026-10-14"
  }
 ]
