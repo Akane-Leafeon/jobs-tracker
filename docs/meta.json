@@ -1,17 +1,17 @@
 {
- "updated_at": "2026-10-18 02:55",
+ "updated_at": "2026-10-18 15:23",
  "updated_date": "2026-10-18",
  "totals": {
-  "total": 5906,
-  "added_today": 12,
+  "total": 5911,
+  "added_today": 17,
   "primary": 107,
   "secondary": 39,
-  "beijing": 1879,
+  "beijing": 1883,
   "shanghai": 898
  },
  "source_freshness": {
   "nowcoder_schedule": {
-   "count": 234,
+   "count": 239,
    "latest": "2026-10-18 12:00"
   },
   "inovance": {

@@ -18775,6 +18775,174 @@
   "last_seen": "2026-10-17"
  },
  {
+  "title": "华宇信息 校招网申（27届秋招）",
+  "company": "华宇信息",
+  "locations": [
+   "太原",
+   "大连",
+   "南京",
+   "成都",
+   "北京",
+   "天津"
+  ],
+  "location_raw": "太原 大连 南京 成都 北京 天津",
+  "publish_time_raw": "2026-09-29",
+  "publish_time": "2026-09-29 12:00",
+  "deadline": "2026-11-29",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "企业服务",
+   "careers": "人工智能/算法 产品 市场/营销 商务 咨询/调研 财务审计",
+   "note": "法律科技与智慧政务企业，专注司法信息化建设，拥有完善的人才培养体系"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "a38de4209612c5f2",
+  "first_seen": "2026-10-18",
+  "last_seen": "2026-10-18"
+ },
+ {
+  "title": "万兴科技 校招网申（27届秋招）",
+  "company": "万兴科技",
+  "locations": [
+   "杭州",
+   "长沙",
+   "深圳",
+   "北京"
+  ],
+  "location_raw": "杭州 长沙 深圳 北京",
+  "publish_time_raw": "2026-09-29",
+  "publish_time": "2026-09-29 12:00",
+  "deadline": "2026-11-29",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "",
+   "careers": "后端开发 前端开发 客户端开发 数据 运维 人工智能/算法",
+   "note": "深耕创意软件研发运营，产品体系多元，重视新人技术研发与产品创新能力培养"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "235554cb0bb14991",
+  "first_seen": "2026-10-18",
+  "last_seen": "2026-10-18"
+ },
+ {
+  "title": "北京新忆科技有限公司 校招网申（27届秋招）",
+  "company": "北京新忆科技有限公司",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "2026-09-29",
+  "publish_time": "2026-09-29 12:00",
+  "deadline": "2026-11-29",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "",
+   "careers": "后端开发 测试 硬件工程师 电子/半导体 通信 技术支持",
+   "note": "专注半导体存储领域研发，技术专业性强，新人可深度参与芯片研发核心环节"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "20feb0e4adec1d89",
+  "first_seen": "2026-10-18",
+  "last_seen": "2026-10-18"
+ },
+ {
+  "title": "货拉拉 校招网申（27届秋招）",
+  "company": "货拉拉",
+  "locations": [
+   "杭州",
+   "长沙",
+   "深圳",
+   "北京",
+   "上海",
+   "重庆"
+  ],
+  "location_raw": "杭州 长沙 深圳 北京 上海 重庆",
+  "publish_time_raw": "2026-09-29",
+  "publish_time": "2026-09-29 12:00",
+  "deadline": "2026-11-29",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "消费生活",
+   "careers": "后端开发 前端开发 客户端开发 测试 数据 运维",
+   "note": "国内同城货运龙头平台，全场景覆盖，数字化运营与服务能力突出。"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "ae0a72ddf0787de7",
+  "first_seen": "2026-10-18",
+  "last_seen": "2026-10-18"
+ },
+ {
+  "title": "天津滨海农村商业银行 校招网申（27届秋招）",
+  "company": "天津滨海农村商业银行",
+  "locations": [
+   "天津"
+  ],
+  "location_raw": "天津",
+  "publish_time_raw": "2026-09-29",
+  "publish_time": "2026-09-29 12:00",
+  "deadline": "2026-10-30",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "",
+   "careers": "银行 市场/营销 销售类 客服 商务 管理",
+   "note": "聚焦京津冀协同发展，不断加大金融资源倾斜力度，努力为区域经济发展注入金融活力"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "7f30a5395e76f307",
+  "first_seen": "2026-10-18",
+  "last_seen": "2026-10-18"
+ },
+ {
   "title": "IC设计/验证IC验证工程师（25-26届可投）",
   "company": "湖南六岳微电子有限责任公司",
   "locations": [
@@ -37504,7 +37672,7 @@
   "industry": "",
   "id": "1a3933de4eaf2cee",
   "first_seen": "2026-09-16",
-  "last_seen": "2026-10-15"
+  "last_seen": "2026-10-18"
  },
  {
   "title": "研发工程师",
@@ -37789,7 +37957,7 @@
   "industry": "",
   "id": "9db1605b1c087d8c",
   "first_seen": "2026-09-16",
-  "last_seen": "2026-10-17"
+  "last_seen": "2026-10-18"
  },
  {
   "title": "行政专员(园区管理方向)",
@@ -51973,7 +52141,7 @@
   "industry": "",
   "id": "a0a4585868b0fbdc",
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-17"
+  "last_seen": "2026-10-18"
  },
  {
   "title": "【27校招 - 质量】产品质量工程师",
@@ -56240,7 +56408,7 @@
   "industry": "",
   "id": "6264992bf293bf9e",
   "first_seen": "2026-10-14",
-  "last_seen": "2026-10-17"
+  "last_seen": "2026-10-18"
  },
  {
   "title": "射频技术",
@@ -57935,7 +58103,7 @@
   "industry": "",
   "id": "98bae0c9e74426b0",
   "first_seen": "2026-09-07",
-  "last_seen": "2026-10-17"
+  "last_seen": "2026-10-18"
  },
  {
   "title": "保融科技 校招网申（27秋招）",
@@ -58031,7 +58199,7 @@
   "industry": "",
   "id": "7140b2859e925852",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-16"
+  "last_seen": "2026-10-18"
  },
  {
   "title": "汇丰科技 校招网申（27届秋招）",
@@ -58096,7 +58264,7 @@
   "industry": "",
   "id": "2f5c2ee2057dc551",
   "first_seen": "2026-09-29",
-  "last_seen": "2026-10-16"
+  "last_seen": "2026-10-18"
  },
  {
   "title": "途虎 校招网申（27届校招）",
@@ -58159,7 +58327,7 @@
   "industry": "",
   "id": "e262beebf3fd8e6d",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-17"
+  "last_seen": "2026-10-18"
  },
  {
   "title": "保融科技 校招网申（27秋招）",
@@ -58221,7 +58389,7 @@
   "industry": "",
   "id": "0bd34f45ee2ce4e0",
   "first_seen": "2026-10-09",
-  "last_seen": "2026-10-17"
+  "last_seen": "2026-10-18"
  },
  {
   "title": "研发工程师",
@@ -63158,7 +63326,7 @@
   "industry": "",
   "id": "be254f19b23fa6d4",
   "first_seen": "2026-08-26",
-  "last_seen": "2026-10-17"
+  "last_seen": "2026-10-18"
  },
  {
   "title": "鍖椾含鑴戠�戝�︿笌绫昏剳鐮旂┒鎵�Koziol瀹為獙瀹�",
@@ -69302,7 +69470,7 @@
   "industry": "",
   "id": "f732651454de736b",
   "first_seen": "2026-09-03",
-  "last_seen": "2026-10-17"
+  "last_seen": "2026-10-18"
  },
  {
   "title": "思朗科技 校招网申（27届秋招）",
@@ -74943,7 +75111,7 @@
   "industry": "",
   "id": "8fb17a80ad8384e2",
   "first_seen": "2026-08-26",
-  "last_seen": "2026-10-17"
+  "last_seen": "2026-10-18"
  },
  {
   "title": "柏诚系统科技股份有限公司 校招网申（27届秋招）",
@@ -75869,7 +76037,7 @@
   "industry": "互联网",
   "id": "a8edecbdf61fad4f",
   "first_seen": "2026-08-26",
-  "last_seen": "2026-10-17"
+  "last_seen": "2026-10-18"
  },
  {
   "title": "三峡人寿保险股份有限公司 校招网申（26春招）",
@@ -76450,7 +76618,7 @@
   "industry": "互联网",
   "id": "50ff04694105647c",
   "first_seen": "2026-08-26",
-  "last_seen": "2026-10-17"
+  "last_seen": "2026-10-18"
  },
  {
   "title": "恒生电子 校招网申（27届秋招）",
@@ -92721,7 +92889,7 @@
   "industry": "",
   "id": "b7e3eb23164e7a7c",
   "first_seen": "2026-09-14",
-  "last_seen": "2026-10-17"
+  "last_seen": "2026-10-18"
  },
  {
   "title": "莉莉丝游戏 校招网申（27届秋招）",
@@ -97650,7 +97818,7 @@
   "industry": "硬件",
   "id": "55dad0c50008ba8d",
   "first_seen": "2026-08-26",
-  "last_seen": "2026-10-15"
+  "last_seen": "2026-10-18"
  },
  {
   "title": "建筑技术实习生 - AI算力基础设施",
@@ -110398,7 +110566,7 @@
   "industry": "",
   "id": "8437536ebe254e09",
   "first_seen": "2026-08-30",
-  "last_seen": "2026-08-30"
+  "last_seen": "2026-10-18"
  },
  {
   "title": "端智能算法实习生-App Infra",
@@ -113107,7 +113275,7 @@
   "industry": "互联网",
   "id": "3847e2ea1760c718",
   "first_seen": "2026-09-24",
-  "last_seen": "2026-10-14"
+  "last_seen": "2026-10-18"
  },
  {
   "title": "机器人电机驱动器算法实习生 - Seed",
@@ -113745,7 +113913,7 @@
   "industry": "互联网",
   "id": "5f135b64d6609057",
   "first_seen": "2026-09-15",
-  "last_seen": "2026-09-23"
+  "last_seen": "2026-10-18"
  },
  {
   "title": "质控管培生（广东省）",
@@ -114006,7 +114174,7 @@
   "industry": "",
   "id": "e3802ec12be08a27",
   "first_seen": "2026-08-26",
-  "last_seen": "2026-09-29"
+  "last_seen": "2026-10-18"
  },
  {
   "title": "生物类 英文学术期刊助理编辑",
