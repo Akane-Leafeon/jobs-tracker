@@ -1,15 +1,19 @@
 {
- "updated_at": "2026-10-20 16:21",
- "updated_date": "2026-10-20",
+ "updated_at": "2026-10-21 03:14",
+ "updated_date": "2026-10-21",
  "totals": {
-  "total": 6067,
-  "added_today": 85,
+  "total": 6103,
+  "added_today": 36,
   "primary": 107,
   "secondary": 39,
-  "beijing": 1916,
-  "shanghai": 917
+  "beijing": 1935,
+  "shanghai": 923
  },
  "source_freshness": {
+  "yingjiesheng": {
+   "count": 1408,
+   "latest": "2026-10-21 12:00"
+  },
   "inovance": {
    "count": 342,
    "latest": "2026-10-20 16:46"
@@ -18,12 +22,8 @@
    "count": 1140,
    "latest": "2026-10-20 12:00"
   },
-  "yingjiesheng": {
-   "count": 1402,
-   "latest": "2026-10-20 12:00"
-  },
   "nowcoder": {
-   "count": 622,
+   "count": 623,
    "latest": "2026-10-20 10:18"
   },
   "netease": {
@@ -39,7 +39,7 @@
    "latest": "2026-10-18 12:00"
   },
   "bytedance": {
-   "count": 1605,
+   "count": 1634,
    "latest": "2026-10-15 10:54"
   },
   "pdd": {
