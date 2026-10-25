@@ -8063,7 +8063,7 @@
   "industry": "",
   "id": "c6201afb0250276d",
   "first_seen": "2026-10-16",
-  "last_seen": "2026-10-24"
+  "last_seen": "2026-10-25"
  },
  {
   "title": "（27届秋招）算法工程师 -供应链智能决策-上海",
@@ -19222,7 +19222,7 @@
   "industry": "",
   "id": "0939618871616767",
   "first_seen": "2026-10-14",
-  "last_seen": "2026-10-22"
+  "last_seen": "2026-10-25"
  },
  {
   "title": "产品经理（AI方向）",
@@ -19251,7 +19251,7 @@
   "industry": "",
   "id": "ce88fad92bd3ca99",
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23"
+  "last_seen": "2026-10-25"
  },
  {
   "title": "【27校招 - 数字化】视觉AI算法工程师（博士）",
@@ -27490,7 +27490,7 @@
   "industry": "",
   "id": "1cf3b1cb87f389e3",
   "first_seen": "2026-10-01",
-  "last_seen": "2026-10-18"
+  "last_seen": "2026-10-25"
  },
  {
   "title": "【27校招 - 数字能源】国内储能电站技术营销工程师",
@@ -31965,6 +31965,35 @@
   "id": "928b6354ad9886ed",
   "first_seen": "2026-09-26",
   "last_seen": "2026-09-26"
+ },
+ {
+  "title": "供应链运营专员",
+  "company": "锐捷网络股份有限公司",
+  "locations": [
+   "福州"
+  ],
+  "location_raw": "福州",
+  "publish_time_raw": "2026-09-22 00:42",
+  "publish_time": "2026-09-22 00:42",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-10-25 15:17",
+   "salary": "14-24K·13薪",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "f22278b7eddad4b4",
+  "first_seen": "2026-10-25",
+  "last_seen": "2026-10-25"
  },
  {
   "title": "产品工艺工程师",
@@ -44165,7 +44194,7 @@
   "industry": "",
   "id": "1a3933de4eaf2cee",
   "first_seen": "2026-09-16",
-  "last_seen": "2026-10-22"
+  "last_seen": "2026-10-25"
  },
  {
   "title": "研发工程师",
@@ -44653,7 +44682,7 @@
   "industry": "",
   "id": "23070405c6fef78c",
   "first_seen": "2026-09-12",
-  "last_seen": "2026-10-24"
+  "last_seen": "2026-10-25"
  },
  {
   "title": "27届校招—AI应用工程师",
@@ -49323,7 +49352,7 @@
   "industry": "",
   "id": "a154e4b3683c1997",
   "first_seen": "2026-09-08",
-  "last_seen": "2026-10-20"
+  "last_seen": "2026-10-25"
  },
  {
   "title": "算法（风控/合规方向）实习生 - 国际支付",
@@ -63176,7 +63205,7 @@
   "industry": "互联网",
   "id": "c788911f2d54332d",
   "first_seen": "2026-09-01",
-  "last_seen": "2026-10-24"
+  "last_seen": "2026-10-25"
  },
  {
   "title": "品牌营销专员（海外市场）",
@@ -63205,7 +63234,7 @@
   "industry": "互联网",
   "id": "75c8b6bdd5f74a8e",
   "first_seen": "2026-10-21",
-  "last_seen": "2026-10-24"
+  "last_seen": "2026-10-25"
  },
  {
   "title": "能源电力行业-招聘研究员（可实习转正）",
@@ -69289,7 +69318,7 @@
   "industry": "",
   "id": "f3dec441d9854860",
   "first_seen": "2026-09-26",
-  "last_seen": "2026-10-23"
+  "last_seen": "2026-10-25"
  },
  {
   "title": "客服管培生（AI智能服务）",
@@ -72941,7 +72970,7 @@
   "industry": "",
   "id": "a25992bc57c9e9ee",
   "first_seen": "2026-08-26",
-  "last_seen": "2026-10-17"
+  "last_seen": "2026-10-25"
  },
  {
   "title": "agent开发",
@@ -104435,7 +104464,7 @@
   "industry": "硬件",
   "id": "f45972cd7ccc6da9",
   "first_seen": "2026-09-09",
-  "last_seen": "2026-10-24"
+  "last_seen": "2026-10-25"
  },
  {
   "title": "声学工程师-内推码DNK2026",
@@ -104464,7 +104493,7 @@
   "industry": "硬件",
   "id": "18c117e89304aa14",
   "first_seen": "2026-09-12",
-  "last_seen": "2026-10-24"
+  "last_seen": "2026-10-25"
  },
  {
   "title": "产品经理-AI方向-内推码DNK2026",
@@ -109752,7 +109781,7 @@
   "industry": "硬件",
   "id": "33e927cb38cefbe9",
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-14"
+  "last_seen": "2026-10-25"
  },
  {
   "title": "【27校招-通用研发】结构工程师（博士-噪声控制方向）",
@@ -118840,7 +118869,7 @@
   "industry": "",
   "id": "7a6e066e74d4d4d8",
   "first_seen": "2026-08-26",
-  "last_seen": "2026-10-16"
+  "last_seen": "2026-10-25"
  },
  {
   "title": "设备安装调试",
@@ -118927,7 +118956,7 @@
   "industry": "",
   "id": "35d535dab57c5c54",
   "first_seen": "2026-10-16",
-  "last_seen": "2026-10-16"
+  "last_seen": "2026-10-25"
  },
  {
   "title": "隐私技术BP实习生-隐私和数据保护办公室",
@@ -119911,7 +119940,7 @@
   "industry": "",
   "id": "1fed004a11bf1d8a",
   "first_seen": "2026-10-08",
-  "last_seen": "2026-10-24"
+  "last_seen": "2026-10-25"
  },
  {
   "title": "Java开发工程师",
@@ -120317,7 +120346,7 @@
   "industry": "互联网",
   "id": "21cf855640e919ab",
   "first_seen": "2026-09-24",
-  "last_seen": "2026-10-22"
+  "last_seen": "2026-10-25"
  },
  {
   "title": "可兼职-西方课程在线辅导Tutor",
@@ -154864,7 +154893,7 @@
   "industry": "",
   "id": "78f5ae8de5072c10",
   "first_seen": "2026-09-16",
-  "last_seen": "2026-10-24"
+  "last_seen": "2026-10-25"
  },
  {
   "title": "游戏角色原画实习生 - ZERO36工作室",
