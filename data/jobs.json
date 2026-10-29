@@ -1,5 +1,440 @@
 [
  {
+  "title": "【27校招 - 全球工业自动化】拓展工程师",
+  "company": "汇川技术",
+  "locations": [
+   "土耳其",
+   "苏州"
+  ],
+  "location_raw": "土耳其 苏州",
+  "publish_time_raw": "2026-10-29T17:59:44.711443",
+  "publish_time": "2026-10-29 17:59",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/01a18719-9f93-73ce-afcd-6318e5813f36",
+  "extra": {
+   "segment": "集团业务-全球工业自动化BG"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "9527158cf9667913",
+  "first_seen": "2026-10-29",
+  "last_seen": "2026-10-29"
+ },
+ {
+  "title": "【27校招 - 全球工业自动化】拓展工程师",
+  "company": "汇川技术",
+  "locations": [
+   "阿联酋",
+   "苏州"
+  ],
+  "location_raw": "阿联酋 苏州",
+  "publish_time_raw": "2026-10-29T17:57:58.77439",
+  "publish_time": "2026-10-29 17:57",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/01a1866d-b939-708c-9407-980ae8fe8026",
+  "extra": {
+   "segment": "集团业务-全球工业自动化BG"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "0c5522ee7d9ed5dc",
+  "first_seen": "2026-10-29",
+  "last_seen": "2026-10-29"
+ },
+ {
+  "title": "【27校招 - 全球工业自动化】拓展工程师",
+  "company": "汇川技术",
+  "locations": [
+   "苏州"
+  ],
+  "location_raw": "苏州",
+  "publish_time_raw": "2026-10-29T17:56:17.256472",
+  "publish_time": "2026-10-29 17:56",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/01a18676-539b-7646-b0b5-6d50d2c56d79",
+  "extra": {
+   "segment": "集团业务-全球工业自动化BG"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "71ccf71cbd312c91",
+  "first_seen": "2026-10-29",
+  "last_seen": "2026-10-29"
+ },
+ {
+  "title": "【27校招 - 数字化】嵌入式测试工程师",
+  "company": "汇川技术",
+  "locations": [
+   "东莞"
+  ],
+  "location_raw": "东莞",
+  "publish_time_raw": "2026-09-17T14:45:06.567215",
+  "publish_time": "2026-10-29 17:25",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/01a0ae1c-592b-7297-a9aa-d83f6fb024fa",
+  "extra": {
+   "segment": "集团业务-数字化"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "e987e5c4ebe80b52",
+  "first_seen": "2026-09-17",
+  "last_seen": "2026-10-29"
+ },
+ {
+  "title": "营运岗-北京城市公司-领将生-27届",
+  "company": "珠海万达商管",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "2026-10-29 16:10",
+  "publish_time": "2026-10-29 16:10",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-10-29 17:47",
+   "salary": "12-15K·12薪",
+   "education": "",
+   "channel": "moka"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "5db1c608eb9cbb0c",
+  "first_seen": "2026-10-29",
+  "last_seen": "2026-10-29"
+ },
+ {
+  "title": "ID设计师（IOT方向）-27届设计专项",
+  "company": "vivo",
+  "locations": [],
+  "location_raw": "",
+  "publish_time_raw": "2026-10-29T14:33:57",
+  "publish_time": "2026-10-29 14:33",
+  "source": "vivo",
+  "url": "",
+  "extra": {
+   "category": "校园招聘",
+   "job_ad_id": 561318877,
+   "org": "工业设计中心"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "unknown",
+  "company_tag": "硬件大厂",
+  "hq_city": "东莞",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "db12adaf5cf6bcc6",
+  "first_seen": "2026-10-29",
+  "last_seen": "2026-10-29"
+ },
+ {
+  "title": "顶尖应届-可靠性工程师-手机",
+  "company": "小米",
+  "locations": [
+   "南京"
+  ],
+  "location_raw": "南京",
+  "publish_time_raw": "2026-10-26",
+  "publish_time": "2026-10-29 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7700785126858688810/detail",
+  "extra": {
+   "department": "手机部",
+   "lark_job_code": "A27419"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "1e46cf918db52888",
+  "first_seen": "2026-10-26",
+  "last_seen": "2026-10-29"
+ },
+ {
+  "title": "顶尖应届-可靠性工程师-手机",
+  "company": "小米",
+  "locations": [
+   "上海"
+  ],
+  "location_raw": "上海",
+  "publish_time_raw": "2026-10-26",
+  "publish_time": "2026-10-29 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7700785730419034409/detail",
+  "extra": {
+   "department": "手机部",
+   "lark_job_code": "A148061"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "硬件大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "2e277ff740381bfb",
+  "first_seen": "2026-10-26",
+  "last_seen": "2026-10-29"
+ },
+ {
+  "title": "顶尖应届-可靠性工程师-手机",
+  "company": "小米",
+  "locations": [
+   "上海"
+  ],
+  "location_raw": "上海",
+  "publish_time_raw": "2026-10-26",
+  "publish_time": "2026-10-29 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7700784966519179539/detail",
+  "extra": {
+   "department": "手机部",
+   "lark_job_code": "A05719A"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "硬件大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "2a773287fb151653",
+  "first_seen": "2026-10-26",
+  "last_seen": "2026-10-29"
+ },
+ {
+  "title": "顶尖应届-可靠性工程师-手机",
+  "company": "小米",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "2026-10-26",
+  "publish_time": "2026-10-29 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7700784962770209087/detail",
+  "extra": {
+   "department": "手机部",
+   "lark_job_code": "A105768"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "硬件大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "2a3064e903be0a55",
+  "first_seen": "2026-10-26",
+  "last_seen": "2026-10-29"
+ },
+ {
+  "title": "顶尖应届-可靠性工程师-手机",
+  "company": "小米",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "2026-10-26",
+  "publish_time": "2026-10-29 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7700784962769799487/detail",
+  "extra": {
+   "department": "手机部",
+   "lark_job_code": "A244574A"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "硬件大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "d0c41c007d505169",
+  "first_seen": "2026-10-26",
+  "last_seen": "2026-10-29"
+ },
+ {
+  "title": "中国区-汽车一线服务专员",
+  "company": "小米",
+  "locations": [
+   "南京"
+  ],
+  "location_raw": "南京",
+  "publish_time_raw": "2026-08-18",
+  "publish_time": "2026-10-29 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671522987782719750/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A29729"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "a6385b1d470b6468",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-29",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "中国区-汽车一线服务专员",
+  "company": "小米",
+  "locations": [
+   "武汉"
+  ],
+  "location_raw": "武汉",
+  "publish_time_raw": "2026-08-18",
+  "publish_time": "2026-10-29 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671522167922673966/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A11365A"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "8bf4a9cf05ab5784",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-29",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "可靠性工程师",
+  "company": "小米",
+  "locations": [
+   "北京",
+   "南京",
+   "上海"
+  ],
+  "location_raw": "北京 南京 上海",
+  "publish_time_raw": "2026-09-21",
+  "publish_time": "2026-10-29 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7687793695115200795/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A247161"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "硬件大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "b799eacdb6f8ce1c",
+  "first_seen": "2026-09-21",
+  "last_seen": "2026-10-29"
+ },
+ {
+  "title": "可靠性工程师-手机",
+  "company": "小米",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-10-29 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7670889911881845030/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A249614"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "硬件大厂",
+  "id": "b59ebb3cf489bcff",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-10-29",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "营运岗-乌鲁木齐城市公司-领将生-27届",
+  "company": "珠海万达商管",
+  "locations": [
+   "乌鲁木齐"
+  ],
+  "location_raw": "乌鲁木齐",
+  "publish_time_raw": "2026-10-29 11:03",
+  "publish_time": "2026-10-29 11:03",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-10-29 17:47",
+   "salary": "12-15K·12薪",
+   "education": "",
+   "channel": "moka"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "1eef9a6faaaca539",
+  "first_seen": "2026-10-29",
+  "last_seen": "2026-10-29"
+ },
+ {
   "title": "【27校招 - 数字化】物理AI算法工程师",
   "company": "汇川技术",
   "locations": [
@@ -49,6 +484,35 @@
   "industry": "硬件",
   "id": "498a9020f8157246",
   "first_seen": "2026-08-26",
+  "last_seen": "2026-10-29"
+ },
+ {
+  "title": "拼多多区域业务-27届校招（品类运营方向）",
+  "company": "拼多多集团-PDD",
+  "locations": [
+   "杭州"
+  ],
+  "location_raw": "杭州",
+  "publish_time_raw": "2026-10-29 08:39",
+  "publish_time": "2026-10-29 08:39",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-10-29 17:45",
+   "salary": "薪资面议",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "互联网大厂",
+  "hq_city": "上海",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "9de07bf190b559bf",
+  "first_seen": "2026-10-29",
   "last_seen": "2026-10-29"
  },
  {
@@ -781,141 +1245,6 @@
   "last_seen": "2026-10-29"
  },
  {
-  "title": "顶尖应届-可靠性工程师-手机",
-  "company": "小米",
-  "locations": [
-   "南京"
-  ],
-  "location_raw": "南京",
-  "publish_time_raw": "2026-10-26",
-  "publish_time": "2026-10-26 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7700785126858688810/detail",
-  "extra": {
-   "department": "手机部",
-   "lark_job_code": "A27419"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "1e46cf918db52888",
-  "first_seen": "2026-10-26",
-  "last_seen": "2026-10-29"
- },
- {
-  "title": "顶尖应届-可靠性工程师-手机",
-  "company": "小米",
-  "locations": [
-   "上海"
-  ],
-  "location_raw": "上海",
-  "publish_time_raw": "2026-10-26",
-  "publish_time": "2026-10-26 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7700785730419034409/detail",
-  "extra": {
-   "department": "手机部",
-   "lark_job_code": "A148061"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "secondary",
-  "company_tag": "硬件大厂",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "2e277ff740381bfb",
-  "first_seen": "2026-10-26",
-  "last_seen": "2026-10-29"
- },
- {
-  "title": "顶尖应届-可靠性工程师-手机",
-  "company": "小米",
-  "locations": [
-   "上海"
-  ],
-  "location_raw": "上海",
-  "publish_time_raw": "2026-10-26",
-  "publish_time": "2026-10-26 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7700784966519179539/detail",
-  "extra": {
-   "department": "手机部",
-   "lark_job_code": "A05719A"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "secondary",
-  "company_tag": "硬件大厂",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "2a773287fb151653",
-  "first_seen": "2026-10-26",
-  "last_seen": "2026-10-29"
- },
- {
-  "title": "顶尖应届-可靠性工程师-手机",
-  "company": "小米",
-  "locations": [
-   "北京"
-  ],
-  "location_raw": "北京",
-  "publish_time_raw": "2026-10-26",
-  "publish_time": "2026-10-26 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7700784962770209087/detail",
-  "extra": {
-   "department": "手机部",
-   "lark_job_code": "A105768"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "primary",
-  "company_tag": "硬件大厂",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "2a3064e903be0a55",
-  "first_seen": "2026-10-26",
-  "last_seen": "2026-10-29"
- },
- {
-  "title": "顶尖应届-可靠性工程师-手机",
-  "company": "小米",
-  "locations": [
-   "北京"
-  ],
-  "location_raw": "北京",
-  "publish_time_raw": "2026-10-26",
-  "publish_time": "2026-10-26 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7700784962769799487/detail",
-  "extra": {
-   "department": "手机部",
-   "lark_job_code": "A244574A"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "primary",
-  "company_tag": "硬件大厂",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "d0c41c007d505169",
-  "first_seen": "2026-10-26",
-  "last_seen": "2026-10-29"
- },
- {
   "title": "交付运营专员-汽车",
   "company": "小米",
   "locations": [
@@ -1591,6 +1920,35 @@
   "last_seen": "2026-10-27"
  },
  {
+  "title": "商业分析",
+  "company": "快手",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "2026-10-26 10:38",
+  "publish_time": "2026-10-26 10:38",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-10-29 17:42",
+   "salary": "20-80K·16薪",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "35bef84c8433abc5",
+  "first_seen": "2026-10-29",
+  "last_seen": "2026-10-29"
+ },
+ {
   "title": "Ai产品经理",
   "company": "哔哩哔哩",
   "locations": [
@@ -1617,7 +1975,7 @@
   "industry": "互联网",
   "id": "1038184c7ace6fb4",
   "first_seen": "2026-10-26",
-  "last_seen": "2026-10-27"
+  "last_seen": "2026-10-29"
  },
  {
   "title": "产品经理",
@@ -1646,7 +2004,7 @@
   "industry": "互联网",
   "id": "bbfb60bbee9bc367",
   "first_seen": "2026-10-27",
-  "last_seen": "2026-10-27"
+  "last_seen": "2026-10-29"
  },
  {
   "title": "Ai大模型应用开发",
@@ -7982,6 +8340,35 @@
   "last_seen": "2026-10-20"
  },
  {
+  "title": "FPGA应用开发FPGA工程师",
+  "company": "上海元创芯力科技有限公司",
+  "locations": [
+   "上海"
+  ],
+  "location_raw": "上海",
+  "publish_time_raw": "2026-10-19 08:19",
+  "publish_time": "2026-10-19 08:19",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-10-29 17:47",
+   "salary": "10-25K·14薪",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "e30680d95c123baa",
+  "first_seen": "2026-10-29",
+  "last_seen": "2026-10-29"
+ },
+ {
   "title": "商米 校招网申（27届秋招）",
   "company": "商米",
   "locations": [
@@ -10232,60 +10619,6 @@
   "id": "41f0856bf5b28d86",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-16"
- },
- {
-  "title": "中国区-汽车一线服务专员",
-  "company": "小米",
-  "locations": [
-   "南京"
-  ],
-  "location_raw": "南京",
-  "publish_time_raw": "2026-08-18",
-  "publish_time": "2026-10-15 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671522987782719750/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A29729"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "a6385b1d470b6468",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-29",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "中国区-汽车一线服务专员",
-  "company": "小米",
-  "locations": [
-   "武汉"
-  ],
-  "location_raw": "武汉",
-  "publish_time_raw": "2026-08-18",
-  "publish_time": "2026-10-15 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671522167922673966/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A11365A"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "8bf4a9cf05ab5784",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-29",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
  },
  {
   "title": "中国区-市场管培生",
@@ -34570,35 +34903,6 @@
   "last_seen": "2026-09-21"
  },
  {
-  "title": "可靠性工程师",
-  "company": "小米",
-  "locations": [
-   "北京",
-   "南京",
-   "上海"
-  ],
-  "location_raw": "北京 南京 上海",
-  "publish_time_raw": "2026-09-21",
-  "publish_time": "2026-09-21 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7687793695115200795/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A247161"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "primary",
-  "company_tag": "硬件大厂",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "b799eacdb6f8ce1c",
-  "first_seen": "2026-09-21",
-  "last_seen": "2026-10-29"
- },
- {
   "title": "软件项目经理-汽车",
   "company": "小米",
   "locations": [
@@ -37439,7 +37743,7 @@
   "industry": "",
   "id": "1631ddb5b1d6d515",
   "first_seen": "2026-10-08",
-  "last_seen": "2026-10-22"
+  "last_seen": "2026-10-29"
  },
  {
   "title": "凯莱英制药 校招网申（27届秋招）",
@@ -38977,33 +39281,6 @@
   "industry": "硬件"
  },
  {
-  "title": "可靠性工程师-手机",
-  "company": "小米",
-  "locations": [
-   "北京"
-  ],
-  "location_raw": "北京",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-09-18 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7670889911881845030/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A249614"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "primary",
-  "company_tag": "硬件大厂",
-  "id": "b59ebb3cf489bcff",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-10-29",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
   "title": "公关策略专员",
   "company": "小米",
   "locations": [
@@ -39358,32 +39635,6 @@
   "industry": "硬件",
   "id": "0e10b9705f8ff9a0",
   "first_seen": "2026-08-26",
-  "last_seen": "2026-10-29"
- },
- {
-  "title": "【27校招 - 数字化】嵌入式测试工程师",
-  "company": "汇川技术",
-  "locations": [
-   "东莞"
-  ],
-  "location_raw": "东莞",
-  "publish_time_raw": "2026-09-17T14:45:06.567215",
-  "publish_time": "2026-09-17 14:45",
-  "source": "inovance",
-  "url": "https://recruit.inovance.com/#/campus/jobs/01a0ae1c-592b-7297-a9aa-d83f6fb024fa",
-  "extra": {
-   "segment": "集团业务-数字化"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "",
-  "hq_city": "苏州",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "e987e5c4ebe80b52",
-  "first_seen": "2026-09-17",
   "last_seen": "2026-10-29"
  },
  {
@@ -65419,7 +65670,7 @@
   "industry": "",
   "id": "6264992bf293bf9e",
   "first_seen": "2026-10-14",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "title": "射频技术",
@@ -67937,7 +68188,7 @@
   "industry": "硬件",
   "id": "7b222aa7c357e079",
   "first_seen": "2026-09-24",
-  "last_seen": "2026-09-24"
+  "last_seen": "2026-10-29"
  },
  {
   "title": "【华为校招-27届毕业生】软件开发工程师",
@@ -84871,6 +85122,45 @@
   "id": "c17e9ea671ad32be",
   "first_seen": "2026-08-30",
   "last_seen": "2026-08-30"
+ },
+ {
+  "title": "珠海万达商管 校招网申（27届秋招）",
+  "company": "珠海万达商管",
+  "locations": [
+   "杭州",
+   "宁波",
+   "合肥",
+   "福州",
+   "珠海",
+   "乌鲁木齐",
+   "喀什地区",
+   "北京",
+   "上海"
+  ],
+  "location_raw": "杭州 宁波 合肥 福州 珠海 乌鲁木齐 喀什地区 北京 上海",
+  "publish_time_raw": "2026-08-13",
+  "publish_time": "2026-08-13 12:00",
+  "deadline": "2027-04-13",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "",
+   "careers": "市场/营销 供应链 管理 管理培训生 人事 商务",
+   "note": "国内商业运营龙头企业，全业态布局，商业管理与品牌资源领先。"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "7d66177c10447326",
+  "first_seen": "2026-10-29",
+  "last_seen": "2026-10-29"
  },
  {
   "title": "【27校招 - 联合动力】AI算法工程师",
@@ -106331,7 +106621,7 @@
   "company_tag": "硬件大厂",
   "id": "3d74ae2ba2ad1835",
   "first_seen": "2026-08-24",
-  "last_seen": "2026-09-12",
+  "last_seen": "2026-10-29",
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
@@ -106366,7 +106656,7 @@
   "industry": "硬件",
   "id": "7d31c491b56b7fdd",
   "first_seen": "2026-08-25",
-  "last_seen": "2026-09-08"
+  "last_seen": "2026-10-29"
  },
  {
   "title": "AI Infra工程师",
@@ -112071,7 +112361,7 @@
   "industry": "硬件",
   "id": "33e927cb38cefbe9",
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-27"
+  "last_seen": "2026-10-29"
  },
  {
   "title": "【27校招-通用研发】结构工程师（博士-噪声控制方向）",
@@ -117047,7 +117337,7 @@
   "industry": "",
   "id": "08115c9abf49f802",
   "first_seen": "2026-09-17",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "title": "校招-技术支持工程师(对话式AI方向)",
@@ -121598,7 +121888,7 @@
   "industry": "",
   "id": "131b2479f4eea4c0",
   "first_seen": "2026-09-17",
-  "last_seen": "2026-09-17"
+  "last_seen": "2026-10-29"
  },
  {
   "title": "7号线地铁口周边就业+五险一金+高薪销售9k",
@@ -122613,7 +122903,7 @@
   "industry": "互联网",
   "id": "21cf855640e919ab",
   "first_seen": "2026-09-24",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "title": "可兼职-西方课程在线辅导Tutor",
@@ -156369,7 +156659,7 @@
   "industry": "",
   "id": "43af41157cf4d4a4",
   "first_seen": "2026-09-15",
-  "last_seen": "2026-10-27"
+  "last_seen": "2026-10-29"
  },
  {
   "title": "AI英语学习产品实习生 - 语言中心",
