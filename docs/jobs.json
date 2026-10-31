@@ -1476,6 +1476,35 @@
   "last_seen": "2026-10-28"
  },
  {
+  "title": "财务助理",
+  "company": "重庆渝指数科技有限公司",
+  "locations": [
+   "重庆"
+  ],
+  "location_raw": "重庆",
+  "publish_time_raw": "2026-10-27 09:58",
+  "publish_time": "2026-10-27 09:58",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-10-31 16:16",
+   "salary": "2-3K·12薪",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "3c63ab4113c81760",
+  "first_seen": "2026-10-31",
+  "last_seen": "2026-10-31"
+ },
+ {
   "title": "信息学主讲老师（成都）-校招",
   "company": "网易",
   "locations": [
@@ -21935,6 +21964,101 @@
   "last_seen": "2026-10-31"
  },
  {
+  "title": "易碳数科 校招网申（27届秋招）",
+  "company": "易碳数科",
+  "locations": [
+   "广州",
+   "上海"
+  ],
+  "location_raw": "广州 上海",
+  "publish_time_raw": "2026-10-09",
+  "publish_time": "2026-10-09 12:00",
+  "deadline": "2026-12-09",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "",
+   "careers": "后端开发 数据 人工智能/算法 研发工程师 化工 管理",
+   "note": "碳数字化科创企业，薪资弹性较好，双碳赛道前景广阔，算法研发机会多。"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "1e7b5f7c4fe69431",
+  "first_seen": "2026-10-31",
+  "last_seen": "2026-10-31"
+ },
+ {
+  "title": "浙江省城乡规划设计研究院 校招网申（27届秋招）",
+  "company": "浙江省城乡规划设计研究院",
+  "locations": [
+   "杭州"
+  ],
+  "location_raw": "杭州",
+  "publish_time_raw": "2026-10-09",
+  "publish_time": "2026-10-09 12:00",
+  "deadline": "2026-11-04",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "",
+   "careers": "后端开发 前端开发 测试 数据 运维 机械",
+   "note": "省属规划设计院，薪资福利规范，国土空间项目充足，政策研究资源丰富。"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "53ad82d6b0701f52",
+  "first_seen": "2026-10-31",
+  "last_seen": "2026-10-31"
+ },
+ {
+  "title": "中国建研院 校招网申（27届秋招）",
+  "company": "中国建研院",
+  "locations": [
+   "北京",
+   "上海"
+  ],
+  "location_raw": "北京 上海",
+  "publish_time_raw": "2026-10-09",
+  "publish_time": "2026-10-09 12:00",
+  "deadline": "2027-07-09",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "机械制造 军工 冶金 能源 硬件 工程建造 房地产",
+   "careers": "后端开发 前端开发 客户端开发 测试 数据 运维",
+   "note": "国家级建筑科研央企，薪资稳定，标准编制项目多，建筑科创平台顶尖。"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "adfa932d9ddb2c95",
+  "first_seen": "2026-10-31",
+  "last_seen": "2026-10-31"
+ },
+ {
   "title": "存算研发工程师（工程方向/存算与AI） - 芯片研发",
   "company": "字节跳动",
   "locations": [
@@ -22267,7 +22391,7 @@
   "industry": "",
   "id": "0939618871616767",
   "first_seen": "2026-10-14",
-  "last_seen": "2026-10-30"
+  "last_seen": "2026-10-31"
  },
  {
   "title": "产品经理（AI方向）",
@@ -22296,7 +22420,7 @@
   "industry": "",
   "id": "ce88fad92bd3ca99",
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-29"
+  "last_seen": "2026-10-31"
  },
  {
   "title": "AI全栈开发工程师",
@@ -24093,6 +24217,42 @@
   "industry": "",
   "id": "7046ad4d1c48475f",
   "first_seen": "2026-10-29",
+  "last_seen": "2026-10-31"
+ },
+ {
+  "title": "泰康医疗 校招网申（27届秋招）",
+  "company": "泰康医疗",
+  "locations": [
+   "南京",
+   "宁波",
+   "武汉",
+   "深圳",
+   "成都",
+   "北京"
+  ],
+  "location_raw": "南京 宁波 武汉 深圳 成都 北京",
+  "publish_time_raw": "2026-10-08",
+  "publish_time": "2026-10-08 12:00",
+  "deadline": "2026-12-08",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "",
+   "careers": "后端开发 前端开发 客户端开发 测试 数据 运维",
+   "note": "泰康旗下医疗板块，福利体系完善，医险结合模式，多学科专家资源雄厚。"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "fb7a0bbdd7e608c7",
+  "first_seen": "2026-10-31",
   "last_seen": "2026-10-31"
  },
  {
@@ -33793,7 +33953,7 @@
   "industry": "互联网",
   "id": "3de31fb46d106003",
   "first_seen": "2026-09-22",
-  "last_seen": "2026-10-21"
+  "last_seen": "2026-10-31"
  },
  {
   "title": "27届-PQE工程师（南京）",
@@ -35109,7 +35269,7 @@
   "industry": "",
   "id": "30d828414a3d531c",
   "first_seen": "2026-10-03",
-  "last_seen": "2026-10-23"
+  "last_seen": "2026-10-31"
  },
  {
   "title": "结构工艺工程师(海外)",
@@ -35139,6 +35299,35 @@
   "id": "928b6354ad9886ed",
   "first_seen": "2026-09-26",
   "last_seen": "2026-09-26"
+ },
+ {
+  "title": "结构工艺工程师",
+  "company": "锐捷网络股份有限公司",
+  "locations": [
+   "福州"
+  ],
+  "location_raw": "福州",
+  "publish_time_raw": "2026-09-22 00:44",
+  "publish_time": "2026-09-22 00:44",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-10-31 16:16",
+   "salary": "14-24K·13薪",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": "pie",
+  "direction_label": "PIE工艺整合",
+  "priority": "副投",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "341709bf20f0be51",
+  "first_seen": "2026-10-31",
+  "last_seen": "2026-10-31"
  },
  {
   "title": "供应链运营专员",
@@ -107481,7 +107670,7 @@
   "industry": "硬件",
   "id": "18c117e89304aa14",
   "first_seen": "2026-09-12",
-  "last_seen": "2026-10-30"
+  "last_seen": "2026-10-31"
  },
  {
   "title": "产品经理-AI方向-内推码DNK2026",
@@ -122992,7 +123181,7 @@
   "industry": "",
   "id": "1fed004a11bf1d8a",
   "first_seen": "2026-10-08",
-  "last_seen": "2026-10-30"
+  "last_seen": "2026-10-31"
  },
  {
   "title": "Java开发工程师",
