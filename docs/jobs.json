@@ -2673,7 +2673,7 @@
   "industry": "",
   "id": "e4f6797b1dffea85",
   "first_seen": "2026-10-26",
-  "last_seen": "2026-10-27"
+  "last_seen": "2026-11-01"
  },
  {
   "title": "浜烘皯鏁欒偛鍑虹増绀炬湁闄愬叕鍙稿崥澹�鍚庣�戠爺宸ヤ綔绔�",
@@ -38900,7 +38900,7 @@
   "industry": "",
   "id": "d5e14ab278864f7c",
   "first_seen": "2026-09-26",
-  "last_seen": "2026-10-07"
+  "last_seen": "2026-11-01"
  },
  {
   "title": "管理培训生（含跨境金融、科技金融、二级分行方向）",
@@ -122949,7 +122949,7 @@
   "industry": "互联网",
   "id": "48bc44a849b0b5a5",
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-11-01"
  },
  {
   "title": "摄影师-视频方向",
@@ -123703,7 +123703,7 @@
   "industry": "互联网",
   "id": "21cf855640e919ab",
   "first_seen": "2026-09-24",
-  "last_seen": "2026-10-30"
+  "last_seen": "2026-11-01"
  },
  {
   "title": "可兼职-西方课程在线辅导Tutor",
@@ -188097,6 +188097,60 @@
   "size_bucket": "10000+",
   "industry": "互联网",
   "id": "58892b73dc26c5a9",
+  "first_seen": "2026-11-01",
+  "last_seen": "2026-11-01"
+ },
+ {
+  "title": "【江苏】东部机场集团有限公司2027校园招聘",
+  "company": "东部机场集团有限公司2027校园招聘",
+  "locations": [
+   "江苏"
+  ],
+  "location_raw": "江苏",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "deadline": "2026-11-06",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-133-086.html",
+  "extra": {
+   "section": "deadline"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "42b34d17483e959f",
+  "first_seen": "2026-11-01",
+  "last_seen": "2026-11-01"
+ },
+ {
+  "title": "【天津】天津农村商业银行股份有限公司2027校园招聘",
+  "company": "天津农村商业银行股份有限公司2027校园招聘",
+  "locations": [
+   "天津"
+  ],
+  "location_raw": "天津",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "deadline": "2026-11-22",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-132-355.html",
+  "extra": {
+   "section": "deadline"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "d1d31fa99354eb37",
   "first_seen": "2026-11-01",
   "last_seen": "2026-11-01"
  }
