@@ -27,6 +27,175 @@
   "last_seen": "2026-11-03"
  },
  {
+  "title": "法务专员",
+  "company": "小米",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-11-03 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671292638209149220/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A152134"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "硬件大厂",
+  "id": "f805b9b2e48cd612",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-11-03",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "中国区-汽车线上技术专员",
+  "company": "小米",
+  "locations": [
+   "武汉",
+   "南京"
+  ],
+  "location_raw": "武汉 南京",
+  "publish_time_raw": "2026-08-18",
+  "publish_time": "2026-11-03 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7675291789649578266/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A06975B"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "id": "680b221c40024ea3",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-11-03",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "人力资源专员-HRBP",
+  "company": "小米",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-11-03 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7670924236890851638/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A160521"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "硬件大厂",
+  "id": "17a99ea1fbfa2d21",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-11-03",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "Java",
+  "company": "哈啰",
+  "locations": [
+   "上海"
+  ],
+  "location_raw": "上海",
+  "publish_time_raw": "2026-11-03 10:16",
+  "publish_time": "2026-11-03 10:16",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-11-03 18:56",
+   "salary": "薪资面议",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "2e45084958e3c0ae",
+  "first_seen": "2026-11-03",
+  "last_seen": "2026-11-03"
+ },
+ {
+  "title": "三角洲跑刀代肝",
+  "company": "苏州幻站通网络科技有限公司",
+  "locations": [
+   "上海,广州,北京,深圳,杭州,南京,成都,西安,武汉,苏州"
+  ],
+  "location_raw": "上海,广州,北京,深圳,杭州,南京,成都,西安,武汉,苏州",
+  "publish_time_raw": "2026-11-03 10:02",
+  "publish_time": "2026-11-03 10:02",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-11-03 18:47",
+   "salary": "3-6K·12薪",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "2aa74ba0213c5aef",
+  "first_seen": "2026-11-03",
+  "last_seen": "2026-11-03"
+ },
+ {
+  "title": "财务",
+  "company": "东莞市长安诚明会计咨询服务部",
+  "locations": [
+   "东莞"
+  ],
+  "location_raw": "东莞",
+  "publish_time_raw": "2026-11-03 10:00",
+  "publish_time": "2026-11-03 10:00",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-11-03 18:47",
+   "salary": "1-2K·12薪",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "24f64133c01fb559",
+  "first_seen": "2026-11-03",
+  "last_seen": "2026-11-03"
+ },
+ {
   "title": "投资专员",
   "company": "小米",
   "locations": [
@@ -163,6 +332,67 @@
   "industry": "硬件"
  },
  {
+  "title": "金城银行 校招网申（秋招）",
+  "company": "金城银行",
+  "locations": [],
+  "location_raw": "",
+  "publish_time_raw": "",
+  "publish_time": "2026-11-02 12:00",
+  "deadline": "",
+  "source": "nowcoder_schedule",
+  "url": "https://www.nowcoder.com/jobs/detail/470970?deliverSource=21&pageSource=5021&channel=mainSiteSearch",
+  "extra": {
+   "batch": "",
+   "job_count": 0,
+   "industry": "",
+   "careers": "",
+   "note": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "unknown",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "67d4446445a177b8",
+  "first_seen": "2026-11-02",
+  "last_seen": "2026-11-03"
+ },
+ {
+  "title": "白犀牛自动驾驶 校招网申（27届秋招）",
+  "company": "白犀牛自动驾驶",
+  "locations": [
+   "北京",
+   "重庆"
+  ],
+  "location_raw": "北京 重庆",
+  "publish_time_raw": "2026-11-02",
+  "publish_time": "2026-11-02 12:00",
+  "deadline": "2027-01-04",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "",
+   "careers": "后端开发 测试 数据 电子/半导体 人工智能/算法 机械",
+   "note": "末端自动驾驶领军企业，商业化落地成熟，技术算法领先，无人驾驶成长优质"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "9f581697bb24be59",
+  "first_seen": "2026-11-03",
+  "last_seen": "2026-11-03"
+ },
+ {
   "title": "电商运营 接受无经验",
   "company": "陕西享遇农垦商贸有限公司",
   "locations": [
@@ -189,7 +419,7 @@
   "industry": "",
   "id": "817e8acee4ca834a",
   "first_seen": "2026-11-02",
-  "last_seen": "2026-11-02"
+  "last_seen": "2026-11-03"
  },
  {
   "title": "客户代表",
@@ -437,33 +667,6 @@
   "region_level": "primary",
   "company_tag": "硬件大厂",
   "id": "eb55e3d6f360b58a",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-11-03",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "法务专员",
-  "company": "小米",
-  "locations": [
-   "北京"
-  ],
-  "location_raw": "北京",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-10-30 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671292638209149220/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A152134"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "primary",
-  "company_tag": "硬件大厂",
-  "id": "f805b9b2e48cd612",
   "first_seen": "2026-08-24",
   "last_seen": "2026-11-03",
   "hq_city": "北京",
@@ -2734,7 +2937,7 @@
   "industry": "互联网",
   "id": "bbfb60bbee9bc367",
   "first_seen": "2026-10-27",
-  "last_seen": "2026-10-29"
+  "last_seen": "2026-11-03"
  },
  {
   "title": "Ai大模型应用开发",
@@ -2763,7 +2966,7 @@
   "industry": "互联网",
   "id": "33af90e023fbd8ab",
   "first_seen": "2026-10-27",
-  "last_seen": "2026-10-27"
+  "last_seen": "2026-11-03"
  },
  {
   "title": "【27校招 - 全球工业自动化】行业运营管理工程师（韩语）",
@@ -12972,34 +13175,6 @@
   "industry": "硬件"
  },
  {
-  "title": "中国区-汽车线上技术专员",
-  "company": "小米",
-  "locations": [
-   "武汉",
-   "南京"
-  ],
-  "location_raw": "武汉 南京",
-  "publish_time_raw": "2026-08-18",
-  "publish_time": "2026-10-14 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7675291789649578266/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A06975B"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "硬件大厂",
-  "id": "680b221c40024ea3",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-11-03",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
   "title": "中国区-汽车服务技术工程师",
   "company": "小米",
   "locations": [
@@ -19219,6 +19394,142 @@
   "last_seen": "2026-11-03"
  },
  {
+  "title": "浩蓝光电 校招网申（27届秋招）",
+  "company": "浩蓝光电",
+  "locations": [
+   "苏州",
+   "福州",
+   "深圳",
+   "北京"
+  ],
+  "location_raw": "苏州 福州 深圳 北京",
+  "publish_time_raw": "2026-10-11",
+  "publish_time": "2026-10-11 12:00",
+  "deadline": "2026-12-11",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "硬件 研究所",
+   "careers": "硬件工程师 电子/半导体 通信 技术支持 机械 化工",
+   "note": "专注于LED照明产品研发制造，产品应用于商业照明与工业照明领域。"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "f3c20edecd1cfe79",
+  "first_seen": "2026-11-03",
+  "last_seen": "2026-11-03"
+ },
+ {
+  "title": "意法半导体 校招网申（27届秋招）",
+  "company": "意法半导体",
+  "locations": [
+   "重庆"
+  ],
+  "location_raw": "重庆",
+  "publish_time_raw": "2026-10-11",
+  "publish_time": "2026-10-11 12:00",
+  "deadline": "2026-12-11",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "",
+   "careers": "电子/半导体 通信 技术支持 机械 化工 电气/自动化",
+   "note": "半导体分立器件厂商，薪资规范，技术沉淀深厚，汽车电子业务增长稳定。"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "芯片半导体大厂",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "1c2116303a02c5f9",
+  "first_seen": "2026-11-03",
+  "last_seen": "2026-11-03"
+ },
+ {
+  "title": "远大医药（中国）有限公司 校招网申（27届秋招）",
+  "company": "远大医药（中国）有限公司",
+  "locations": [
+   "保定",
+   "连云港",
+   "武汉",
+   "黄石",
+   "成都",
+   "北京",
+   "上海",
+   "天津"
+  ],
+  "location_raw": "保定 连云港 武汉 黄石 成都 北京 上海 天津",
+  "publish_time_raw": "2026-10-11",
+  "publish_time": "2026-10-11 12:00",
+  "deadline": "2026-12-11",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "",
+   "careers": "管理 管理培训生 咨询/调研 生物制药 医生/医技 医院/临床医疗/护理",
+   "note": "创新医药上市企业，薪酬待遇完善，全球研发布局，新药转化平台实力强。"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "03b83cec2ec1b507",
+  "first_seen": "2026-11-03",
+  "last_seen": "2026-11-03"
+ },
+ {
+  "title": "山东太阳纸业 校招网申（27届秋招）",
+  "company": "山东太阳纸业",
+  "locations": [
+   "济宁",
+   "南宁",
+   "北海"
+  ],
+  "location_raw": "济宁 南宁 北海",
+  "publish_time_raw": "2026-10-11",
+  "publish_time": "2026-10-11 12:00",
+  "deadline": "2026-12-11",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "",
+   "careers": "后端开发 数据 运维 人工智能/算法 研发工程师 电子/半导体",
+   "note": "造纸行业龙头企业，产业链一体化布局，技术领先，制造与研发平台成熟稳定"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "1435caead82d72e0",
+  "first_seen": "2026-11-03",
+  "last_seen": "2026-11-03"
+ },
+ {
   "title": "鍖椾含甯傛竻鍗庡ぇ瀛﹂檮灞炰腑瀛︽湜浜�瀛︽牎|娓呭崕澶у�﹂檮灞炰腑瀛︽湞闃冲�︽牎",
   "company": "楂樻牎浜烘墠缃�",
   "locations": [
@@ -20297,6 +20608,139 @@
   "id": "4d7cc647c33f6d2e",
   "first_seen": "2026-10-12",
   "last_seen": "2026-10-12"
+ },
+ {
+  "title": "中核西仪 校招网申（27届秋招）",
+  "company": "中核西仪",
+  "locations": [
+   "西安"
+  ],
+  "location_raw": "西安",
+  "publish_time_raw": "2026-10-10",
+  "publish_time": "2026-10-10 12:00",
+  "deadline": "2026-12-10",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "",
+   "careers": "后端开发 测试 数据 人工智能/算法 研发工程师 电子/半导体",
+   "note": "核工业配套国企，薪资稳定保障齐全，特种仪表赛道，军工科研项目资源优质。"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "adde9a63d02ecee3",
+  "first_seen": "2026-11-03",
+  "last_seen": "2026-11-03"
+ },
+ {
+  "title": "上海联合产权交易所 校招网申（27届秋招）",
+  "company": "上海联合产权交易所",
+  "locations": [
+   "广州",
+   "深圳",
+   "北京",
+   "上海"
+  ],
+  "location_raw": "广州 深圳 北京 上海",
+  "publish_time_raw": "2026-10-10",
+  "publish_time": "2026-10-10 12:00",
+  "deadline": "2026-12-10",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "交易所",
+   "careers": "管理 管理培训生 咨询/调研",
+   "note": "国有产权交易平台，薪资稳定福利规范，国企平台，多层次资本市场资源丰富。"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "a763aab6f837d799",
+  "first_seen": "2026-11-03",
+  "last_seen": "2026-11-03"
+ },
+ {
+  "title": "可胜技术 校招网申（27届秋招）",
+  "company": "可胜技术",
+  "locations": [
+   "杭州"
+  ],
+  "location_raw": "杭州",
+  "publish_time_raw": "2026-10-10",
+  "publish_time": "2026-10-10 12:00",
+  "deadline": "2026-12-10",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "机械制造 军工 冶金 能源 硬件 房地产",
+   "careers": "后端开发 测试 运维 硬件工程师 机械 化工",
+   "note": "专注太阳能光热发电技术，提供从聚光吸热到储热发电的全链解决方案。"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "3a7c2792c6d35dff",
+  "first_seen": "2026-11-03",
+  "last_seen": "2026-11-03"
+ },
+ {
+  "title": "钦实集团有限公司 校招网申（27届秋招）",
+  "company": "钦实集团有限公司",
+  "locations": [
+   "哈尔滨",
+   "南通",
+   "厦门",
+   "九江",
+   "南宁",
+   "文山壮族苗族自治州",
+   "上海"
+  ],
+  "location_raw": "哈尔滨 南通 厦门 九江 南宁 文山壮族苗族自治州 上海",
+  "publish_time_raw": "2026-10-10",
+  "publish_time": "2026-10-10 12:00",
+  "deadline": "2026-12-10",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "",
+   "careers": "硬件工程师 电子/半导体 通信 技术支持 机械 化工",
+   "note": "船海工程实业集团，薪酬发放稳定，福利完善，绿色船舶重大项目机会充足。"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "323a6ab502701dbf",
+  "first_seen": "2026-11-03",
+  "last_seen": "2026-11-03"
  },
  {
   "title": "【27校招 - 通用研发】电机电磁工程师",
@@ -22480,6 +22924,40 @@
   "industry": "",
   "id": "adfa932d9ddb2c95",
   "first_seen": "2026-10-31",
+  "last_seen": "2026-11-03"
+ },
+ {
+  "title": "长江存储 校招网申（27届秋招）",
+  "company": "长江存储",
+  "locations": [
+   "武汉",
+   "成都",
+   "北京",
+   "上海"
+  ],
+  "location_raw": "武汉 成都 北京 上海",
+  "publish_time_raw": "2026-10-09",
+  "publish_time": "2026-10-09 12:00",
+  "deadline": "2026-11-29",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "硬件",
+   "careers": "后端开发 测试 人工智能/算法 研发工程师 硬件工程师 电子/半导体",
+   "note": "国内存储芯片领域龙头企业，全栈自研能力突出，国产替代核心支撑力量。"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "芯片半导体大厂",
+  "hq_city": "武汉",
+  "size_bucket": "1000+",
+  "industry": "芯片半导体",
+  "id": "c62f7145fa0abc26",
+  "first_seen": "2026-11-03",
   "last_seen": "2026-11-03"
  },
  {
@@ -34406,7 +34884,7 @@
   "industry": "互联网",
   "id": "3de31fb46d106003",
   "first_seen": "2026-09-22",
-  "last_seen": "2026-11-02"
+  "last_seen": "2026-11-03"
  },
  {
   "title": "27届-PQE工程师（南京）",
@@ -63180,7 +63658,7 @@
   "industry": "",
   "id": "b150cf86bdc7d346",
   "first_seen": "2026-09-14",
-  "last_seen": "2026-10-30"
+  "last_seen": "2026-11-03"
  },
  {
   "title": "Java 后端",
@@ -84589,7 +85067,7 @@
   "industry": "",
   "id": "b484dedd1b9a7446",
   "first_seen": "2026-10-15",
-  "last_seen": "2026-11-02"
+  "last_seen": "2026-11-03"
  },
  {
   "title": "投稿策略实习生 - 抖音生态",
@@ -86307,6 +86785,68 @@
   "industry": "",
   "id": "b0d990d2012da165",
   "first_seen": "2026-11-02",
+  "last_seen": "2026-11-03"
+ },
+ {
+  "title": "安踏 校招网申（27届秋招）",
+  "company": "安踏",
+  "locations": [
+   "石家庄",
+   "太原",
+   "呼和浩特",
+   "沈阳",
+   "长春",
+   "哈尔滨",
+   "南京",
+   "苏州",
+   "杭州",
+   "厦门",
+   "泉州",
+   "龙岩",
+   "济南",
+   "青岛",
+   "郑州",
+   "商丘",
+   "武汉",
+   "长沙",
+   "广州",
+   "深圳",
+   "南宁",
+   "三亚",
+   "成都",
+   "贵阳",
+   "昆明",
+   "西安",
+   "兰州",
+   "北京",
+   "上海",
+   "重庆",
+   "天津",
+   "香港"
+  ],
+  "location_raw": "石家庄 太原 呼和浩特 沈阳 长春 哈尔滨 南京 苏州 杭州 厦门 泉州 龙岩 济南 青岛 郑州 商丘 武汉 长沙 广州 深圳 南宁 三亚 成都 贵阳 昆明 西安 兰州 北京 上海 重庆 天津 香港",
+  "publish_time_raw": "2026-08-13",
+  "publish_time": "2026-08-13 12:00",
+  "deadline": "2026-11-29",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "快消 零售",
+   "careers": "后端开发 前端开发 客户端开发 测试 数据 运维",
+   "note": "国内体育用品龙头企业，多品牌矩阵完善，研发与全球化运营能力领先。"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "4c3d4e96b2a41573",
+  "first_seen": "2026-11-03",
   "last_seen": "2026-11-03"
  },
  {
@@ -92063,33 +92603,6 @@
   "region_level": "primary",
   "company_tag": "硬件大厂",
   "id": "395df34256b9fa85",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-11-03",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "人力资源专员-HRBP",
-  "company": "小米",
-  "locations": [
-   "北京"
-  ],
-  "location_raw": "北京",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-11 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7670924236890851638/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A160521"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "primary",
-  "company_tag": "硬件大厂",
-  "id": "17a99ea1fbfa2d21",
   "first_seen": "2026-08-24",
   "last_seen": "2026-11-03",
   "hq_city": "北京",
@@ -113006,7 +113519,7 @@
   "industry": "",
   "id": "1e61d55eabf91909",
   "first_seen": "2026-08-31",
-  "last_seen": "2026-10-30"
+  "last_seen": "2026-11-03"
  },
  {
   "title": "27校招|班课老师-双休+12w保底年薪 30+城市可选",
@@ -118676,7 +119189,7 @@
   "industry": "",
   "id": "624156b775c88269",
   "first_seen": "2026-08-25",
-  "last_seen": "2026-08-30"
+  "last_seen": "2026-11-03"
  },
  {
   "title": "媒介推广专员",
@@ -122664,7 +123177,7 @@
   "industry": "",
   "id": "7a6e066e74d4d4d8",
   "first_seen": "2026-08-26",
-  "last_seen": "2026-10-26"
+  "last_seen": "2026-11-03"
  },
  {
   "title": "设备安装调试",
@@ -122751,7 +123264,7 @@
   "industry": "",
   "id": "35d535dab57c5c54",
   "first_seen": "2026-10-16",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-11-03"
  },
  {
   "title": "2027届-服务端研发工程师",
@@ -123416,7 +123929,7 @@
   "industry": "互联网",
   "id": "6c3eb3e88f2fe062",
   "first_seen": "2026-09-01",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-11-03"
  },
  {
   "title": "公共事务管培生",
@@ -188856,35 +189369,6 @@
   "last_seen": "2026-11-03"
  },
  {
-  "title": "金城银行 校招网申（秋招）",
-  "company": "金城银行",
-  "locations": [],
-  "location_raw": "",
-  "publish_time_raw": "",
-  "publish_time": "",
-  "deadline": "",
-  "source": "nowcoder_schedule",
-  "url": "https://www.nowcoder.com/jobs/detail/470970?deliverSource=21&pageSource=5021&channel=mainSiteSearch",
-  "extra": {
-   "batch": "",
-   "job_count": 0,
-   "industry": "",
-   "careers": "",
-   "note": ""
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "unknown",
-  "company_tag": "",
-  "hq_city": "",
-  "size_bucket": "",
-  "industry": "",
-  "id": "67d4446445a177b8",
-  "first_seen": "2026-11-02",
-  "last_seen": "2026-11-03"
- },
- {
   "title": "商家产品数据科学实习生 - TikTok Shop",
   "company": "字节跳动",
   "locations": [
@@ -189461,6 +189945,36 @@
   "size_bucket": "10000+",
   "industry": "互联网",
   "id": "6e086e96f3d92369",
+  "first_seen": "2026-11-03",
+  "last_seen": "2026-11-03"
+ },
+ {
+  "title": "抖音星图产品运营经理 - 抖音品牌营销与星图达人",
+  "company": "字节跳动",
+  "locations": [
+   "北京",
+   "上海"
+  ],
+  "location_raw": "北京、上海",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "bytedance",
+  "url": "https://jobs.bytedance.com/campus/position/7703467526621923637/detail",
+  "extra": {
+   "category": "运营",
+   "recruit_type": "正式",
+   "subject": "2027届校园招聘",
+   "code": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "db80cc93a9cd8247",
   "first_seen": "2026-11-03",
   "last_seen": "2026-11-03"
  }
