@@ -1,5 +1,179 @@
 [
  {
+  "title": "电气工程师",
+  "company": "上海擎郝自动化设备有限公司",
+  "locations": [
+   "上海"
+  ],
+  "location_raw": "上海",
+  "publish_time_raw": "2026-11-06 10:16",
+  "publish_time": "2026-11-06 10:16",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-11-06 18:46",
+   "salary": "6-7K·12薪",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "f74bff212370e458",
+  "first_seen": "2026-11-06",
+  "last_seen": "2026-11-06"
+ },
+ {
+  "title": "运维工程师(J14902)",
+  "company": "万兴科技",
+  "locations": [
+   "长沙"
+  ],
+  "location_raw": "长沙",
+  "publish_time_raw": "2026-11-06 08:51",
+  "publish_time": "2026-11-06 08:51",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-11-06 18:45",
+   "salary": "15-25K·12薪",
+   "education": "",
+   "channel": "北森"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "66da6e61e55aef40",
+  "first_seen": "2026-11-06",
+  "last_seen": "2026-11-06"
+ },
+ {
+  "title": "运维工程师-数据库管理（DBA）(J10466)",
+  "company": "中金所技术公司",
+  "locations": [
+   "上海"
+  ],
+  "location_raw": "上海",
+  "publish_time_raw": "2026-11-06 06:44",
+  "publish_time": "2026-11-06 06:44",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-11-06 18:40",
+   "salary": "薪资面议",
+   "education": "",
+   "channel": "北森"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "fe4fcd43d91b67f5",
+  "first_seen": "2026-11-06",
+  "last_seen": "2026-11-06"
+ },
+ {
+  "title": "<27届校招>技术支持工程师",
+  "company": "商米集团",
+  "locations": [
+   "成都"
+  ],
+  "location_raw": "成都",
+  "publish_time_raw": "2026-11-06 06:22",
+  "publish_time": "2026-11-06 06:22",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-11-06 18:46",
+   "salary": "10-13K·14薪",
+   "education": "",
+   "channel": "moka"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "6c73c0bef60bc5a0",
+  "first_seen": "2026-11-06",
+  "last_seen": "2026-11-06"
+ },
+ {
+  "title": "游戏测试工程师—失控进化(J11317)",
+  "company": "无端科技",
+  "locations": [
+   "杭州"
+  ],
+  "location_raw": "杭州",
+  "publish_time_raw": "2026-11-06 05:45",
+  "publish_time": "2026-11-06 05:45",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-11-06 18:44",
+   "salary": "8-14K·15薪",
+   "education": "",
+   "channel": "北森"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "e40f2a0675630c08",
+  "first_seen": "2026-11-06",
+  "last_seen": "2026-11-06"
+ },
+ {
+  "title": "全栈开发工程师(J14845)",
+  "company": "万兴科技",
+  "locations": [
+   "长沙,深圳"
+  ],
+  "location_raw": "长沙,深圳",
+  "publish_time_raw": "2026-11-06 03:42",
+  "publish_time": "2026-11-06 03:42",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-11-06 18:45",
+   "salary": "25-40K·12薪",
+   "education": "",
+   "channel": "北森"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "a35cc91d1d88d418",
+  "first_seen": "2026-11-06",
+  "last_seen": "2026-11-06"
+ },
+ {
   "title": "27届-光学工程师-（苏州）",
   "company": "精智达",
   "locations": [
@@ -218,6 +392,66 @@
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
+ },
+ {
+  "title": "无端科技 校招网申（27届秋招）",
+  "company": "无端科技",
+  "locations": [
+   "杭州"
+  ],
+  "location_raw": "杭州",
+  "publish_time_raw": "2026-11-05",
+  "publish_time": "2026-11-05 12:00",
+  "deadline": "2026-12-30",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "游戏",
+   "careers": "后端开发 前端开发 客户端开发 测试 数据 运维",
+   "note": "一家专注于客户端游戏与网络游戏研发的互联网公司，致力于高品质游戏内容制作。"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "8bd250bc77bbb260",
+  "first_seen": "2026-11-06",
+  "last_seen": "2026-11-06"
+ },
+ {
+  "title": "实习生大专8K本科9K提供住宿",
+  "company": "深圳市乐有家控股集团有限公司",
+  "locations": [
+   "深圳"
+  ],
+  "location_raw": "深圳",
+  "publish_time_raw": "2026-11-05 10:04",
+  "publish_time": "2026-11-05 10:04",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-11-06 18:46",
+   "salary": "5-9K·12薪",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "98705fa3a28c4153",
+  "first_seen": "2026-11-06",
+  "last_seen": "2026-11-06"
  },
  {
   "title": "校招-人力管培生 J14781",
@@ -3388,7 +3622,7 @@
   "industry": "互联网",
   "id": "35bef84c8433abc5",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-05"
+  "last_seen": "2026-11-06"
  },
  {
   "title": "Ai产品经理",
@@ -35477,7 +35711,7 @@
   "industry": "互联网",
   "id": "3de31fb46d106003",
   "first_seen": "2026-09-22",
-  "last_seen": "2026-11-05"
+  "last_seen": "2026-11-06"
  },
  {
   "title": "27届-PQE工程师（南京）",
@@ -64280,7 +64514,7 @@
   "industry": "",
   "id": "b150cf86bdc7d346",
   "first_seen": "2026-09-14",
-  "last_seen": "2026-11-03"
+  "last_seen": "2026-11-06"
  },
  {
   "title": "Java 后端",
@@ -64309,7 +64543,7 @@
   "industry": "",
   "id": "67d5ea94915fa55f",
   "first_seen": "2026-09-14",
-  "last_seen": "2026-10-30"
+  "last_seen": "2026-11-06"
  },
  {
   "title": "主播/主持（无责保底/免费培训）",
@@ -85690,7 +85924,7 @@
   "industry": "",
   "id": "b484dedd1b9a7446",
   "first_seen": "2026-10-15",
-  "last_seen": "2026-11-03"
+  "last_seen": "2026-11-06"
  },
  {
   "title": "投稿策略实习生 - 抖音生态",
@@ -114088,7 +114322,7 @@
   "industry": "",
   "id": "1e61d55eabf91909",
   "first_seen": "2026-08-31",
-  "last_seen": "2026-11-05"
+  "last_seen": "2026-11-06"
  },
  {
   "title": "27校招|班课老师-双休+12w保底年薪 30+城市可选",
@@ -124556,7 +124790,7 @@
   "industry": "互联网",
   "id": "6c3eb3e88f2fe062",
   "first_seen": "2026-09-01",
-  "last_seen": "2026-11-05"
+  "last_seen": "2026-11-06"
  },
  {
   "title": "公共事务管培生",
@@ -125165,7 +125399,7 @@
   "industry": "互联网",
   "id": "3aa0121c4205052e",
   "first_seen": "2026-09-01",
-  "last_seen": "2026-10-27"
+  "last_seen": "2026-11-06"
  },
  {
   "title": "特效开发实习生-抖音直播",
@@ -143978,7 +144212,7 @@
   "industry": "互联网",
   "id": "ea825777dd160596",
   "first_seen": "2026-08-28",
-  "last_seen": "2026-11-05"
+  "last_seen": "2026-11-06"
  },
  {
   "title": "模型运营（IP与版权方向） - 内容质量与数据服务平台",
@@ -148829,7 +149063,7 @@
   "industry": "互联网",
   "id": "9e52a74f71a854f3",
   "first_seen": "2026-09-04",
-  "last_seen": "2026-11-05"
+  "last_seen": "2026-11-06"
  },
  {
   "title": "游戏品牌营销（休闲模拟）【2027届】",
@@ -148854,7 +149088,7 @@
   "industry": "互联网",
   "id": "c9bfad3b22bf30ef",
   "first_seen": "2026-09-04",
-  "last_seen": "2026-11-05"
+  "last_seen": "2026-11-06"
  },
  {
   "title": "游戏品牌营销（ARPG）【2027届】",
@@ -148879,7 +149113,7 @@
   "industry": "互联网",
   "id": "e21df996e78c48c7",
   "first_seen": "2026-09-04",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-11-06"
  },
  {
   "title": "研发工程师（主站）【2027届】",
@@ -149033,7 +149267,7 @@
   "industry": "互联网",
   "id": "34fcc3bca4fc80ce",
   "first_seen": "2026-09-04",
-  "last_seen": "2026-11-05"
+  "last_seen": "2026-11-06"
  },
  {
   "title": "多模态大模型算法工程师 - TikTok内容安全算法",
@@ -151465,7 +151699,7 @@
   "industry": "互联网",
   "id": "11d827df2de6d5ee",
   "first_seen": "2026-09-07",
-  "last_seen": "2026-11-05"
+  "last_seen": "2026-11-06"
  },
  {
   "title": "创意设计师【2027届】",
@@ -157865,7 +158099,7 @@
   "industry": "互联网",
   "id": "93afecaefdca8850",
   "first_seen": "2026-09-14",
-  "last_seen": "2026-11-05"
+  "last_seen": "2026-11-06"
  },
  {
   "title": "达人运营实习生 - 抖音电商运营",
@@ -169884,7 +170118,7 @@
   "industry": "互联网",
   "id": "616c93329f26802d",
   "first_seen": "2026-09-30",
-  "last_seen": "2026-11-05"
+  "last_seen": "2026-11-06"
  },
  {
   "title": "数据（音乐方向）实习生 - AI数据与安全",
@@ -177060,7 +177294,7 @@
   "industry": "互联网",
   "id": "4e70e217321e1d4b",
   "first_seen": "2026-10-15",
-  "last_seen": "2026-11-05"
+  "last_seen": "2026-11-06"
  },
  {
   "title": "AI大前端开发实习生 - 番茄小说/红果短剧/番茄畅听",
@@ -186566,7 +186800,7 @@
   "industry": "互联网",
   "id": "ee73b66d6fedb772",
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-05"
+  "last_seen": "2026-11-06"
  },
  {
   "title": "豆包大模型端侧工程实习生（嵌入式AI/端到端语音方向） - Data语音",
