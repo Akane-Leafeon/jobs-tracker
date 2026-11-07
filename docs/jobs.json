@@ -87,6 +87,35 @@
   "last_seen": "2026-11-07"
  },
  {
+  "title": "软件开发工程师-Java开发(J10463)",
+  "company": "中金所技术公司",
+  "locations": [
+   "上海"
+  ],
+  "location_raw": "上海",
+  "publish_time_raw": "2026-11-06 06:50",
+  "publish_time": "2026-11-06 06:50",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-11-07 17:10",
+   "salary": "薪资面议",
+   "education": "",
+   "channel": "北森"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "a837f3d0efb46e32",
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07"
+ },
+ {
   "title": "运维工程师-数据库管理（DBA）(J10466)",
   "company": "中金所技术公司",
   "locations": [
@@ -1188,7 +1217,7 @@
   "industry": "",
   "id": "237a121c5166a7b3",
   "first_seen": "2026-11-05",
-  "last_seen": "2026-11-05"
+  "last_seen": "2026-11-07"
  },
  {
   "title": "Java开发工程师，应届生可以培养，全国可推",
@@ -3652,6 +3681,43 @@
   "id": "26f8db2d1cc634d7",
   "first_seen": "2026-10-26",
   "last_seen": "2026-10-27"
+ },
+ {
+  "title": "深南电路 校招网申（27届秋招）",
+  "company": "深南电路",
+  "locations": [
+   "无锡",
+   "南通",
+   "武汉",
+   "广州",
+   "深圳",
+   "成都",
+   "北京"
+  ],
+  "location_raw": "无锡 南通 武汉 广州 深圳 成都 北京",
+  "publish_time_raw": "2026-10-26",
+  "publish_time": "2026-10-26 12:00",
+  "deadline": "2026-12-26",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "",
+   "careers": "后端开发 测试 运维 人工智能/算法 硬件工程师 电子/半导体",
+   "note": "高端印制电路板上市企业，薪酬竞争力强，电子制造赛道，封装基板研发平台完备。"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "d093012ca8bf6553",
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07"
  },
  {
   "title": "商业分析",
@@ -20468,6 +20534,37 @@
   "last_seen": "2026-11-07"
  },
  {
+  "title": "中国光大银行北京分行 校招网申（27届秋招）",
+  "company": "中国光大银行北京分行",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "2026-10-11",
+  "publish_time": "2026-10-11 12:00",
+  "deadline": "2026-11-07",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "",
+   "careers": "后端开发 前端开发 客户端开发 测试 数据 运维",
+   "note": "股份制银行首都分支机构，薪资稳定，福利完善，综合金融客户资源集中。"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "efd009d072467c85",
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07"
+ },
+ {
   "title": "鍖椾含甯傛竻鍗庡ぇ瀛﹂檮灞炰腑瀛︽湜浜�瀛︽牎|娓呭崕澶у�﹂檮灞炰腑瀛︽湞闃冲�︽牎",
   "company": "楂樻牎浜烘墠缃�",
   "locations": [
@@ -21678,6 +21775,68 @@
   "industry": "",
   "id": "323a6ab502701dbf",
   "first_seen": "2026-11-03",
+  "last_seen": "2026-11-07"
+ },
+ {
+  "title": "杭州民生健康药业 校招网申（27届秋招）",
+  "company": "杭州民生健康药业",
+  "locations": [
+   "杭州"
+  ],
+  "location_raw": "杭州",
+  "publish_time_raw": "2026-10-10",
+  "publish_time": "2026-10-10 12:00",
+  "deadline": "2026-12-10",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "",
+   "careers": "机械 化工 电气/自动化 技术支持 运营 市场/营销",
+   "note": "健康消费上市企业，薪酬绩效清晰，膳食补充剂赛道，产品研发渠道资源充足。"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "05a604cca1584d7a",
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07"
+ },
+ {
+  "title": "深圳海普瑞药业 校招网申（27届秋招）",
+  "company": "深圳海普瑞药业",
+  "locations": [
+   "深圳"
+  ],
+  "location_raw": "深圳",
+  "publish_time_raw": "2026-10-10",
+  "publish_time": "2026-10-10 12:00",
+  "deadline": "2026-12-10",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "",
+   "careers": "运维 机械 化工 电气/自动化 技术支持 运营",
+   "note": "生物医药上市企业，薪酬待遇完善，原料药赛道，海外医药市场资源广阔。"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "fb423906d6ce35d7",
+  "first_seen": "2026-11-07",
   "last_seen": "2026-11-07"
  },
  {
@@ -23606,7 +23765,7 @@
   "industry": "",
   "id": "46948c2f96240ed5",
   "first_seen": "2026-10-30",
-  "last_seen": "2026-11-03"
+  "last_seen": "2026-11-07"
  },
  {
   "title": "乐禾食品 校招网申（27届秋招）",
@@ -23896,6 +24055,158 @@
   "industry": "芯片半导体",
   "id": "c62f7145fa0abc26",
   "first_seen": "2026-11-03",
+  "last_seen": "2026-11-07"
+ },
+ {
+  "title": "剧星传媒 校招网申（27届秋招）",
+  "company": "剧星传媒",
+  "locations": [
+   "杭州",
+   "合肥",
+   "厦门",
+   "郑州",
+   "广州",
+   "深圳",
+   "北京",
+   "上海",
+   "天津"
+  ],
+  "location_raw": "杭州 合肥 厦门 郑州 广州 深圳 北京 上海 天津",
+  "publish_time_raw": "2026-10-09",
+  "publish_time": "2026-10-09 12:00",
+  "deadline": "2026-12-09",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "",
+   "careers": "运营 项目 市场/营销 销售类 公关媒介 商务",
+   "note": "广告传媒上市企业，薪酬激励清晰，品牌营销赛道，全媒体品牌项目资源丰富。"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "2673341ef2449eb8",
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07"
+ },
+ {
+  "title": "侨益物流股份有限公司 校招网申（27届秋招）",
+  "company": "侨益物流股份有限公司",
+  "locations": [
+   "长春",
+   "哈尔滨",
+   "青岛",
+   "广州",
+   "湛江",
+   "茂名",
+   "东莞",
+   "钦州",
+   "上海"
+  ],
+  "location_raw": "长春 哈尔滨 青岛 广州 湛江 茂名 东莞 钦州 上海",
+  "publish_time_raw": "2026-10-09",
+  "publish_time": "2026-10-09 12:00",
+  "deadline": "2026-12-09",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "",
+   "careers": "市场/营销 客服 商务 管理 管理培训生 咨询/调研",
+   "note": "农产品物流与供应链龙头，数字化程度高，港口资源丰富，物流供应链成长空间广"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "dd5d1a9f73844edb",
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07"
+ },
+ {
+  "title": "江西银行 校招网申（27届秋招）",
+  "company": "江西银行",
+  "locations": [
+   "南昌",
+   "景德镇",
+   "萍乡",
+   "九江",
+   "新余",
+   "鹰潭",
+   "赣州",
+   "吉安",
+   "宜春",
+   "抚州",
+   "上饶"
+  ],
+  "location_raw": "南昌 景德镇 萍乡 九江 新余 鹰潭 赣州 吉安 宜春 抚州 上饶",
+  "publish_time_raw": "2026-10-09",
+  "publish_time": "2026-10-09 12:00",
+  "deadline": "2026-11-05",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "银行",
+   "careers": "后端开发 前端开发 客户端开发 测试 数据 运维",
+   "note": "省级城商行，薪酬福利规范，业务板块齐全，省内实体经济项目资源丰富。"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "63abe7847bb73420",
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07"
+ },
+ {
+  "title": "深圳市路特创新科技有限公司 校招网申（27届秋招）",
+  "company": "深圳市路特创新科技有限公司",
+  "locations": [
+   "深圳",
+   "北京",
+   "上海"
+  ],
+  "location_raw": "深圳 北京 上海",
+  "publish_time_raw": "2026-10-09",
+  "publish_time": "2026-10-09 12:00",
+  "deadline": "2026-12-09",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "",
+   "careers": "后端开发 数据 人工智能/算法 硬件工程师 电子/半导体 通信",
+   "note": "汽车智能驾驶技术供应商，专注视觉感知与域控制器。"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "212124a3586756f2",
+  "first_seen": "2026-11-07",
   "last_seen": "2026-11-07"
  },
  {
@@ -26096,6 +26407,101 @@
   "last_seen": "2026-11-02"
  },
  {
+  "title": "北森 校招网申（27届秋招）",
+  "company": "北森",
+  "locations": [
+   "大连",
+   "成都",
+   "北京"
+  ],
+  "location_raw": "大连 成都 北京",
+  "publish_time_raw": "2026-10-08",
+  "publish_time": "2026-10-08 12:00",
+  "deadline": "2026-12-08",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "企业服务",
+   "careers": "后端开发 前端开发 测试 数据 运维 人工智能/算法",
+   "note": "国内 HR SaaS 龙头企业，人才管理技术领先，产品体系成熟，职业成长规范"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "aa24c253c99fa6dd",
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07"
+ },
+ {
+  "title": "湖南省融资担保集团有限公司 校招网申（27届秋招）",
+  "company": "湖南省融资担保集团有限公司",
+  "locations": [
+   "长沙"
+  ],
+  "location_raw": "长沙",
+  "publish_time_raw": "2026-10-08",
+  "publish_time": "2026-10-08 12:00",
+  "deadline": "2026-10-30",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "",
+   "careers": "项目 风控",
+   "note": "省属国有担保平台，薪资稳定福利完善，普惠金融赛道，省内产业资源充足。"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "9ddd3020b51b8d74",
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07"
+ },
+ {
+  "title": "迈维代谢 校招网申（27届秋招）",
+  "company": "迈维代谢",
+  "locations": [
+   "武汉"
+  ],
+  "location_raw": "武汉",
+  "publish_time_raw": "2026-10-08",
+  "publish_time": "2026-10-08 12:00",
+  "deadline": "2026-12-08",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "",
+   "careers": "研发工程师 化工 市场/营销 销售类 商务 生物制药",
+   "note": "多组学生物科创企业，薪资竞争力强，生命科学赛道，质谱检测研发场景丰富。"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "4343c177941a8317",
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07"
+ },
+ {
   "title": "全栈开发",
   "company": "字节跳动",
   "locations": [
@@ -26479,6 +26885,150 @@
   "id": "5caee6edff683386",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-08"
+ },
+ {
+  "title": "正元智慧 校招网申（27届秋招）",
+  "company": "正元智慧",
+  "locations": [
+   "南京",
+   "杭州",
+   "宁波",
+   "温州",
+   "台州",
+   "合肥",
+   "武汉",
+   "长沙",
+   "广州",
+   "深圳",
+   "兰州",
+   "北京",
+   "上海"
+  ],
+  "location_raw": "南京 杭州 宁波 温州 台州 合肥 武汉 长沙 广州 深圳 兰州 北京 上海",
+  "publish_time_raw": "2026-10-07",
+  "publish_time": "2026-10-07 12:00",
+  "deadline": "2026-12-07",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "",
+   "careers": "后端开发 测试 数据 运维 研发工程师 销售技术支持",
+   "note": "上市智慧物联企业，薪资结构清晰，校园数字化项目储备丰富。"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "0b19eba764e74cee",
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07"
+ },
+ {
+  "title": "宁波旭升集团股份有限公司 校招网申（27届秋招）",
+  "company": "宁波旭升集团股份有限公司",
+  "locations": [
+   "宁波",
+   "湖州"
+  ],
+  "location_raw": "宁波 湖州",
+  "publish_time_raw": "2026-10-07",
+  "publish_time": "2026-10-07 12:00",
+  "deadline": "2026-12-07",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "",
+   "careers": "机械 化工 电气/自动化 技术支持 项目 市场/营销",
+   "note": "新能源压铸上市企业，薪酬绩效清晰，轻量化赛道，海外整车客户资源丰富。"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "7ac0f293c1d3b995",
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07"
+ },
+ {
+  "title": "长航集团 校招网申（27届秋招）",
+  "company": "长航集团",
+  "locations": [
+   "南京",
+   "舟山",
+   "芜湖",
+   "武汉",
+   "上海",
+   "重庆"
+  ],
+  "location_raw": "南京 舟山 芜湖 武汉 上海 重庆",
+  "publish_time_raw": "2026-10-07",
+  "publish_time": "2026-10-07 12:00",
+  "deadline": "2026-12-07",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "机械制造 能源 硬件 汽车制造 工程建造",
+   "careers": "教育 商务 机械 贸易 运营 工业类设计",
+   "note": "招商局旗下老牌航运央企，薪资稳定保障到位，江海航运、游轮文旅板块多元。"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "5a37333f8b378ec9",
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07"
+ },
+ {
+  "title": "招商银行贵阳分行 校招网申（27届秋招）",
+  "company": "招商银行贵阳分行",
+  "locations": [
+   "贵阳",
+   "六盘水",
+   "遵义"
+  ],
+  "location_raw": "贵阳 六盘水 遵义",
+  "publish_time_raw": "2026-10-07",
+  "publish_time": "2026-10-07 12:00",
+  "deadline": "2026-10-09",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "银行 金融",
+   "careers": "后端开发 前端开发 客户端开发 测试 数据 运维",
+   "note": "股份制银行省级分支，薪酬绩效透明，福利完善，对公零售业务资源充足。"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "95d0b2c297e386f7",
+  "first_seen": "2026-11-07",
+  "last_seen": "2026-11-07"
  },
  {
   "title": "鍖椾含甯傛捣娣�瀹為獙涓�瀛�",
@@ -119891,7 +120441,7 @@
   "industry": "",
   "id": "f470d5c60bd34a90",
   "first_seen": "2026-09-18",
-  "last_seen": "2026-11-04"
+  "last_seen": "2026-11-07"
  },
  {
   "title": "小米集团 校招网申（27届秋招）",
@@ -125834,7 +126384,7 @@
   "industry": "",
   "id": "90ddbb5a58da0863",
   "first_seen": "2026-08-31",
-  "last_seen": "2026-11-03"
+  "last_seen": "2026-11-07"
  },
  {
   "title": "风险管理",
