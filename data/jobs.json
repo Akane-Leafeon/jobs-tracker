@@ -1,5 +1,34 @@
 [
  {
+  "title": "27届-AI软件工程师-苏州",
+  "company": "精智达",
+  "locations": [
+   "苏州"
+  ],
+  "location_raw": "苏州",
+  "publish_time_raw": "2026-11-07 07:37",
+  "publish_time": "2026-11-07 07:37",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-11-08 16:49",
+   "salary": "15-25K·13薪",
+   "education": "",
+   "channel": "moka"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "a86f1655136e5951",
+  "first_seen": "2026-11-08",
+  "last_seen": "2026-11-08"
+ },
+ {
   "title": "电气工程师",
   "company": "上海擎郝自动化设备有限公司",
   "locations": [
@@ -55,7 +84,7 @@
   "industry": "",
   "id": "66da6e61e55aef40",
   "first_seen": "2026-11-06",
-  "last_seen": "2026-11-07"
+  "last_seen": "2026-11-08"
  },
  {
   "title": "质量工程师(J14936)",
@@ -3775,7 +3804,7 @@
   "industry": "互联网",
   "id": "1038184c7ace6fb4",
   "first_seen": "2026-10-26",
-  "last_seen": "2026-11-07"
+  "last_seen": "2026-11-08"
  },
  {
   "title": "商业分析",
@@ -20242,7 +20271,7 @@
   "industry": "",
   "id": "0c640916ee76c621",
   "first_seen": "2026-10-12",
-  "last_seen": "2026-10-14"
+  "last_seen": "2026-11-08"
  },
  {
   "title": "新华保险 校招网申（27届秋招）",
@@ -36450,7 +36479,7 @@
   "industry": "互联网",
   "id": "3de31fb46d106003",
   "first_seen": "2026-09-22",
-  "last_seen": "2026-11-07"
+  "last_seen": "2026-11-08"
  },
  {
   "title": "27届-PQE工程师（南京）",
@@ -37824,7 +37853,7 @@
   "industry": "",
   "id": "341709bf20f0be51",
   "first_seen": "2026-10-31",
-  "last_seen": "2026-10-31"
+  "last_seen": "2026-11-08"
  },
  {
   "title": "供应链运营专员",
@@ -55222,7 +55251,7 @@
   "industry": "",
   "id": "a154e4b3683c1997",
   "first_seen": "2026-09-08",
-  "last_seen": "2026-11-06"
+  "last_seen": "2026-11-08"
  },
  {
   "title": "算法（风控/合规方向）实习生 - 国际支付",
@@ -65253,7 +65282,7 @@
   "industry": "",
   "id": "b150cf86bdc7d346",
   "first_seen": "2026-09-14",
-  "last_seen": "2026-11-07"
+  "last_seen": "2026-11-08"
  },
  {
   "title": "Java 后端",
@@ -65282,7 +65311,7 @@
   "industry": "",
   "id": "67d5ea94915fa55f",
   "first_seen": "2026-09-14",
-  "last_seen": "2026-11-07"
+  "last_seen": "2026-11-08"
  },
  {
   "title": "主播/主持（无责保底/免费培训）",
@@ -75170,7 +75199,7 @@
   "industry": "",
   "id": "f3dec441d9854860",
   "first_seen": "2026-09-26",
-  "last_seen": "2026-11-02"
+  "last_seen": "2026-11-08"
  },
  {
   "title": "客服管培生（AI智能服务）",
@@ -78823,7 +78852,7 @@
   "industry": "",
   "id": "a25992bc57c9e9ee",
   "first_seen": "2026-08-26",
-  "last_seen": "2026-11-06"
+  "last_seen": "2026-11-08"
  },
  {
   "title": "agent开发",
@@ -110163,7 +110192,7 @@
   "industry": "硬件",
   "id": "f45972cd7ccc6da9",
   "first_seen": "2026-09-09",
-  "last_seen": "2026-11-07"
+  "last_seen": "2026-11-08"
  },
  {
   "title": "声学工程师-内推码DNK2026",
@@ -110340,7 +110369,7 @@
   "industry": "硬件",
   "id": "9419dfa1cecd57b2",
   "first_seen": "2026-10-30",
-  "last_seen": "2026-11-07"
+  "last_seen": "2026-11-08"
  },
  {
   "title": "【27校招 - 联合动力】生产质量工程师",
@@ -115061,7 +115090,7 @@
   "industry": "",
   "id": "1e61d55eabf91909",
   "first_seen": "2026-08-31",
-  "last_seen": "2026-11-06"
+  "last_seen": "2026-11-08"
  },
  {
   "title": "27校招|班课老师-双休+12w保底年薪 30+城市可选",
@@ -115206,7 +115235,7 @@
   "industry": "",
   "id": "660b6909ad0ee75b",
   "first_seen": "2026-10-24",
-  "last_seen": "2026-11-07"
+  "last_seen": "2026-11-08"
  },
  {
   "title": "医药行业-猎头管培生",
@@ -120575,6 +120604,38 @@
   "last_seen": "2026-11-07"
  },
  {
+  "title": "中金所技术公司 校招网申（27届实习）",
+  "company": "中金所技术公司",
+  "locations": [
+   "苏州",
+   "上海"
+  ],
+  "location_raw": "苏州 上海",
+  "publish_time_raw": "2026-05-19",
+  "publish_time": "2026-05-19 12:00",
+  "deadline": "2026-06-06",
+  "source": "nowcoder_schedule",
+  "url": "https://www.nowcoder.com/enterprise/2746?page=1&recruitType=1",
+  "extra": {
+   "batch": "27届实习",
+   "job_count": 0,
+   "industry": "交易所",
+   "careers": "后端开发 前端开发 数据 运维 人工智能/算法 研发工程师",
+   "note": "金融期货技术核心，交易所全资子公司，高并发低延迟，硕博占比高。"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "03f3a5babe55bb7a",
+  "first_seen": "2026-11-08",
+  "last_seen": "2026-11-08"
+ },
+ {
   "title": "小米集团 校招网申（27届秋招）",
   "company": "小米集团",
   "locations": [
@@ -122760,7 +122821,7 @@
   "industry": "",
   "id": "8437536ebe254e09",
   "first_seen": "2026-08-30",
-  "last_seen": "2026-10-23"
+  "last_seen": "2026-11-08"
  },
  {
   "title": "端智能算法实习生-App Infra",
@@ -125732,7 +125793,7 @@
   "industry": "硬件",
   "id": "e0386bf2ba517b0e",
   "first_seen": "2026-11-02",
-  "last_seen": "2026-11-05"
+  "last_seen": "2026-11-08"
  },
  {
   "title": "机器人电机电磁设计实习生-Seed",
@@ -126254,7 +126315,7 @@
   "industry": "互联网",
   "id": "11f132e0fc0ecff5",
   "first_seen": "2026-09-22",
-  "last_seen": "2026-11-02"
+  "last_seen": "2026-11-08"
  },
  {
   "title": "仓储管理培训生管培生（广东省）",
@@ -126283,7 +126344,7 @@
   "industry": "互联网",
   "id": "5f135b64d6609057",
   "first_seen": "2026-09-15",
-  "last_seen": "2026-10-18"
+  "last_seen": "2026-11-08"
  },
  {
   "title": "质控管培生（广东省）",
@@ -126515,7 +126576,7 @@
   "industry": "",
   "id": "90ddbb5a58da0863",
   "first_seen": "2026-08-31",
-  "last_seen": "2026-11-07"
+  "last_seen": "2026-11-08"
  },
  {
   "title": "风险管理",
@@ -194186,6 +194247,168 @@
   "size_bucket": "10000+",
   "industry": "互联网",
   "id": "6d2c02668725fa90",
+  "first_seen": "2026-11-08",
+  "last_seen": "2026-11-08"
+ },
+ {
+  "title": "【北京郑州杭州西藏其它】中华人民共和国水利部直属单位2027校园招聘",
+  "company": "中华人民共和国水利部直属单位2027校园招聘",
+  "locations": [
+   "北京郑州杭州西藏其它"
+  ],
+  "location_raw": "北京郑州杭州西藏其它",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "deadline": "2026-11-10",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-140-940.html",
+  "extra": {
+   "section": "deadline"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "88bbf085c206a455",
+  "first_seen": "2026-11-08",
+  "last_seen": "2026-11-08"
+ },
+ {
+  "title": "【北京】门头沟区教育系统事业单位2027校园招聘",
+  "company": "门头沟区教育系统事业单位2027校园招聘",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "deadline": "2026-11-11",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-140-834.html",
+  "extra": {
+   "section": "deadline"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "2dd602524f9f596a",
+  "first_seen": "2026-11-08",
+  "last_seen": "2026-11-08"
+ },
+ {
+  "title": "【青岛】青岛融资担保集团有限公司2027校园招聘",
+  "company": "青岛融资担保集团有限公司2027校园招聘",
+  "locations": [
+   "青岛"
+  ],
+  "location_raw": "青岛",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "deadline": "2026-11-20",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-139-449.html",
+  "extra": {
+   "section": "deadline"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "220d9934e77d5348",
+  "first_seen": "2026-11-08",
+  "last_seen": "2026-11-08"
+ },
+ {
+  "title": "【河北】国家数据集团有限公司2027校园招聘",
+  "company": "国家数据集团有限公司2027校园招聘",
+  "locations": [
+   "河北"
+  ],
+  "location_raw": "河北",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "deadline": "2026-11-30",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-142-816.html",
+  "extra": {
+   "section": "deadline"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "e42d90ce1df3091d",
+  "first_seen": "2026-11-08",
+  "last_seen": "2026-11-08"
+ },
+ {
+  "title": "【北京】北京市中日友好医院2027校园招聘",
+  "company": "北京市中日友好医院2027校园招聘",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "deadline": "2026-11-30",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-142-449.html",
+  "extra": {
+   "section": "deadline"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "9800ac4a60ed91d5",
+  "first_seen": "2026-11-08",
+  "last_seen": "2026-11-08"
+ },
+ {
+  "title": "【青岛】青岛国信发展(集团)有限责任公司2027校园招聘",
+  "company": "青岛国信发展(集团)有限责任公司2027校园招聘",
+  "locations": [
+   "青岛"
+  ],
+  "location_raw": "青岛",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "deadline": "2026-11-30",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-139-486.html",
+  "extra": {
+   "section": "deadline"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "5588d2080ec8c308",
   "first_seen": "2026-11-08",
   "last_seen": "2026-11-08"
  }
