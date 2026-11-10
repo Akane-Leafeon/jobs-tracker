@@ -1,5 +1,57 @@
 [
  {
+  "title": "【27校招 - 通用研发】产品数据工程师",
+  "company": "汇川技术",
+  "locations": [
+   "苏州"
+  ],
+  "location_raw": "苏州",
+  "publish_time_raw": "2026-08-06T14:48:00.446912",
+  "publish_time": "2026-11-10 16:15",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca30-7e94-87c0-0011cfcaaa6b",
+  "extra": {
+   "segment": "集团业务-通用研发"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "11124c392359259d",
+  "first_seen": "2026-08-26",
+  "last_seen": "2026-11-10"
+ },
+ {
+  "title": "【27校招 - 通用研发】NVH工程师（博士）",
+  "company": "汇川技术",
+  "locations": [
+   "苏州"
+  ],
+  "location_raw": "苏州",
+  "publish_time_raw": "2026-11-09T10:46:06.999904",
+  "publish_time": "2026-11-10 14:48",
+  "source": "inovance",
+  "url": "https://recruit.inovance.com/#/campus/jobs/01a1be32-c4df-754e-a4ec-93aaaf284cb0",
+  "extra": {
+   "segment": "集团业务-通用研发"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "苏州",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "656b910639460c86",
+  "first_seen": "2026-11-09",
+  "last_seen": "2026-11-10"
+ },
+ {
   "title": "芯片物理设计工程师",
   "company": "小米",
   "locations": [
@@ -110,6 +162,34 @@
   "last_seen": "2026-11-10"
  },
  {
+  "title": "商务经理",
+  "company": "小米",
+  "locations": [
+   "北京",
+   "南京"
+  ],
+  "location_raw": "北京 南京",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-11-10 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671293337206933786/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A203674B"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "硬件大厂",
+  "id": "cf2757485764cc30",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-11-10",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
   "title": "【27校招 - 通用研发】电源硬件工程师",
   "company": "汇川技术",
   "locations": [
@@ -134,32 +214,6 @@
   "industry": "硬件",
   "id": "ce528c9c7af4b3f8",
   "first_seen": "2026-08-26",
-  "last_seen": "2026-11-10"
- },
- {
-  "title": "【27校招 - 通用研发】NVH工程师（博士）",
-  "company": "汇川技术",
-  "locations": [
-   "苏州"
-  ],
-  "location_raw": "苏州",
-  "publish_time_raw": "2026-11-09T10:46:06.999904",
-  "publish_time": "2026-11-10 09:42",
-  "source": "inovance",
-  "url": "https://recruit.inovance.com/#/campus/jobs/01a1be32-c4df-754e-a4ec-93aaaf284cb0",
-  "extra": {
-   "segment": "集团业务-通用研发"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "",
-  "hq_city": "苏州",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "656b910639460c86",
-  "first_seen": "2026-11-09",
   "last_seen": "2026-11-10"
  },
  {
@@ -6520,34 +6574,6 @@
   "region_level": "other",
   "company_tag": "硬件大厂",
   "id": "f8dc1d2a91f652f7",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-11-10",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "商务经理",
-  "company": "小米",
-  "locations": [
-   "北京",
-   "南京"
-  ],
-  "location_raw": "北京 南京",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-10-22 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671293337206933786/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A203674B"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "primary",
-  "company_tag": "硬件大厂",
-  "id": "cf2757485764cc30",
   "first_seen": "2026-08-24",
   "last_seen": "2026-11-10",
   "hq_city": "北京",
@@ -15005,7 +15031,7 @@
   "industry": "硬件",
   "id": "bf40ca4d9c94b718",
   "first_seen": "2026-09-20",
-  "last_seen": "2026-11-09"
+  "last_seen": "2026-11-10"
  },
  {
   "title": "中国区-网格/区经方向-上海",
@@ -37360,7 +37386,7 @@
   "industry": "互联网",
   "id": "3de31fb46d106003",
   "first_seen": "2026-09-22",
-  "last_seen": "2026-11-08"
+  "last_seen": "2026-11-10"
  },
  {
   "title": "27届-PQE工程师（南京）",
@@ -74299,32 +74325,6 @@
   "last_seen": "2026-11-10"
  },
  {
-  "title": "【27校招 - 通用研发】产品数据工程师",
-  "company": "汇川技术",
-  "locations": [
-   "苏州"
-  ],
-  "location_raw": "苏州",
-  "publish_time_raw": "2026-08-06T14:48:00.446912",
-  "publish_time": "2026-08-27 19:17",
-  "source": "inovance",
-  "url": "https://recruit.inovance.com/#/campus/jobs/019f4696-ca30-7e94-87c0-0011cfcaaa6b",
-  "extra": {
-   "segment": "集团业务-通用研发"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "other",
-  "company_tag": "",
-  "hq_city": "苏州",
-  "size_bucket": "10000+",
-  "industry": "硬件",
-  "id": "11124c392359259d",
-  "first_seen": "2026-08-26",
-  "last_seen": "2026-11-10"
- },
- {
   "title": "【27校招 - 通用研发】CAD/CAM软件工程师(博士)",
   "company": "汇川技术",
   "locations": [
@@ -79737,7 +79737,7 @@
   "industry": "硬件",
   "id": "5609f290e525ab35",
   "first_seen": "2026-11-09",
-  "last_seen": "2026-11-09"
+  "last_seen": "2026-11-10"
  },
  {
   "title": "AI测试开发工程师",
@@ -80110,7 +80110,7 @@
   "industry": "",
   "id": "a25992bc57c9e9ee",
   "first_seen": "2026-08-26",
-  "last_seen": "2026-11-08"
+  "last_seen": "2026-11-10"
  },
  {
   "title": "agent开发",
@@ -111283,7 +111283,7 @@
   "industry": "硬件",
   "id": "82d24fb7244dc8f2",
   "first_seen": "2026-09-06",
-  "last_seen": "2026-11-05"
+  "last_seen": "2026-11-10"
  },
  {
   "title": "机器人机电一体化工程师-内推码DNK2026",
@@ -111341,7 +111341,7 @@
   "industry": "硬件",
   "id": "f45972cd7ccc6da9",
   "first_seen": "2026-09-09",
-  "last_seen": "2026-11-09"
+  "last_seen": "2026-11-10"
  },
  {
   "title": "声学工程师-内推码DNK2026",
@@ -116297,7 +116297,7 @@
   "industry": "",
   "id": "1e61d55eabf91909",
   "first_seen": "2026-08-31",
-  "last_seen": "2026-11-08"
+  "last_seen": "2026-11-10"
  },
  {
   "title": "27校招|班课老师-双休+12w保底年薪 30+城市可选",
@@ -126042,7 +126042,7 @@
   "industry": "",
   "id": "5df497bf76ecf137",
   "first_seen": "2026-08-26",
-  "last_seen": "2026-11-07"
+  "last_seen": "2026-11-10"
  },
  {
   "title": "软件开发工程师（2027届 上海/西安/武汉）",
@@ -126794,7 +126794,7 @@
   "industry": "互联网",
   "id": "48bc44a849b0b5a5",
   "first_seen": "2026-10-10",
-  "last_seen": "2026-11-04"
+  "last_seen": "2026-11-10"
  },
  {
   "title": "摄影师-视频方向",
@@ -126823,7 +126823,7 @@
   "industry": "互联网",
   "id": "3847e2ea1760c718",
   "first_seen": "2026-09-24",
-  "last_seen": "2026-10-27"
+  "last_seen": "2026-11-10"
  },
  {
   "title": "机器人电机驱动器算法实习生 - Seed",
@@ -185113,7 +185113,7 @@
   "industry": "互联网",
   "id": "320be3b1c5bce1cb",
   "first_seen": "2026-10-23",
-  "last_seen": "2026-11-05"
+  "last_seen": "2026-11-10"
  },
  {
   "title": "AI应用开发（AI剪辑）实习生 - 剪映CapCut",
@@ -196956,6 +196956,149 @@
   "industry": "互联网",
   "id": "9110a427d6a8d870",
   "first_seen": "2026-11-09",
+  "last_seen": "2026-11-10"
+ },
+ {
+  "title": "微信 视频号-加热大模型驱动的跨域推荐与商业化全链路优化研究",
+  "company": "腾讯",
+  "locations": [
+   "广州"
+  ],
+  "location_raw": "广州 ",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "tencent",
+  "url": "https://join.qq.com/post.html?postId=1282064466091287556",
+  "extra": {
+   "project": "青云计划-应届生",
+   "recruit_label": "应届毕业生 青云计划",
+   "bgs": "WXG "
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "互联网大厂",
+  "hq_city": "深圳",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "b7d7a6981c5bf257",
+  "first_seen": "2026-11-10",
+  "last_seen": "2026-11-10"
+ },
+ {
+  "title": "叙事智能",
+  "company": "腾讯",
+  "locations": [
+   "深圳",
+   "上海"
+  ],
+  "location_raw": "深圳总部 上海 ",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "tencent",
+  "url": "https://join.qq.com/post.html?postId=1283142377577718784",
+  "extra": {
+   "project": "青云计划-应届生",
+   "recruit_label": "应届毕业生 青云计划",
+   "bgs": "IEG "
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "互联网大厂",
+  "hq_city": "深圳",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "1324e3b4971a08fa",
+  "first_seen": "2026-11-10",
+  "last_seen": "2026-11-10"
+ },
+ {
+  "title": "智能NPC记忆、推理与情感",
+  "company": "腾讯",
+  "locations": [
+   "深圳",
+   "上海"
+  ],
+  "location_raw": "深圳总部 上海 ",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "tencent",
+  "url": "https://join.qq.com/post.html?postId=1283142387409167360",
+  "extra": {
+   "project": "青云计划-应届生",
+   "recruit_label": "应届毕业生 青云计划",
+   "bgs": "IEG "
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "互联网大厂",
+  "hq_city": "深圳",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "9982b7e6138d7ecd",
+  "first_seen": "2026-11-10",
+  "last_seen": "2026-11-10"
+ },
+ {
+  "title": "WXG-高性能大规模向量检索系统",
+  "company": "腾讯",
+  "locations": [
+   "广州"
+  ],
+  "location_raw": "广州 ",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "tencent",
+  "url": "https://join.qq.com/post.html?postId=1284497026289312768",
+  "extra": {
+   "project": "青云计划-应届生",
+   "recruit_label": "应届毕业生 青云计划",
+   "bgs": "WXG "
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "互联网大厂",
+  "hq_city": "深圳",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "bc1370b34ead02ae",
+  "first_seen": "2026-11-10",
+  "last_seen": "2026-11-10"
+ },
+ {
+  "title": "优图实验室-大模型Code Agent模型效果评估与优化研究",
+  "company": "腾讯",
+  "locations": [
+   "北京",
+   "上海"
+  ],
+  "location_raw": "北京 上海 ",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "tencent",
+  "url": "https://join.qq.com/post.html?postId=1286682442098688000",
+  "extra": {
+   "project": "青云计划-应届生",
+   "recruit_label": "应届毕业生 青云计划",
+   "bgs": "CSIG "
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "互联网大厂",
+  "hq_city": "深圳",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "78730b1532c11237",
+  "first_seen": "2026-11-10",
   "last_seen": "2026-11-10"
  }
 ]
