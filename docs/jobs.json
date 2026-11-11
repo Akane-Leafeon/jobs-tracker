@@ -27,6 +27,91 @@
   "last_seen": "2026-11-11"
  },
  {
+  "title": "逆向分析工程师",
+  "company": "小米",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-11-11 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7670892129900644646/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A127513"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "硬件大厂",
+  "id": "540500feb1d71c53",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-11-11",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "机械设计/制造",
+  "company": "南昌海立电器有限公司",
+  "locations": [
+   "全国"
+  ],
+  "location_raw": "全国",
+  "publish_time_raw": "2026-11-11 10:24",
+  "publish_time": "2026-11-11 10:24",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-11-11 18:46",
+   "salary": "10-16K·12薪",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "b844a7abe6ef65fc",
+  "first_seen": "2026-11-11",
+  "last_seen": "2026-11-11"
+ },
+ {
+  "title": "AI GPU 架构性能优化研究生实习生",
+  "company": "英特尔",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "2026-11-11 07:01",
+  "publish_time": "2026-11-11 07:01",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-11-11 19:03",
+   "salary": "5-7K·12薪",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "58ddecacdcb237a6",
+  "first_seen": "2026-11-11",
+  "last_seen": "2026-11-11"
+ },
+ {
   "title": "【27校招 - 通用研发】产品数据工程师",
   "company": "汇川技术",
   "locations": [
@@ -4593,7 +4678,7 @@
   "industry": "互联网",
   "id": "35bef84c8433abc5",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-06"
+  "last_seen": "2026-11-11"
  },
  {
   "title": "Ai产品经理",
@@ -4622,7 +4707,7 @@
   "industry": "互联网",
   "id": "1038184c7ace6fb4",
   "first_seen": "2026-10-26",
-  "last_seen": "2026-11-09"
+  "last_seen": "2026-11-11"
  },
  {
   "title": "商业分析",
@@ -4651,7 +4736,7 @@
   "industry": "互联网",
   "id": "2a384c2985a82b61",
   "first_seen": "2026-11-04",
-  "last_seen": "2026-11-05"
+  "last_seen": "2026-11-11"
  },
  {
   "title": "产品经理",
@@ -4680,7 +4765,7 @@
   "industry": "互联网",
   "id": "bbfb60bbee9bc367",
   "first_seen": "2026-10-27",
-  "last_seen": "2026-11-05"
+  "last_seen": "2026-11-11"
  },
  {
   "title": "大模型应用算法工程师",
@@ -4738,7 +4823,7 @@
   "industry": "互联网",
   "id": "33af90e023fbd8ab",
   "first_seen": "2026-10-27",
-  "last_seen": "2026-11-09"
+  "last_seen": "2026-11-11"
  },
  {
   "title": "【27校招 - 全球工业自动化】行业运营管理工程师（韩语）",
@@ -7065,6 +7150,69 @@
   "id": "0de267a2fc5b408d",
   "first_seen": "2026-10-23",
   "last_seen": "2026-10-23"
+ },
+ {
+  "title": "江铃汽车 校招网申（27届秋招）",
+  "company": "江铃汽车",
+  "locations": [
+   "南昌"
+  ],
+  "location_raw": "南昌",
+  "publish_time_raw": "2026-10-22",
+  "publish_time": "2026-10-22 12:00",
+  "deadline": "2026-12-22",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "汽车制造",
+   "careers": "后端开发 前端开发 客户端开发 测试 数据 运维",
+   "note": "商用车上市车企，薪资发放稳定，整车研发与海内外市场拓展项目储备充足。"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "7ff33ece8fc820a6",
+  "first_seen": "2026-11-11",
+  "last_seen": "2026-11-11"
+ },
+ {
+  "title": "中国信息通信研究院 校招网申（27届秋招）",
+  "company": "中国信息通信研究院",
+  "locations": [
+   "保定",
+   "北京"
+  ],
+  "location_raw": "保定 北京",
+  "publish_time_raw": "2026-10-22",
+  "publish_time": "2026-10-22 12:00",
+  "deadline": "2026-12-22",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "通信电子",
+   "careers": "后端开发 前端开发 客户端开发 测试 数据 运维",
+   "note": "国家级信息通信科研机构，薪资稳定福利完善，5G 与数字经济重大科研项目优质。"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "819063dd5eaabe44",
+  "first_seen": "2026-11-11",
+  "last_seen": "2026-11-11"
  },
  {
   "title": "市场投放",
@@ -9876,6 +10024,77 @@
   "industry": "",
   "id": "b4aab8807325a206",
   "first_seen": "2026-11-09",
+  "last_seen": "2026-11-11"
+ },
+ {
+  "title": "精智达 校招网申（27届秋招）",
+  "company": "精智达",
+  "locations": [
+   "南京",
+   "无锡",
+   "苏州",
+   "合肥",
+   "武汉",
+   "深圳",
+   "上海"
+  ],
+  "location_raw": "南京 无锡 苏州 合肥 武汉 深圳 上海",
+  "publish_time_raw": "2026-10-20",
+  "publish_time": "2026-10-20 12:00",
+  "deadline": "2026-12-20",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "",
+   "careers": "后端开发 测试 人工智能/算法 研发工程师 硬件工程师 电子/半导体",
+   "note": "半导体检测装备上市企业，薪资竞争力强，半导体测试设备研发与国产化项目充足。"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "a0bff498a3981ed4",
+  "first_seen": "2026-11-11",
+  "last_seen": "2026-11-11"
+ },
+ {
+  "title": "高知特 校招网申（27届秋招）",
+  "company": "高知特",
+  "locations": [
+   "大连",
+   "杭州",
+   "成都",
+   "上海"
+  ],
+  "location_raw": "大连 杭州 成都 上海",
+  "publish_time_raw": "2026-10-20",
+  "publish_time": "2026-10-20 12:00",
+  "deadline": "2026-12-20",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "企业服务 互联网",
+   "careers": "后端开发 前端开发 客户端开发 测试 数据 运维",
+   "note": "全球顶尖科技咨询外企，薪酬体系完善，数字化转型项目全球化，专业成长路径清晰。"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "a2272f7aad3fa3aa",
+  "first_seen": "2026-11-11",
   "last_seen": "2026-11-11"
  },
  {
@@ -14560,7 +14779,7 @@
   "company_tag": "硬件大厂",
   "id": "8ddcf78ff34a7224",
   "first_seen": "2026-08-24",
-  "last_seen": "2026-11-10",
+  "last_seen": "2026-11-11",
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
@@ -14676,7 +14895,7 @@
   "company_tag": "硬件大厂",
   "id": "b7d6e19c27325bc3",
   "first_seen": "2026-08-24",
-  "last_seen": "2026-11-10",
+  "last_seen": "2026-11-11",
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
@@ -14823,7 +15042,7 @@
   "company_tag": "硬件大厂",
   "id": "d7ab4b6715ccec09",
   "first_seen": "2026-08-24",
-  "last_seen": "2026-11-10",
+  "last_seen": "2026-11-11",
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
@@ -15031,7 +15250,7 @@
   "industry": "硬件",
   "id": "25ad2e076dbb5f9e",
   "first_seen": "2026-09-20",
-  "last_seen": "2026-11-10"
+  "last_seen": "2026-11-11"
  },
  {
   "title": "中国区-网格/区经方向-重庆",
@@ -15058,7 +15277,7 @@
   "industry": "硬件",
   "id": "bf40ca4d9c94b718",
   "first_seen": "2026-09-20",
-  "last_seen": "2026-11-10"
+  "last_seen": "2026-11-11"
  },
  {
   "title": "中国区-网格/区经方向-上海",
@@ -15136,7 +15355,7 @@
   "company_tag": "硬件大厂",
   "id": "ca8d326de211fbd1",
   "first_seen": "2026-08-24",
-  "last_seen": "2026-11-10",
+  "last_seen": "2026-11-11",
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
@@ -15218,7 +15437,7 @@
   "company_tag": "硬件大厂",
   "id": "1bc6606972121ce1",
   "first_seen": "2026-08-24",
-  "last_seen": "2026-11-10",
+  "last_seen": "2026-11-11",
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
@@ -15380,7 +15599,7 @@
   "company_tag": "硬件大厂",
   "id": "de2292e6dd150766",
   "first_seen": "2026-08-24",
-  "last_seen": "2026-11-10",
+  "last_seen": "2026-11-11",
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
@@ -15542,7 +15761,7 @@
   "company_tag": "硬件大厂",
   "id": "5542f55cdfd22535",
   "first_seen": "2026-08-24",
-  "last_seen": "2026-11-10",
+  "last_seen": "2026-11-11",
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
@@ -15598,7 +15817,7 @@
   "company_tag": "硬件大厂",
   "id": "601856f97dbf3fc7",
   "first_seen": "2026-08-24",
-  "last_seen": "2026-11-10",
+  "last_seen": "2026-11-11",
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
@@ -15652,7 +15871,7 @@
   "company_tag": "硬件大厂",
   "id": "6b24b864f8894f03",
   "first_seen": "2026-08-24",
-  "last_seen": "2026-11-10",
+  "last_seen": "2026-11-11",
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
@@ -15706,7 +15925,7 @@
   "company_tag": "硬件大厂",
   "id": "1cc727dd923f8bef",
   "first_seen": "2026-08-24",
-  "last_seen": "2026-11-10",
+  "last_seen": "2026-11-11",
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
@@ -15895,7 +16114,7 @@
   "company_tag": "硬件大厂",
   "id": "e8b532e85a74081a",
   "first_seen": "2026-08-24",
-  "last_seen": "2026-11-10",
+  "last_seen": "2026-11-11",
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
@@ -16057,7 +16276,7 @@
   "company_tag": "硬件大厂",
   "id": "dad7f52e10a2eedc",
   "first_seen": "2026-08-24",
-  "last_seen": "2026-11-10",
+  "last_seen": "2026-11-11",
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
@@ -16084,7 +16303,7 @@
   "company_tag": "硬件大厂",
   "id": "098564b4cc527e0d",
   "first_seen": "2026-08-24",
-  "last_seen": "2026-11-10",
+  "last_seen": "2026-11-11",
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
@@ -16111,7 +16330,7 @@
   "company_tag": "硬件大厂",
   "id": "095ea6d282dfa02d",
   "first_seen": "2026-08-24",
-  "last_seen": "2026-11-10",
+  "last_seen": "2026-11-11",
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
@@ -16138,7 +16357,7 @@
   "company_tag": "硬件大厂",
   "id": "4b0ad7414c61e285",
   "first_seen": "2026-08-24",
-  "last_seen": "2026-11-10",
+  "last_seen": "2026-11-11",
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
@@ -16165,7 +16384,7 @@
   "company_tag": "硬件大厂",
   "id": "8eef03da85b7caa5",
   "first_seen": "2026-08-24",
-  "last_seen": "2026-11-10",
+  "last_seen": "2026-11-11",
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
@@ -16192,7 +16411,7 @@
   "company_tag": "硬件大厂",
   "id": "825e83b6bbae9614",
   "first_seen": "2026-08-24",
-  "last_seen": "2026-11-10",
+  "last_seen": "2026-11-11",
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
@@ -16246,7 +16465,7 @@
   "company_tag": "硬件大厂",
   "id": "e01b73534029e182",
   "first_seen": "2026-08-24",
-  "last_seen": "2026-11-10",
+  "last_seen": "2026-11-11",
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
@@ -16274,7 +16493,7 @@
   "company_tag": "硬件大厂",
   "id": "66cda37c957adc5f",
   "first_seen": "2026-08-24",
-  "last_seen": "2026-11-10",
+  "last_seen": "2026-11-11",
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
@@ -16357,7 +16576,7 @@
   "company_tag": "硬件大厂",
   "id": "ef93a6a89ea8e78c",
   "first_seen": "2026-08-24",
-  "last_seen": "2026-11-10",
+  "last_seen": "2026-11-11",
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
@@ -16441,7 +16660,7 @@
   "company_tag": "硬件大厂",
   "id": "1cb6780650206ae5",
   "first_seen": "2026-08-24",
-  "last_seen": "2026-11-10",
+  "last_seen": "2026-11-11",
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
@@ -16498,7 +16717,7 @@
   "company_tag": "硬件大厂",
   "id": "3428ef3f23d088bb",
   "first_seen": "2026-08-24",
-  "last_seen": "2026-11-10",
+  "last_seen": "2026-11-11",
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
@@ -16555,7 +16774,7 @@
   "company_tag": "硬件大厂",
   "id": "e128b1eddf71be90",
   "first_seen": "2026-08-24",
-  "last_seen": "2026-11-10",
+  "last_seen": "2026-11-11",
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
@@ -16614,7 +16833,7 @@
   "company_tag": "硬件大厂",
   "id": "590380a78b5faa75",
   "first_seen": "2026-08-24",
-  "last_seen": "2026-11-10",
+  "last_seen": "2026-11-11",
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
@@ -16647,7 +16866,7 @@
   "company_tag": "硬件大厂",
   "id": "c56100c27b5c5805",
   "first_seen": "2026-08-24",
-  "last_seen": "2026-11-10",
+  "last_seen": "2026-11-11",
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
@@ -16684,7 +16903,7 @@
   "company_tag": "硬件大厂",
   "id": "c5b5aef95c0fec0c",
   "first_seen": "2026-08-24",
-  "last_seen": "2026-11-10",
+  "last_seen": "2026-11-11",
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
@@ -16726,7 +16945,7 @@
   "company_tag": "硬件大厂",
   "id": "5815a0212213f5d4",
   "first_seen": "2026-08-24",
-  "last_seen": "2026-11-10",
+  "last_seen": "2026-11-11",
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
@@ -16758,7 +16977,7 @@
   "company_tag": "硬件大厂",
   "id": "deaee5c9db241ab1",
   "first_seen": "2026-08-24",
-  "last_seen": "2026-11-10",
+  "last_seen": "2026-11-11",
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
@@ -16788,7 +17007,7 @@
   "company_tag": "硬件大厂",
   "id": "992eeb9911efe0df",
   "first_seen": "2026-08-24",
-  "last_seen": "2026-11-10",
+  "last_seen": "2026-11-11",
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
@@ -16816,7 +17035,7 @@
   "company_tag": "硬件大厂",
   "id": "1fd8463cc497de7b",
   "first_seen": "2026-08-24",
-  "last_seen": "2026-11-10",
+  "last_seen": "2026-11-11",
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
@@ -16850,7 +17069,7 @@
   "company_tag": "硬件大厂",
   "id": "6e14d7dbd5a2f4d7",
   "first_seen": "2026-08-24",
-  "last_seen": "2026-11-10",
+  "last_seen": "2026-11-11",
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
@@ -16883,7 +17102,7 @@
   "company_tag": "硬件大厂",
   "id": "b20d7c2238f7e42d",
   "first_seen": "2026-08-24",
-  "last_seen": "2026-11-10",
+  "last_seen": "2026-11-11",
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
@@ -16917,7 +17136,7 @@
   "company_tag": "硬件大厂",
   "id": "bf7b176bbfd811ff",
   "first_seen": "2026-08-24",
-  "last_seen": "2026-11-10",
+  "last_seen": "2026-11-11",
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
@@ -16948,7 +17167,7 @@
   "company_tag": "硬件大厂",
   "id": "1cf31e707926e2fb",
   "first_seen": "2026-08-24",
-  "last_seen": "2026-11-10",
+  "last_seen": "2026-11-11",
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
@@ -16977,7 +17196,7 @@
   "company_tag": "硬件大厂",
   "id": "ac0d51d9eb9a1f0b",
   "first_seen": "2026-08-24",
-  "last_seen": "2026-11-10",
+  "last_seen": "2026-11-11",
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
@@ -17008,7 +17227,7 @@
   "company_tag": "硬件大厂",
   "id": "401ae0e57ca87c34",
   "first_seen": "2026-08-24",
-  "last_seen": "2026-11-10",
+  "last_seen": "2026-11-11",
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
@@ -17069,7 +17288,7 @@
   "industry": "硬件",
   "id": "fec0271afdf5b998",
   "first_seen": "2026-09-20",
-  "last_seen": "2026-11-10"
+  "last_seen": "2026-11-11"
  },
  {
   "title": "零售顾问-安徽",
@@ -17096,7 +17315,7 @@
   "industry": "硬件",
   "id": "7f2c2ce061779412",
   "first_seen": "2026-09-20",
-  "last_seen": "2026-11-10"
+  "last_seen": "2026-11-11"
  },
  {
   "title": "新零售校招生-安徽",
@@ -17123,7 +17342,7 @@
   "industry": "硬件",
   "id": "87d00aa91870284e",
   "first_seen": "2026-09-20",
-  "last_seen": "2026-11-10"
+  "last_seen": "2026-11-11"
  },
  {
   "title": "交付顾问-安徽",
@@ -17150,7 +17369,7 @@
   "industry": "硬件",
   "id": "7ffe35b734a65826",
   "first_seen": "2026-10-08",
-  "last_seen": "2026-11-10"
+  "last_seen": "2026-11-11"
  },
  {
   "title": "零售顾问-安徽",
@@ -17177,7 +17396,7 @@
   "industry": "硬件",
   "id": "623c597934de8056",
   "first_seen": "2026-10-11",
-  "last_seen": "2026-11-10"
+  "last_seen": "2026-11-11"
  },
  {
   "title": "鏉句笅鐢靛櫒锛堜腑鍥斤級鏈夐檺鍏�鍙�",
@@ -19963,7 +20182,7 @@
   "company_tag": "硬件大厂",
   "id": "adf88b4a81b3ab0b",
   "first_seen": "2026-08-24",
-  "last_seen": "2026-11-10",
+  "last_seen": "2026-11-11",
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
@@ -19990,7 +20209,7 @@
   "company_tag": "硬件大厂",
   "id": "1da0736eb5a28397",
   "first_seen": "2026-08-24",
-  "last_seen": "2026-11-10",
+  "last_seen": "2026-11-11",
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
@@ -20017,7 +20236,7 @@
   "company_tag": "硬件大厂",
   "id": "9705aab0e0683957",
   "first_seen": "2026-08-24",
-  "last_seen": "2026-11-10",
+  "last_seen": "2026-11-11",
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
@@ -37413,7 +37632,7 @@
   "industry": "互联网",
   "id": "3de31fb46d106003",
   "first_seen": "2026-09-22",
-  "last_seen": "2026-11-10"
+  "last_seen": "2026-11-11"
  },
  {
   "title": "27届-PQE工程师（南京）",
@@ -39911,33 +40130,6 @@
   "last_seen": "2026-09-21"
  },
  {
-  "title": "逆向分析工程师",
-  "company": "小米",
-  "locations": [
-   "北京"
-  ],
-  "location_raw": "北京",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-09-21 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7670892129900644646/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A127513"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "primary",
-  "company_tag": "硬件大厂",
-  "id": "540500feb1d71c53",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-11-11",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
   "title": "涓�鍥藉悍澶嶇爺绌朵腑蹇�",
   "company": "涓�鍥藉悍澶嶇爺绌朵腑蹇�",
   "locations": [
@@ -40904,7 +41096,7 @@
   "industry": "",
   "id": "e35eb6e7676c0c6c",
   "first_seen": "2026-10-10",
-  "last_seen": "2026-11-10"
+  "last_seen": "2026-11-11"
  },
  {
   "title": "2027年校招-Overseas Market",
@@ -66070,7 +66262,7 @@
   "industry": "硬件",
   "id": "42d1a257881ca024",
   "first_seen": "2026-10-19",
-  "last_seen": "2026-11-09"
+  "last_seen": "2026-11-11"
  },
  {
   "title": "AI Agent研发实习生 - 引擎工具",
@@ -80137,7 +80329,7 @@
   "industry": "",
   "id": "a25992bc57c9e9ee",
   "first_seen": "2026-08-26",
-  "last_seen": "2026-11-10"
+  "last_seen": "2026-11-11"
  },
  {
   "title": "agent开发",
@@ -85944,6 +86136,35 @@
   "id": "14f7bf03f91519a9",
   "first_seen": "2026-09-22",
   "last_seen": "2026-09-28"
+ },
+ {
+  "title": "外贸经营管培生",
+  "company": "宁波亚虎进出口有限公司",
+  "locations": [
+   "宁波"
+  ],
+  "location_raw": "宁波",
+  "publish_time_raw": "2026-08-20 02:54",
+  "publish_time": "2026-08-20 02:54",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-11-11 18:46",
+   "salary": "6-10K·12薪",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "3a458d204ec9e9e1",
+  "first_seen": "2026-11-11",
+  "last_seen": "2026-11-11"
  },
  {
   "title": "27届华为秋季校园招聘（AI、算法工程师、软开）",
@@ -106434,7 +106655,7 @@
   "company_tag": "硬件大厂",
   "id": "6b22ba63ae17ab64",
   "first_seen": "2026-08-24",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-11-11",
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
@@ -106461,7 +106682,7 @@
   "company_tag": "硬件大厂",
   "id": "51b71f8d9c333692",
   "first_seen": "2026-08-24",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-11-11",
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
@@ -111545,7 +111766,7 @@
   "industry": "硬件",
   "id": "9419dfa1cecd57b2",
   "first_seen": "2026-10-30",
-  "last_seen": "2026-11-09"
+  "last_seen": "2026-11-11"
  },
  {
   "title": "战略分析-内推码DNK2026",
@@ -112852,7 +113073,7 @@
   "company_tag": "硬件大厂",
   "id": "bdec489b0160b607",
   "first_seen": "2026-08-24",
-  "last_seen": "2026-11-10",
+  "last_seen": "2026-11-11",
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
@@ -112879,7 +113100,7 @@
   "company_tag": "硬件大厂",
   "id": "34de20d2920385a7",
   "first_seen": "2026-08-24",
-  "last_seen": "2026-11-10",
+  "last_seen": "2026-11-11",
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
@@ -112906,7 +113127,7 @@
   "company_tag": "硬件大厂",
   "id": "dac372dfc861be60",
   "first_seen": "2026-08-24",
-  "last_seen": "2026-11-10",
+  "last_seen": "2026-11-11",
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
@@ -112933,7 +113154,7 @@
   "company_tag": "硬件大厂",
   "id": "076f86caae0349d9",
   "first_seen": "2026-08-24",
-  "last_seen": "2026-11-10",
+  "last_seen": "2026-11-11",
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
@@ -116382,7 +116603,7 @@
   "industry": "",
   "id": "7ba73f50a1d5a597",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-11-10"
+  "last_seen": "2026-11-11"
  },
  {
   "title": "班课老师|全国30+城市可选 双休+不限专业",
@@ -116527,7 +116748,7 @@
   "industry": "",
   "id": "beacaa7ea9c1bb92",
   "first_seen": "2026-09-08",
-  "last_seen": "2026-11-07"
+  "last_seen": "2026-11-11"
  },
  {
   "title": "【27校招 - 联合动力】封装工程师",
@@ -125581,7 +125802,7 @@
   "industry": "互联网",
   "id": "6345243ad4a0ff52",
   "first_seen": "2026-11-04",
-  "last_seen": "2026-11-09"
+  "last_seen": "2026-11-11"
  },
  {
   "title": "小语种语言学（印尼语/葡萄牙语）实习生-Data语音",
@@ -126040,7 +126261,7 @@
   "industry": "",
   "id": "7a6e066e74d4d4d8",
   "first_seen": "2026-08-26",
-  "last_seen": "2026-11-03"
+  "last_seen": "2026-11-11"
  },
  {
   "title": "设备安装调试",
