@@ -1,5 +1,90 @@
 [
  {
+  "title": "NPU芯片设计工程师",
+  "company": "小米",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-11-13 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7670906109528770862/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A120769"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "硬件大厂",
+  "id": "9268d705b88afe90",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-11-13",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "数字芯片设计工程师",
+  "company": "小米",
+  "locations": [
+   "北京",
+   "西安",
+   "上海"
+  ],
+  "location_raw": "北京 西安 上海",
+  "publish_time_raw": "2026-08-11",
+  "publish_time": "2026-11-13 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7670905317728012570/detail",
+  "extra": {
+   "department": "生态链",
+   "lark_job_code": "A132027"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "硬件大厂",
+  "id": "33d1a6d685692533",
+  "first_seen": "2026-08-24",
+  "last_seen": "2026-11-13",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件"
+ },
+ {
+  "title": "客服专员",
+  "company": "海马汽车股份有限公司",
+  "locations": [
+   "全国"
+  ],
+  "location_raw": "全国",
+  "publish_time_raw": "2026-11-13 10:51",
+  "publish_time": "2026-11-13 10:51",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-11-13 18:46",
+   "salary": "5-7K·12薪",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "2138b58ce99772d8",
+  "first_seen": "2026-11-13",
+  "last_seen": "2026-11-13"
+ },
+ {
   "title": "Agent 算法工程师",
   "company": "广州市筑流科技有限公司",
   "locations": [
@@ -5064,7 +5149,7 @@
   "industry": "互联网",
   "id": "35bef84c8433abc5",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-11"
+  "last_seen": "2026-11-13"
  },
  {
   "title": "Ai产品经理",
@@ -5093,7 +5178,7 @@
   "industry": "互联网",
   "id": "1038184c7ace6fb4",
   "first_seen": "2026-10-26",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  {
   "title": "商业分析",
@@ -5122,7 +5207,7 @@
   "industry": "互联网",
   "id": "2a384c2985a82b61",
   "first_seen": "2026-11-04",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  {
   "title": "产品经理",
@@ -5151,7 +5236,7 @@
   "industry": "互联网",
   "id": "bbfb60bbee9bc367",
   "first_seen": "2026-10-27",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  {
   "title": "大模型应用算法工程师",
@@ -5180,7 +5265,7 @@
   "industry": "互联网",
   "id": "c47a4cf9f0199355",
   "first_seen": "2026-11-09",
-  "last_seen": "2026-11-09"
+  "last_seen": "2026-11-13"
  },
  {
   "title": "Ai大模型应用开发",
@@ -12121,7 +12206,7 @@
   "company_tag": "硬件大厂",
   "id": "ba6c00764b6d22dd",
   "first_seen": "2026-08-24",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-13",
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
@@ -37613,7 +37698,7 @@
   "industry": "",
   "id": "0be7806dc71bed0a",
   "first_seen": "2026-09-17",
-  "last_seen": "2026-10-30"
+  "last_seen": "2026-11-13"
  },
  {
   "title": "2027届校招-测评产品经理（北京）(J14862)",
@@ -37729,7 +37814,7 @@
   "industry": "",
   "id": "e1673cc98875c305",
   "first_seen": "2026-09-28",
-  "last_seen": "2026-10-09"
+  "last_seen": "2026-11-13"
  },
  {
   "title": "2027届校招-安全工程师（北京）(J14871)",
@@ -38159,7 +38244,7 @@
   "industry": "互联网",
   "id": "3de31fb46d106003",
   "first_seen": "2026-09-22",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  {
   "title": "27届-PQE工程师（南京）",
@@ -79062,33 +79147,6 @@
   "industry": "硬件"
  },
  {
-  "title": "NPU芯片设计工程师",
-  "company": "小米",
-  "locations": [
-   "北京"
-  ],
-  "location_raw": "北京",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-26 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7670906109528770862/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A120769"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "primary",
-  "company_tag": "硬件大厂",
-  "id": "9268d705b88afe90",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-11-13",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
   "title": "NPU芯片架构工程师",
   "company": "小米",
   "locations": [
@@ -79163,35 +79221,6 @@
   "region_level": "primary",
   "company_tag": "硬件大厂",
   "id": "ec61c358f07dfee6",
-  "first_seen": "2026-08-24",
-  "last_seen": "2026-11-13",
-  "hq_city": "北京",
-  "size_bucket": "10000+",
-  "industry": "硬件"
- },
- {
-  "title": "数字芯片设计工程师",
-  "company": "小米",
-  "locations": [
-   "北京",
-   "西安",
-   "上海"
-  ],
-  "location_raw": "北京 西安 上海",
-  "publish_time_raw": "2026-08-11",
-  "publish_time": "2026-08-26 12:00",
-  "source": "xiaomi",
-  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7670905317728012570/detail",
-  "extra": {
-   "department": "生态链",
-   "lark_job_code": "A132027"
-  },
-  "direction": null,
-  "direction_label": "",
-  "priority": "",
-  "region_level": "primary",
-  "company_tag": "硬件大厂",
-  "id": "33d1a6d685692533",
   "first_seen": "2026-08-24",
   "last_seen": "2026-11-13",
   "hq_city": "北京",
@@ -90724,7 +90753,7 @@
   "industry": "硬件",
   "id": "99badfc6e75bbae1",
   "first_seen": "2026-09-24",
-  "last_seen": "2026-09-24"
+  "last_seen": "2026-11-13"
  },
  {
   "title": "AI Infra工程师",
@@ -127411,7 +127440,7 @@
   "industry": "互联网",
   "id": "6c3eb3e88f2fe062",
   "first_seen": "2026-09-01",
-  "last_seen": "2026-11-09"
+  "last_seen": "2026-11-13"
  },
  {
   "title": "公共事务管培生",
@@ -128281,7 +128310,7 @@
   "industry": "互联网",
   "id": "21cf855640e919ab",
   "first_seen": "2026-09-24",
-  "last_seen": "2026-11-04"
+  "last_seen": "2026-11-13"
  },
  {
   "title": "可兼职-西方课程在线辅导Tutor",
@@ -128455,7 +128484,7 @@
   "industry": "",
   "id": "90ddbb5a58da0863",
   "first_seen": "2026-08-31",
-  "last_seen": "2026-11-11"
+  "last_seen": "2026-11-13"
  },
  {
   "title": "风险管理",
@@ -198302,7 +198331,7 @@
   "industry": "互联网",
   "id": "f11e03b2bb8c85ea",
   "first_seen": "2026-11-11",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  {
   "title": "AI音乐内容运营 - 番茄小说",
@@ -199671,6 +199700,35 @@
   "size_bucket": "10000+",
   "industry": "互联网",
   "id": "3de65303809b02c3",
+  "first_seen": "2026-11-13",
+  "last_seen": "2026-11-13"
+ },
+ {
+  "title": "AI for Data算法研究实习生 - TikTok泛架构",
+  "company": "字节跳动",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "bytedance",
+  "url": "https://jobs.bytedance.com/campus/position/7704951612624488709/detail",
+  "extra": {
+   "category": "研发 - 大数据",
+   "recruit_type": "日常实习",
+   "subject": "",
+   "code": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "9068840111c1d918",
   "first_seen": "2026-11-13",
   "last_seen": "2026-11-13"
  }
