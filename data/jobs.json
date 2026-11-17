@@ -26,6 +26,64 @@
   "last_seen": "2026-11-17"
  },
  {
+  "title": "酒店管理储备生",
+  "company": "中山市凯乐酒店管理有限公司",
+  "locations": [
+   "中山"
+  ],
+  "location_raw": "中山",
+  "publish_time_raw": "2026-11-17 10:23",
+  "publish_time": "2026-11-17 10:23",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-11-17 20:11",
+   "salary": "3-4K·12薪",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "b593d1f82ef2e6ec",
+  "first_seen": "2026-11-17",
+  "last_seen": "2026-11-17"
+ },
+ {
+  "title": "（2027届）物理设计-长沙",
+  "company": "湖南国科微电子股份有限公司",
+  "locations": [
+   "长沙"
+  ],
+  "location_raw": "长沙",
+  "publish_time_raw": "2026-11-16 11:22",
+  "publish_time": "2026-11-16 11:22",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-11-17 20:11",
+   "salary": "15-25K·12薪",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "芯片半导体大厂",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "256fc3c97bfb0c07",
+  "first_seen": "2026-11-17",
+  "last_seen": "2026-11-17"
+ },
+ {
   "title": "校招-后端工程师（成都）（J14869）",
   "company": "北森",
   "locations": [
@@ -5989,7 +6047,7 @@
   "industry": "互联网",
   "id": "35bef84c8433abc5",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-13"
+  "last_seen": "2026-11-17"
  },
  {
   "title": "Ai产品经理",
@@ -6018,7 +6076,7 @@
   "industry": "互联网",
   "id": "1038184c7ace6fb4",
   "first_seen": "2026-10-26",
-  "last_seen": "2026-11-16"
+  "last_seen": "2026-11-17"
  },
  {
   "title": "商业分析",
@@ -6105,7 +6163,7 @@
   "industry": "互联网",
   "id": "c47a4cf9f0199355",
   "first_seen": "2026-11-09",
-  "last_seen": "2026-11-16"
+  "last_seen": "2026-11-17"
  },
  {
   "title": "Ai大模型应用开发",
@@ -6134,7 +6192,7 @@
   "industry": "互联网",
   "id": "33af90e023fbd8ab",
   "first_seen": "2026-10-27",
-  "last_seen": "2026-11-11"
+  "last_seen": "2026-11-17"
  },
  {
   "title": "【27校招 - 全球工业自动化】行业运营管理工程师（韩语）",
@@ -27052,6 +27110,39 @@
   "last_seen": "2026-11-15"
  },
  {
+  "title": "东风科技 校招网申（27届秋招）",
+  "company": "东风科技",
+  "locations": [
+   "武汉",
+   "十堰",
+   "襄阳"
+  ],
+  "location_raw": "武汉 十堰 襄阳",
+  "publish_time_raw": "2026-10-09",
+  "publish_time": "2026-10-09 12:00",
+  "deadline": "2026-12-09",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "",
+   "careers": "后端开发 前端开发 客户端开发 测试 数据 运维",
+   "note": "汽车零部件上市国企，薪酬稳定，配套福利齐全，智能座舱研发机会充足。"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "d77ee71d63ca3adb",
+  "first_seen": "2026-11-17",
+  "last_seen": "2026-11-17"
+ },
+ {
   "title": "存算研发工程师（工程方向/存算与AI） - 芯片研发",
   "company": "字节跳动",
   "locations": [
@@ -29344,6 +29435,37 @@
   "last_seen": "2026-11-11"
  },
  {
+  "title": "中国电建华东院 校招网申（27届秋招）",
+  "company": "中国电建华东院",
+  "locations": [
+   "杭州"
+  ],
+  "location_raw": "杭州",
+  "publish_time_raw": "2026-10-08",
+  "publish_time": "2026-10-08 12:00",
+  "deadline": "2026-12-08",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "",
+   "careers": "后端开发 前端开发 客户端开发 测试 数据 运维",
+   "note": "央企甲级勘测设计院，薪资福利优厚稳定，项目层级高，数字化平台成熟。"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "484dd1512c44a966",
+  "first_seen": "2026-11-17",
+  "last_seen": "2026-11-17"
+ },
+ {
   "title": "全栈开发",
   "company": "字节跳动",
   "locations": [
@@ -29904,6 +30026,143 @@
   "last_seen": "2026-11-08"
  },
  {
+  "title": "文晔科技 校招网申（27届秋招）",
+  "company": "文晔科技",
+  "locations": [
+   "苏州",
+   "杭州",
+   "武汉",
+   "广州",
+   "深圳",
+   "北京",
+   "上海"
+  ],
+  "location_raw": "苏州 杭州 武汉 广州 深圳 北京 上海",
+  "publish_time_raw": "2026-10-07",
+  "publish_time": "2026-10-07 12:00",
+  "deadline": "2026-12-07",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "",
+   "careers": "硬件工程师 电子/半导体 通信 技术支持 运营 市场/营销",
+   "note": "全球半导体元器件通路龙头，薪资规范，原厂资源丰富，汽车电子赛道增长快。"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "e442b11de5b09466",
+  "first_seen": "2026-11-17",
+  "last_seen": "2026-11-17"
+ },
+ {
+  "title": "浙达精益 校招网申（27届秋招）",
+  "company": "浙达精益",
+  "locations": [
+   "杭州"
+  ],
+  "location_raw": "杭州",
+  "publish_time_raw": "2026-10-07",
+  "publish_time": "2026-10-07 12:00",
+  "deadline": "2026-12-07",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "",
+   "careers": "测试 硬件工程师 电子/半导体 通信 技术支持 机械",
+   "note": "传感检测领域专精企业，薪资竞争力强，重大工程项目多，产学研资源优质。"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "aababb8059091bbb",
+  "first_seen": "2026-11-17",
+  "last_seen": "2026-11-17"
+ },
+ {
+  "title": "南京科润工业介质股份有限公司 校招网申（27届秋招）",
+  "company": "南京科润工业介质股份有限公司",
+  "locations": [
+   "长春",
+   "南京",
+   "广州",
+   "重庆"
+  ],
+  "location_raw": "长春 南京 广州 重庆",
+  "publish_time_raw": "2026-10-07",
+  "publish_time": "2026-10-07 12:00",
+  "deadline": "2026-12-07",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "",
+   "careers": "研发工程师 机械 化工 电气/自动化 技术支持 市场/营销",
+   "note": "专精特新小巨人企业，薪酬体系规范，技术项目多，标准制定参与机会多。"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "076244010775ab7a",
+  "first_seen": "2026-11-17",
+  "last_seen": "2026-11-17"
+ },
+ {
+  "title": "澄星股份 校招网申（27届秋招）",
+  "company": "澄星股份",
+  "locations": [
+   "无锡",
+   "钦州",
+   "昆明",
+   "曲靖",
+   "上海"
+  ],
+  "location_raw": "无锡 钦州 昆明 曲靖 上海",
+  "publish_time_raw": "2026-10-07",
+  "publish_time": "2026-10-07 12:00",
+  "deadline": "2026-12-07",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "",
+   "careers": "后端开发 数据 研发工程师 机械 化工 电气/自动化",
+   "note": "精细磷化工上市龙头，薪资发放稳定，绿色工厂平台，研发投入持续充足。"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "e1fd6bc95cd6a79c",
+  "first_seen": "2026-11-17",
+  "last_seen": "2026-11-17"
+ },
+ {
   "title": "鍖椾含甯傛捣娣�瀹為獙涓�瀛�",
   "company": "楂樻牎浜烘墠缃�",
   "locations": [
@@ -30335,6 +30594,37 @@
   "id": "0a900db0b5449a33",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07"
+ },
+ {
+  "title": "昌河飞机工业（集团）有限责任公司 校招网申（27届秋招）",
+  "company": "昌河飞机工业（集团）有限责任公司",
+  "locations": [
+   "景德镇"
+  ],
+  "location_raw": "景德镇",
+  "publish_time_raw": "2026-10-03",
+  "publish_time": "2026-10-03 12:00",
+  "deadline": "2026-12-03",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "",
+   "careers": "后端开发 测试 数据 运维 人工智能/算法 研发工程师",
+   "note": "航空工业直升机核心央企，科研实力强，平台稳定，职业保障与发展空间优越"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "4ddbc2cc80e95018",
+  "first_seen": "2026-11-17",
+  "last_seen": "2026-11-17"
  },
  {
   "title": "鍏冪煶锛堝父宸烇級浜哄伐鏅鸿兘鑱斿悎鍒涙柊涓�蹇冩湁闄愬叕鍙�",
@@ -33577,6 +33867,105 @@
   "last_seen": "2026-10-18"
  },
  {
+  "title": "前程股份 校招网申（27届秋招）",
+  "company": "前程股份",
+  "locations": [
+   "宁波"
+  ],
+  "location_raw": "宁波",
+  "publish_time_raw": "2026-09-29",
+  "publish_time": "2026-09-29 12:00",
+  "deadline": "2026-11-29",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "",
+   "careers": "产品 运营 市场/营销 销售类 商务 管理",
+   "note": "家居出口贸易挂牌企业，薪酬绩效透明，外贸平台成熟，接触海外业务机会多。"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "ddcb20c37fd330f3",
+  "first_seen": "2026-11-17",
+  "last_seen": "2026-11-17"
+ },
+ {
+  "title": "卧龙控股集团 校招网申（27届秋招）",
+  "company": "卧龙控股集团",
+  "locations": [
+   "淮安",
+   "绍兴",
+   "南阳",
+   "上海"
+  ],
+  "location_raw": "淮安 绍兴 南阳 上海",
+  "publish_time_raw": "2026-09-29",
+  "publish_time": "2026-09-29 12:00",
+  "deadline": "2026-11-29",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "",
+   "careers": "研发工程师 电子/半导体 技术支持 机械 化工 电气/自动化",
+   "note": "电机制造行业龙头，全球业务布局，薪酬福利优厚，晋升体系完善。"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "ac99d180cfebbb4e",
+  "first_seen": "2026-11-17",
+  "last_seen": "2026-11-17"
+ },
+ {
+  "title": "智象元一 校招网申（27届秋招）",
+  "company": "智象元一",
+  "locations": [
+   "合肥",
+   "深圳",
+   "北京",
+   "上海"
+  ],
+  "location_raw": "合肥 深圳 北京 上海",
+  "publish_time_raw": "2026-09-29",
+  "publish_time": "2026-09-29 12:00",
+  "deadline": "2026-11-29",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "",
+   "careers": "后端开发 数据 人工智能/算法 研发工程师 产品 运营",
+   "note": "AI 大模型科创企业，薪资优厚，多模态 AI 赛道，算法研发场景充足。"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "0511c3bb991bc8a7",
+  "first_seen": "2026-11-17",
+  "last_seen": "2026-11-17"
+ },
+ {
   "title": "IC设计/验证IC验证工程师（25-26届可投）",
   "company": "湖南六岳微电子有限责任公司",
   "locations": [
@@ -35096,6 +35485,71 @@
   "id": "5a779400cdc02679",
   "first_seen": "2026-09-29",
   "last_seen": "2026-09-29"
+ },
+ {
+  "title": "讯兔科技 校招网申（27届秋招）",
+  "company": "讯兔科技",
+  "locations": [
+   "深圳",
+   "北京",
+   "上海",
+   "香港"
+  ],
+  "location_raw": "深圳 北京 上海 香港",
+  "publish_time_raw": "2026-09-28",
+  "publish_time": "2026-09-28 12:00",
+  "deadline": "2026-11-28",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "",
+   "careers": "后端开发 数据 人工智能/算法 研发工程师 产品 交互/设计",
+   "note": "智能科技行业新锐企业，技术氛围浓厚，薪酬竞争力强，福利体系完善。"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "96f663d20084cdb6",
+  "first_seen": "2026-11-17",
+  "last_seen": "2026-11-17"
+ },
+ {
+  "title": "星卫讯 校招网申（27届秋招）",
+  "company": "星卫讯",
+  "locations": [
+   "成都"
+  ],
+  "location_raw": "成都",
+  "publish_time_raw": "2026-09-28",
+  "publish_time": "2026-09-28 12:00",
+  "deadline": "2026-11-28",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "",
+   "careers": "后端开发 测试 运维 人工智能/算法 硬件工程师 电子/半导体",
+   "note": "卫星通信行业核心企业，技术平台先进，薪酬福利优厚，发展前景良好。"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "6fc7206ff55d53c8",
+  "first_seen": "2026-11-17",
+  "last_seen": "2026-11-17"
  },
  {
   "title": "2027校招-测试环境开发工程师-北京",
@@ -39194,7 +39648,7 @@
   "industry": "互联网",
   "id": "3de31fb46d106003",
   "first_seen": "2026-09-22",
-  "last_seen": "2026-11-15"
+  "last_seen": "2026-11-17"
  },
  {
   "title": "27届-PQE工程师（南京）",
@@ -40281,6 +40735,42 @@
   "industry": "",
   "id": "88d3cf4f77c8b440",
   "first_seen": "2026-11-16",
+  "last_seen": "2026-11-17"
+ },
+ {
+  "title": "盛势启创 校招网申（27届秋招）",
+  "company": "盛势启创",
+  "locations": [
+   "苏州",
+   "杭州",
+   "芜湖",
+   "武汉",
+   "广州",
+   "重庆"
+  ],
+  "location_raw": "苏州 杭州 芜湖 武汉 广州 重庆",
+  "publish_time_raw": "2026-09-22",
+  "publish_time": "2026-09-22 12:00",
+  "deadline": "2026-11-22",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "",
+   "careers": "后端开发 测试 硬件工程师 机械 化工 电气/自动化",
+   "note": "储能科创企业，薪资竞争力强，储能赛道，储能系统研发工程项目机会丰富。"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "4925f8a724527466",
+  "first_seen": "2026-11-17",
   "last_seen": "2026-11-17"
  },
  {
@@ -44026,6 +44516,71 @@
   "industry": "",
   "id": "9b0e0db036c19af9",
   "first_seen": "2026-11-16",
+  "last_seen": "2026-11-17"
+ },
+ {
+  "title": "玖钧传动 校招网申（27届秋招）",
+  "company": "玖钧传动",
+  "locations": [
+   "苏州",
+   "昆山",
+   "深圳"
+  ],
+  "location_raw": "苏州 昆山 深圳",
+  "publish_time_raw": "2026-09-20",
+  "publish_time": "2026-09-20 12:00",
+  "deadline": "2026-11-20",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "",
+   "careers": "后端开发 人工智能/算法 机械 电气/自动化 技术支持 市场/营销",
+   "note": "精密传动零部件企业，薪酬清晰，汽车零部件赛道，部件研发项目充足。"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "1c832eae0a9a4c4f",
+  "first_seen": "2026-11-17",
+  "last_seen": "2026-11-17"
+ },
+ {
+  "title": "红板科技 校招网申（27届秋招）",
+  "company": "红板科技",
+  "locations": [
+   "赣州",
+   "吉安"
+  ],
+  "location_raw": "赣州 吉安",
+  "publish_time_raw": "2026-09-20",
+  "publish_time": "2026-09-20 12:00",
+  "deadline": "2026-11-20",
+  "source": "nowcoder_schedule",
+  "url": "",
+  "extra": {
+   "batch": "27届秋招",
+   "job_count": 0,
+   "industry": "",
+   "careers": "后端开发 测试 运维 研发工程师 机械 化工",
+   "note": "PCB 上市制造企业，薪资发放稳定，电路板赛道，PCB 研发制造场景丰富。"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "dfd80fc963a9182d",
+  "first_seen": "2026-11-17",
   "last_seen": "2026-11-17"
  },
  {
@@ -53564,7 +54119,7 @@
   "industry": "",
   "id": "3931046be0ee9e55",
   "first_seen": "2026-09-15",
-  "last_seen": "2026-11-15"
+  "last_seen": "2026-11-17"
  },
  {
   "title": "分析测试工程师",
@@ -58237,7 +58792,7 @@
   "industry": "",
   "id": "a154e4b3683c1997",
   "first_seen": "2026-09-08",
-  "last_seen": "2026-11-13"
+  "last_seen": "2026-11-17"
  },
  {
   "title": "算法（风控/合规方向）实习生 - 国际支付",
@@ -78247,7 +78802,7 @@
   "industry": "硬件",
   "id": "867a84591c3e6350",
   "first_seen": "2026-09-03",
-  "last_seen": "2026-11-16"
+  "last_seen": "2026-11-17"
  },
  {
   "title": "业务管培生（运力调度）",
@@ -79637,7 +80192,7 @@
   "company_tag": "硬件大厂",
   "id": "d5e921f46a0a026b",
   "first_seen": "2026-08-24",
-  "last_seen": "2026-11-16",
+  "last_seen": "2026-11-17",
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
@@ -79664,7 +80219,7 @@
   "company_tag": "硬件大厂",
   "id": "631437f99231efcc",
   "first_seen": "2026-08-24",
-  "last_seen": "2026-11-16",
+  "last_seen": "2026-11-17",
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
@@ -79693,7 +80248,7 @@
   "company_tag": "硬件大厂",
   "id": "46711f7979f04e3a",
   "first_seen": "2026-08-24",
-  "last_seen": "2026-11-16",
+  "last_seen": "2026-11-17",
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
@@ -79720,7 +80275,7 @@
   "company_tag": "硬件大厂",
   "id": "3fdd7135dc15f34f",
   "first_seen": "2026-08-24",
-  "last_seen": "2026-11-16",
+  "last_seen": "2026-11-17",
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
@@ -79776,7 +80331,7 @@
   "company_tag": "硬件大厂",
   "id": "ce33bea85c3cb183",
   "first_seen": "2026-08-24",
-  "last_seen": "2026-11-16",
+  "last_seen": "2026-11-17",
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
@@ -79804,7 +80359,7 @@
   "company_tag": "硬件大厂",
   "id": "6c2e088b88c23711",
   "first_seen": "2026-08-24",
-  "last_seen": "2026-11-16",
+  "last_seen": "2026-11-17",
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
@@ -80362,7 +80917,7 @@
   "company_tag": "硬件大厂",
   "id": "19df82a59ce60097",
   "first_seen": "2026-08-24",
-  "last_seen": "2026-11-16",
+  "last_seen": "2026-11-17",
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
@@ -80418,7 +80973,7 @@
   "company_tag": "硬件大厂",
   "id": "3ab3c339012e0cde",
   "first_seen": "2026-08-24",
-  "last_seen": "2026-11-16",
+  "last_seen": "2026-11-17",
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
@@ -80445,7 +81000,7 @@
   "company_tag": "硬件大厂",
   "id": "81ebba21795606e7",
   "first_seen": "2026-08-24",
-  "last_seen": "2026-11-16",
+  "last_seen": "2026-11-17",
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
@@ -80472,7 +81027,7 @@
   "company_tag": "硬件大厂",
   "id": "019d8fb538de15f4",
   "first_seen": "2026-08-24",
-  "last_seen": "2026-11-16",
+  "last_seen": "2026-11-17",
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
@@ -80610,7 +81165,7 @@
   "company_tag": "硬件大厂",
   "id": "15f12a9332c7767a",
   "first_seen": "2026-08-24",
-  "last_seen": "2026-11-16",
+  "last_seen": "2026-11-17",
   "hq_city": "北京",
   "size_bucket": "10000+",
   "industry": "硬件"
@@ -81518,7 +82073,7 @@
   "industry": "硬件",
   "id": "ca2d33fa844f882d",
   "first_seen": "2026-11-09",
-  "last_seen": "2026-11-16"
+  "last_seen": "2026-11-17"
  },
  {
   "title": "AI软件工程师",
@@ -81545,7 +82100,7 @@
   "industry": "硬件",
   "id": "e20de5db1dcd7a1a",
   "first_seen": "2026-11-09",
-  "last_seen": "2026-11-16"
+  "last_seen": "2026-11-17"
  },
  {
   "title": "软件开发工程师-影像方向",
@@ -81599,7 +82154,7 @@
   "industry": "硬件",
   "id": "5609f290e525ab35",
   "first_seen": "2026-11-09",
-  "last_seen": "2026-11-16"
+  "last_seen": "2026-11-17"
  },
  {
   "title": "AI测试开发工程师",
@@ -81653,6 +82208,168 @@
   "industry": "硬件",
   "id": "b62e74b469c5a072",
   "first_seen": "2026-11-09",
+  "last_seen": "2026-11-17"
+ },
+ {
+  "title": "无线通信物理层软件工程师",
+  "company": "小米",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "2026-08-26",
+  "publish_time": "2026-08-26 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7670893301117094186/detail",
+  "extra": {
+   "department": "手机部",
+   "lark_job_code": "A91471"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "硬件大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "7f9423a866063970",
+  "first_seen": "2026-11-17",
+  "last_seen": "2026-11-17"
+ },
+ {
+  "title": "无线通信物理层软件工程师",
+  "company": "小米",
+  "locations": [
+   "西安"
+  ],
+  "location_raw": "西安",
+  "publish_time_raw": "2026-08-26",
+  "publish_time": "2026-08-26 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7670893515261413641/detail",
+  "extra": {
+   "department": "手机部",
+   "lark_job_code": "A224724"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "6a91e1d1940a5177",
+  "first_seen": "2026-11-17",
+  "last_seen": "2026-11-17"
+ },
+ {
+  "title": "无线通信物理层软件工程师",
+  "company": "小米",
+  "locations": [
+   "上海"
+  ],
+  "location_raw": "上海",
+  "publish_time_raw": "2026-08-26",
+  "publish_time": "2026-08-26 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7670893142623684870/detail",
+  "extra": {
+   "department": "手机部",
+   "lark_job_code": "A106738"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "硬件大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "1a2725eabd71a4f3",
+  "first_seen": "2026-11-17",
+  "last_seen": "2026-11-17"
+ },
+ {
+  "title": "无线通信协议软件工程师",
+  "company": "小米",
+  "locations": [
+   "西安"
+  ],
+  "location_raw": "西安",
+  "publish_time_raw": "2026-08-26",
+  "publish_time": "2026-08-26 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7670893142622898438/detail",
+  "extra": {
+   "department": "手机部",
+   "lark_job_code": "A38564"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "硬件大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "5486c95380b17ff7",
+  "first_seen": "2026-11-17",
+  "last_seen": "2026-11-17"
+ },
+ {
+  "title": "无线通信协议软件工程师",
+  "company": "小米",
+  "locations": [
+   "上海"
+  ],
+  "location_raw": "上海",
+  "publish_time_raw": "2026-08-26",
+  "publish_time": "2026-08-26 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7670893266509842739/detail",
+  "extra": {
+   "department": "手机部",
+   "lark_job_code": "A157059"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "硬件大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "812696f7b0589b61",
+  "first_seen": "2026-11-17",
+  "last_seen": "2026-11-17"
+ },
+ {
+  "title": "无线通信协议软件工程师",
+  "company": "小米",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "2026-08-26",
+  "publish_time": "2026-08-26 12:00",
+  "source": "xiaomi",
+  "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7670892997173856562/detail",
+  "extra": {
+   "department": "手机部",
+   "lark_job_code": "A106870"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "硬件大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "硬件",
+  "id": "5ea4d955e6c201e2",
+  "first_seen": "2026-11-17",
   "last_seen": "2026-11-17"
  },
  {
@@ -87491,7 +88208,7 @@
   "industry": "",
   "id": "7ece965bdb374687",
   "first_seen": "2026-08-27",
-  "last_seen": "2026-10-30"
+  "last_seen": "2026-11-17"
  },
  {
   "title": "【27校招 - 经纬轨道】结构工程师",
@@ -128268,7 +128985,7 @@
   "industry": "互联网",
   "id": "6345243ad4a0ff52",
   "first_seen": "2026-11-04",
-  "last_seen": "2026-11-16"
+  "last_seen": "2026-11-17"
  },
  {
   "title": "小语种语言学（印尼语/葡萄牙语）实习生-Data语音",
@@ -129479,7 +130196,7 @@
   "industry": "互联网",
   "id": "6c3eb3e88f2fe062",
   "first_seen": "2026-09-01",
-  "last_seen": "2026-11-13"
+  "last_seen": "2026-11-17"
  },
  {
   "title": "公共事务管培生",
@@ -129508,7 +130225,7 @@
   "industry": "互联网",
   "id": "48bc44a849b0b5a5",
   "first_seen": "2026-10-10",
-  "last_seen": "2026-11-16"
+  "last_seen": "2026-11-17"
  },
  {
   "title": "摄影师-视频方向",
@@ -130088,7 +130805,7 @@
   "industry": "互联网",
   "id": "3aa0121c4205052e",
   "first_seen": "2026-09-01",
-  "last_seen": "2026-11-09"
+  "last_seen": "2026-11-17"
  },
  {
   "title": "特效开发实习生-抖音直播",
@@ -146836,7 +147553,7 @@
   "industry": "互联网",
   "id": "6194699e1f988ae1",
   "first_seen": "2026-08-26",
-  "last_seen": "2026-11-16"
+  "last_seen": "2026-11-17"
  },
  {
   "title": "混元多模态-语音生成大模型研究",
@@ -160336,7 +161053,7 @@
   "industry": "互联网",
   "id": "b7c2e8b36a0dbfb1",
   "first_seen": "2026-09-11",
-  "last_seen": "2026-09-11"
+  "last_seen": "2026-11-17"
  },
  {
   "title": "豆包AI大模型PMO实习生（火山方舟MaaS） - Data AML",
@@ -181548,7 +182265,7 @@
   "industry": "互联网",
   "id": "668b537c5209b7d1",
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-17"
+  "last_seen": "2026-11-17"
  },
  {
   "title": "电商营销AI产品实习生 - TikTok Shop",
@@ -201592,7 +202309,7 @@
   "industry": "互联网",
   "id": "396635952b6cf821",
   "first_seen": "2026-11-14",
-  "last_seen": "2026-11-15"
+  "last_seen": "2026-11-17"
  },
  {
   "title": "AI创作者运营实习生 - 剪映CapCut",
@@ -202809,6 +203526,764 @@
   "industry": "互联网",
   "id": "1ac870f62885abec",
   "first_seen": "2026-11-16",
+  "last_seen": "2026-11-17"
+ },
+ {
+  "title": "东南亚跨境美妆行业运营实习生 - TikTok Shop",
+  "company": "字节跳动",
+  "locations": [
+   "上海"
+  ],
+  "location_raw": "上海",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "bytedance",
+  "url": "https://jobs.bytedance.com/campus/position/7708970036829325621/detail",
+  "extra": {
+   "category": "运营",
+   "recruit_type": "日常实习",
+   "subject": "",
+   "code": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "3f7d4839386ba932",
+  "first_seen": "2026-11-17",
+  "last_seen": "2026-11-17"
+ },
+ {
+  "title": "Testing Arch开发实习生 - TikTok泛架构",
+  "company": "字节跳动",
+  "locations": [
+   "北京",
+   "上海"
+  ],
+  "location_raw": "北京、上海",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "bytedance",
+  "url": "https://jobs.bytedance.com/campus/position/7707586792893843717/detail",
+  "extra": {
+   "category": "研发 - 后端",
+   "recruit_type": "日常实习",
+   "subject": "",
+   "code": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "a8c597072d6b4257",
+  "first_seen": "2026-11-17",
+  "last_seen": "2026-11-17"
+ },
+ {
+  "title": "后端开发实习生（AI智能客服平台） - TikTok服务与体验",
+  "company": "字节跳动",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "bytedance",
+  "url": "https://jobs.bytedance.com/campus/position/7707586758892423477/detail",
+  "extra": {
+   "category": "研发 - 后端",
+   "recruit_type": "日常实习",
+   "subject": "",
+   "code": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "7d85d3530a8d55e1",
+  "first_seen": "2026-11-17",
+  "last_seen": "2026-11-17"
+ },
+ {
+  "title": "新加坡大促商品策略与商业化运营实习生 - TikTok Shop",
+  "company": "字节跳动",
+  "locations": [
+   "上海"
+  ],
+  "location_raw": "上海",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "bytedance",
+  "url": "https://jobs.bytedance.com/campus/position/7707584558817691909/detail",
+  "extra": {
+   "category": "运营",
+   "recruit_type": "日常实习",
+   "subject": "",
+   "code": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "c48392ac7e16d887",
+  "first_seen": "2026-11-17",
+  "last_seen": "2026-11-17"
+ },
+ {
+  "title": "马来西亚行业运营实习生 - TikTok Shop",
+  "company": "字节跳动",
+  "locations": [
+   "上海"
+  ],
+  "location_raw": "上海",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "bytedance",
+  "url": "https://jobs.bytedance.com/campus/position/7704987687119980853/detail",
+  "extra": {
+   "category": "运营",
+   "recruit_type": "日常实习",
+   "subject": "",
+   "code": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "8ce348d1857ce7e0",
+  "first_seen": "2026-11-17",
+  "last_seen": "2026-11-17"
+ },
+ {
+  "title": "HRBP实习生 - 国际短视频",
+  "company": "字节跳动",
+  "locations": [
+   "上海"
+  ],
+  "location_raw": "上海",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "bytedance",
+  "url": "https://jobs.bytedance.com/campus/position/7585509285577951541/detail",
+  "extra": {
+   "category": "职能 / 支持 - 人力",
+   "recruit_type": "日常实习",
+   "subject": "",
+   "code": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "72a5fb33161f3077",
+  "first_seen": "2026-11-17",
+  "last_seen": "2026-11-17"
+ },
+ {
+  "title": "玩法供给（音源方向）实习生 - 抖音效果与创作",
+  "company": "字节跳动",
+  "locations": [
+   "上海"
+  ],
+  "location_raw": "上海",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "bytedance",
+  "url": "https://jobs.bytedance.com/campus/position/7706785096277805317/detail",
+  "extra": {
+   "category": "运营",
+   "recruit_type": "日常实习",
+   "subject": "",
+   "code": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "cbe6033f7e6484b7",
+  "first_seen": "2026-11-17",
+  "last_seen": "2026-11-17"
+ },
+ {
+  "title": "数据科学实习生 - 抖音电商",
+  "company": "字节跳动",
+  "locations": [
+   "上海"
+  ],
+  "location_raw": "上海",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "bytedance",
+  "url": "https://jobs.bytedance.com/campus/position/7701221314972109061/detail",
+  "extra": {
+   "category": "产品 - 数据分析",
+   "recruit_type": "日常实习",
+   "subject": "",
+   "code": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "9ce675e0d3499099",
+  "first_seen": "2026-11-17",
+  "last_seen": "2026-11-17"
+ },
+ {
+  "title": "多闪产品实习生（兴趣社交方向） - 抖音社交与互动",
+  "company": "字节跳动",
+  "locations": [
+   "深圳"
+  ],
+  "location_raw": "深圳",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "bytedance",
+  "url": "https://jobs.bytedance.com/campus/position/7700844526414416133/detail",
+  "extra": {
+   "category": "产品",
+   "recruit_type": "日常实习",
+   "subject": "",
+   "code": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "e4efd614edbe2684",
+  "first_seen": "2026-11-17",
+  "last_seen": "2026-11-17"
+ },
+ {
+  "title": "AI全栈产品研发工程师（国际化内容社区） - TikTok研发",
+  "company": "字节跳动",
+  "locations": [
+   "上海",
+   "北京"
+  ],
+  "location_raw": "上海、北京",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "bytedance",
+  "url": "https://jobs.bytedance.com/campus/position/7670031907660319029/detail",
+  "extra": {
+   "category": "研发 - 客户端",
+   "recruit_type": "正式",
+   "subject": "2027届校园招聘",
+   "code": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "f52871278ae8edcd",
+  "first_seen": "2026-11-17",
+  "last_seen": "2026-11-17"
+ },
+ {
+  "title": "商家运营实习生 - TikTok Shop",
+  "company": "字节跳动",
+  "locations": [
+   "深圳"
+  ],
+  "location_raw": "深圳",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "bytedance",
+  "url": "https://jobs.bytedance.com/campus/position/7709044829334456629/detail",
+  "extra": {
+   "category": "运营",
+   "recruit_type": "日常实习",
+   "subject": "",
+   "code": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "f80a716016acbcfb",
+  "first_seen": "2026-11-17",
+  "last_seen": "2026-11-17"
+ },
+ {
+  "title": "安全研发工程师（AI安全方向） - 安全与风控",
+  "company": "字节跳动",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "bytedance",
+  "url": "https://jobs.bytedance.com/campus/position/7668326399187798277/detail",
+  "extra": {
+   "category": "研发 - 安全",
+   "recruit_type": "正式",
+   "subject": "2027届校园招聘",
+   "code": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "ab00999323a5e219",
+  "first_seen": "2026-11-17",
+  "last_seen": "2026-11-17"
+ },
+ {
+  "title": "营销活动运营实习生 - 抖音生活服务",
+  "company": "字节跳动",
+  "locations": [
+   "上海"
+  ],
+  "location_raw": "上海",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "bytedance",
+  "url": "https://jobs.bytedance.com/campus/position/7708743877772036405/detail",
+  "extra": {
+   "category": "运营 - 商业运营",
+   "recruit_type": "日常实习",
+   "subject": "",
+   "code": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "2dc012b74bab1e01",
+  "first_seen": "2026-11-17",
+  "last_seen": "2026-11-17"
+ },
+ {
+  "title": "用户研究实习生 - TikTok",
+  "company": "字节跳动",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "bytedance",
+  "url": "https://jobs.bytedance.com/campus/position/7707125201004267829/detail",
+  "extra": {
+   "category": "设计 - 用户研究",
+   "recruit_type": "日常实习",
+   "subject": "",
+   "code": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "f48429ded7c9eb85",
+  "first_seen": "2026-11-17",
+  "last_seen": "2026-11-17"
+ },
+ {
+  "title": "大模型联网安全策略实习生 - 内容质量与数据服务平台",
+  "company": "字节跳动",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "bytedance",
+  "url": "https://jobs.bytedance.com/campus/position/7706429696791562501/detail",
+  "extra": {
+   "category": "运营",
+   "recruit_type": "日常实习",
+   "subject": "",
+   "code": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "1927f1af3638edb4",
+  "first_seen": "2026-11-17",
+  "last_seen": "2026-11-17"
+ },
+ {
+  "title": "抖音星图品牌竞价产品运营实习生 - 抖音品牌营销与星图达人",
+  "company": "字节跳动",
+  "locations": [
+   "上海"
+  ],
+  "location_raw": "上海",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "bytedance",
+  "url": "https://jobs.bytedance.com/campus/position/7700861239435495685/detail",
+  "extra": {
+   "category": "运营",
+   "recruit_type": "日常实习",
+   "subject": "",
+   "code": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "553ed1ef4cce820a",
+  "first_seen": "2026-11-17",
+  "last_seen": "2026-11-17"
+ },
+ {
+  "title": "海外供应商管理实习生 - TikTok",
+  "company": "字节跳动",
+  "locations": [
+   "上海"
+  ],
+  "location_raw": "上海",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "bytedance",
+  "url": "https://jobs.bytedance.com/campus/position/7702357851482818821/detail",
+  "extra": {
+   "category": "运营",
+   "recruit_type": "日常实习",
+   "subject": "",
+   "code": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "de9c13acee280208",
+  "first_seen": "2026-11-17",
+  "last_seen": "2026-11-17"
+ },
+ {
+  "title": "推荐大模型算法实习生 - TikTok算法",
+  "company": "字节跳动",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "bytedance",
+  "url": "https://jobs.bytedance.com/campus/position/7701680509455714565/detail",
+  "extra": {
+   "category": "研发 - 算法",
+   "recruit_type": "日常实习",
+   "subject": "",
+   "code": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "c9eb6aeb78abc59c",
+  "first_seen": "2026-11-17",
+  "last_seen": "2026-11-17"
+ },
+ {
+  "title": "用户产品经理（Lite Growth） - TikTok",
+  "company": "字节跳动",
+  "locations": [
+   "北京",
+   "上海"
+  ],
+  "location_raw": "北京、上海",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "bytedance",
+  "url": "https://jobs.bytedance.com/campus/position/7701187064851482933/detail",
+  "extra": {
+   "category": "产品",
+   "recruit_type": "正式",
+   "subject": "2027届校园招聘",
+   "code": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "e24bc780292795c3",
+  "first_seen": "2026-11-17",
+  "last_seen": "2026-11-17"
+ },
+ {
+  "title": "TikTok品牌广告运营实习生（品牌创新样式方向） - 国际化广告创意与品牌",
+  "company": "字节跳动",
+  "locations": [
+   "上海"
+  ],
+  "location_raw": "上海",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "bytedance",
+  "url": "https://jobs.bytedance.com/campus/position/7708658818542684421/detail",
+  "extra": {
+   "category": "运营",
+   "recruit_type": "日常实习",
+   "subject": "",
+   "code": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "secondary",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "225df9b247b505e7",
+  "first_seen": "2026-11-17",
+  "last_seen": "2026-11-17"
+ },
+ {
+  "title": "AI数据科学实习生 - TikTok Shop",
+  "company": "字节跳动",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "bytedance",
+  "url": "https://jobs.bytedance.com/campus/position/7703820019466127669/detail",
+  "extra": {
+   "category": "产品 - 数据分析",
+   "recruit_type": "日常实习",
+   "subject": "",
+   "code": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "53c7659ad9bfff80",
+  "first_seen": "2026-11-17",
+  "last_seen": "2026-11-17"
+ },
+ {
+  "title": "后端开发实习生 - 国际化广告业务",
+  "company": "字节跳动",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "bytedance",
+  "url": "https://jobs.bytedance.com/campus/position/7706096470659877173/detail",
+  "extra": {
+   "category": "研发 - 后端",
+   "recruit_type": "日常实习",
+   "subject": "",
+   "code": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "a1b6545fa9fcc9af",
+  "first_seen": "2026-11-17",
+  "last_seen": "2026-11-17"
+ },
+ {
+  "title": "大模型安全工程（对抗方向）实习生 - 火山方舟",
+  "company": "字节跳动",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "bytedance",
+  "url": "https://jobs.bytedance.com/campus/position/7680818178675329285/detail",
+  "extra": {
+   "category": "研发 - 安全",
+   "recruit_type": "日常实习",
+   "subject": "",
+   "code": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "9bd580733a97b55c",
+  "first_seen": "2026-11-17",
+  "last_seen": "2026-11-17"
+ },
+ {
+  "title": "电商作者策略运营实习生 - 抖音电商",
+  "company": "字节跳动",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "bytedance",
+  "url": "https://jobs.bytedance.com/campus/position/7708955132788902149/detail",
+  "extra": {
+   "category": "运营",
+   "recruit_type": "日常实习",
+   "subject": "",
+   "code": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "861b9985678aada2",
+  "first_seen": "2026-11-17",
+  "last_seen": "2026-11-17"
+ },
+ {
+  "title": "兴趣热点运营经理 - 抖音内容运营",
+  "company": "字节跳动",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "bytedance",
+  "url": "https://jobs.bytedance.com/campus/position/7704589930101672245/detail",
+  "extra": {
+   "category": "运营",
+   "recruit_type": "正式",
+   "subject": "2027届校园招聘",
+   "code": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "911b3f93e6fbd917",
+  "first_seen": "2026-11-17",
+  "last_seen": "2026-11-17"
+ },
+ {
+  "title": "广告产品经理-Ads Core - Global Ads Core",
+  "company": "字节跳动",
+  "locations": [
+   "北京",
+   "上海"
+  ],
+  "location_raw": "北京、上海",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "source": "bytedance",
+  "url": "https://jobs.bytedance.com/campus/position/7703825834331113781/detail",
+  "extra": {
+   "category": "产品 - 产品经理",
+   "recruit_type": "正式",
+   "subject": "2027届校园招聘",
+   "code": ""
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "互联网大厂",
+  "hq_city": "北京",
+  "size_bucket": "10000+",
+  "industry": "互联网",
+  "id": "1622fbadc362894a",
+  "first_seen": "2026-11-17",
   "last_seen": "2026-11-17"
  }
 ]
