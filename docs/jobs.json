@@ -1934,6 +1934,35 @@
   "last_seen": "2026-11-18"
  },
  {
+  "title": "C++底层开发",
+  "company": "深圳软牛科技集团股份有限公司",
+  "locations": [
+   "深圳"
+  ],
+  "location_raw": "深圳",
+  "publish_time_raw": "2026-11-11 10:28",
+  "publish_time": "2026-11-11 10:28",
+  "source": "nowcoder",
+  "url": "",
+  "extra": {
+   "update_time": "2026-11-21 18:25",
+   "salary": "8-10K·12薪",
+   "education": "",
+   "channel": "牛聘"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "1b32dd08c76d22ae",
+  "first_seen": "2026-11-21",
+  "last_seen": "2026-11-21"
+ },
+ {
   "title": "机械设计/制造",
   "company": "南昌海立电器有限公司",
   "locations": [
@@ -42112,7 +42141,7 @@
   "industry": "",
   "id": "6282b96f693c7431",
   "first_seen": "2026-10-01",
-  "last_seen": "2026-11-20"
+  "last_seen": "2026-11-21"
  },
  {
   "title": "制造质量工程师",
@@ -89408,7 +89437,7 @@
   "industry": "",
   "id": "dd4b5f418effc3fd",
   "first_seen": "2026-09-18",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-11-21"
  },
  {
   "title": "阿里AI应用研发工程师-2027应届生招聘",
