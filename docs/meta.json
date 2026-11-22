@@ -1,12 +1,12 @@
 {
- "updated_at": "2026-11-22 04:57",
+ "updated_at": "2026-11-22 19:02",
  "updated_date": "2026-11-22",
  "totals": {
-  "total": 7296,
-  "added_today": 7,
+  "total": 7304,
+  "added_today": 15,
   "primary": 111,
   "secondary": 43,
-  "beijing": 2406,
+  "beijing": 2407,
   "shanghai": 1183
  },
  "source_freshness": {
@@ -43,7 +43,7 @@
    "latest": "2026-10-27 07:25"
   },
   "yingjiesheng": {
-   "count": 1558,
+   "count": 1566,
    "latest": "2026-10-26 12:00"
   },
   "alibaba": {

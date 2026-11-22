@@ -4351,7 +4351,7 @@
   "industry": "",
   "id": "0db9d4e1068dd825",
   "first_seen": "2026-11-05",
-  "last_seen": "2026-11-15"
+  "last_seen": "2026-11-22"
  },
  {
   "title": "用户研究及战略分析经理-27届设计专项",
@@ -5552,7 +5552,7 @@
   "industry": "",
   "id": "9a989357f0394cab",
   "first_seen": "2026-11-18",
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-22"
  },
  {
   "title": "AI应用开发",
@@ -5581,7 +5581,7 @@
   "industry": "",
   "id": "423920c2872c9f87",
   "first_seen": "2026-11-04",
-  "last_seen": "2026-11-20"
+  "last_seen": "2026-11-22"
  },
  {
   "title": "物流运营专员-汽车",
@@ -35183,7 +35183,7 @@
   "industry": "",
   "id": "ac99d180cfebbb4e",
   "first_seen": "2026-11-17",
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-22"
  },
  {
   "title": "智象元一 校招网申（27届秋招）",
@@ -55287,7 +55287,7 @@
   "industry": "",
   "id": "23070405c6fef78c",
   "first_seen": "2026-09-12",
-  "last_seen": "2026-11-20"
+  "last_seen": "2026-11-22"
  },
  {
   "title": "27届校招—AI应用工程师",
@@ -131125,7 +131125,7 @@
   "industry": "互联网",
   "id": "48bc44a849b0b5a5",
   "first_seen": "2026-10-10",
-  "last_seen": "2026-11-17"
+  "last_seen": "2026-11-22"
  },
  {
   "title": "摄影师-视频方向",
@@ -207427,6 +207427,222 @@
   "size_bucket": "10000+",
   "industry": "互联网",
   "id": "fc28189c4af2e3c3",
+  "first_seen": "2026-11-22",
+  "last_seen": "2026-11-22"
+ },
+ {
+  "title": "【青海】国网青海省电力公司2027校园招聘",
+  "company": "国网青海省电力公司2027校园招聘",
+  "locations": [
+   "青海"
+  ],
+  "location_raw": "青海",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "deadline": "2026-11-25",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-153-634.html",
+  "extra": {
+   "section": "deadline"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "8e7fea259e6b5ffb",
+  "first_seen": "2026-11-22",
+  "last_seen": "2026-11-22"
+ },
+ {
+  "title": "【西藏】国网西藏电力有限公司2027校园招聘",
+  "company": "国网西藏电力有限公司2027校园招聘",
+  "locations": [
+   "西藏"
+  ],
+  "location_raw": "西藏",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "deadline": "2026-11-25",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-153-635.html",
+  "extra": {
+   "section": "deadline"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "601f8a247d4f9ae1",
+  "first_seen": "2026-11-22",
+  "last_seen": "2026-11-22"
+ },
+ {
+  "title": "【安徽】国网安徽省电力有限公司2027校园招聘",
+  "company": "国网安徽省电力有限公司2027校园招聘",
+  "locations": [
+   "安徽"
+  ],
+  "location_raw": "安徽",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "deadline": "2026-11-25",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-153-637.html",
+  "extra": {
+   "section": "deadline"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "5992a801ee7b5438",
+  "first_seen": "2026-11-22",
+  "last_seen": "2026-11-22"
+ },
+ {
+  "title": "【北京】国网经济技术研究院有限公司2027校园招聘电工类|电子信息类",
+  "company": "国网经济技术研究院有限公司2027校园招聘电工类|电子信息类",
+  "locations": [
+   "北京"
+  ],
+  "location_raw": "北京",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "deadline": "2026-11-25",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-153-636.html",
+  "extra": {
+   "section": "deadline"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "primary",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "2940bcc39a7509d6",
+  "first_seen": "2026-11-22",
+  "last_seen": "2026-11-22"
+ },
+ {
+  "title": "【山东】青岛市即墨区教育和体育局2027校园招聘",
+  "company": "青岛市即墨区教育和体育局2027校园招聘",
+  "locations": [
+   "山东"
+  ],
+  "location_raw": "山东",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "deadline": "2026-11-27",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-153-715.html",
+  "extra": {
+   "section": "deadline"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "e30df5ea2c5d6ba1",
+  "first_seen": "2026-11-22",
+  "last_seen": "2026-11-22"
+ },
+ {
+  "title": "【青海】青海省农商银行（农信社）系统2026校园招聘柜面服务岗",
+  "company": "青海省农商银行（农信社）系统2026校园招聘柜面服务岗",
+  "locations": [
+   "青海"
+  ],
+  "location_raw": "青海",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "deadline": "2026-11-27",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-151-332.html",
+  "extra": {
+   "section": "deadline"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "4909ab7f36bad1de",
+  "first_seen": "2026-11-22",
+  "last_seen": "2026-11-22"
+ },
+ {
+  "title": "【湖北】湖北省孝昌县事业单位2027校园招聘49名高层次和急需紧缺人才",
+  "company": "湖北省孝昌县事业单位2027校园招聘49名高层次和急需紧缺人才",
+  "locations": [
+   "湖北"
+  ],
+  "location_raw": "湖北",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "deadline": "2026-12-24",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-151-444.html",
+  "extra": {
+   "section": "deadline"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "0a5ac76d364f44ec",
+  "first_seen": "2026-11-22",
+  "last_seen": "2026-11-22"
+ },
+ {
+  "title": "【湖北】湖北省云梦县事业单位2027校园招聘83名高层次和急需紧缺人才",
+  "company": "湖北省云梦县事业单位2027校园招聘83名高层次和急需紧缺人才",
+  "locations": [
+   "湖北"
+  ],
+  "location_raw": "湖北",
+  "publish_time_raw": "",
+  "publish_time": "",
+  "deadline": "2026-12-24",
+  "source": "yingjiesheng",
+  "url": "https://www.yingjiesheng.com/job-008-151-443.html",
+  "extra": {
+   "section": "deadline"
+  },
+  "direction": null,
+  "direction_label": "",
+  "priority": "",
+  "region_level": "other",
+  "company_tag": "",
+  "hq_city": "",
+  "size_bucket": "",
+  "industry": "",
+  "id": "f70e6686b9c6bfa7",
   "first_seen": "2026-11-22",
   "last_seen": "2026-11-22"
  }
